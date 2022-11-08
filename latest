@@ -1,330 +1,648 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",11h00 30/10: Adelaide United - Perth Glory
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980703_small.png",10h06 08/11: Monterrey (W) - Tigres (W)
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a6b9d001556fd740821b&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",12h00 30/10: Jeonbuk FC - FC Seoul
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6368f15593830f062f8a0246&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95801_small.png",13h30 08/11: Timor Leste - Brunei
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a72ecf28ef6fd8653d8f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h00 30/10: Melbourne City FC - Wellington Phoenix
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63695aa10d3e89063678fe6f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/92646_small.png",14h00 08/11: Guangzhou FC - Zhejiang Professional
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a730cf28ef6fd8653d91&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="data:image/png;base64,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",16h30 30/10: Hà Nội - TKS Viet Nam
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6368f0d20d3e89063678fe26&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198612_small.png",14h30 08/11: Wuhan Yangtze River - Guangzhou City
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635db6af9536dd4d09380318&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",17h00 30/10: Binh Duong - Nam Dinh
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba15a6148c0a5467472d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16h00 08/11: ISPE - Myawady FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a732d001556fd7408225&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",18h00 30/10: Hong Linh Ha Tinh - Viettel
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6368f12b0d3e89063678fe29&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198616_small.png",16h30 08/11: Shanghai Port - Cangzhou Mighty Lions F.C
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a739d001556fd7408228&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6660_small.png",18h15 30/10: FC Emmen - FC Groningen
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba19a6148c0a54674730&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4685_small.png",17h00 08/11: Kasımpaşa - 1461 Trabzon FK
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a73ccf28ef6fd8653d9a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",18h30 30/10: Empoli - Atalanta
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63698e700d3e89063678fea9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",18h00 08/11: Hong Linh Ha Tinh - Hoang Anh Gia Lai
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cb3cf28ef6fd8653d5c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",19h00 30/10: Auxerre - AC Ajaccio
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba1c461c570a15f17af8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109375_small.png",18h00 08/11: Nam Dinh - Hai Phong
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cccd001556fd740820b&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179219_small.png",19h15 30/10: Ha Noi FC - Da Nang
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba1ea6148c0a54674733&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4678_small.png",19h00 08/11: Alanyaspor - Sakaryaspor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a73ed001556fd740822b&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",20h00 30/10: Osasuna - Real Valladolid
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba21461c570a15f17afb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",19h15 08/11: Ho Chi Minh City FC - Da Nang
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cb7d001556fd74081fe&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",21h00 30/10: Cremonese - Udinese
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba23a6148c0a54674736&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1029687_small.png",19h30 08/11: Wuhan Three Towns - Changchun Yatai
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cb1d001556fd74081fb&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",21h00 30/10: Arsenal - Nottm Forest
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba28461c570a15f17aff&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",19h30 08/11: Shandong Taishan - Cangzhou Mighty Lions F.C
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cbecf28ef6fd8653d61&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",21h00 30/10: Rennes - Montpellier
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba2fa6148c0a5467473a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",21h00 08/11: Vilaverdense FC - Oliveira Hospital
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cc4d001556fd7408205&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",21h00 30/10: Nantes - Clermont Foot
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba32461c570a15f17b02&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png",21h00 08/11: Ankaragücü - Amed Sportif
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cc6cf28ef6fd8653d66&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",21h00 30/10: Monaco - Angers
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba36a6148c0a5467473d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/059572aa0a9c6304f72cb3c87818754f.jfif!w60",22h00 08/11: Al Kholood - Ohod
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cc8d001556fd7408207&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",21h00 30/10: Brest - Reims
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63696a8793830f062f8a03dd&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1926_small.png",23h00 08/11: Adana Demirspor - Nazilli Belediyespor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569ccacf28ef6fd8653d69&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",21h00 30/10: Spezia - Fiorentina
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba3ba6148c0a54674740&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/364411_small.png",23h15 08/11: FC Unirea Slobozia - Petrolul Ploiesti
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cd8cf28ef6fd8653d72&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",21h30 30/10: Union Berlin - M'gladbach
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba38461c570a15f17b05&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/457638_small.png",00h00 09/11: Nykøbing FC - SønderjyskE
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cd0d001556fd740820e&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",22h15 30/10: Real Madrid - Girona
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba45a6148c0a54674745&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",00h30 09/11: Napoli - Empoli
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cb9cf28ef6fd8653d5f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LankFCVilaverdense-Vertical-Black-Stroke_FC-Vertical-Black_02_FC-Vertical-Black_copy_2.jpg/640px-LankFCVilaverdense-Vertical-Black-Stroke_FC-Vertical-Black_02_FC-Vertical-Black_copy_2.jpg",23h00 30/10: Länk Vilaverdense (Huỳnh Như) - Khouribga
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba3d461c570a15f17b08&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",00h30 09/11: Wolfsburg - Dortmund
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635db4c0e549b84d08701d7a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",23h05 30/10: Lorient - Nice
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba40a6148c0a54674742&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",00h30 09/11: Spezia - Udinese
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cc2cf28ef6fd8653d64&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",23h15 30/10: Man United - West Ham
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba42461c570a15f17b0a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",01h00 09/11: Elche - Girona
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cc0d001556fd7408203&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",23h30 30/10: Schalke 04 - Freiburg
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba48461c570a15f17b0d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9764_small.png",01h45 09/11: Gil Vicente - Arouca
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63569cd3cf28ef6fd8653d70&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",00h00 31/10: Lazio - Salernitana
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba56a6148c0a54674750&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",02h00 09/11: Athletic Club - Real Valladolid
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7bad001556fd740822e&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",00h30 31/10: Athletic Club - Villarreal
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba54461c570a15f17b13&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",02h30 09/11: VfB Stuttgart - Hertha BSC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635dc8b9e549b84d08701dae&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",01h30 31/10: Köln - Hoffenheim
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba4ca6148c0a54674749&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",02h30 09/11: VfL Bochum - M'gladbach
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7c3d001556fd7408231&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",02h45 31/10: Lyon - Lille
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba4f461c570a15f17b10&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",02h30 09/11: Bayern München - Werder Bremen
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7c4d001556fd7408232&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",02h45 31/10: Torino - Milan
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba51a6148c0a5467474c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",02h45 09/11: Cremonese - Milan
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7c6d001556fd7408233&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",03h00 31/10: Real Sociedad - Real Betis
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba4aa6148c0a54674747&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",02h45 09/11: Leicester - Newport
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7c9cf28ef6fd8653da2&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9764_small.png",03h30 31/10: Gil Vicente - Braga
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba8f461c570a15f17b1d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",02h45 09/11: Bournemouth - Everton
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7cbd001556fd7408239&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1135780_small.png",05h00 31/10: Atletico Ottawa - Forge FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba92a6148c0a5467475b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9817_small.png",03h00 09/11: Watford - Reading
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7d1cf28ef6fd8653da6&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",07h00 31/10: Philadelphia - NYCFC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba5f461c570a15f17b19&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",03h30 09/11: Osasuna - Barcelona
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7cfd001556fd740823c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7848_small.png",08h36 31/10: Pachuca - Toluca
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba5ba6148c0a54674753&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47535_small.png",03h45 09/11: Mafra - FC Porto
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7cdcf28ef6fd8653da4&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png",18h45 31/10: Albirex Niigata FC - Balestier Khalsa FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361ba59461c570a15f17b15&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png",07h30 09/11: Sao Paulo - Internacional
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7d3d001556fd740823e&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67381_small.png",18h45 31/10: Young Lions - Lion City Sailors FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb20a6148c0a5467476f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",17h00 09/11: Binh Duong - FLC Thanh Hoa
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7d5cf28ef6fd8653daa&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213294_small.png",20h00 31/10: Ruvu Shooting - Mbeya City
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb22461c570a15f17b36&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165243_small.png",18h00 09/11: Buriram United - Chiangrai United
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7d7cf28ef6fd8653dab&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187880_small.png",22h30 31/10: Botev Vratsa - Beroe
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb24a6148c0a54674772&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png",18h00 09/11: Binh Dinh - Song Lam Nghe An
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7dbcf28ef6fd8653db1&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89021_small.png",23h00 31/10: CS Mioveni - Hermannstadt
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb27461c570a15f17b39&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",19h00 09/11: BG Pathum United - Sukhothai FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7d9cf28ef6fd8653dad&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1620_small.png",23h00 31/10: PAS Giannina - Asteras Tripolis
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb0e461c570a15f17b2a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9750_small.png",19h00 09/11: Samsunspor - Adanaspor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6356a7ddd001556fd7408243&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1084108_small.png",00h00 01/11: Namungo FC - Young Africans
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb13461c570a15f17b2d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179219_small.png",19h15 09/11: Ha Noi FC - Viettel
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=633f36462c7e82342621a665&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",00h00 01/11: Athletic Club - Villarreal
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb11a6148c0a54674766&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6444_small.png",20h00 09/11: Shenzhen FC - Wuhan Yangtze River
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635db542e549b84d08701d7f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",00h30 01/11: Hellas Verona - Roma
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb15a6148c0a54674769&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/525097_small.png",20h00 09/11: Hebei FC - Dalian Professional FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359948062a44d09ced73590&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",02h45 01/11: Monza - Bologna
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb18461c570a15f17b30&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",21h00 09/11: Antalyaspor - Pendikspor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359948662a44d09ced73592&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",03h00 01/11: Elche - Getafe
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb09461c570a15f17b27&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6421_small.png",22h00 09/11: Leixoes - Farense
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599483cc558e09e9c297ff&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7844_small.png",03h15 01/11: Vitoria de Guimaraes - Famalicao
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb05461c570a15f17b25&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10214_small.png",22h00 09/11: Nacional - Tondela
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599487cc558e09e9c29801&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/172341_small.png",06h00 01/11: Ceara - Fluminense
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb07a6148c0a54674761&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10187_small.png",23h00 09/11: Atromitos - Asteras Tripolis
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359948a62a44d09ced73595&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980693_small.png",06h00 01/11: CF America (W) - Club Tijuana (W)
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb1d461c570a15f17b33&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",00h00 10/11: Cameroon - Jamaica
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359948dcc558e09e9c29804&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980701_small.png",08h00 01/11: Tigres (W) - Toluca (W)
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb1ba6148c0a5467476c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9946_small.png",00h00 10/11: Thisted - FC København
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359948f62a44d09ced73597&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980703_small.png",10h00 01/11: Monterrey (W) - Pachuca (W)
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578e4eb37047bcb86d1aa&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",00h30 10/11: Köln - Leverkusen
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599491cc558e09e9c29806&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/408785_small.png",18h00 01/11: Viktoria Plzen U19 - Barcelona U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578e7eb37047bcb86d1ab&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",00h30 10/11: Lecce - Atalanta
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635994a262a44d09ced735a2&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/607850_small.png",20h00 01/11: FC Porto U19 - Atletico Madrid U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578eaeb37047bcb86d1ad&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",00h30 10/11: Sassuolo - Roma
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635994a0cc558e09e9c2980f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394202_small.png",21h00 01/11: Marseille U19 - Tottenham Hotspur U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578edeb37047bcb86d1b0&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",01h00 10/11: Almeria - Getafe
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359949462a44d09ced7359a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394210_small.png",21h00 01/11: Sporting CP U19 - Eintracht Frankfurt U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578f2eb37047bcb86d1b5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",01h00 10/11: Sevilla - Real Sociedad
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359949962a44d09ced7359d&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1088639_small.png",21h00 01/11: Rangers U19 - Ajax U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578faeb37047bcb86d1ba&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",02h00 10/11: Espanyol - Villarreal
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359949ccc558e09e9c2980c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394197_small.png",21h00 01/11: Liverpool U19 - SSC Napoli U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578f7eb37047bcb86d1b8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",02h00 10/11: Ajax - Vitesse
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359949e62a44d09ced735a0&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/601179_small.png",22h00 01/11: Bayern München U19 - Inter U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578fceb37047bcb86d1bc&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",02h30 10/11: Frankfurt - Hoffenheim
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599496cc558e09e9c29809&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394210_small.png",22h00 01/11: Sporting CP U19 - Eintracht Frankfurt U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636578ffeb37047bcb86d1be&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",02h30 10/11: RB Leipzig - Freiburg
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599499cc558e09e9c2980a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8696_small.png",23h30 01/11: Racing Santander - Deportivo Alaves
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657916eb37047bcb86d1c5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",02h30 10/11: Schalke 04 - Mainz
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993d962a44d09ced73578&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",00h30 02/11: Las Palmas - Burgos CF
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657919eb37047bcb86d1c6&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",02h30 10/11: Union Berlin - Augsburg
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993d6cc558e09e9c297e8&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8696_small.png",00h30 02/11: Racing Santander - Deportivo Alaves
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365791beb37047bcb86d1c8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",02h45 10/11: Fiorentina - Salernitana
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993d9cc558e09e9c297ea&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",00h45 02/11: Leverkusen - Club Brugge
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365791deb37047bcb86d1cb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",02h45 10/11: Inter - Bologna
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993db62a44d09ced7357c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",00h45 02/11: FC Porto - Atletico Madrid
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657920eb37047bcb86d1cd&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",02h45 10/11: Torino - Sampdoria
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993ddcc558e09e9c297ec&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8667_small.png",02h45 02/11: Hull - Middlesbrough
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657922eb37047bcb86d1d0&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",02h45 10/11: Arsenal - Brighton
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993df62a44d09ced7357f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h00 02/11: Sporting CP - Frankfurt
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657925eb37047bcb86d1d3&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",02h45 10/11: Newcastle - Crystal Palace
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993e2cc558e09e9c297f0&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",03h00 02/11: Marseille - Tottenham
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657927eb37047bcb86d1d6&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",02h45 10/11: Nottm Forest - Tottenham
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993e562a44d09ced73582&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",03h00 02/11: Viktoria Plzen - Barcelona
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365792aeb37047bcb86d1d9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",02h45 10/11: West Ham - Blackburn
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993e7cc558e09e9c297f3&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",03h00 02/11: Bayern München - Inter
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365792ceb37047bcb86d1dc&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",02h45 10/11: Wolves - Leeds
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993ea62a44d09ced73585&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",03h00 02/11: Rangers - Ajax
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365792eeb37047bcb86d1df&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",02h45 10/11: Southampton - Sheff Wed
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993eccc558e09e9c297f6&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",03h00 02/11: Liverpool - Napoli
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657932eb37047bcb86d1e2&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",03h00 10/11: Man City - Chelsea
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993ee62a44d09ced73587&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",05h00 02/11: Botafogo - Cuiaba
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657935eb37047bcb86d1e5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",03h00 10/11: Liverpool - Derby
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993b8cc558e09e9c297db&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1242560_small.png",06h00 02/11: Sportivo Ameliano - Sol de America
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365793aeb37047bcb86d1eb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",03h30 10/11: Mallorca - Atletico Madrid
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993ba62a44d09ced7356a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png",07h30 02/11: Sao Paulo - Atletico MG
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657938eb37047bcb86d1e8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7842_small.png",03h45 10/11: Estoril - Benfica
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993f0cc558e09e9c297f8&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198150_small.png",16h00 02/11: Ufa - Dinamo Briansk
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365793deb37047bcb86d1ee&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9767_small.png",05h00 10/11: Coritiba - Corinthians
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993bdcc558e09e9c297dd&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/592748_small.png",18h00 02/11: Shakhtar Donetsk U19 - RB Leipzig U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6365793feb37047bcb86d1f1&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9863_small.png",05h00 10/11: Fluminense - Goias
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993bf62a44d09ced7356c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/603058_small.png",19h00 02/11: Real Madrid U19 - Celtic U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657942eb37047bcb86d1f5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165545_small.png",06h30 10/11: Atletico GO - Athletico Paranaense
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993c2cc558e09e9c297df&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394200_small.png",20h00 02/11: Chelsea U19 - Dinamo Zagreb U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657944eb37047bcb86d1f7&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8287_small.png",06h30 10/11: Fortaleza - Red Bull Bragantino
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993c462a44d09ced7356e&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1291621_small.png",20h00 02/11: AC Milan U19 - Salzburg U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657947eb37047bcb86d1f9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10274_small.png",07h30 10/11: Juventude - Flamengo
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993c562a44d09ced7356f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394199_small.png",20h00 02/11: Manchester City U19 - Sevilla U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579b9eb37047bcb86d205&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10283_small.png",07h30 10/11: Palmeiras - America MG
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993c9cc558e09e9c297e2&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394206_small.png",22h00 02/11: Juventus U19 - Paris Saint Germain U19
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579bbeb37047bcb86d206&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",10h00 10/11: Costa Rica - Nigeria
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993cb62a44d09ced73573&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068353_small.png",22h30 02/11: Dynamo Makhachkala - Dinamo Vladivostok
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579c0eb37047bcb86d20a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165199_small.png",16h00 10/11: Madura United - RANS Nusantara
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993cf62a44d09ced73576&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8712_small.png",23h00 02/11: Shinnik Yaroslavl - PFC Kuban
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579caeb37047bcb86d20e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/106560_small.png",17h00 10/11: Istanbulspor - Etimesgut Belediyespor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=635993cdcc558e09e9c297e5&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101754_small.png",00h00 03/11: ENPPI - Zamalek SC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579ceeb37047bcb86d20f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2166_small.png",19h00 10/11: Rizespor - Kirklarelispor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359954962a44d09ced735d2&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",00h45 03/11: Real Madrid - Celtic
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579f6eb37047bcb86d226&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",20h30 10/11: Bhayangkara FC - Arema
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359954462a44d09ced735cd&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",00h45 03/11: Shakhtar Donetsk - RB Leipzig
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579f3eb37047bcb86d224&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1178890_small.png",21h00 10/11: U Craiova 1948 - FC Voluntari
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599547cc558e09e9c29835&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png",02h00 03/11: America MG - Internacional
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579dceb37047bcb86d21e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4455_small.png",21h00 10/11: Denizlispor - Sanliurfaspor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359950662a44d09ced735a9&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10273_small.png",02h00 03/11: Athletico Paranaense - Goias
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579f1eb37047bcb86d223&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7998_small.png",22h30 10/11: Partizan Beograd - FK Spartak Subotica
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359950bcc558e09e9c29816&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9850_small.png",02h45 03/11: Norwich - QPR
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579d9eb37047bcb86d21d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",23h00 10/11: Iran - Nicaragua
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359951e62a44d09ced735b3&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8344_small.png",02h45 03/11: Cardiff - Watford
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579cfeb37047bcb86d212&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2088_small.png",23h00 10/11: Fatih Karagümrük - Kirsehir FK
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599521cc558e09e9c2981f&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",03h00 03/11: Maccabi Haifa - Benfica
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579d4eb37047bcb86d216&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9939_small.png",23h30 10/11: Viborg - Midtjylland
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359950d62a44d09ced735ab&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",03h00 03/11: Juventus - PSG
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=636579d1eb37047bcb86d213&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",00h00 11/11: Panama - Saudi Arabia
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599511cc558e09e9c29818&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",03h00 03/11: Man City - Sevilla
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657abbeb37047bcb86d25d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",00h30 11/11: Hellas Verona - Juventus
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359951462a44d09ced735ad&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",03h00 03/11: FC København - Dortmund
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657abeeb37047bcb86d261&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6374_small.png",00h45 11/11: Cukaricki - FK Crvena Zvezda
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599517cc558e09e9c2981a&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",03h00 03/11: Milan - Salzburg
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6361bb0ca6148c0a54674763&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",01h00 11/11: Rayo Vallecano - Celta Vigo
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359951a62a44d09ced735b0&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",03h00 03/11: Chelsea - Dinamo Zagreb
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ac0eb37047bcb86d263&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10182_small.png",01h00 11/11: Kayserispor - Sivas Belediye Spor
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359951ccc558e09e9c2981d&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/104822_small.png",05h00 03/11: Avai FC - Red Bull Bragantino
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657acaeb37047bcb86d26e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8071_small.png",01h30 11/11: AGF Aarhus - Nordsjælland
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599526cc558e09e9c29821&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10274_small.png",05h00 03/11: Juventude - Coritiba
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ac7eb37047bcb86d26c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",02h00 11/11: Valencia - Real Betis
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359952862a44d09ced735b7&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png",07h30 03/11: Flamengo - Corinthians
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ac2eb37047bcb86d267&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",02h45 11/11: Lazio - Monza
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359952462a44d09ced735b5&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6335_small.png",09h00 03/11: LD Alajuelense - CD Olimpia
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ab3eb37047bcb86d255&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",02h45 11/11: Braga - Moreirense
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359952bcc558e09e9c29824&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6401_small.png",14h30 03/11: Changchun Yatai - Shanghai Shenhua
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ab6eb37047bcb86d258&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/465631_small.png",02h45 11/11: Lierse Kempenzonen - Anderlecht
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359952d62a44d09ced735ba&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/418661_small.png",16h00 03/11: Barito Putera - Bhayangkara FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ab8eb37047bcb86d25b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",03h30 11/11: Real Madrid - Cadiz
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599530cc558e09e9c29827&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",16h30 03/11: Shandong Taishan - Tianjin Jinmen Tiger
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a78eb37047bcb86d22e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10272_small.png",06h00 11/11: Atletico MG - Cuiaba
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359953262a44d09ced735bd&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",17h00 03/11: Da Nang - Saigon FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a7aeb37047bcb86d22f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",06h00 11/11: Botafogo - Santos FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359953462a44d09ced735be&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179222_small.png",18h00 03/11: Hai Phong - Hong Linh Ha Tinh
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a7ceb37047bcb86d231&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585858_small.png",15h00 11/11: Borneo Samarinda - PSM Makassar
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359953762a44d09ced735c1&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",18h00 03/11: Song Lam Nghe An - Binh Duong
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a8eeb37047bcb86d237&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15h45 11/11: Adelaide United - Melbourne Victory
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599539cc558e09e9c2982c&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/866109_small.png",19h00 03/11: Ararat Armenia - Van
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a91eb37047bcb86d238&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",18h00 11/11: South Korea - Iceland
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359953dcc558e09e9c29830&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578650_small.png",21h00 03/11: FC Goa - Jamshedpur FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aa2eb37047bcb86d241&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",18h15 11/11: Persita - Barito Putera
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359953b62a44d09ced735c7&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1933_small.png",22h30 03/11: Istanbul Başakşehir - Hearts
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aa5eb37047bcb86d243&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585025_small.png",19h00 11/11: Prachuap FC - Ratchaburi FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6359954062a44d09ced735cb&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/248871_small.png",22h30 03/11: RFS - Fiorentina
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aa7eb37047bcb86d246&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/485935_small.png",21h00 11/11: Bengaluru FC - East Bengal FC
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63599542cc558e09e9c29832&.m3u8|Referer=https://saoketvs.site/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4189_small.png",18h30 07/11: Tianjin Jinmen Tiger - Hebei FC
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aaaeb37047bcb86d249&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5901_small.png",21h30 11/11: Bahrain - Canada
 #EXTVLCOPT:http-referrer=https://saoketvs.site/
-http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6345cb438506d71ecdc104cb&.m3u8|Referer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657a93eb37047bcb86d23a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4488_small.png",22h30 11/11: Pirin Blagoevgrad - Spartak Varna
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657ab0eb37047bcb86d252&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/657508_small.png",23h00 11/11: Nizhny Novgorod - Akhmat
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aaeeb37047bcb86d24f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4662_small.png",23h30 11/11: Spartak Trnava - Skalica
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aaceb37047bcb86d24c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4678_small.png",00h00 12/11: Alanyaspor - Adana Demirspor
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c3beb37047bcb86d2d3&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png",00h00 12/11: Ankaragücü - Trabzonspor
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c3eeb37047bcb86d2d5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8194_small.png",00h30 12/11: Düsseldorf - 1.FC Kaiserslautern
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c40eb37047bcb86d2d9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8150_small.png",00h30 12/11: Holstein Kiel - Hannover 96
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c42eb37047bcb86d2dc&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",01h00 12/11: Switzerland (W) - Denmark (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c44eb37047bcb86d2df&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",02h00 12/11: England (W) - Japan (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657aa0eb37047bcb86d240&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8614_small.png",02h00 12/11: Sparta Rotterdam - FC Twente
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c47eb37047bcb86d2e1&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",02h30 12/11: M'gladbach - Dortmund
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b4ceb37047bcb86d287&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",02h45 12/11: Empoli - Cremonese
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b48eb37047bcb86d281&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",03h00 12/11: Lyon - Nice
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b5ceb37047bcb86d29d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",03h00 12/11: Norway (W) - France (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c07eb37047bcb86d2a3&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/212820_small.png",03h15 12/11: Torreense - Vilafranquense
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c0eeb37047bcb86d2a7&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",07h00 12/11: USA (W) - Germany (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c0ceb37047bcb86d2a5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/559874_small.png",08h15 12/11: Honduras Progreso - CD Olimpia
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c15eb37047bcb86d2ad&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",10h45 12/11: Australia (W) - Sweden (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c11eb37047bcb86d2a9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",13h00 12/11: Newcastle Jets - Melbourne City FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c17eb37047bcb86d2af&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10164_small.png",15h45 12/11: Sydney FC - Western Sydney Wanderers FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c20eb37047bcb86d2b8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49706_small.png",16h00 12/11: Ural - Fakel
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c22eb37047bcb86d2bb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",16h30 12/11: Shandong Taishan - Hebei FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c28eb37047bcb86d2c0&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/944173_small.png",17h30 12/11: Arda Kardzhali - Botev Plovdiv
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c2ceb37047bcb86d2c2&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6401_small.png",18h00 12/11: Changchun Yatai - Tianjin Jinmen Tiger
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c1aeb37047bcb86d2b2&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8709_small.png",18h00 12/11: Krylya Sovetov - Rostov
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c36eb37047bcb86d2cd&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165255_small.png",18h00 12/11: Port FC - Nakhon Ratchasima FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c39eb37047bcb86d2cf&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7803_small.png",18h30 12/11: Guangzhou City - Meizhou Hakka
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c1deb37047bcb86d2b5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",18h30 12/11: Sivasspor - Ümraniyespor
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c2feb37047bcb86d2c5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/626806_small.png",18h30 12/11: Nong Bua Pitchaya FC - Muang Thong United
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c32eb37047bcb86d2c7&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/737052_small.png",18h30 12/11: Chengdu Rongcheng FC - Shanghai Shenhua
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657c34eb37047bcb86d2ca&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",19h30 12/11: Man City - Brentford
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b38eb37047bcb86d273&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",21h00 12/11: Napoli - Udinese
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b4aeb37047bcb86d285&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",21h30 12/11: Augsburg - VfL Bochum
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b4feb37047bcb86d289&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",21h30 12/11: Leverkusen - VfB Stuttgart
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b51eb37047bcb86d28b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",21h30 12/11: Hertha BSC - Köln
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b54eb37047bcb86d28e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",21h30 12/11: Hoffenheim - Wolfsburg
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b55eb37047bcb86d292&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",21h30 12/11: Werder Bremen - RB Leipzig
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b57eb37047bcb86d296&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",22h00 12/11: West Ham - Leicester
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b3beb37047bcb86d274&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",22h00 12/11: Tottenham - Leeds
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b3eeb37047bcb86d276&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",22h00 12/11: Nottm Forest - Crystal Palace
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b40eb37047bcb86d278&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",22h00 12/11: Liverpool - Southampton
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b43eb37047bcb86d27b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",22h00 12/11: Bournemouth - Everton
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b45eb37047bcb86d27f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",23h00 12/11: Lens - Clermont Foot
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=63657b5aeb37047bcb86d299&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",00h00 13/11: Sampdoria - Lecce
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f96a93830f062f8a00ec&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",00h30 13/11: Schalke 04 - Bayern München
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f8fd0d3e89063678fd60&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",00h30 13/11: Newcastle - Chelsea
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f90e93830f062f8a00d4&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6660_small.png",00h45 13/11: FC Emmen - Ajax
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9ff93830f062f8a010c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9827_small.png",01h00 13/11: Bordeaux - Pau
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9190d3e89063678fd70&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/158085_small.png",01h00 13/11: Arouca - Rio Ave
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9fd0d3e89063678fd8a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",02h45 13/11: Bologna - Sassuolo
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f90593830f062f8a00cf&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",02h45 13/11: Wolves - Arsenal
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f91393830f062f8a00d7&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",03h00 13/11: Rennes - Toulouse
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f91c93830f062f8a00dd&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8613_small.png",03h30 13/11: Boavista - FC Porto
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa010d3e89063678fd8c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/189693_small.png",04h00 13/11: SD Almazan - Atletico Madrid
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa0593830f062f8a0115&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9933_small.png",04h00 13/11: CSD Municipal - Deportivo Mixco
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa0a93830f062f8a0117&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188302_small.png",04h30 13/11: Coban Imperial - Guastatoya
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa070d3e89063678fd90&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49783_small.png",08h00 13/11: Real Espana - Olancho FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9db93830f062f8a00f9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49786_small.png",08h30 13/11: CD Vida - CD Victoria
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9de0d3e89063678fd7f&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",09h00 13/11: Wellington Phoenix - Western United FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa0c0d3e89063678fd93&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8164_small.png",11h00 13/11: Central Coast Mariners - Macarthur FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9e093830f062f8a00fb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165202_small.png",16h00 13/11: PSIS - Bali United FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9e30d3e89063678fd81&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",17h00 13/11: Da Nang - Binh Dinh
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9ea93830f062f8a0100&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109375_small.png",17h00 13/11: Nam Dinh - Saigon FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9ef0d3e89063678fd85&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",17h00 13/11: Ho Chi Minh City FC - Viettel
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9f393830f062f8a0103&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179222_small.png",17h00 13/11: Hai Phong - Song Lam Nghe An
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9f70d3e89063678fd88&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179219_small.png",17h00 13/11: Ha Noi FC - Hong Linh Ha Tinh
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9fa93830f062f8a0105&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179226_small.png",17h00 13/11: FLC Thanh Hoa - Hoang Anh Gia Lai
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa340d3e89063678fd97&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6320_small.png",18h00 13/11: Syria - Algeria
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fa3693830f062f8a0121&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",18h30 13/11: Atalanta - Inter
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9080d3e89063678fd64&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",19h00 13/11: PSG - Auxerre
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f91e0d3e89063678fd74&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",21h00 13/11: Monza - Salernitana
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f90a93830f062f8a00d2&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",21h00 13/11: Roma - Torino
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f90c0d3e89063678fd68&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",21h00 13/11: Hellas Verona - Spezia
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9110d3e89063678fd6a&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",21h00 13/11: Brighton - Aston Villa
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9150d3e89063678fd6d&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",21h00 13/11: Brest - Troyes
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f92193830f062f8a00e0&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",21h00 13/11: Lille - Angers
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9240d3e89063678fd77&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",21h00 13/11: Montpellier - Reims
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f92793830f062f8a00e4&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",21h00 13/11: Nantes - AC Ajaccio
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9290d3e89063678fd79&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",21h30 13/11: Mainz - Frankfurt
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f8ff93830f062f8a00cd&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",23h05 13/11: Strasbourg - Lorient
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f93193830f062f8a00e8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",23h30 13/11: Freiburg - Union Berlin
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f9020d3e89063678fd62&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",23h30 13/11: Fulham - Man United
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367f91793830f062f8a00d9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",00h00 14/11: Milan - Fiorentina
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb2a0d3e89063678fda7&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8380_small.png",00h30 14/11: Real Union - Cadiz
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb3193830f062f8a0158&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",01h00 14/11: Benfica - Gil Vicente
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb2d93830f062f8a0155&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1417803_small.png",01h00 14/11: CD Cazalegas - Real Sociedad
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb2f0d3e89063678fda9&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/212821_small.png",01h00 14/11: Casa Pia AC - Chaves
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb340d3e89063678fdac&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9765_small.png",01h00 14/11: Portimonense - Braga
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb3693830f062f8a015b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6433_small.png",02h00 14/11: Go Ahead Eagles - Vitesse
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb380d3e89063678fdaf&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8410_small.png",02h00 14/11: Randers FC - Midtjylland
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb3a93830f062f8a015e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",02h45 14/11: Juventus - Lazio
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb3e0d3e89063678fdb2&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",02h45 14/11: Monaco - Marseille
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb4293830f062f8a0162&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/141788_small.png",03h00 14/11: Alzira - Athletic Club
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb450d3e89063678fdb5&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1314965_small.png",03h00 14/11: CD Arenteiro - Almeria
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb4793830f062f8a0164&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1634_small.png",03h30 14/11: Famalicao - Sporting CP
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb4a0d3e89063678fdb8&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10076_small.png",04h00 14/11: River Plate - Real Betis
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb4d93830f062f8a0168&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",05h00 14/11: USA (W) - Germany (W)
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb510d3e89063678fdbb&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6608_small.png",06h00 14/11: Aucas - Barcelona SC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb570d3e89063678fdbe&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10280_small.png",07h00 14/11: America de Cali - Deportivo Pasto
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb5493830f062f8a016c&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6628_small.png",15h30 14/11: Shanghai Shenhua - Zhejiang Professional
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb5d93830f062f8a0170&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1215010_small.png",18h00 14/11: Sudeva FC - Kenkre FC
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb1b93830f062f8a014b&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46474_small.png",19h30 14/11: Dunav Ruse - Spartak Pleven
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb190d3e89063678fd9e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198612_small.png",19h30 14/11: Wuhan Yangtze River - Changchun Yatai
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb1d0d3e89063678fda0&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187880_small.png",22h00 14/11: Botev Vratsa - Septemvri Sofia
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb230d3e89063678fda4&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80654_small.png",23h00 14/11: Asteras Tripolis - Ionikos
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb2093830f062f8a014e&.m3u8|Referer=https://saoketvs.site/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89022_small.png",23h00 14/11: Universitatea Cluj - FC Arges Pitesti
+#EXTVLCOPT:http-referrer=https://saoketvs.site/
+http://sportstvapp.xemchung.xyz/football/playsaoke.php?id=6367fb2893830f062f8a0152&.m3u8|Referer=https://saoketvs.site/
