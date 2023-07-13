@@ -7,9 +7,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9974fb896d9709fae1e3
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2216_small.png",00h00 14/07: Torpedo Kutaisi - FK Sarajevo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99752b896d9709fae1e41&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/1200px-Wimbledon.svg.png",00h00 14/07: Giải Tennis - Wimbledon
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ad98f5e54ab8754c107eed&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8154_small.png",00h00 14/07: Domzale - Balzan FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b025b1e54ab8754c108378&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,6 +25,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99755b896d9709fae1e4
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/474592_small.png",00h30 14/07: Penybont - FC Santa Coloma
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b02a85e54ab8754c10839e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/1200px-Wimbledon.svg.png",01h00 14/07: Giải Tennis - Wimbledon
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ad98f5e54ab8754c107eed&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9824_small.png",01h00 14/07: FC Vaduz - Neman Grodno
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b0270ee54ab8754c10838a&.m3u8|Referer=https://sk.mediastation.live/
@@ -70,12 +70,21 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99767b896d9709fae1e5
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/418661_small.png",15h00 14/07: Barito Putera - PSS Sleman
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9976cb896d9709fae1e64&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/FC_Hu%E1%BA%BF.svg",16h00 14/07: CLB Hue - Quang Nam
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b03d59e54ab8754c10840c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",16h30 14/07: Australia (W) - France (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9976fb896d9709fae1e68&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10202_small.png",16h45 14/07: Nordsjælland - Olympiacos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9976cb896d9709fae1e66&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",17h05 14/07: Japan (W) - Panama (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b03d97e54ab8754c10840f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/17/BRVT_logo.svg/1200px-BRVT_logo.svg.png",18h00 14/07: Ba Ria Vung Tau - Dong Tam Long An
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b03de6e54ab8754c108416&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165196_small.png",19h00 14/07: Persib Bandung - Dewa United FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9976fb896d9709fae1e69&.m3u8|Referer=https://sk.mediastation.live/
