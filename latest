@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/1200px-Wimbledon.svg.png",19h30 13/07: Giải Tennis - Wimbledon
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/1200px-Wimbledon.svg.png",19h10 13/07: Giải Tennis - Wimbledon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ad98f5e54ab8754c107eed&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",19h30 13/07: Indonesia (W) - Thái Lan (W)
@@ -208,9 +208,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99875b896d9709fae1e8
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10006_small.png",19h00 15/07: Walsall - Aston Villa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99879b896d9709fae1e85&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",19h00 15/07: Wolfsburg - Freiburg
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99879b896d9709fae1e87&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583034_small.png",19h00 15/07: Persis Solo - Pusamania Borneo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a9987cb896d9709fae1e89&.m3u8|Referer=https://sk.mediastation.live/
@@ -385,3 +382,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99afbb896d9709fae1f7
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7855_small.png",00h00 17/07: Maccabi Tel Aviv - Bournemouth
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99af7b896d9709fae1f6f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",19h00 22/07: Wolfsburg - Freiburg
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64a99879b896d9709fae1e87&.m3u8|Referer=https://sk.mediastation.live/
