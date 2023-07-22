@@ -129,10 +129,10 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0b0e54ab8754c1089e
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0b0e54ab8754c1089e3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10192_small.png",21h30 23/07: Young Boys - Lausanne
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0bce54ab8754c1089f6&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10192_small.png",21h30 23/07: Young Boys - Lausanne
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0e0e54ab8754c108a03&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8643_small.png",21h30 23/07: Spartak - Orenburg
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bc23ffb774b547b15e71fb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",22h00 23/07: Nantes - Angers
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0b3e54ab8754c1089e4&.m3u8|Referer=https://sk.mediastation.live/
@@ -202,6 +202,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b961ccb774b547b15e69d
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/546238_small.png",06h00 24/07: NYCFC - Atlas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b961d2b774b547b15e69e0&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",06h00 24/07: Newcastle - Aston Villa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bc2485b774b547b15e7204&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722265_small.png",06h30 24/07: Cincinnati - Sporting KC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b961d5b774b547b15e69e3&.m3u8|Referer=https://sk.mediastation.live/
