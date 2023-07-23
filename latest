@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8414_small.png",21h00 23/07: Odense - Randers FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0b0e54ab8754c1089de&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8348_small.png",21h30 23/07: Moreirense - Farense
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c0b0e54ab8754c1089e1&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,9 +31,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b1c052e54ab8754c10897
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",23h00 23/07: Las Palmas - Almeria
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4ae2b774b547b15e7455&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",23h00 23/07: Espanyol - Cadiz
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4b5ab774b547b15e745c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",00h00 24/07: Vilaverdense FC - Casa Pia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b9618cb774b547b15e69b5&.m3u8|Referer=https://sk.mediastation.live/
@@ -496,3 +490,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b964fdb774b547b15e6b7
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8076_small.png",23h00 27/07: FK Qabala - Omonia Nicosia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b96501b774b547b15e6b81&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",00h30 24/08: Espanyol - Cadiz
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4b5ab774b547b15e745c&.m3u8|Referer=https://sk.mediastation.live/
