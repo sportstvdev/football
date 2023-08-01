@@ -295,7 +295,7 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bd2aa29fac0aa525229
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",07h00 04/08: Philadelphia - DC United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bcdda29fac0aa5252230&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",07h00 04/08: Charlotte - Cruz Azul
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",07h30 04/08: Charlotte - Cruz Azul
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bce0a29fac0aa5252233&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177535_small.png",08h05 04/08: UDG - Alebrijes
@@ -854,6 +854,9 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64c7f601a85d8406052652
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197871_small.png",22h00 01/08: Valmiera FC - Tre Penne Galazzano
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64c562c1a85d8406052645b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102153_small.png",22h00 01/08: Nasaf Qarshi - Buxoro FK
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64c8fcf1a85d84060526548d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/420063/image",23h30 01/08: Amkal - Znamya Noginsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64c7f42aa85d8406052652aa&.m3u8|Referer=https://pl-rk.livefb.xyz/
