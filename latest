@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVVPxGKv1uLzu6YCKrFgH32fQV5Z3JPy94SScYnEITuDSEnIAPzKoVWorUh27ifeOGHg&usqp=CAU",16h00 03/08: Bình Thuận - PVF-CAND
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c93b55a29fac0aa525287d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/FC_Hu%E1%BA%BF.svg",16h00 03/08: CLB Hue - Binh Phuoc
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c93b69a29fac0aa5252880&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",17h00 03/08: Morocco (W) - Colombia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bc03a29fac0aa52521ff&.m3u8|Referer=https://sk.mediastation.live/
@@ -671,9 +665,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b964c9b774b547b15e6b3
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4b5ab774b547b15e745c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image",16h00 03/08: Bình Thuận - Pho Hien
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cb5cc7a85d84060526615c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png",16h00 03/08: Huế - Binh Phuoc
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cb5ce4a85d840605266161&.m3u8|Referer=https://pl-rk.livefb.xyz/
