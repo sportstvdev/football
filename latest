@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",16h00 04/08: Osasuna - Deportivo Alaves
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bce9a29fac0aa525223e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",16h00 04/08: Thái Lan (W) - Indonesia (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cbfc90a29fac0aa525315c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582214_small.png",16h30 04/08: Peninsula Power - Wellington Phoenix
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bd0da29fac0aa525226c&.m3u8|Referer=https://sk.mediastation.live/
@@ -635,6 +629,9 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cbfd61a85d8406052667
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/383337/image",19h30 04/08: Talant - Abdysh Ata Kant
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ccd8e7a85d840605266dad&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/37271acf3b985b8a69ead4ea12c4eb98.png!w100",19h30 04/08: Ilbirs - Neftchi Kochkor Ata
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ccdb66a85d840605266dd0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b76838865d5c3b34cdd566ef9e5bda45.png!w60",20h00 04/08: Harini KS - Sri Pahang FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cba4bea85d8406052663eb&.m3u8|Referer=https://pl-rk.livefb.xyz/
