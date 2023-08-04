@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583129_small.png",21h00 04/08: Obolon-Brovar - Dynamo Kyiv
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cd019d8d5d5c6e5967819f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584663_small.png",22h30 04/08: UTA Arad - CSM Politehnica Iasi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6bcefa29fac0aa5252247&.m3u8|Referer=https://sk.mediastation.live/
@@ -530,9 +527,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64b964c9b774b547b15e6b3
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4b5ab774b547b15e745c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/138564/image",21h00 04/08: Obolon-Brovar - Dynamo Kyiv
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64caa664a85d840605265d0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/22386/image",22h00 04/08: Ilves - Haka
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64caa66fa85d840605265d12&.m3u8|Referer=https://pl-rk.livefb.xyz/
