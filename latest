@@ -323,6 +323,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64bd4b5ab774b547b15e745
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b206c10ae3897ae5c1035daf15e185e8.png!w60",13h00 06/08: Nara Club - Giravanz Kitakyushu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cd3a3ea85d84060526708c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/256259/image",14h00 06/08: St George Willawong - Ipswich knights
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cf45b2a85d84060526804f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",16h00 06/08: Sweden (W) - USA (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cd3a4aa85d840605267096&.m3u8|Referer=https://pl-rk.livefb.xyz/
