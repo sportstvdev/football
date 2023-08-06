@@ -97,6 +97,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6c025a29fac0aa525238
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",22h00 06/08: Dortmund - Ajax
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6c025a29fac0aa5252386&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102049_small.png",22h00 06/08: Raja Casablanca - Al Nasar FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cf01b08d5d5c6e5967861b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",23h00 06/08: Sunderland - Ipswich
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64c6c025a29fac0aa5252387&.m3u8|Referer=https://sk.mediastation.live/
@@ -365,6 +368,12 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cd3a31a85d8406052670
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1124827_small.png",09h00 06/08: San Diego Loyal SC - Orange County SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cd3a32a85d840605267079&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1130409_small.png",09h00 06/08: LA Force - Club de Lyon FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cf00d9a85d840605267fab&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/201261/image",09h00 06/08: Walter Ferretti - Managua
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cf0198a85d840605267fbc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/915809_small.png",09h30 06/08: Las Vegas Lights FC - Rio Grande Valley FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64cd3a38a85d840605267082&.m3u8|Referer=https://pl-rk.livefb.xyz/
