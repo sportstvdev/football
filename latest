@@ -16,6 +16,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff2c18d5d5c6e59678aa
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/555501_small.png",20h30 12/08: TSV Schott Mainz - Dortmund
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff2c58d5d5c6e59678aae&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/276267_small.png",20h30 12/08: Viktoria Koeln 1904 - Werder Bremen
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d78a808d5d5c6e5967a073&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",21h00 12/08: Everton - Fulham
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff2c38d5d5c6e59678aab&.m3u8|Referer=https://sk.mediastation.live/
@@ -389,15 +392,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",18h30 12/08: Coventry - Middlesbrough
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3ed88a85d840605269a54&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6401_small.png",18h35 12/08: Changchun Yatai - Chengdu Rongcheng FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3ed8ea85d840605269a59&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/215186/image",18h35 12/08: Meizhou Hakka - Qingdao Hainiu
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3ed90a85d840605269a5a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198616_small.png",18h35 12/08: Shanghai Port - Zhejiang Professional
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3ed91a85d840605269a5b&.m3u8|Referer=https://pl-rk.livefb.xyz/
