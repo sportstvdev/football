@@ -160,6 +160,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff56a8d5d5c6e59678b7
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/268557_small.png",21h00 14/08: FC Alania Vladikavkaz - Torpedo Moscow
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff5998d5d5c6e59678bb6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/4abf750c10549679c342ebff6f752cf8.png",21h00 14/08: Giải Tennis  - ATP Cincinnati Mỹ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d8d2498d5d5c6e5967a681&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",22h45 14/08: Cremonese - Crotone
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64cff5998d5d5c6e59678bb7&.m3u8|Referer=https://sk.mediastation.live/
@@ -269,9 +272,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f7
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",18h00 13/08: Brest - Lens
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3f053a85d840605269c41&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585691_small.png",18h00 13/08: Rostocker FC 1895 - FC Heidenheim
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3f057a85d840605269c47&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8296_small.png",18h00 13/08: RW Essen - Hamburger SV
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d3f059a85d840605269c48&.m3u8|Referer=https://pl-rk.livefb.xyz/
