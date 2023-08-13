@@ -634,9 +634,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb28d5d5c6e5967aaa
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",03h00 20/08: Queretaro - Pachuca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb68d5d5c6e5967aaad&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",03h00 20/08: Queretaro - Pachuca
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb78d5d5c6e5967aab0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9863_small.png",04h30 20/08: Fluminense - America MG
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb98d5d5c6e5967aab1&.m3u8|Referer=https://sk.mediastation.live/
@@ -763,6 +760,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f088d5d5c6e5967ab2
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",23h30 20/08: Sassuolo - Atalanta
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f0c8d5d5c6e5967ab29&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",08h06 21/08: Queretaro - Pachuca
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb78d5d5c6e5967aab0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Hanoi_Buffaloes.png",19h30 22/08: Hanoi Buffaloes - Saigon Heat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26c7b8d5d5c6e59678f57&.m3u8|Referer=https://sk.mediastation.live/
@@ -911,9 +911,6 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d7a2eba85d84060526b2
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",01h00 15/08: Al-Ettifaq - Al Nassr FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d7a2eca85d84060526b224&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4678_small.png",01h00 15/08: Alanyaspor - Başakşehir
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d7a2f1a85d84060526b22f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2088_small.png",01h00 15/08: Karagümrük - Beşiktaş
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d7a2f2a85d84060526b230&.m3u8|Referer=https://pl-rk.livefb.xyz/
