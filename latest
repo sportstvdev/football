@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8000_small.png",23h00 17/08: Aktobe - Sepsi OSK
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d9174e8d5d5c6e5967a911&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8023_small.png",23h00 17/08: Pogon Szczecin - Gent
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d917538d5d5c6e5967a91a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6345_small.png",23h00 17/08: Pyunik - Bodø/Glimt
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d917578d5d5c6e5967a920&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png",23h00 17/08: HJK - Qarabag FK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dd22b5bf67257cd7de938e&.m3u8|Referer=https://sk.mediastation.live/
@@ -37,9 +28,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de3ee9bf67257cd7de955
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",00h00 18/08: Ferencvaros - Hamrun Spartans
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de3f72bf67257cd7de955c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/5f10d2e029bdf6ff25acbb58765baa6c.png!w60",00h25 18/08: Iga Swiatek - Qinwen Zheng
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dda111bf67257cd7de9442&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8619_small.png",00h30 18/08: PAOK Thessaloniki FC - Hajduk Split
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d918f78d5d5c6e5967a987&.m3u8|Referer=https://sk.mediastation.live/
@@ -58,6 +46,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d918fa8d5d5c6e5967a98
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/550433_small.png",01h00 18/08: Al Khaleej - Al Ahli
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d918fd8d5d5c6e5967a98e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/5f10d2e029bdf6ff25acbb58765baa6c.png!w60",01h00 18/08: Iga Swiatek - Qinwen Zheng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dda111bf67257cd7de9442&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",01h00 18/08: Beşiktaş - FK Neftchi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de40a1bf67257cd7de9561&.m3u8|Referer=https://sk.mediastation.live/
@@ -767,12 +758,12 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db6361a85d84060526cb
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",19h00 18/08: BG Pathum United - Prachuap FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db6363a85d84060526cb93&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165255_small.png",20h00 18/08: Port FC - Police Tero FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db636fa85d84060526cba0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/f5toOQFG-SjJz7fb3.png",20h00 18/08: Indonesia U23 - Malaysia U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d92d8da85d84060526bef5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165255_small.png",20h00 18/08: Port FC - Police Tero FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db636fa85d84060526cba0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4150_small.png",20h00 18/08: FC Kapaz - Turan Tovuz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64dd02c5a85d84060526d163&.m3u8|Referer=https://pl-rk.livefb.xyz/
