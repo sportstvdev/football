@@ -517,9 +517,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc2519bf67257cd7de91f
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",22h05 20/08: Monaco - Strasbourg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f038d5d5c6e5967ab1d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",22h30 20/08: Girona - Getafe
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eff8d5d5c6e5967ab16&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",22h30 20/08: West Ham - Chelsea
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f038d5d5c6e5967ab1c&.m3u8|Referer=https://sk.mediastation.live/
@@ -529,6 +526,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f088d5d5c6e5967ab2
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",23h30 20/08: Sassuolo - Atalanta
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91f0c8d5d5c6e5967ab29&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",00h00 21/08: Girona - Getafe
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eff8d5d5c6e5967ab16&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",08h06 21/08: Queretaro - Pachuca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91eb78d5d5c6e5967aab0&.m3u8|Referer=https://sk.mediastation.live/
@@ -623,6 +623,9 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64de097ba85d84060526d6
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/EgTCyfyB-27t35BI6.png",20h00 17/08: Thái Lan U23 - Myanmar U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d92d6ca85d84060526bef0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/939871c3f44aa6c879e3a1432967f327.png!w60",20h00 17/08: Akzhayik Oral - Akademiya Ontustik
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64de170da85d84060526d631&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/51e1eeee6c2beac952431deb25f47deb.png!w60",20h45 17/08: Ibri - Al-Seeb
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64dbbac2a85d84060526ced6&.m3u8|Referer=https://pl-rk.livefb.xyz/
