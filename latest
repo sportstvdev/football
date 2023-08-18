@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",02h30 19/08: Valencia - Las Palmas
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91d398d5d5c6e5967aa19&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/4abf750c10549679c342ebff6f752cf8.png",04h00 19/08: Đơn nam - Giải Tennis - Cincinnati Mỹ
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc02acbf67257cd7de91d2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/4abf750c10549679c342ebff6f752cf8.png",04h00 19/08: Đơn nữ - Giải Tennis  - Cincinnati Mỹ
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc02e6bf67257cd7de91d5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.atptour.com/-/media/alias/player-headshot/ME82",06h00 19/08: Adrian Mannarino -  Alexander Zverev
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64df30b7bf67257cd7de9825&.m3u8|Referer=https://sk.mediastation.live/
@@ -148,6 +139,12 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91d6f8d5d5c6e5967aa6
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",22h00 19/08: Lyon - Montpellier
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d91d758d5d5c6e5967aa6f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/4abf750c10549679c342ebff6f752cf8.png",22h00 19/08: Đơn nam - Giải Tennis - Cincinnati Mỹ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc02acbf67257cd7de91d2&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/4abf750c10549679c342ebff6f752cf8.png",22h00 19/08: Đơn nữ - Giải Tennis  - Cincinnati Mỹ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc02e6bf67257cd7de91d5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",22h00 19/08: Ukraine - Hungary
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dc24e5bf67257cd7de91fb&.m3u8|Referer=https://sk.mediastation.live/
@@ -698,12 +695,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",02h30 19/08: Valencia - Las Palmas
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64de703fa85d84060526d890&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8394_small.png",02h30 19/08: Real Zaragoza - Real Valladolid
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64dd036fa85d84060526d254&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10077_small.png",07h00 19/08: Boca Juniors - Club Atletico Platense
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64dd0382a85d84060526d25d&.m3u8|Referer=https://pl-rk.livefb.xyz/
