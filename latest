@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",19h00 18/08: BG Pathum United - Prachuap FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d919208d5d5c6e5967a9c2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/87/CanthoCatfish.png",19h30 18/08: Cantho Catfish - Danang Dragons
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26c2e8d5d5c6e59678f4e&.m3u8|Referer=https://sk.mediastation.live/
@@ -788,12 +785,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",19h00 18/08: BG Pathum United - Prachuap FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db6363a85d84060526cb93&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191752_small.png",19h15 18/08: Kuala Lumpur City - Penang FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64df62f6a85d84060526dd02&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/f5toOQFG-SjJz7fb3.png",20h00 18/08: Indonesia U23 - Malaysia U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d92d8da85d84060526bef5&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -815,6 +806,9 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db6378a85d84060526cb
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/284427/image",21h00 18/08: Cherkasi - Polissya Zhytomyr
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64db6382a85d84060526cbaf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/3316/image",21h00 18/08: Karpaty - Nyva Buzova
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64df7ce0a85d84060526ddb6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10071_small.png",21h30 18/08: Naftan Novopolotsk - Energetik-BGU
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64dd02d6a85d84060526d168&.m3u8|Referer=https://pl-rk.livefb.xyz/
