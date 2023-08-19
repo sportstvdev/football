@@ -533,9 +533,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6422_small.png",01h00 20/08: Fortuna Sittard - Almere City FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64de7ec9a85d84060526d92f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",01h00 20/08: Al Hilal - Al-Fayha
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64de7ed3a85d84060526d939&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -806,9 +803,96 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d9308fa85d84060526bf
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178671.png",20h00 21/08: Brunei U23 - Myanmar U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d930aea85d84060526bf2f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e0d19c151af2ed75cc8205c10a67c4c3.png!w60",21h00 21/08:  FK Andijon - Olympic FK Tashkent
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d2a3ae39e6a94a1cd3b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6701_small.png",22h00 21/08: FC KTP - Haka
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d563ae39e6a94a1cd45&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583706_xsmall.png",22h30 21/08: Sepsi OSK - Hermannstadt
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d633ae39e6a94a1cd4a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",23h30 21/08: Torino - Cagliari
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d713ae39e6a94a1cd4f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",00h00 22/08: Deportivo Alaves - Sevilla
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d833ae39e6a94a1cd54&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9939_small.png",00h00 22/08: Viborg - Vejle Boldklub
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11d9f3ae39e6a94a1cd59&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2186_small.png",00h00 22/08: Cracovia - Piast Gliwice
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11da73ae39e6a94a1cd5e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161771_small.png",00h00 22/08: Villarreal B - Eldense
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11dab3ae39e6a94a1cd5f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/163363_small.png",01h00 22/08: Jong Ajax - De Graafschap
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11db63ae39e6a94a1cd68&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9750_small.png",01h00 22/08: Samsunspor - Fenerbahçe
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11dbb3ae39e6a94a1cd6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",01h45 22/08: Bologna - Milan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11dcd3ae39e6a94a1cd76&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",01h45 22/08: AC Ajaccio - Bordeaux
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11dd33ae39e6a94a1cd7f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",02h00 22/08: Crystal Palace - Arsenal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11de03ae39e6a94a1cd89&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1634_small.png",02h15 22/08: Famalicao - Moreirense
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11de63ae39e6a94a1cd8e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",02h30 22/08: Granada - Rayo Vallecano
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11de83ae39e6a94a1cd8f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/96925_small.png",02h30 22/08: SD Huesca - Tenerife
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11ded3ae39e6a94a1cd98&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F223.png",06h00 22/08: Toluca - Monterrey
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e493ae39e6a94a1cd9d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",06h30 22/08: Newell's Old Boys - Central Cordoba de Santiago
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e583ae39e6a94a1cda2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980700_small.png",08h00 22/08: Cruz Azul (W) - CD Guadalajara Chivas (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e623ae39e6a94a1cda7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980705_small.png",08h06 22/08: Club Leon (W) - CF America (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e633ae39e6a94a1cda8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980703_small.png",10h00 22/08: Monterrey (W) - FC Juarez (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e653ae39e6a94a1cda9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980709_small.png",10h10 22/08: Santos Laguna (W) - Tigres (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e663ae39e6a94a1cdae&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133895_small.png",17h30 22/08: Incheon United - Hai Phong
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e713ae39e6a94a1cdbb&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 22/08: Urawa Red Diamonds - Lee Man FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e783ae39e6a94a1cdca&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198616_small.png",18h30 22/08: Shanghai Port - BG Pathum United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e723ae39e6a94a1cdbc&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/51443_small.png",18h30 22/08: Zhejiang Professional - Port FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e733ae39e6a94a1cdbd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/WYc6zmCr-dtrt8738.png",20h00 22/08: Đông Timor U23 - Malaysia U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d930c8a85d84060526bf34&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/StTKbSzS-YgJZLiMP.png",20h00 22/08: Việt Nam U23 - Philippines U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64d930e2a85d84060526bf39&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165232_small.png",20h00 22/08: Penang FC - Kedah Darul Aman FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e873ae39e6a94a1cdcf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101901_small.png",22h30 22/08: Al-Wakrah - Navbahor Namangan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e8f3ae39e6a94a1cdd5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/176352_small.png",23h00 22/08: Tractor - Sharjah Cultural Club
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e943ae39e6a94a1cdda&.m3u8|Referer=https://pl-rk.livefb.xyz/
