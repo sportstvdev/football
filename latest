@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",17h00 22/08: Giải Cầu lông  - Vô địch Thế giới
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e21fa0bf67257cd7dea325&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/230px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",17h30 22/08: Việt Nam 2 - Choco Mucho
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dda41ebf67257cd7de9476&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133895_small.png",17h30 22/08: Incheon United - Hai Phong
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de7211bf67257cd7de96cd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198616_small.png",18h30 22/08: Shanghai Port - BG Pathum United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de7212bf67257cd7de96d2&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,6 +19,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dda483bf67257cd7de947
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165232_small.png",20h00 22/08: Penang FC - Kedah FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64de7218bf67257cd7de96d8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",20h00 22/08: Giải Cầu lông  - Vô địch Thế giới
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e21fa0bf67257cd7dea325&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",21h00 22/08: Netherlands - France
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e40a87bf67257cd7dea91c&.m3u8|Referer=https://sk.mediastation.live/
@@ -722,6 +716,9 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e11e873ae39e6a94a1cd
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ab70877289333b6eb9cd1e23644cd842.png!w60",20h30 22/08: FK Sakhalinets - Saturn Ramenskoye
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e388593540d641433a5eb1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w60",21h30 22/08: Estoril U23 - Mafra U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e4b3233540d641433a689a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png!w60",22h00 22/08: Estrela U23 - Farense U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e37ceb3540d641433a5e6e&.m3u8|Referer=https://pl-rk.livefb.xyz/
