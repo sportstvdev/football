@@ -7,12 +7,12 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64dda4dabf67257cd7de948
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/555673_small.png",18h00 23/08: Chertanovo Moscow - Dynamo Kirov
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e4f7b1bf67257cd7deaa72&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165198_small.png",18h00 23/08: PSM Makassar - Yangon United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e5eb6fbf67257cd7deabc8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://media.bongdapro.vn//Image/team/images/20200324094621.gif",18h30 23/08: CD Monte Carlo - Taichung Futuro
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e4fa84bf67257cd7deaaa4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67386_small.png",18h30 23/08: Tampines Rovers FC - Phnom Penh Crown
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e5eb6fbf67257cd7deabc8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Nha_Trang_Dolphins.png",19h30 23/08: Nha Trang Dolphins - Saigon Heat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26c908d5d5c6e59678f5a&.m3u8|Referer=https://sk.mediastation.live/
@@ -719,9 +719,15 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f61f3540d641433a70
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/36142/image",19h00 23/08: Kaisar-2 - Ile-Saulet
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f6873540d641433a70f0&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/5366/image",19h00 23/08: Ordabasy-2 - Zhetisay
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/464802/image",19h00 23/08: AKAS - Taraz-2
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f6da3540d641433a70ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f75c3540d641433a710f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/307625/image",19h00 23/08: Abdish-Ata - Kara Balta
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f7c13540d641433a711d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/138964/image",19h00 23/08: Alay Osh - Ilbirs
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e5f7fa3540d641433a7125&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198150_small.png",20h00 23/08: Ufa - Nosta Novotroitsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e4a45a3540d641433a685c&.m3u8|Referer=https://pl-rk.livefb.xyz/
