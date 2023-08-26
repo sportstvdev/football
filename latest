@@ -19,9 +19,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24d14bf67257cd7dea53
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1114226_small.png",15h45 26/08: Kuching City FC - Terengganu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24d18bf67257cd7dea540&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",16h00 26/08: Giải Cầu lông  - Vô địch Thế giới
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e21fa0bf67257cd7dea325&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4397_small.png",16h00 26/08: Kashima Antlers - Albirex Niigata
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24d18bf67257cd7dea541&.m3u8|Referer=https://sk.mediastation.live/
@@ -70,6 +67,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24d26bf67257cd7dea55
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",18h30 26/08: Bournemouth - Tottenham
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24c37bf67257cd7dea4ef&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://aocaulongthietke.com/wp-content/uploads/2022/10/Mau-logo-doi-club-cau-lac-bo-cau-long-thiet-ke-dep-1-400x400.png",19h00 26/08: Giải Cầu lông  - Vô địch Thế giới
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e21fa0bf67257cd7dea325&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/87/CanthoCatfish.png",19h30 26/08: Cantho Catfish - Ho Chi Minh City Wings
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26cbf8d5d5c6e59678f60&.m3u8|Referer=https://sk.mediastation.live/
@@ -812,9 +812,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1022954_small.png",06h30 26/08: York United FC - Vancouver FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e938633540d641433a8507&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1451868_small.png",06h30 26/08: Crown Legacy FC - Toronto FC II
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e938673540d641433a850c&.m3u8|Referer=https://pl-rk.livefb.xyz/
