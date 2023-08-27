@@ -100,9 +100,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f8ebf67257cd7dea63
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/864269_small.png",22h30 28/08: Hermannstadt - Universitatea Cluj
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f8ebf67257cd7dea639&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1113566_small.png",23h00 28/08: Arsenal - Torpedo Moscow
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f92bf67257cd7dea641&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",23h30 28/08: Salernitana - Udinese
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f92bf67257cd7dea640&.m3u8|Referer=https://sk.mediastation.live/
@@ -145,6 +142,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8c780bf67257cd7deb33
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",06h00 29/08: Banfield - Rosario Central
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8c783bf67257cd7deb342&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8355_small.png",06h00 29/08: Botafogo SP - ABC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64eb7779bf67257cd7debcd6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",06h15 29/08: Independiente Medellin - Chico FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8c790bf67257cd7deb34f&.m3u8|Referer=https://sk.mediastation.live/
@@ -229,7 +229,7 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8c8c3bf67257cd7deb38
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8702_small.png",05h00 30/08: Internacional - Bolivar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8c8ccbf67257cd7deb38b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",05h00 30/08: C.S. Cartagines - CD Universitario
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",07h00 30/08: C.S. Cartagines - CD Universitario
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8cbaabf67257cd7deb38e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10094_small.png",07h30 30/08: Estudiantes - Corinthians
