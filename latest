@@ -7,6 +7,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24e84bf67257cd7dea5c
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/ThangLongWarriorsLogo.png",19h30 27/08: Thang Long Warriors	 - Saigon Heat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26cdf8d5d5c6e59678f63&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",19h30 27/08: Feyenoord - Almere City FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64eb4f5cbf67257cd7debbee&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",20h00 27/08: Burnley - Aston Villa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24e84bf67257cd7dea5c7&.m3u8|Referer=https://sk.mediastation.live/
@@ -569,12 +572,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f7
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",18h30 27/08: Karlsruher SC - Eintracht Braunschweig
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e7b3b13540d641433a7ff2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",18h30 27/08: 1.FC Nürnberg - Wehen Wiesbaden
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e7b3b23540d641433a7ff3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/germany/logos/fc-sankt-pauli.png",18h30 27/08: St. Pauli - 1.FC Magdeburg
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e7b3b33540d641433a7ff4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",19h30 27/08: Feyenoord - Almere City FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64e7b3c83540d641433a8001&.m3u8|Referer=https://pl-rk.livefb.xyz/
