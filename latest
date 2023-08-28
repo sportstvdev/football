@@ -16,6 +16,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ec8582bf67257cd7debe7
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165251_small.png",20h00 28/08: Muang Thong United - Port FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f89bf67257cd7dea632&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",20h30 28/08: Brazil - Spain
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ec9419bf67257cd7debeb6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/981193_small.png",21h30 28/08: SK Super Nova - FK Liepaja
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e24f8cbf67257cd7dea635&.m3u8|Referer=https://sk.mediastation.live/
@@ -503,12 +506,15 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ec92a6940c6c07fa08f8
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165251_small.png",20h00 28/08: Muang Thong United - Port FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ea4df43540d641433a8dd6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/389000/image",20h00 28/08: Akron Togliatti 2 - Ural II
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ea4dee3540d641433a8dd1&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/323552/image",20h00 28/08: Epitsentr - Niva Ternopol
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ec930f940c6c07fa08f901&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/89b11766624d0bdaa785880b1bae8b9e.png!w60",20h15 28/08: Kremin - Poltava
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ec9328940c6c07fa08f906&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0a29520b7e06da5ca73f6b48a59e1876.png!w60",20h30 28/08: Ahrobiznes - Podolye
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ec9342940c6c07fa08f90b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8114_small.png",21h00 28/08: Aalesund 2 - Kjelsås
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ea50703540d641433a8e00&.m3u8|Referer=https://pl-rk.livefb.xyz/
