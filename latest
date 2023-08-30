@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",07h00 30/08: GIẢI TENNIS - Tường thuật Trực tiếp US Open
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ee2bfabf67257cd7dec39c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10094_small.png",07h30 30/08: Estudiantes - Corinthians
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8cbadbf67257cd7deb390&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162400_small.png",08h05 30/08: Venados - Tapatio
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8cbb6bf67257cd7deb39b&.m3u8|Referer=https://sk.mediastation.live/
@@ -368,9 +365,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d468d5d5c6e59678f6
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64d26d608d5d5c6e59678f72&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Estudiantes_de_La_Plata_logo.svg/1200px-Estudiantes_de_La_Plata_logo.svg.png",07h30 30/08: Estudiantes - Corinthians
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ebaf32940c6c07fa08f712&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162400_small.png",08h05 30/08: Venados - Tapatio
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ebaf36940c6c07fa08f713&.m3u8|Referer=https://pl-rk.livefb.xyz/
