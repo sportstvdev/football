@@ -22,6 +22,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64efd617bf67257cd7dec9f
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",21h00 31/08: France - Portugal
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f00ffbbf67257cd7deca7b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Alwaslsc.png",21h00 31/08: Al Wasl - Hatta
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f0946abf67257cd7decb03&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",21h30 31/08: Ukraine - Croatia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f01055bf67257cd7deca7f&.m3u8|Referer=https://sk.mediastation.live/
@@ -845,9 +848,6 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f074c2940c6c07fa0911
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/939871c3f44aa6c879e3a1432967f327.png!w60",20h00 31/08: Akzhayik Oral - Kairat Academy
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f074ec940c6c07fa0911f1&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3e5d543dd5e49a6c8d3b1e7895b8840e.png!w60",20h15 31/08: Ceahlaul Piatra Neamt - Universitaea Cluj
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ebb327940c6c07fa08f7e6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/united-arab-emirates/logos/al-wasl.png",21h00 31/08: Al Wasl - Hatta
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ef5ebc940c6c07fa0907cc&.m3u8|Referer=https://pl-rk.livefb.xyz/
