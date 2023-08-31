@@ -1,12 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",07h00 31/08: GIẢI TENNIS - Tường thuật Trực tiếp US Open
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ee2bfabf67257cd7dec39c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/lAe2Phe5-xvtwKljs.png",08h00 31/08: Petra Kvitova - Caroline Wozniacki
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef5131bf67257cd7dec847&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193025_small.png",08h30 31/08: Rionegro Aguilas - Atletico Nacional
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64efcd94bf67257cd7dec9b3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49761_small.png",09h00 31/08: Comunicaciones FC - Club Sport Herediano
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64efcd98bf67257cd7dec9b6&.m3u8|Referer=https://sk.mediastation.live/
@@ -869,9 +863,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec83
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec833&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Quer%C3%A9taro_F.C._logo.svg/1200px-Quer%C3%A9taro_F.C._logo.svg.png",08h06 31/08: Querétaro - Atlas
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ebb21d940c6c07fa08f7c7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193025_small.png",08h30 31/08: Rionegro Aguilas - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64efc925940c6c07fa09100a&.m3u8|Referer=https://pl-rk.livefb.xyz/
