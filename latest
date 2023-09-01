@@ -31,6 +31,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1e1db83581467005bf9d
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",01h30 02/09: Dortmund - FC Heidenheim
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef48dbbf67257cd7dec5d8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",01h30 02/09: Serbia - Netherlands
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1d4a383581467005bf9ba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",01h45 02/09: Roma - Milan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef48d2bf67257cd7dec5cf&.m3u8|Referer=https://sk.mediastation.live/
@@ -49,9 +52,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef48c2bf67257cd7dec5c
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8393_small.png",02h30 02/09: Albacete - Real Valladolid
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef49b2bf67257cd7dec600&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",02h30 02/09: Serbia - Netherlands
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1d4a383581467005bf9ba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",03h00 02/09: Almeria - Celta Vigo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef48bfbf67257cd7dec5bd&.m3u8|Referer=https://sk.mediastation.live/
@@ -740,12 +740,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec83
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",23h30 01/09: Sassuolo - Hellas Verona
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee4a95940c6c07fa090538&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8414_small.png",00h00 02/09: Odense - Vejle Boldklub
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee4aa0940c6c07fa090547&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4f77bc21788965bb27aa8e0fdcf808ac.png!w60",00h15 02/09: Muaither SC - Al Markhiya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee4ab8940c6c07fa090551&.m3u8|Referer=https://pl-rk.livefb.xyz/
