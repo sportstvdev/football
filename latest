@@ -1,15 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",22h00 01/09: Turkey - Italy
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1d43383581467005bf9b7&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",22h00 01/09: Denmark - Czech Republic
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1d61583581467005bf9c3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",22h10 01/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ee2bfabf67257cd7dec39c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179097_small.png",22h15 01/09: Al-Ahli - Al-Gharafa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8d16ebf67257cd7deb4d0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",23h00 01/09: Portugal - Greece
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1d63383581467005bf9c6&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,6 +16,9 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8d160bf67257cd7deb4b
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",23h30 01/09: Sassuolo - Hellas Verona
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8d163bf67257cd7deb4c2&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",00h10 02/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ee2bfabf67257cd7dec39c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/479161_small.png",00h15 02/09: Muaither SC - Al Markhiya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef498ebf67257cd7dec5f7&.m3u8|Referer=https://sk.mediastation.live/
@@ -761,9 +755,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec83
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179097_small.png",22h15 01/09: Al-Ahli - Al-Gharafa
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee4a73940c6c07fa090512&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",22h30 01/09: Petrolul Ploiesti - Otelul Galati
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee4a7f940c6c07fa09051f&.m3u8|Referer=https://pl-rk.livefb.xyz/
