@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/d4f05c8edf79b17f1fc9d3f369cd08b0.png!w60",09h00 01/09: Daniil Medvedev - Christopher O'Connell
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f0c2abbf67257cd7decc1f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1942_small.png",10h05 01/09: Atlante - Dorados
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64e8d152bf67257cd7deb4b0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",12h00 01/09: Japan - India
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64eca4c3bf67257cd7debef4&.m3u8|Referer=https://sk.mediastation.live/
@@ -695,9 +692,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec83
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec833&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1942_small.png",10h05 01/09: Atlante - Dorados
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee49da940c6c07fa0904de&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/86576/image",15h00 01/09: Persita - Madura United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ee49df940c6c07fa0904e3&.m3u8|Referer=https://pl-rk.livefb.xyz/
