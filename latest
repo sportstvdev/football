@@ -193,6 +193,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4aa8bf67257cd7dec662&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",18h00 03/09: Australia - Việt Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f377d583581467005c0170&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",18h00 03/09: Rangers - Celtic
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f3783d83581467005c0177&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",19h00 03/09: Girona - Las Palmas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4a94bf67257cd7dec645&.m3u8|Referer=https://sk.mediastation.live/
@@ -226,6 +229,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4aa3bf67257cd7dec659&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",21h00 03/09: Greece - Romania
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f1e7f483581467005bfa44&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9860_small.png",21h00 03/09: Hearts - Motherwell
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f3784183581467005c0179&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8485_small.png",21h00 03/09: Aberdeen - Hibernian
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f3784483581467005c017c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",21h15 03/09: Mallorca - Athletic Club
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4a94bf67257cd7dec647&.m3u8|Referer=https://sk.mediastation.live/
@@ -629,12 +638,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4eadbf67257cd7dec833&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8478_small.png",23h00 02/09: Viking - Vålerenga
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ef9d9f940c6c07fa090ee7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/switzerland/logos/st-gallen.png",23h00 02/09: St. Gallen - Lausanne
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ef9db6940c6c07fa090eec&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1933_small.png",23h15 02/09: Başakşehir - Konyaspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ef9dcc940c6c07fa090ef1&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -770,7 +773,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f0efc1940c6c07fa091505&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png!w60",12h00 03/09: Canberra FC - Canberra Olympic
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f36d5c940c6c07fa0925b4&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",13h30 03/09: Da Nang - Da Nang
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://apimanager.ydssp.com/uploads/teamIcon/0943/dkypcwG9x4g.png",13h30 03/09: Capalaba Bulldogs - Albany Creek
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f36d90940c6c07fa0925ba&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",14h00 03/09: SKA-Khabarovsk - Dynamo Makhachkala
