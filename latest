@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png",11h00 02/09: Hokkaido Consadole Sapporo - Gamba Osaka
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef49dfbf67257cd7dec61f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://yt3.googleusercontent.com/dEr5BNbCSWyMngikECVWlRAKkk2jZ86OyCYsk5OzEEmpRTIC_mD3FeIOQQ1GQItNWyf6nwMW=s176-c-k-c0x00ffffff-no-rj",14h00 02/09: Trực tiếp giải cầu lông cá nhân - QUỐC GIA NĂM 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64f1f85e83581467005bfaee&.m3u8|Referer=https://sk.mediastation.live/
@@ -710,12 +707,6 @@ http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4eadbf67257cd7dec83
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://sportstvapp.duckdns.org/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/41255/image",12h00 02/09: Busan TC - Yangpyeong
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2c086940c6c07fa091e7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/469535/image",12h00 02/09: Gangwon II - Jinju Citizen
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2c098940c6c07fa091e80&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/256259/image",12h45 02/09: St George Willawong - Grange Thistle
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2ca19940c6c07fa091f05&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -734,6 +725,12 @@ http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2cc79940c6c07fa091f
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2de609652e29c1bc2072a42dc4858132.png!w60",13h30 02/09: Darwin Olympic - Darwin Hearts
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2d3d8940c6c07fa091f57&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429441_small.png",14h00 02/09: Bucheon FC 1995 - Chungnam Asan FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2db59940c6c07fa091f68&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/346810/image",14h00 02/09: Seoul Nowon - Pyeongchang FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://sportstvapp.duckdns.org/football/playcakhia.php?id=64f2db6e940c6c07fa091f6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/88517_small.png",14h30 02/09: Suwon Bluewings - FC Seoul
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://sportstvapp.duckdns.org/football/playcakhia.php?id=64ef9c6b940c6c07fa090e16&.m3u8|Referer=https://pl-rk.livefb.xyz/
