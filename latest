@@ -33,9 +33,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4085b83581467005c02fc&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4a94bf67257cd7dec645&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287980_small.png",19h00 03/09: Dominica - Serbia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f408bf83581467005c0301&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287980_small.png",19h00 03/09: Dominica - Serbia
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f408bf83581467005c0302&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h30 03/09: Saigon Heat - Ho Chi Minh City Wings
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -539,12 +536,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f45102c8a07873dbe00f37&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/883952_small.png",17h00 03/09: SC Dnipro-1 - LNZ
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f45ad3c8a07873dbe00fc3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",17h15 03/09: FC Utrecht - Feyenoord
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f0eff2940c6c07fa091528&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8025_small.png",17h30 03/09: Slask Wroclaw - Jagiellonia Bialystok
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f0eff3940c6c07fa091529&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9941_xsmall.png",18h00 03/09: Toulouse - Clermont Foot
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f0efff940c6c07fa091532&.m3u8|Referer=https://pl-rk.livefb.xyz/
