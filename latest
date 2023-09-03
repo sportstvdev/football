@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",23h00 03/09: Estonia - Switzerland
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f1e84683581467005bfa4d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",23h30 03/09: Torino - Genoa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4a9cbf67257cd7dec650&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",23h30 03/09: Inter - Fiorentina
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4aa1bf67257cd7dec656&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",00h00 04/09: FC Porto - Arouca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4c88bf67257cd7dec6e9&.m3u8|Referer=https://sk.mediastation.live/
@@ -404,18 +395,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4eadbf67257cd7dec833&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",23h30 03/09: Inter - Fiorentina
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f0f1ba940c6c07fa0915fb&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",23h30 03/09: Torino - Genoa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f0f1bb940c6c07fa0915fc&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",23h30 03/09: Spezia - Como
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f0f1d2940c6c07fa09160a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",23h30 03/09: Espanyol - SD Amorebieta
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f0f1d7940c6c07fa091613&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",00h00 04/09: FC Porto - Arouca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f0f26e940c6c07fa091618&.m3u8|Referer=https://pl-rk.livefb.xyz/
