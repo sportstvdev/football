@@ -554,12 +554,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4eadbf67257cd7dec833&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d3bbf67257cd7dec743&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",07h00 03/09: Botafogo - Flamengo
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f26e48940c6c07fa091da6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/365280_small.png",07h20 03/09: Metropolitanos FC - Academia Puerto Cabello
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f3cea4940c6c07fa092a42&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6604_small.png",07h30 03/09: Sporting KC - St. Louis City
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f0ef8d940c6c07fa0914dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
