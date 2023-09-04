@@ -665,9 +665,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efad&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efae&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/637156b78623bf5cec6d1a224b7c6382.png!w60",17h10 04/09: Student Union -  Bangalore Independents
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f5ace51a2cc51e4ce7ea93&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2a763e10d7d8dc7d1bdd3976f442236f.png!w60",18h00 04/09: Drots Moscow - Dynamo Kirov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f48b6efcfb1b7db70a3c1c&.m3u8|Referer=https://pl-rk.livefb.xyz/
