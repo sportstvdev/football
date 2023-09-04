@@ -1,12 +1,9 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213534_small.png",04h00 05/09: Barracas Central - Arsenal Sarandi
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d42bf67257cd7dec74b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",04h00 05/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f34f5b83581467005c0002&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10096_small.png",06h00 05/09: Union - San Lorenzo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d3bbf67257cd7dec741&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",06h00 05/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f34f5b83581467005c0002&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980708_small.png",06h00 05/09: Necaxa (W) - Cruz Azul (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f65f108705c72090f5f1a7&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,12 +22,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f65f0c8705c72090f5f1a5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_small.png",08h20 05/09: Once Caldas - Atletico Huila
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d37bf67257cd7dec73e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",08h40 05/09: Nguyễn Thùy Linh - Gregoria Mariska Tunjung
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f658768705c72090f5f198&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8700_small.png",09h00 05/09: Uzbekistan - Philippines
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5e16c8705c72090f5f0ad&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",09h40 05/09: Nguyễn Thùy Linh - Gregoria Mariska Tunjung
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f658768705c72090f5f198&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614327_small.png",10h00 05/09: Tacoma Defiance - Portland Timbers 2
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5efda8705c72090f5f0ea&.m3u8|Referer=https://sk.mediastation.live/
@@ -686,6 +683,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f39200940c6c07fa092825&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6721_small.png",07h00 05/09: LDU de Quito - Guayaquil City
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f608231a2cc51e4ce7ec99&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://s.yimg.com/cv/apiv2/default/ncaab/20181212/500x500/seton_hall_wbg.png",07h00 05/09: Seton Hal - Indiana
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f667c51a2cc51e4ce7f0ce&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568727_small.png",07h10 05/09: Gimnasia Mendoza - Nueva Chicago
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f6668e1a2cc51e4ce7f0c9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08h06 05/09: Pachuca (W) - Mazatlan FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f39204940c6c07fa09282e&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -719,7 +722,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f60d8c1a2cc51e4ce7eda7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/eb7188dee57cd19b1def0e250b82385b.png!w60",22h00 05/09: SfB Oure - AB Akademisk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f60ee81a2cc51e4ce7edd8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/37114/image",22h00 05/09: FK Admira Praha - Jablonec
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/37114/image",22h00 05/09: FK Admira Praha - Jablonec
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f60e281a2cc51e4ce7edbd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/183882_small.png",22h00 05/09: Znojmo - SK Prostejov
