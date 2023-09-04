@@ -76,6 +76,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d37bf67257cd7dec73e&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8700_small.png",09h00 05/09: Uzbekistan - Philippines
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5e16c8705c72090f5f0ad&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614327_small.png",10h00 05/09: Tacoma Defiance - Portland Timbers 2
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f5efda8705c72090f5f0ea&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",12h00 05/09: Kazakhstan - Australia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5e1f68705c72090f5f0b8&.m3u8|Referer=https://sk.mediastation.live/
@@ -683,9 +686,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efad&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efae&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/89e1933b19095e84018a2be3907d922c.png!w60",20h00 04/09: SY Sakhalinsk - Peresvet Podolsk
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f38ed3940c6c07fa0927c1&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png!w60",21h00 04/09: Tyumen - Arsenal Tula
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38ee6940c6c07fa0927d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
