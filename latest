@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",21h30 04/09: Ukraine - Finland
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f1e4a683581467005bfa0a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",22h00 04/09: Denmark - Netherlands
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f1e4bf83581467005bfa0d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",22h00 04/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f34f5b83581467005c0002&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188191_small.png",22h30 04/09: Botosani - Hermannstadt
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4cc6bf67257cd7dec72c&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,6 +16,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d3ebf67257cd7dec745&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",00h00 05/09: Portugal - Turkey
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f1ea4183581467005bfa6c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Usopen-header-logo.svg/2560px-Usopen-header-logo.svg.png",00h00 05/09: GIẢI TENNIS - Tường thuật Trực tiếp US Open
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f34f5b83581467005c0002&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",00h30 05/09: Croatia - Slovenia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f1eaa383581467005bfa6f&.m3u8|Referer=https://sk.mediastation.live/
@@ -773,18 +767,39 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f60e281a2cc51e4ce7edbd&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/183882_small.png",22h00 05/09: Znojmo - SK Prostejov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f60e451a2cc51e4ce7edc2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/eb7188dee57cd19b1def0e250b82385b.png!w60",22h00 05/09: SfB Oure - AB Akademisk
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f60ee81a2cc51e4ce7edd8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/99927ed3f11c0f361bd4c0c7d61d246f.jpg!w60",22h00 05/09: IF Skjold Birkerod - Vanlose
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f60f5b1a2cc51e4ce7eddf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/32490/image",22h45 05/09: Umm Salal SC - Al Shamal SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f610411a2cc51e4ce7ef0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/32490/image",22h45 05/09: Umm Salal SC - Al Shamal SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f610701a2cc51e4ce7ef4d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298629_small.png",22h45 05/09: Deportivo Riestra - Chacarita Juniors
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f610891a2cc51e4ce7ef5c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a6713b5528e8e9c4b3fe810934aa37f4.png!w60",23h00 05/09: Stabaek (w) - Rosenborg BK (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f60f9d1a2cc51e4ce7ee25&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a1f604fef27dbd2a442d9138e1cb58dd.png!w60",23h30 05/09: Bronshoj - Boldklubben af 1893
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f60fd21a2cc51e4ce7ee74&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6350_small.png",01h00 06/09: Barrow - Blackpool
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f3924d940c6c07fa092854&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8651_small.png",01h00 06/09: Northampton - Oxford Utd
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f39259940c6c07fa09285a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8283_small.png",01h30 06/09: Barnsley - Grimsby
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f39261940c6c07fa092860&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298629_small.png",01h30 06/09: Deportivo Riestra - Chacarita Juniors
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f5b1501a2cc51e4ce7eaa3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8283_small.png",01h30 06/09: Barnsley - Grimsby
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f39261940c6c07fa092860&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8647_small.png",01h45 06/09: Crawley - Charlton
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f3927d940c6c07fa092866&.m3u8|Referer=https://pl-rk.livefb.xyz/
