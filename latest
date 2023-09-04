@@ -665,9 +665,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efad&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efae&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bae47262ce9fbede51f426480c280e5e.png!w60",16h30 04/09: WB Police SC - Calcutta Customs
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f59fec1a2cc51e4ce7ea37&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198167_small.png",17h00 04/09: FC Ryazan - Kaluga
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38ed2940c6c07fa0927c0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -692,15 +689,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f38ee0940c6c07fa0927ca&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/866489_small.png",21h00 04/09: FK Struga - GFK Tikves Kavadarci
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38ee5940c6c07fa0927cf&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Egersunds_IK_logo.png/220px-Egersunds_IK_logo.png",21h30 04/09: Egersund - Aalesund 2
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f38eec940c6c07fa0927da&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188191_small.png",22h30 04/09: Botosani - Hermannstadt
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38eee940c6c07fa0927dc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10232_small.png",22h30 04/09: Ull/Kisa - Brann 2
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38eed940c6c07fa0927db&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Egersunds_IK_logo.png/220px-Egersunds_IK_logo.png",23h00 04/09: Egersund - Aalesund 2
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f38eec940c6c07fa0927da&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10224_small.png",23h00 04/09: Lyn - Arendal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f38f42940c6c07fa0927ea&.m3u8|Referer=https://pl-rk.livefb.xyz/
