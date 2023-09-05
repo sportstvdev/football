@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/tO5cePjl-UHUcqead.png",08h00 05/09:  Alexander Zverev -  Jannik Sinner
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f562fe8705c72090f5f060&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980704_small.png",10h10 05/09: Atlas (W) - Santos Laguna (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f65f108705c72090f5f1a9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",12h00 05/09: Kazakhstan - Australia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5e1f68705c72090f5f0b9&.m3u8|Referer=https://sk.mediastation.live/
@@ -635,12 +632,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1f47cef5e38c952f94c5d61726027439.png!w60",17h00 05/09: Poland (W) U17 - Scotland (w) U17
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1f47cef5e38c952f94c5d61726027439.png!w60",17h00 05/09: Poland (W) U17 - Scotland (W) U17
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f609fd1a2cc51e4ce7ed75&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/54eeda903c49b713fc922ce060d32d92.png!w60",17h00 05/09: Kodagu FC - Young Challengers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f60c561a2cc51e4ce7ed8f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/201141_small.png",17h00 05/09: Portugal (W) U17 - Ireland (W) U17
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f6b8941a2cc51e4ce7f1a1&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1ab0b70082620c06dd8f501df8a5a77a.png!w250",18h00 05/09: Bournemouth AFC U21 - Sheffield Wed U21
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f60a431a2cc51e4ce7ed7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -716,6 +716,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f392c2940c6c07fa092886&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/S85a7FzS-zXtp7RIE.png",14h00 06/09: Myanmar U23 - Kyrgyzstan U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c1a810602004b80ab6fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",15h00 06/09: Ferencvaros - Maccabi Kabilio Jaffa
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f6b7891a2cc51e4ce7f19c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",15h30 06/09: India U23 - Maldives U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c21410602004b80ab709&.m3u8|Referer=https://pl-rk.livefb.xyz/
