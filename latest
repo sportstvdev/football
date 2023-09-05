@@ -4,12 +4,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f562fe8705c72090f5f060&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/125/2023/08/29/WhatsApp-Image-2023-08-29-at-202805-1543408101.jpeg",08h00 05/09: TRỰC TIẾP CẦU LÔNG  - GIẢI VICTOR China Open
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f67fbf8705c72090f5f1d0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08h06 05/09: Pachuca (W) - Mazatlan FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f65f0c8705c72090f5f1a5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_small.png",08h20 05/09: Once Caldas - Atletico Huila
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64ef4d37bf67257cd7dec73e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614327_small.png",10h00 05/09: Tacoma Defiance - Portland Timbers 2
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f5efda8705c72090f5f0ea&.m3u8|Referer=https://sk.mediastation.live/
@@ -644,9 +638,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_xsmall.png",08h20 05/09: Once Caldas - Atletico Huila
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f39209940c6c07fa092833&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614327_small.png",10h00 05/09: Tacoma Defiance - Portland Timbers 2
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f39213940c6c07fa09283d&.m3u8|Referer=https://pl-rk.livefb.xyz/
