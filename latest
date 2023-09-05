@@ -617,9 +617,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a1f604fef27dbd2a442d9138e1cb58dd.png!w60",23h30 05/09: Bronshoj - Boldklubben af 1893
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f60fd21a2cc51e4ce7ee74&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/32490/image",23h45 05/09: Umm Salal SC - Al Shamal SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f610411a2cc51e4ce7ef0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -680,12 +677,18 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c1a810602004b80ab6fe&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/595523_small.png",15h00 06/09: Ferencvarosi TC (W) - Kiryat Gat (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f766967e0ba45db11b8a4a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f45e63cabf4413baea299663cb836c7e.png!w60",15h00 06/09: SC Bengaluru - MEG
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f774677e0ba45db11b8b20&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",15h30 06/09: India U23 - Maldives U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c21410602004b80ab709&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/6NhAgsyB-zXtp7RIE.png",16h00 06/09: Singapore U23 - Yemen U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c32310602004b80ab749&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6320_small.png",16h00 06/09: Syria - Malaysia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64f773c77e0ba45db11b8b15&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/tbMjnyil-8lXkM72t.png",16h30 06/09: Malaysia U23 - Bangladesh U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4c34d10602004b80ab74e&.m3u8|Referer=https://pl-rk.livefb.xyz/
