@@ -10,6 +10,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f762f88705c72090f5f332&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",16h00 06/09: Iran - Đài Loan (TQ)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f7687c8705c72090f5f3d2&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",16h00 06/09: Malaysia - Syria
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f849258705c72090f5f4e8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",16h30 06/09: Malaysia - Bangladesh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f766b08705c72090f5f37a&.m3u8|Referer=https://sk.mediastation.live/
