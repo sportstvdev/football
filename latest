@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",23h00 06/09: Switzerland - Belgium
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f1ef0483581467005bfaa2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.itftennis.com/remote.axd/media.itftennis.com/asset-bank/servlet/display?file=22137999e1220958987dfe2e.jpg?anchor=center&mode=crop&width=219&height=282&rnd=132120787330000000",23h00 06/09: Qinwen Zheng - Aryna Sabalenka
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f88d468705c72090f5f66a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5821_small.png",00h00 07/09: Kuwait - Timor Leste
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f765598705c72090f5f365&.m3u8|Referer=https://sk.mediastation.live/
@@ -512,9 +506,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f798097e0ba45db11b8ba3&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298067_small.png",01h30 07/09: Japan U23 - Pakistan U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4cc4810602004b80ab81a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1578_small.png",01h45 07/09: UCD - Derry City
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f79b6e7e0ba45db11b8bdb&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1198668_small.png",02h00 07/09: SL Benfica (W) - Cliftonville (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4e33c10602004b80ab986&.m3u8|Referer=https://pl-rk.livefb.xyz/
