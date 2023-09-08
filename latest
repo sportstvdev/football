@@ -458,6 +458,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/8hOQ70dM-nJGEhsH5.png",13h30 08/09: Đồng Nai U21 - Tây Ninh U21
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fab97119a3305e040e14dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/8lvZ96Ar-jeFu6Qy4.png",13h30 08/09: Long An U21 - Can Tho U21
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fab9f119a3305e040e14e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/WjCBv2yB-rq7lBaaf.png",13h30 08/09: Kon Tum U21 - QNK Quang Nam U21
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64faba5d19a3305e040e14eb&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.xoilacz.com/teams/67642.TTDTBD-DAO-HA.png",14h30 08/09: Đào Hà U21 - Viettel FC U21
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fabac819a3305e040e14f2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",15h00 08/09: Shandong SL (W) - Henan Songshan Longmen ( W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fa0e6519a3305e040e10f9&.m3u8|Referer=https://pl-rk.livefb.xyz/
