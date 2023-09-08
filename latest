@@ -34,7 +34,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8d28705c72090f5eed1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",02h00 09/09: Saudi Arabia - Costa Rica
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8d48705c72090f5eed5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png!w60",02h00 09/09: Ben Shelton - Novak Djokovic
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png!w60",02h15 09/09: Ben Shelton - Novak Djokovic
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fa08adfe83697910ccf475&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5934_small.png",03h00 09/09: Haiti - Cuba
@@ -455,9 +455,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d7fc61647f162a72d8e8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5934_small.png",03h00 09/09: Haiti - Cuba
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d7eb61647f162a72d8dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5943_small.png",03h00 09/09: Bermuda - French Guiana
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127409_small.png",03h00 09/09: Belize - Saint Vincent and The Grenadines
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d7f361647f162a72d8e2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fb71e219a3305e040e190c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",06h00 09/09: Uruguay - Chile
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d81a61647f162a72d8f6&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -488,12 +488,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fb400719a3305e040e1763&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b206c10ae3897ae5c1035daf15e185e8.png!w60",13h00 09/09: Nara Club - Imabari FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d86f61647f162a72d924&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7de7a0eff9a6d86c5ba850386a1d47fe.png!w60",14h00 09/09: Yangpyeong - Daejeon Korail
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fb406619a3305e040e176a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/304032_small.png",14h00 09/09: Qatar U23 - Myanmar U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4cc8f10602004b80ab825&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7de7a0eff9a6d86c5ba850386a1d47fe.png!w60",14h00 09/09: Yangpyeong - Daejeon Korail
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fb406619a3305e040e176a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/korea-republic/logos/chuncheon.png",15h00 09/09: Chuncheon - Paju Citizen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fb407f19a3305e040e1771&.m3u8|Referer=https://pl-rk.livefb.xyz/
