@@ -4,6 +4,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64face0efe83697910ccf5d3&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",15h00 08/09: Shandong Taishan - Henan Songshan Longmen
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fad2bafe83697910ccf5db&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220.png",15h00 08/09: U21 Đà Nẵng - U21 Hoàng Anh Gia Lai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fad529fe83697910ccf5e5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.ketnoibongda.vn/upload/images/team/luxuryhalong-2019-05-31.png",15h30 08/09: Luxury Hạ Long - PVF-CAND
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fad483fe83697910ccf5e2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",15h45 08/09: Serbia - Canada
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fa8267fe83697910ccf5a4&.m3u8|Referer=https://sk.mediastation.live/
@@ -461,6 +467,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.aiscore.com/_nuxt/img/teamsDefault.2e6c42b.png",15h00 08/09: Real Chikkamagaluru FC - FC Agniputhra
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fad4cf19a3305e040e1565&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",15h00 08/09: Shandong SL (W) - Henan Songshan Longmen ( W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fa0e6519a3305e040e10f9&.m3u8|Referer=https://pl-rk.livefb.xyz/
