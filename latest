@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",15h00 08/09: Shandong Taishan - Henan Songshan Longmen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fad2bafe83697910ccf5db&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220.png",15h00 08/09: U21 Đà Nẵng - U21 Hoàng Anh Gia Lai
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fad529fe83697910ccf5e5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.ketnoibongda.vn/upload/images/team/luxuryhalong-2019-05-31.png",15h30 08/09: Luxury Hạ Long - PVF-CAND
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fad483fe83697910ccf5e2&.m3u8|Referer=https://sk.mediastation.live/
@@ -100,9 +94,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8d48705c72090f5eed5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png!w60",02h00 09/09: Ben Shelton - Novak Djokovic
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fa08adfe83697910ccf475&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/a75cc3fb992bd2c60fc2d667f955d5e4.png!w60",02h00 09/09: Carlos Alcaraz Garfia - Daniil Medvedev
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fa08d5fe83697910ccf478&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5934_small.png",03h00 09/09: Haiti - Cuba
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8d88705c72090f5eed7&.m3u8|Referer=https://sk.mediastation.live/
@@ -124,6 +115,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8de8705c72090f5eee0&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134_small.png",06h00 09/09: Dominican Republic - Nicaragua
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d8e18705c72090f5eee3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/a75cc3fb992bd2c60fc2d667f955d5e4.png!w60",06h00 09/09: Carlos Alcaraz Garfia - Daniil Medvedev
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fa08d5fe83697910ccf478&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png",07h40 09/09: Deportivo Pasto - CD Jaguares
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f71a1b8705c72090f5f26c&.m3u8|Referer=https://sk.mediastation.live/
@@ -139,6 +133,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f8cec8fe83697910ccf0dc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Guam_FA_logo.png",16h00 09/09: Guam - Singapore
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f8cedafe83697910ccf0df&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6223_small.png",16h00 09/09: Tokyo Verdy - Renofa Yamaguchi
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64faf033fe83697910ccf608&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8539_small.png",16h00 09/09: Ventforet Kofu - Oita Trinita
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64faf036fe83697910ccf60a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162195_small.png",16h00 09/09: Mito Hollyhock - Zweigen Kanazawa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64faf037fe83697910ccf60c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/194011_small.png",16h00 09/09: Machida Zelvia - Tochigi SC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64faf039fe83697910ccf60e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",16h30 09/09: Philippines - Malaysia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f8cf02fe83697910ccf0e2&.m3u8|Referer=https://sk.mediastation.live/
@@ -464,15 +470,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/56849334a04cf3f994f0b37ff16dd6ef.png!w60",14h50 08/09: SHB Da Nang U21 -  Hoang Anh Gia Lai U21
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fad7fb19a3305e040e158e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.aiscore.com/_nuxt/img/teamsDefault.2e6c42b.png",15h00 08/09: Real Chikkamagaluru FC - FC Agniputhra
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fad4cf19a3305e040e1565&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",15h00 08/09: Shandong SL (W) - Henan Songshan Longmen ( W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fa0e6519a3305e040e10f9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d90e862166b1d2d8a5a8351b513471c7.png!w60",15h30 08/09: Luxury Ha Long U21 - Cong An Nhan Dan U21
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fad8cf19a3305e040e15a0&.m3u8|Referer=https://pl-rk.livefb.xyz/
