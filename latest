@@ -746,6 +746,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fc0392e73a6c25bf961e0c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6d1c454cefb8b653d03158e60468e425.png!w60",13h00 09/09: Canberra Olympic - Canberra FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fc0416e73a6c25bf961e11&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/258866/image",13h00 09/09: SWQ Thunder (W) - Broadbeach United (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fc062fe73a6c25bf961e2c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/408576/image",13h00 09/09: Pyeongchang United - Daejeon Citizen II
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fc0660e73a6c25bf961e31&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/304032_small.png",14h00 09/09: Qatar U23 - Myanmar U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4cc8f10602004b80ab825&.m3u8|Referer=https://pl-rk.livefb.xyz/
