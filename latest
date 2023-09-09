@@ -217,6 +217,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da778705c72090f5ef9b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5859_small.png",03h00 11/09: Martinique - Curacao
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da778705c72090f5ef9a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/d4f05c8edf79b17f1fc9d3f369cd08b0.png!w60",03h00 11/09: Daniil Medvedev - Novak Djokovic
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fc66b9d366f444bd2042bb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127408_small.png",06h00 11/09: Saint Lucia - St. Kitts and Nevis
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da7b8705c72090f5ef9d&.m3u8|Referer=https://sk.mediastation.live/
@@ -764,9 +767,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d92f61647f162a72d967&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6316_small.png",20h00 09/09: South Africa - Namibia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d93161647f162a72d968&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1678_small.png",20h00 09/09: Sokol Saratov - KamAZ
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8d94061647f162a72d975&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/258657_small.png",20h00 09/09: Arsenal Women (W) - Paris FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fb822a19a3305e040e1ab5&.m3u8|Referer=https://pl-rk.livefb.xyz/
