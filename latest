@@ -31,7 +31,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9c78705c72090f5ef3c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7844_small.png",02h30 10/09: Vitoria de Guimaraes - Tondela
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9ca8705c72090f5ef3f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2020/06/30/31c090b2-e38f-4ad2-8eee-9415aad508ee/Gauff_Hero-Smile.png?width=950",03h00 10/09: Cori Gauff - Aryna Sabalenka
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2020/06/30/31c090b2-e38f-4ad2-8eee-9415aad508ee/Gauff_Hero-Smile.png?width=950",03h15 10/09: Cori Gauff - Aryna Sabalenka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fbdf5ad366f444bd204149&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",04h30 10/09: USA - Uzbekistan
@@ -653,9 +653,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10078_small.png",01h15 10/09: Independiente - Estudiantes
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8da8161647f162a72da0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",01h30 10/09: Palestine U23 - Japan U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f4e0e810602004b80ab917&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -803,9 +800,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbc561647f162a72dac7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/22289/image",20h00 10/09: IFK Trelleborg - Karlskrona
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbbcad8734f346392d758&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/858300_small.png",21h00 10/09: Real Sociedad (W) - Levante (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbcd61647f162a72dacc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8474_small.png",21h15 10/09: Racing de Ferrol - Villarreal B
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbd561647f162a72dad1&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -818,6 +812,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbdd61647f162a72dadb&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c659930080be6bd5532387d5e097c16c.png!w60",22h00 10/09: Leningradets - Dynamo Makhachkala
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbde61647f162a72dadc&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/UNsOXjil-ra5luop1.png",22h30 10/09: Al Duhail - Al Shamal SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fcd3d2d8734f346392d818&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",23h00 10/09: Finland - Denmark
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbee61647f162a72dae7&.m3u8|Referer=https://pl-rk.livefb.xyz/
