@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",15h30 10/09: USA - Canada
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fcfe24f4af4645f7861328&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",16h00 10/09: Yokohama F.Marinos - Hokkaido Consadole Sapporo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9e98705c72090f5ef54&.m3u8|Referer=https://sk.mediastation.live/
@@ -626,12 +623,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162196_small.png",16h00 10/09: Roasso Kumamoto - Fujieda MYFC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8db9161647f162a72daa8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4397_small.png",16h00 10/09: Kashima Antlers - Nagoya Grampus
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbaa61647f162a72daae&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",16h00 10/09: Yokohoma FM - Consadole Sapporo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbab61647f162a72daaf&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -650,6 +641,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fca6e2d8734f346392d582&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/855904_small.png",18h00 10/09: Guadalupe FC - Fabril Barreiro
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbae9d8734f346392d739&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/43875/image",18h00 10/09: Hirnyk-Sport - Poltava
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fda149a6aec15c847929c9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/387754/image",19h00 10/09: LKS Lodz II - Sandecja Nowy Sacz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbb81d8734f346392d749&.m3u8|Referer=https://pl-rk.livefb.xyz/
