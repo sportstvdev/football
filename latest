@@ -130,9 +130,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fd4a94f4af4645f78613a7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",09h10 11/09: El Salvador -  Trinidad and Tobago
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da838705c72090f5efa9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/125/2023/08/29/WhatsApp-Image-2023-08-29-at-202805-1543408101.jpeg",12h00 11/09: TRỰC TIẾP CẦU LÔNG  - GIẢI VICTOR China Open
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fc38b0d366f444bd204181&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h30 11/09: Saigon Heat - Thang Long Warriors	
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f62e5b8705c72090f5f174&.m3u8|Referer=https://sk.mediastation.live/
@@ -635,12 +632,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Siheung_Citizen_FC.png/180px-Siheung_Citizen_FC.png",13h00 10/09: Siheung Citizen - Pocheon FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fcb9b3d8734f346392d6e1&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/408577/image",13h00 10/09: Dangjin Citizen - Jeonbuk II
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fd57542e96a7537503f95f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4370fb6eb8bc35f82debdc28f58b6597.png!w60",14h00 10/09: Surfers Paradise - Brisbane Strikers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fd696a2e96a7537503f98a&.m3u8|Referer=https://pl-rk.livefb.xyz/
