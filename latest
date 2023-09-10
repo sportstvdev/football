@@ -653,9 +653,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fca6e2d8734f346392d582&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/855904_small.png",18h00 10/09: Guadalupe FC - Fabril Barreiro
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbae9d8734f346392d739&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",19h00 10/09: Thailand - Iraq
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fca731d8734f346392d5bf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/387754/image",19h00 10/09: LKS Lodz II - Sandecja Nowy Sacz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbb81d8734f346392d749&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -665,6 +662,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbc561647f162a72dac7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/22289/image",20h00 10/09: IFK Trelleborg - Karlskrona
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbbcad8734f346392d758&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20h30 10/09: Thailand - Iraq
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fca731d8734f346392d5bf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8474_small.png",21h15 10/09: Racing de Ferrol - Villarreal B
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbd561647f162a72dad1&.m3u8|Referer=https://pl-rk.livefb.xyz/
