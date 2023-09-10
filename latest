@@ -635,12 +635,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/207242_small.png",07h30 10/09: Minnesota - New England
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8db5a61647f162a72da76&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614325_small.png",07h30 10/09: FC Tulsa - Phoenix Rising FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64f8db5d61647f162a72da77&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614321_small.png",08h00 10/09: Colorado Springs Switchbacks FC - San Antonio FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8db6461647f162a72da80&.m3u8|Referer=https://pl-rk.livefb.xyz/
