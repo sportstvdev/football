@@ -4,7 +4,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fcfe3cf4af4645f786132b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",20h00 10/09: Kazakhstan - Northern Ireland
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fcb8c1f4af4645f7861226&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",20h55 10/09: Thái Lan - Iraq
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",21h00 10/09: Thái Lan - Iraq
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fcb687f4af4645f7861215&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8474_small.png",21h15 10/09: Racing de Ferrol - Villarreal B
@@ -602,18 +602,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/387754/image",19h00 10/09: LKS Lodz II - Sandecja Nowy Sacz
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fcbb81d8734f346392d749&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/015e82b9ce9d26e22c4e37ac4c2137bd.png!w60",19h00 10/09: Nyva Buzova - Khust
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fda43ea6aec15c847929f8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8a71e9629c5a035b3661c51e089a7c44.png!w60",19h00 10/09: Aarhus Fremad - Fremad Amager
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fdad1fa6aec15c84792a36&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8285_small.png",19h00 10/09: Esbjerg fB - Nykøbing FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fdad21a6aec15c84792a37&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391931_small.png",20h00 10/09: Kazakhstan - Northern Ireland
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbc561647f162a72dac7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -632,9 +620,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fdc7f4a6aec15c84792af7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/395550/image",20h40 10/09: Al Rams - Al-Thaid
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fdc890a6aec15c84792b04&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://dimg-pa.googleapis.com/lg/CgA.png?sig=AI8nk_cT_fvF9XHLwmKH9FoQ7l3x&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=TTGMbb7EXmY&w=150&h=150",21h00 10/09: Baranovichi - Bumprom
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/768a4ead9ed7624bd155fd176e46b8a4.png!w60",21h00 10/09: Baranovichi - Bumprom
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fdc64ca6aec15c84792add&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c6297bd53d2dd4e7f419452e09430c6f.png!w60",21h00 10/09: IF Sylvia - Täby FK
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fdcd89a6aec15c84792b24&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bf424cb7b0dea050a42b9739eb261a3a.jpg!w60",21h00 10/09: Ljungskile - Lunds BK
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=64fdce1ca6aec15c84792b39&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8474_small.png",21h15 10/09: Racing de Ferrol - Villarreal B
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64f8dbd561647f162a72dad1&.m3u8|Referer=https://pl-rk.livefb.xyz/
