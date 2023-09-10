@@ -67,6 +67,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fd4a94f4af4645f78613a7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",09h10 11/09: El Salvador -  Trinidad and Tobago
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da838705c72090f5efa9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",17h30 11/09: Myanmar - Nepal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fe080335187a63b67b81fc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h30 11/09: Saigon Heat - Thang Long Warriors	
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f62e5b8705c72090f5f174&.m3u8|Referer=https://sk.mediastation.live/
@@ -85,6 +88,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4da878705c72090f5efae&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",23h00 11/09: France - Romania
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fc8010d366f444bd204377&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5827_small.png",23h00 11/09: Slovenia U21 - France U21
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fe073335187a63b67b81f6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8494_small.png",23h00 11/09: Denmark U21 - Slovakia U21
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fe073735187a63b67b81f8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4401_small.png",08h30 12/09: Bucaramanga - Alianza Petrolera
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fd4aaef4af4645f78613ae&.m3u8|Referer=https://sk.mediastation.live/
@@ -614,9 +623,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fb92a819a3305e040e1b5c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",02h00 11/09: Real Valladolid - Elche
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fb92b619a3305e040e1b61&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/401657_small.png",02h00 11/09: Barcelona (W) - Valencia Femenino (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fb92b919a3305e040e1b62&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5757_small.png",02h30 11/09: Guadeloupe - Sint Maarten
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fb92c119a3305e040e1b6c&.m3u8|Referer=https://pl-rk.livefb.xyz/
