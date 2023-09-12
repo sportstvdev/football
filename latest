@@ -109,6 +109,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6500a81891f4da3dac879c09&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Qnar3flOweeVq-IC6m092g_96x96.png",15h00 13/09: Hoàng Anh Gia Lai - CLB Hue
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500a5e091f4da3dac879c02&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c7/CLB_B%C3%B3ng_%C4%91%C3%A1_%C4%90%E1%BA%AFk_L%E1%BA%AFk.png",15h30 13/09: Dak Lak - Dong Nai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6500b94e91f4da3dac879ce6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1891_small.png",15h30 13/09: La Serena - Đà Nẵng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6500b96c91f4da3dac879ce9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/175654_small.png",01h45 14/09: Bala Town - TNS
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b56d366f444bd203fc0&.m3u8|Referer=https://sk.mediastation.live/
