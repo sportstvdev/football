@@ -437,9 +437,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9730_small.png",01h45 13/09: Romania - Kosovo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf581d8734f346392d9a2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",02h00 13/09: Senegal - Algeria
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf5d3d8734f346392d9bf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/835267_small.png",02h30 13/09: French Guiana - Belize
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf5d7d8734f346392d9c9&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -530,9 +527,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650095539fd65e2c8a7206f5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9935_small.png",23h00 13/09: Puntarenas FC - AD Municipal Liberia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650095759fd65e2c8a7206fa&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4507_small.png",00h00 14/09: Vålerenga (W) - LSK Kvinner (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6500d3b19fd65e2c8a720baa&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10000_small.png",01h00 14/09: Zulte Waregem - Anderlecht
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6500d2f79fd65e2c8a720b92&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213598_small.png",03h00 14/09: Crucero del Norte - Juventud Antoniana
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6500d3c29fd65e2c8a720bb0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/colombia/logos/deportivo-pereira.png",04h00 14/09: Deportivo Pereira - Deportivo Pasto
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6ad532b20c0594e179d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -542,12 +545,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6ad332b20c0594e179cf&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188427_small.png",04h00 14/09: Municipal Grecia - AD Guanacasteca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6ad732b20c0594e179d1&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1135780_small.png",04h30 14/09: Atletico Ottawa - Pacific FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6b0232b20c0594e179de&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162905_small.png",04h30 14/09: Curico Unido - O'Higgins
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6b0c32b20c0594e179e3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/202757_small.png",06h00 14/09: Sarmiento - Central Cordoba de Santiago
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6b3532b20c0594e179e9&.m3u8|Referer=https://pl-rk.livefb.xyz/
