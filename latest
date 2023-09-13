@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5800_small.png",05h00 13/09: Venezuela - Paraguay
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8af0d366f444bd203fa2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6222_small.png",05h00 13/09: Guyana - Bahamas
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8af3d366f444bd203fa5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5756_small.png",06h06 13/09: Puerto Rico - Antigua and Barbuda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8af5d366f444bd203fa8&.m3u8|Referer=https://sk.mediastation.live/
@@ -422,9 +416,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf5f2d8734f346392d9f5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/flags/48/puerto-rico.png",06h06 13/09: Puerto Rico - Antigua and Barbuda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf5f3d8734f346392d9f6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49733_small.png",07h00 13/09: Santos de Guapiles - Sporting FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf601d8734f346392d9ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5806_small.png",07h06 13/09: Jamaica - Haiti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64fcf625d8734f346392da04&.m3u8|Referer=https://pl-rk.livefb.xyz/
