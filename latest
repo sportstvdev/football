@@ -1,15 +1,9 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f493695030dab5532a64664421dba653.png!w60",00h00 14/09: SV Kematen - FC Volders
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6501df3d10b9eb66833f3ce6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1198668_small.png",01h45 14/09: SL Benfica (W) - Sporting CP
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500df4d91f4da3dac879da9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4404_small.png",04h00 14/09: Deportivo Pereira - Deportivo Pasto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b5ad366f444bd203fc2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188293_small.png",04h00 14/09: Coatepeque - Coban Imperial
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b5dd366f444bd203fc5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10103_small.png",04h00 14/09: Gimnasia LP - Velez Sarsfield
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fd4ac8f4af4645f78613bb&.m3u8|Referer=https://sk.mediastation.live/
@@ -61,12 +55,24 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6502010b10b9eb66833f3d3a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a9eed2b77a4965543f58975a795f3db2.png!w60",20h30 14/09: Amkal Moscow - FC Chelyabinsk
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6502015610b9eb66833f3d3d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102121_small.png",20h30 14/09: Emirates Club - Al-Wahda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650207ca10b9eb66833f3d53&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101900_small.png",20h45 14/09: Qatar SC - Al Arabi
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650207df10b9eb66833f3d56&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582759_small.png",22h00 14/09: Al Akhdoud - Al Ittihad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b74d366f444bd203fe2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",23h00 14/09: Poland - Slovenia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6501ceca10b9eb66833f3cb8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/47851b271a18f90c37a6ef34e2bc7e80.png!w60",23h30 14/09: Al Mesaimeer - Al-Shahaniya
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6502085810b9eb66833f3d5b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/718ad64f1a3de007af0de47a9ca2df8f.jpg!w60",23h30 14/09: Al-Kharitiyath -  CLB Al Wabb
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6502089c10b9eb66833f3d60&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8632_small.png",00h30 15/09: Levski Sofia - Pirin Blagoevgrad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8bccd366f444bd203ff2&.m3u8|Referer=https://sk.mediastation.live/
@@ -326,12 +332,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdfd366f444bd204083&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/94959_small.png",00h00 14/09: SV Heimstetten - Munich 1860 II
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6501ecb39fd65e2c8a721126&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f493695030dab5532a64664421dba653.png!w60",00h00 14/09: SV Kematen - Volders
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6501ed6f9fd65e2c8a7211f6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9863_small.png",01h00 14/09: Fluminense U20 -  Corinthians U20
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6501f9d09fd65e2c8a72124f&.m3u8|Referer=https://pl-rk.livefb.xyz/
