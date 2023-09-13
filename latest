@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6500d28391f4da3dac879d6b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23h00 13/09: CLB Saturn Moscow - FK Khimik-Avgust
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d2c491f4da3dac879d75&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10107_small.png",23h30 13/09: Zrinjski Mostar - Posusje
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6500cdf891f4da3dac879d26&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/859606_small.png",23h30 13/09: Veles Moscow - CLB Znamya Truda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d34b91f4da3dac879d7f&.m3u8|Referer=https://sk.mediastation.live/
@@ -347,6 +344,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6501cfef9fd65e2c8a72102d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/859606_small.png",23h30 13/09: Veles Moscow - Znamya Truda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6501d1119fd65e2c8a721037&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10107_small.png",23h30 13/09: Zrinjski Mostar - Posusje
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501e4669fd65e2c8a7210e8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4507_small.png",00h00 14/09: Vålerenga (W) - LSK Kvinner (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6500d3b19fd65e2c8a720baa&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -440,6 +440,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6501e2459fd65e2c8a7210c4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582759_small.png",22h00 14/09: Al Akhdoud - Al Ittihad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6be432b20c0594e17a48&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cd395fd8e7ba7036a13ac241a0e090a5.png!w100",22h20 14/09: Hajer - Jeddah Club
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501e3fe9fd65e2c8a7210dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/oman/logos/al-nasr.png",23h00 14/09: Al Nasr - Ajman
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501e4409fd65e2c8a7210e2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/993edc98ca87f7e08494eec37fa836f7.jpg!w60",23h05 14/09: Al-Orubah - Al Batin
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501e4b69fd65e2c8a7210ef&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8289_small.png",00h00 15/09: HB Køge - Kolding IF
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6d8932b20c0594e17a4e&.m3u8|Referer=https://pl-rk.livefb.xyz/
