@@ -1,13 +1,10 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c4c7e5d0c7df2788b7fa124578da9b07.png!w100",22h00 13/09: D. Bryansk - CLB FK Kaluga 
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6500d28391f4da3dac879d6b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23h00 13/09: CLB Saturn Moscow - FK Khimik-Avgust
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d2c491f4da3dac879d75&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/859606_small.png",23h30 13/09: Veles Moscow - CLB Znamya Truda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d34b91f4da3dac879d7f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10027_small.png",00h00 14/09: Dinamo Tirana - Kukesi
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f493695030dab5532a64664421dba653.png!w60",00h00 14/09: SV Kematen - FC Volders
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6501df3d10b9eb66833f3ce6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/175654_small.png",01h45 14/09: Bala Town - TNS
@@ -344,9 +341,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6501d1119fd65e2c8a721037&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10107_small.png",23h30 13/09: Zrinjski Mostar - Posusje
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6501e4669fd65e2c8a7210e8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4507_small.png",00h00 14/09: Vålerenga (W) - LSK Kvinner (W)
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/94959_small.png",00h00 14/09: SV Heimstetten - Munich 1860 II
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6500d3b19fd65e2c8a720baa&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501ecb39fd65e2c8a721126&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10000_small.png",01h00 14/09: Zulte Waregem (W) - Anderlecht (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6500d2f79fd65e2c8a720b92&.m3u8|Referer=https://pl-rk.livefb.xyz/
