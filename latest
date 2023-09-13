@@ -25,9 +25,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6500cff991f4da3dac879d40&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165222_small.png",20h00 13/09: Negeri Sembilan - Johor Darul Ta'zim FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500cc3391f4da3dac879d1d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198152_small.png",20h00 13/09: Khimik Dzerzhinsk - CLB FK Ryazan
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6500d06d91f4da3dac879d48&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1173613_small.png",20h30 13/09: Forte Taganrog - Salyut Belgorod
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d0d291f4da3dac879d4e&.m3u8|Referer=https://sk.mediastation.live/
@@ -380,9 +377,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64f4d9f88705c72090f5ef65&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0822416345e2d8d33a657df506467eea.png!w60",17h00 13/09: MEG - Bangalore Dream
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6500d2029fd65e2c8a720b8d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/464035/image",17h00 13/09: Kremen-2 - Kudrivka
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650187b09fd65e2c8a720de5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Manta_F.C.png",17h00 13/09: Ulutau - Altay
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650188029fd65e2c8a720df0&.m3u8|Referer=https://pl-rk.livefb.xyz/
