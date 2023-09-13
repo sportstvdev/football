@@ -58,6 +58,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b71d366f444bd203fdf&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h30 14/09: Saigon Heat - Thang Long Warriors	
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64f62e9f8705c72090f5f17a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",20h30 14/09: Al Ain - Al Bataeh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6502010b10b9eb66833f3d3a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a9eed2b77a4965543f58975a795f3db2.png!w60",20h30 14/09: Amkal Moscow - FC Chelyabinsk
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6502015610b9eb66833f3d3d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582759_small.png",22h00 14/09: Al Akhdoud - Al Ittihad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b74d366f444bd203fe2&.m3u8|Referer=https://sk.mediastation.live/
@@ -100,9 +106,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8be2d366f444bd20400b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193029_small.png",08h50 15/09: Alianza Petrolera - Junior FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8be2d366f444bd204009&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165198_small.png",15h00 15/09: PSM Makassar - Barito Putera
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8be5d366f444bd20400f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165198_small.png",15h00 15/09: PSM Makassar - Barito Putera
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8c03d366f444bd20401a&.m3u8|Referer=https://sk.mediastation.live/
