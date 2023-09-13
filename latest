@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6500d15291f4da3dac879d59&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c4c7e5d0c7df2788b7fa124578da9b07.png!w100",22h00 13/09: D. Bryansk - CLB FK Kaluga 
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d28391f4da3dac879d6b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1275957_small.png",22h30 13/09: Dynamo Saint Petersburg - Luki-Energiya
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6500d2ab91f4da3dac879d72&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d818de0b3d7dcf03dab2dc027bc42de5.png!w60",23h00 13/09: CLB Saturn Moscow - FK Khimik-Avgust
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6500d2c491f4da3dac879d75&.m3u8|Referer=https://sk.mediastation.live/
@@ -362,6 +359,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650095759fd65e2c8a7206fa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8714_small.png",23h00 13/09: Saturn Ramenskoye - FK Khimik-Avgust
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6501cfef9fd65e2c8a72102d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/859606_small.png",23h30 13/09: Veles Moscow - Znamya Truda
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6501d1119fd65e2c8a721037&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4507_small.png",00h00 14/09: Vålerenga (W) - LSK Kvinner (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6500d3b19fd65e2c8a720baa&.m3u8|Referer=https://pl-rk.livefb.xyz/
