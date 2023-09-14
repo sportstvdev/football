@@ -25,6 +25,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650207ca10b9eb66833f3d53&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101900_small.png",20h45 14/09: Qatar SC - Al Arabi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650207df10b9eb66833f3d56&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203826_small.png",20h45 14/09: Al-Duhail SC - Al Bidda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6502dbc410b9eb66833f3f28&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582759_small.png",22h00 14/09: Al Akhdoud - Al Ittihad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8b74d366f444bd203fe2&.m3u8|Referer=https://sk.mediastation.live/
@@ -560,7 +563,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6b7932b20c0594e17a34&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1078408_small.png",17h00 14/09: West Armenia - Van
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6b8032b20c0594e17a3e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w60",17h00 14/09: Akademiya Ontustik - FK Taraz
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w60",17h00 14/09: Ekibastuzets - Yelimay Semey
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6501e1a19fd65e2c8a7210b5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/485935_small.png",17h00 14/09: Bengaluru FC - Deccan Rovers FC
