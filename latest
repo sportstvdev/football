@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",17h00 15/09: Yokohama F.Marinos - Sagan Tosu
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8be8d366f444bd204012&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6304_small.png",17h00 15/09: Kawasaki Frontale - FC Tokyo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8bfed366f444bd204017&.m3u8|Referer=https://sk.mediastation.live/
@@ -13,9 +10,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6504299f10b9eb66833f4656&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Daejeon_Korail_FC.png",17h00 15/09: Daejeon Korail - Paju Citizens
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650429d410b9eb66833f4661&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.imgur.com/DglzGhE.png",17h00 15/09: CẦU LÔNG - GIẢI VIỆT NAM MỞ RỘNG
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",17h30 15/09: Yokohama F.Marinos - Sagan Tosu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65042c3510b9eb66833f467d&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8be8d366f444bd204012&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 15/09: Urawa Red Diamonds - Kyoto Sanga FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8c03d366f444bd20401b&.m3u8|Referer=https://sk.mediastation.live/
