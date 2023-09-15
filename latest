@@ -16,6 +16,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8bfed366f444bd204017&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8539_small.png",17h00 15/09: Ventforet Kofu - Tokyo Verdy
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503901510b9eb66833f45cf&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187943_small.png",17h00 15/09: Changwon City - Gimhae
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6504299f10b9eb66833f4656&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Daejeon_Korail_FC.png",17h00 15/09: Daejeon Korail - Paju Citizens
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650429d410b9eb66833f4661&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 15/09: Urawa Red Diamonds - Kyoto Sanga FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8c03d366f444bd20401b&.m3u8|Referer=https://sk.mediastation.live/
@@ -1532,6 +1538,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6e0732b20c0594e17a7c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6304_small.png",17h00 15/09: Kawasaki - FC Tokyo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6e0532b20c0594e17a7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9d5987ff55c833823cc2f06a464c8d5d.png!w60",17h00 15/09:  Bangalore Independents - FC Agniputhra
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65042a389fd65e2c8a7222e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 15/09: Urawa Red Diamonds - Kyoto Sanga FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6e0b32b20c0594e17a85&.m3u8|Referer=https://pl-rk.livefb.xyz/
