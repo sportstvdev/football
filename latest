@@ -186,9 +186,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cd5d366f444bd20407a&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cd9d366f444bd20407b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",20h30 16/09: RB Leipzig - Augsburg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdcd366f444bd204080&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",20h30 16/09: RB Leipzig - Augsburg
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cdcd366f444bd204082&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",20h30 16/09: Wolfsburg - Union Berlin
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -247,9 +244,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650375b110b9eb66833f417b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1926_small.png",00h00 17/09: Adana Demirspor - Pendikspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375b510b9eb66833f417f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",01h00 17/09: Newell's Old Boys - Union
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650375b810b9eb66833f4182&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6422_small.png",01h00 17/09: Fortuna Sittard - FC Volendam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375bb10b9eb66833f4187&.m3u8|Referer=https://sk.mediastation.live/
@@ -1469,12 +1463,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65027d7b10b9eb66833f3f07&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027d9b10b9eb66833f3f0a&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8424_small.png",22h00 15/09: FC Lahti - FC KTP
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6e9a32b20c0594e17ace&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168094/image",22h00 15/09: Al-Fayha - Al Shabab
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6eb232b20c0594e17ad8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/204657/image",22h30 15/09: UTA Arad - Universitatea Cluj
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=64ff6ebe32b20c0594e17ae2&.m3u8|Referer=https://pl-rk.livefb.xyz/
