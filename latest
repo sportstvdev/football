@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",22h45 16/09: Wales - Portugal
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65035ebe10b9eb66833f413a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://toppng.com/uploads/preview/golf-11549988567kpskcdvfv6.png",23h00 16/09: BMW Championship - DP World Tour 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65046bad10b9eb66833f4709&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",23h30 16/09: Newcastle - Brentford
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=64fb8cbad366f444bd20405d&.m3u8|Referer=https://sk.mediastation.live/
@@ -19,6 +13,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65035a3410b9eb66833f411a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6004_small.png",00h00 17/09: Farense - Braga
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375b110b9eb66833f417a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://toppng.com/uploads/preview/golf-11549988567kpskcdvfv6.png",00h00 17/09: BMW Championship - DP World Tour 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65046bad10b9eb66833f4709&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6422_small.png",01h00 17/09: Fortuna Sittard - FC Volendam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375bb10b9eb66833f4187&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,9 +25,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650375be10b9eb66833f4189&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",01h10 17/09: PSV Eindhoven - NEC Nijmegen
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375bb10b9eb66833f4185&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/176525_small.png",01h15 17/09: FK Spartak Subotica - Vojvodina
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650375c310b9eb66833f4190&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49694_small.png",01h15 17/09: Baltika - Rostov
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650375c310b9eb66833f4191&.m3u8|Referer=https://sk.mediastation.live/
