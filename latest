@@ -43,9 +43,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6503771110b9eb66833f4213&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9904_small.png",18h30 17/09: Hannover 96 - Osnabrück
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503771410b9eb66833f4217&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",19h00 17/09: Giải Tennis - Davis Cup 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65035a3410b9eb66833f411a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",19h00 17/09: Getafe - Osasuna
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503771410b9eb66833f4216&.m3u8|Referer=https://sk.mediastation.live/
@@ -64,6 +61,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6503771c10b9eb66833f4221&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",19h30 17/09: FC Twente - Ajax
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503772010b9eb66833f4228&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",20h00 17/09: Giải Tennis - Davis Cup 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65035a3410b9eb66833f411a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",20h00 17/09: Monza - Lecce
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503772010b9eb66833f4229&.m3u8|Referer=https://sk.mediastation.live/
