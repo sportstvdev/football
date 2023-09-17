@@ -1112,15 +1112,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65027d7b10b9eb66833f3f07&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027d9b10b9eb66833f3f0a&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f701a7bbe3d0342516b9ded753cdff67.png!w60",13h00 17/09: Yamato Sylphid (w) - AS Harima ALBION (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65068cb35d1a871570f5350c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/abb4330ceb9eec1567e1e3690eef890f.png!w60",13h00 17/09: Jeonju Citizen - Chungju Citizen
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65068ce45d1a871570f53511&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/7645/image",13h00 17/09: Daejeon Citizen II - Geoje Citizen
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65068d005d1a871570f53516&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/276724/image",13h30 17/09: Gold Coast (W) - Eastern Suburbs (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65069ad45d1a871570f53587&.m3u8|Referer=https://pl-rk.livefb.xyz/
