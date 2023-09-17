@@ -31,9 +31,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6503771410b9eb66833f4216&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8231_small.png",19h00 17/09: Vejle Boldklub - Randers FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503771810b9eb66833f421a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h30 17/09: Saigon Heat - Nha Trang Dolphins
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",19h30 17/09: USA - Thái Lan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65026f9310b9eb66833f3e25&.m3u8|Referer=https://sk.mediastation.live/
@@ -43,6 +40,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6503771c10b9eb66833f4221&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",19h30 17/09: FC Twente - Ajax
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503772010b9eb66833f4228&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/40/Saigon_Heat_logo_2014.png/150px-Saigon_Heat_logo_2014.png",19h45 17/09: Saigon Heat - Nha Trang Dolphins
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=64f62eb48705c72090f5f17d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",20h00 17/09: Giải Tennis - Davis Cup 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65035a3410b9eb66833f411a&.m3u8|Referer=https://sk.mediastation.live/
@@ -1064,9 +1064,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650368969fd65e2c8a721e6b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10004_small.png",18h00 17/09: Millwall - Leeds
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6503689a9fd65e2c8a721e70&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49706_small.png",18h00 17/09: Ural - Fakel
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650368a19fd65e2c8a721e75&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",18h30 17/09: Hertha BSC - Eintracht Braunschweig
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650368b59fd65e2c8a721e7f&.m3u8|Referer=https://pl-rk.livefb.xyz/
