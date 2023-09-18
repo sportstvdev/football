@@ -7,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65083bad469e8460ed8e8ee6&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198156_small.png",20h00 18/09: Tyumen - Rodina
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503783310b9eb66833f4298&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3d1fd95c60a8a0820a162c15860069e0.jfif!w60",20h00 18/09: KL Rovers - PDRM
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65084a82469e8460ed8e8f0b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9732_small.png",20h15 18/09: FC Arges Pitesti - FC Unirea Dej
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650825bef8d3d225b792e287&.m3u8|Referer=https://sk.mediastation.live/
@@ -953,6 +956,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65070d856cd8c324c3b5061c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png!w60",20h00 18/09: Tyumen - Rodina
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6504b3699fd65e2c8a72290b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3d1fd95c60a8a0820a162c15860069e0.jfif!w60",20h00 18/09: Kuala Lumpur Rovers - PDRM
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65084ace1a5e9f6e21c16f00&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9732_small.png",20h15 18/09: FC Arges Pitesti - FC Unirea Dej
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6504b3889fd65e2c8a722914&.m3u8|Referer=https://pl-rk.livefb.xyz/
