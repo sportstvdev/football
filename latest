@@ -1,12 +1,6 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1a/T%C3%A2y_Ninh_FC.svg/1200px-T%C3%A2y_Ninh_FC.svg.png",14h30 18/09:  Tây Ninh - Viettel
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65073e54f8d3d225b792e111&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/305775_small.png",15h00 18/09: YSCC - Grulla Morioka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65080513f8d3d225b792e26c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/911532_small.png",16h30 18/09: Shan United - Kachin United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6507a242f8d3d225b792e215&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179226_small.png",17h30 18/09: Thanh Hoa FC - Phố Hiến
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65073e7af8d3d225b792e114&.m3u8|Referer=https://sk.mediastation.live/
@@ -959,9 +953,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6504b3619fd65e2c8a7228fb&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/637156b78623bf5cec6d1a224b7c6382.png!w60",15h00 18/09: Student Union - ASC Center
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6508056d1a5e9f6e21c16e14&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bebccb85740d6e5dcd5d8e6d89dd07f6.png!w60",16h30 18/09: Hellenic - Darwin Olympic
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/316055/image",17h30 18/09: Kudrivka - Chaika
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6508130a1a5e9f6e21c16e37&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650819cf1a5e9f6e21c16e4e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/255498/image",18h30 18/09: Nakhon Pathom - Uthai Thani FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6504b3679fd65e2c8a72290a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1265,7 +1259,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65073ce16cd8c324c3b5084c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162176_small.png",07h30 20/09: Sampaio Correa - Vila Nova
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073ce36cd8c324c3b5084d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/941d154df4d52cab518d2deae12dc83b.png!w60",08h15 20/09: La Equidad - Deportivo Cali
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/941d154df4d52cab518d2deae12dc83b.png!w60",08h20 20/09: La Equidad - Deportivo Cali
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073ce76cd8c324c3b50853&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",09h00 20/09: Deportivo Saprissa - Santos de Guapiles
