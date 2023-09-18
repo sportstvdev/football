@@ -908,9 +908,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65027d7b10b9eb66833f3f07&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027d9b10b9eb66833f3f0a&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8349_small.png",00h10 19/09: AIK - Degerfors
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650609d17d20d546fd99f840&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101895_small.png",01h00 19/09: Al-Sadd - Sharjah Cultural Club
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650609d67d20d546fd99f845&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1100,6 +1097,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65060d727d20d546fd99f98f&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",01h45 20/09: Southampton - Ipswich
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65060d737d20d546fd99f994&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",02h00 20/09: Man City - FK Crvena Zvezda
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65060d8e7d20d546fd99f9a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",02h00 20/09: Feyenoord - Celtic
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65060d8a7d20d546fd99f9a1&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1109,9 +1109,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65060d8c7d20d546fd99f9a2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",02h00 20/09: PSG - Dortmund
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65060d8d7d20d546fd99f9a3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",02h00 20/09: Man City - FK Crvena Zvezda
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65060d8e7d20d546fd99f9a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",02h00 20/09: Barcelona - Royal Antwerp
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65060d907d20d546fd99f9a9&.m3u8|Referer=https://pl-rk.livefb.xyz/
