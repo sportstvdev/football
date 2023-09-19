@@ -1096,6 +1096,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6508c04392326369da8cfce4&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/245905_small.png",12h00 24/09: Gwangju FC - Jeonbuk FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508c04992326369da8cfce8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",12h00 24/09: Melbourne City FC - Sydney FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6508c05692326369da8cfcfc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4397_small.png",13h00 24/09: Kashima Antlers - Yokohama F.Marinos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508c04992326369da8cfce9&.m3u8|Referer=https://sk.mediastation.live/
@@ -1123,9 +1126,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6508c05192326369da8cfcf5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6582_small.png",15h00 24/09: Gamba Osaka - Urawa Red Diamonds
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508c05692326369da8cfcfa&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",15h00 24/09: Melbourne City FC - Sydney FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6508c05692326369da8cfcfc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162310_small.png",15h00 24/09: Melbourne Knights - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508c06292326369da8cfd05&.m3u8|Referer=https://sk.mediastation.live/
