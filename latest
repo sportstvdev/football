@@ -1,12 +1,6 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10082_small.png",06h00 19/09: Lanus - Sarmiento
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6503795810b9eb66833f4315&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7877_small.png",06h00 19/09: Bahia - Santos FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503796210b9eb66833f431e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2021/10/13/a82f3126-bff0-478a-99e5-e8b8939050e2/MicrosoftTeams-image.png?width=1200&height=630",06h00 19/09: Trực tiếp Tennis - Guadalajara Open Akron
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6507e6bbf8d3d225b792e246&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4401_small.png",06h40 19/09: Bucaramanga - Deportivo Pereira
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503796210b9eb66833f4320&.m3u8|Referer=https://sk.mediastation.live/
@@ -142,6 +136,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650379ab10b9eb66833f4379&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101662_small.png",23h00 19/09: Al Kahrabaa - Kuwait SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650379aa10b9eb66833f4378&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2021/10/13/a82f3126-bff0-478a-99e5-e8b8939050e2/MicrosoftTeams-image.png?width=1200&height=630",23h00 19/09: Trực tiếp Tennis - Guadalajara Open Akron
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6507e6bbf8d3d225b792e246&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10192_small.png",23h45 19/09: Young Boys - RB Leipzig
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650379ab10b9eb66833f437a&.m3u8|Referer=https://sk.mediastation.live/
