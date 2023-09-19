@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2021/10/13/a82f3126-bff0-478a-99e5-e8b8939050e2/MicrosoftTeams-image.png?width=1200&height=630",23h00 19/09: Trực tiếp Tennis - Guadalajara Open Akron
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2021/10/13/a82f3126-bff0-478a-99e5-e8b8939050e2/MicrosoftTeams-image.png?width=1200&height=630",00h00 20/09: Trực tiếp Tennis - Guadalajara Open Akron
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6507e6bbf8d3d225b792e246&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101690_small.png",01h00 20/09: Al-Wehdat - Al-Ittihad
@@ -82,6 +82,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65037abc10b9eb66833f43ca&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",16h00 20/09: Italy - Colombia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650271fa10b9eb66833f3e54&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/598333_small.png",16h00 20/09: Galatasaray U19 - FC København U19
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6509f36b4e88f55625e215a3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",17h00 20/09: Jeonbuk FC - Kitchee
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65037abc10b9eb66833f43cc&.m3u8|Referer=https://sk.mediastation.live/
@@ -145,6 +148,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65037af010b9eb66833f4408&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9760_small.png",19h00 20/09: CSKA - Sochi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65085f8192326369da8cf9c3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95797_small.png",19h00 20/09: Bangladesh - Việt Nam (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6509f4104e88f55625e215aa&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",19h30 20/09: USA - South Korea
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6502727f10b9eb66833f3e64&.m3u8|Referer=https://sk.mediastation.live/
