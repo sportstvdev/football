@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/610874_small.png",18h30 19/09: Saudi Arabia U23 - Iran U23
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6503797c10b9eb66833f4347&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/558881_small.png",18h30 19/09: Indonesia U23 - Kyrgyzstan U23
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6503797c10b9eb66833f434a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/612493_small.png",19h00 19/09: Kaya FC - Shandong Taishan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6503797c10b9eb66833f434b&.m3u8|Referer=https://sk.mediastation.live/
@@ -1397,6 +1391,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65073dbb6cd8c324c3b508ee&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",21h30 20/09: Lille - Olimpija Ljubljana
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073dbe6cd8c324c3b508f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582816_small.png",22h20 20/09: Al Adalh - Al Qaisumah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6509a2bf1a5e9f6e21c17800&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8d37df65ec99136141521145783ba119.png!w60",23h00 20/09: Dila Gori - Dinamo Batumi
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073ddb6cd8c324c3b50901&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1406,6 +1403,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65073de06cd8c324c3b50906&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205189_small.png",23h00 20/09: Smouha SC - El Gounah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073dee6cd8c324c3b5090b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w60",23h00 20/09: Arab Contractors - Baladiyet El Mahallah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6509a33b1a5e9f6e21c17810&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",23h45 20/09: Galatasaray - FC København
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65073df66cd8c324c3b50910&.m3u8|Referer=https://pl-rk.livefb.xyz/
