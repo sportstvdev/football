@@ -950,9 +950,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6508bf0a92326369da8cfc5e&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027d9b10b9eb66833f3f0a&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8708_small.png",21h15 20/09: Akhmat - Zenit
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65073dbb6cd8c324c3b508ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8683_small.png",21h15 20/09: Rubin - Rostov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b1b7a1a5e9f6e21c18591&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1589,3 +1586,18 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b193f1a5e9f6e21c1857d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/4hgifXYg-CWQqVX5c.png",18h30 27/09: Thái Lan (W) - Chinese Taipei (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b195c1a5e9f6e21c18582&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/jilBtfFG-84NeSVkG.png",15h00 28/09: Việt Nam (W) - Japan (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c5d1a5e9f6e21c185a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/187797/image",15h00 28/09: Nepal (W) - Bangladesh (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c741a5e9f6e21c185ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c901a5e9f6e21c185b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",18h30 28/09: South Korea (W) - Hong Kong (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1caf1a5e9f6e21c185b7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/C8epNzg5-vgTfmhXT.png",18h30 28/09: Philippines (W) - Myanmar (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1cc21a5e9f6e21c185bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
