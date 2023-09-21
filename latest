@@ -163,6 +163,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65037c2110b9eb66833f44b3&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",21h15 21/09: Orenburg - Fakel
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65037c2610b9eb66833f44b8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568569_small.png",21h30 21/09: FK IMT Beograd - FK Radnicki 1923
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650b8a3c5cc3b33c67eaaca5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578654_small.png",21h30 21/09: Kerala Blasters FC - Bengaluru FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650b8a3d5cc3b33c67eaaca7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",22h00 21/09: Al-Ettifaq - Al Taee
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65037c2610b9eb66833f44b9&.m3u8|Referer=https://sk.mediastation.live/
@@ -992,6 +998,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b866a1a5e9f6e21c188fd&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1004919_small.png",07h00 21/09: Forward Madison FC - Northern Colorado Hailstorm FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b866c1a5e9f6e21c188fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w60",07h00 21/09: Guаtеmаlа (W) - Раnаmа (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b8a841a5e9f6e21c18956&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3a7343f9fc119f063e7dfbbb56f7fa65.png!w60",07h10 21/09: Аtlеtісо Раntоjа - Harbour View
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b89991a5e9f6e21c1893d&.m3u8|Referer=https://pl-rk.livefb.xyz/
