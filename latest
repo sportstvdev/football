@@ -1088,6 +1088,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b10941a5e9f6e21c18396&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/463461_small.png",21h00 22/09: FK Radnik Surdulica - Radnicki Nis
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10a91a5e9f6e21c183aa&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/138564/image",21h00 22/09: Obolon-Brovar - Veres
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650c453b1a5e9f6e21c18fdf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/182f01e096ad1f495cc88d2369c45224.png!w60",21h00 22/09: CSKA 1948 Sofia - Cherno More
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650c45801a5e9f6e21c18fe4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8fc86650eda0d0446dd9e00bcd444b4a.png!w60",21h30 22/09: Gomel - FC Minsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10a41a5e9f6e21c183a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1127,6 +1133,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b10d41a5e9f6e21c183e7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4445_small.png",22h30 22/09: Finland (W) - Slovakia (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10e41a5e9f6e21c183f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e800f8594e74a747eb1c08973c8d6819.png!w60",22h50 22/09: Oman Club - Ibri
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650c46641a5e9f6e21c19007&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8245_small.png",23h00 22/09: Korona Kielce - Widzew Lodz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10ea1a5e9f6e21c183f8&.m3u8|Referer=https://pl-rk.livefb.xyz/
