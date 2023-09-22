@@ -40,12 +40,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650277ec10b9eb66833f3eb8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131398_small.png",20h00 22/09: Ukraine (W) - Serbia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65037de110b9eb66833f457b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622502_small.png",20h00 22/09: Azerbaijan (W) - Cyprus (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65037de110b9eb66833f457c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391935_small.png",20h00 22/09: North Macedonia (W) - Bulgaria (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65037de110b9eb66833f457e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394244_small.png",20h30 22/09: Latvia (W) - Malta (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65037de110b9eb66833f457d&.m3u8|Referer=https://sk.mediastation.live/
@@ -671,9 +665,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b10821a5e9f6e21c1837e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622502_small.png",20h00 22/09: Azerbaijan (W) - Cyprus (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10831a5e9f6e21c1837f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391935_small.png",20h00 22/09: North Macedonia (W) - Bulgaria (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b10851a5e9f6e21c18380&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/23f91bcdf05a01da80d3cbcc8b2180d5.png!w60",20h25 22/09: Bahla - Al Wehda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650c44e11a5e9f6e21c18fc1&.m3u8|Referer=https://pl-rk.livefb.xyz/
