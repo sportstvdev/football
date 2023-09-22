@@ -632,9 +632,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6508bf0a92326369da8cfc5e&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027d9b10b9eb66833f3f0a&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cc6ff0248b27e09279c807ce35ff3488.png!w60",17h00 22/09: Changwon City - Siheung Citizen
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650c43711a5e9f6e21c18fa7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/304032_small.png",18h30 22/09: Qatar U23 - Palestine U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b105f1a5e9f6e21c18354&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -656,12 +653,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b10661a5e9f6e21c1835d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6628_small.png",18h35 22/09: Shanghai Shenhua - Cangzhou Mighty Lions F.C
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10681a5e9f6e21c1835e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/86576/image",19h00 22/09: Persita - Dewa United FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b10731a5e9f6e21c1836d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187880_small.png",19h00 22/09: Botev Vratsa - Beroe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b106e1a5e9f6e21c18367&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/86576/image",19h00 22/09: Persita - Dewa United FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b10731a5e9f6e21c1836d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165202_small.png",19h00 22/09: PSIS - Barito Putera
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b10751a5e9f6e21c1836e&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -833,6 +830,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b11931a5e9f6e21c1848b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394232_small.png",02h00 23/09: Belarus (W) - Bosnia and Herzegovina (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b11991a5e9f6e21c18495&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8554_small.png",02h00 23/09: Cartagena - Eibar
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650d82ed1a5e9f6e21c19f63&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",02h10 23/09: France (W) - Portugal (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b11a01a5e9f6e21c1849a&.m3u8|Referer=https://pl-rk.livefb.xyz/
