@@ -962,7 +962,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650c8c461a5e9f6e21c194b5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/820969_small.png",17h00 23/09: Imabari FC - Vanraure Hachinohe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650c8c471a5e9f6e21c194b6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/396272_small.png",17h00 23/09: Desportivo Fabril Barreiro - Maritimo
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/79151/image",17h00 23/09: Desportivo Fabril Barreiro - Maritimo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650c8c4b1a5e9f6e21c194bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/41260/image",17h00 23/09: Gimhae City - Gyeongju KHNP
@@ -971,6 +971,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650e979d9c9b7422cb79d7b7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5769_small.png",17h30 23/09: Radomiak Radom - Puszcza Niepolomice
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650c8c581a5e9f6e21c194ca&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/3309/image",17h45 23/09: Poltava - Chernigov
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650ebdfb9c9b7422cb79da20&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8196_small.png",18h00 23/09: Wehen Wiesbaden - Elversberg
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650c8c811a5e9f6e21c194d6&.m3u8|Referer=https://pl-rk.livefb.xyz/
