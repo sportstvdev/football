@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2021/10/13/a82f3126-bff0-478a-99e5-e8b8939050e2/MicrosoftTeams-image.png?width=1200&height=630",07h00 23/09: Trực tiếp Tennis - Guadalajara Open Akron
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6507e6bbf8d3d225b792e246&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/967029_small.png",07h00 23/09: Jamaica (W) - Canada (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650c8a88c34d546724880806&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5756_small.png",08h00 23/09: Puerto Rico - Peru
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650279d610b9eb66833f3ec3&.m3u8|Referer=https://sk.mediastation.live/
@@ -1025,6 +1022,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650e3b241a5e9f6e21c1a9b6&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/colombia/logos/deportivo-cali.png",08h50 23/09: Deportivo Cali - Independiente Medellin
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b11cb1a5e9f6e21c184c5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5907_small.png",09h00 23/09: Mexico (W) - Puerto Rico ( W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650e44dc1a5e9f6e21c1a9da&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/1941/image",10h10 23/09: Puebla - Universidad Nacional
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b11cd1a5e9f6e21c184c6&.m3u8|Referer=https://pl-rk.livefb.xyz/
