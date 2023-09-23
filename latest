@@ -995,12 +995,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c66&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c67&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/967029_small.png",07h00 23/09: Jamaica (W) - Canada (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b11ba1a5e9f6e21c184af&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6721_small.png",07h00 23/09: LDU de Quito - Orense
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650e27e61a5e9f6e21c1a967&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161729_small.png",07h10 23/09: Independiente Rivadavia - Atletico Rafaela
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650e28231a5e9f6e21c1a971&.m3u8|Referer=https://pl-rk.livefb.xyz/
