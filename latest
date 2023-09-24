@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08h30 24/09: Salt Lake - Vancouver
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508bfce92326369da8cfcb3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003209_small.png",08h30 24/09: El Paso Locomotive - Phoenix Rising FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650f91ef17f2e2124b800c2b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",09h00 24/09: Mexico - Ukraine
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65027c2d10b9eb66833f3eec&.m3u8|Referer=https://sk.mediastation.live/
@@ -764,9 +761,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c67&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08h30 24/09: Salt Lake - Vancouver
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5d01a5e9f6e21c19a58&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003209_small.png",08h30 24/09: El Paso Locomotive FC - Phoenix Rising FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5d51a5e9f6e21c19a61&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1130413_small.png",09h00 24/09: Oakland Roots SC - Monterey Bay F.C.
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650f9125fc74553eaf1b347a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -782,6 +776,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5ea1a5e9f6e21c19a6d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4426_small.png",11h00 24/09: Shimizu S-Pulse - Ventforet Kofu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650f1797fc74553eaf1b2e2b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164739_small.png",11h00 24/09: Fagiano Okayama FC - Jubilo Iwata
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650faf4afc74553eaf1b3565&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/408082_small.png",11h00 24/09: Fukushima United - SC Sagamihara
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650faf4cfc74553eaf1b3566&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/833649_small.png",11h30 24/09: Gimpo FC - Chungnam Asan FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650f178cfc74553eaf1b2e13&.m3u8|Referer=https://pl-rk.livefb.xyz/
