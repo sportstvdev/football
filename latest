@@ -689,9 +689,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c66&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c67&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164734_small.png",14h30 24/09: Gangwon FC - Incheon United
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650cd61c1a5e9f6e21c19a94&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5893_small.png",15h00 24/09: Kyrgyzstan U23 - Chinese Taipei U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6261a5e9f6e21c19a99&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -716,6 +713,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650fea71fc74553eaf1b37a0&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429441_small.png",16h30 24/09: Bucheon FC 1995 - Gyeongnam FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6351a5e9f6e21c19ab2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133897_small.png",17h00 24/09: Daegu FC - Pohang Steelers
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd64c1a5e9f6e21c19ad2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162196_small.png",17h00 24/09: Roasso Kumamoto - Tochigi SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6391a5e9f6e21c19ab7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -731,9 +731,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6461a5e9f6e21c19ac8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67386_small.png",17h00 24/09: Tampines Rovers FC - Young Lions
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6481a5e9f6e21c19ac9&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133897_small.png",17h00 24/09: Daegu FC - Pohang Steelers
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650cd64c1a5e9f6e21c19ad2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8614_small.png",17h15 24/09: Sparta Rotterdam - Vitesse
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6561a5e9f6e21c19ad7&.m3u8|Referer=https://pl-rk.livefb.xyz/
