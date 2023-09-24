@@ -85,6 +85,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650da8cfc34d546724880a47&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165244_small.png",18h30 25/09: Police Tero FC - Buriram United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da8d2c34d546724880a49&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",18h30 25/09: Philippines (W) - South Korea (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65107dfa17f2e2124b800ff2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67378_small.png",18h45 25/09: Balestier Khalsa FC - Lion City Sailors FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da8d5c34d546724880a4d&.m3u8|Referer=https://sk.mediastation.live/
@@ -106,6 +109,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650da8eec34d546724880a60&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624924_small.png",22h00 25/09: Riga FC - FK Liepaja
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da8e5c34d546724880a59&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Najran_SC_Logo.png",22h00 25/09: Najran SC - Al-Raed
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65107e7317f2e2124b800ff7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/68028.png?lm=1538857568",22h00 25/09: Al Jabalain - Al Hilal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65107e9617f2e2124b800ffa&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png",23h00 25/09: Zamalek SC - Al Mokawloon Al Arab
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da8efc34d546724880a62&.m3u8|Referer=https://sk.mediastation.live/
@@ -127,6 +136,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650daf6ac34d546724880af7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10200_small.png",01h00 26/09: Panathinaikos - AEK Athens
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf73c34d546724880b02&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582823_small.png",01h00 26/09: Damac FC - Al Qaisoma
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65107f5017f2e2124b800ffd&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/jFNhaqLIbHIo4B1JA6u81g_96x96.png",01h00 26/09: Ohud - Al-Nassr
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65107f7717f2e2124b801000&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9867_small.png",02h00 26/09: Tenerife - Espanyol
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf6ec34d546724880afe&.m3u8|Referer=https://sk.mediastation.live/
@@ -542,9 +557,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7dd1a5e9f6e21c19bd7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",23h30 24/09: Las Palmas - Granada
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7db1a5e9f6e21c19bd6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4032_small.png",23h30 24/09: CD Mirandes - Leganes
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7eb1a5e9f6e21c19be0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9765_small.png",00h00 25/09: Portimonense - Benfica
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650f1913fc74553eaf1b2eae&.m3u8|Referer=https://pl-rk.livefb.xyz/
