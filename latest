@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",03h00 24/09: Giải Tennis - Laver Cup 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650ebd49c34d546724880ed1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",06h30 24/09: Philadelphia - LAFC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6508bfe592326369da8cfcc8&.m3u8|Referer=https://sk.mediastation.live/
@@ -301,6 +298,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650da90cc34d546724880a83&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",02h30 25/09: Braga - Boavista
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da90dc34d546724880a84&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",03h00 25/09: Giải Tennis - Laver Cup 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=650ebd49c34d546724880ed1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",03h45 25/09: Newell's Old Boys - Estudiantes
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da90dc34d546724880a86&.m3u8|Referer=https://sk.mediastation.live/
@@ -803,3 +803,414 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c66&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c67&.m3u8|Referer=https://sk.mediastation.live/
 
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1022955_small.png",06h00 24/09: Forge FC - Pacific FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd55c1a5e9f6e21c199ed&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1890_small.png",06h00 24/09: Everton CD - Huachipato
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5641a5e9f6e21c199f2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/113054_small.png",06h00 24/09: Tecnico Universitario - Independiente del Valle
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd56c1a5e9f6e21c199f7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/267816_small.png",06h00 24/09: Pittsburgh Riverhounds SC - New Mexico United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5771a5e9f6e21c199fd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1430405_small.png",06h00 24/09: Lexington SC - Chattanooga Red Wolves SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f707ffc74553eaf1b3376&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",06h30 24/09: Philadelphia - LAFC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd58b1a5e9f6e21c19a0e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",06h30 24/09: Atlanta United - Montreal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5851a5e9f6e21c19a02&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png",06h30 24/09: DC United - NY Red Bulls
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5871a5e9f6e21c19a03&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722265_small.png",06h30 24/09: Cincinnati - Charlotte FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5881a5e9f6e21c19a04&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162183_small.png",06h30 24/09: Charleston Battery - FC Tulsa
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f7601fc74553eaf1b33aa&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/540855_small.png",06h30 24/09: Detroit City FC - Hartford Athletic
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f7603fc74553eaf1b33ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197328_small.png",06h30 24/09: Tampa Bay Rowdies - Memphis 901 FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f7605fc74553eaf1b33b0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/727430_small.png",06h30 24/09: South Georgia Tormenta FC - One Knoxville SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f7608fc74553eaf1b33b5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6305_small.png",06h45 24/09: Sport Recife - Londrina EC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5931a5e9f6e21c19a1b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213596_small.png",07h00 24/09: Central Cordoba de Santiago - Defensa y Justicia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5941a5e9f6e21c19a1c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10081_small.png",07h00 24/09: Huracan - Velez Sarsfield
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5961a5e9f6e21c19a1d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10272_small.png",07h00 24/09: Atletico MG - Cuiaba
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd59b1a5e9f6e21c19a2a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614321_small.png",07h00 24/09: Colorado Springs Switchbacks FC - Sacramento Republic FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5a61a5e9f6e21c19a2f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="data:image/jpeg;base64,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",07h00 24/09: Union Omaha - Central Valley Fuego FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f7b62fc74553eaf1b33e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6397_small.png",07h30 24/09: Chicago - New England
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5b11a5e9f6e21c19a34&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6399_small.png",07h30 24/09: Dallas - Columbus
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5b31a5e9f6e21c19a35&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/207242_small.png",07h30 24/09: Minnesota - St. Louis City
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5b41a5e9f6e21c19a36&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6604_small.png",07h30 24/09: Sporting KC - Houston
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5b51a5e9f6e21c19a3b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722269_small.png",07h30 24/09: San Antonio FC - Orange County SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5ba1a5e9f6e21c19a48&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7807_small.png",08h00 24/09: Chivas - Pachuca
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5c41a5e9f6e21c19a4d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1841_small.png",08h00 24/09: León - Tijuana
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5c51a5e9f6e21c19a4e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10280_small.png",08h20 24/09: America de Cali - Atletico Nacional
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5cd1a5e9f6e21c19a57&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08h30 24/09: Salt Lake - Vancouver
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5d01a5e9f6e21c19a58&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003209_small.png",08h30 24/09: El Paso Locomotive FC - Phoenix Rising FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5d51a5e9f6e21c19a61&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6335_small.png",09h00 24/09: LD Alajuelense - Santos de Guapiles
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5dc1a5e9f6e21c19a66&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/307690_small.png",09h30 24/09: Portland - Colorado
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5e71a5e9f6e21c19a6b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6603_small.png",09h30 24/09: San Jose - Nashville SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5e91a5e9f6e21c19a6c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png",10h05 24/09: Tigres - Monterrey
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5ea1a5e9f6e21c19a6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4426_small.png",11h00 24/09: Shimizu S-Pulse - Ventforet Kofu
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1797fc74553eaf1b2e2b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/833649_small.png",11h30 24/09: Gimpo FC - Chungnam Asan FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f178cfc74553eaf1b2e13&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",12h00 24/09: Melbourne City FC - Sydney FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd5f01a5e9f6e21c19a7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/245905_small.png",12h00 24/09: Gwangju FC - Jeonbuk FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6131a5e9f6e21c19a80&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187951_small.png",12h00 24/09: Suwon FC - Ulsan Hyundai
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6151a5e9f6e21c19a81&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4397_small.png",13h00 24/09: Kashima Antlers - Yokohoma FM
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6161a5e9f6e21c19a82&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6180_small.png",14h00 24/09: Shonan Bellmare - Kawasaki
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6171a5e9f6e21c19a87&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164734_small.png",14h30 24/09: Gangwon FC - Incheon United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd61c1a5e9f6e21c19a94&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/v7hbfWAr-jNVRSy5L.png",15h00 24/09: Campuchia (W) - Singapore (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b17441a5e9f6e21c18554&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5893_small.png",15h00 24/09: Kyrgyzstan U23 - Chinese Taipei U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6261a5e9f6e21c19a99&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624265_small.png",15h00 24/09: North Korea U23 - Indonesia U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6281a5e9f6e21c19a9a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162310_small.png",15h00 24/09: Melbourne Knights - Brisbane Roar FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6291a5e9f6e21c19a9b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585847_small.png",15h00 24/09: PSS Sleman - Madura United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd62b1a5e9f6e21c19aa0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6582_small.png",15h00 24/09: Gamba Osaka - Urawa Red Diamonds
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd62c1a5e9f6e21c19aa5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",15h00 24/09: India (W) - Thailand (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f45d0fc74553eaf1b327e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429441_small.png",16h30 24/09: Bucheon FC 1995 - Gyeongnam FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6351a5e9f6e21c19ab2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165234_small.png",16h30 24/09: Sri Pahang FC - Kuala Lumpur City
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f18acfc74553eaf1b2e9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162196_small.png",17h00 24/09: Roasso Kumamoto - Tochigi SC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6391a5e9f6e21c19ab7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1789_small.png",17h00 24/09: Oriental - Torreense
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd63d1a5e9f6e21c19aba&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1190971_small.png",17h00 24/09: Vilar de Perdizes - Vasco da Gama
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd63e1a5e9f6e21c19abf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165158_small.png",17h00 24/09: Brunei DPMM - Albirex Niigata FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6461a5e9f6e21c19ac8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67386_small.png",17h00 24/09: Tampines Rovers FC - Young Lions
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6481a5e9f6e21c19ac9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133897_small.png",17h00 24/09: Daegu FC - Pohang Steelers
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd64c1a5e9f6e21c19ad2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8614_small.png",17h15 24/09: Sparta Rotterdam - Vitesse
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6561a5e9f6e21c19ad7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",17h30 24/09: Empoli - Inter
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6571a5e9f6e21c19ad8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8021_small.png",17h30 24/09: Zaglebie Lubin - Warta Poznan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6591a5e9f6e21c19ad9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",18h00 24/09: Metz - Strasbourg
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd65d1a5e9f6e21c19ae6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10194_small.png",18h00 24/09: Stoke - Hull
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6621a5e9f6e21c19aeb&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/657508_small.png",18h00 24/09: Nizhny Novgorod - Orenburg
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd66d1a5e9f6e21c19af0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624125_small.png",18h30 24/09: Vietnam U23 - Saudi Arabia U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6831a5e9f6e21c19afc&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",18h30 24/09: India (W) - Thái Lan (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b175d1a5e9f6e21c18559&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/317240_small.png",18h30 24/09: China U23 - Bangladesh U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd67e1a5e9f6e21c19af5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/S85a7FzS-zXtp7RIE.png",18h30 24/09: Myanmar U23 - India U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd67f1a5e9f6e21c19af6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622101_small.png",18h30 24/09: Iran U23 - Mongolia U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6811a5e9f6e21c19af7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/300702_small.png",18h30 24/09: South Korea U23 - Bahrain U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6841a5e9f6e21c19b01&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/623768_small.png",18h30 24/09: Thailand U23 - Kuwait U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6851a5e9f6e21c19b06&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8194_small.png",18h30 24/09: Düsseldorf - Hannover 96
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd68c1a5e9f6e21c19b13&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8150_small.png",18h30 24/09: Holstein Kiel - Hertha BSC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd68e1a5e9f6e21c19b14&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8350_small.png",18h30 24/09: 1.FC Kaiserslautern - Hansa Rostock
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd68f1a5e9f6e21c19b15&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/flags/48/korea-dpr.png",18h30 24/09: Triều Tiên (W) - Singapore (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f4664fc74553eaf1b3288&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/34695/image",18h35 24/09: Qingdao Hainiu - Nantong Zhiyun FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6971a5e9f6e21c19b22&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6444_small.png",18h35 24/09: Shenzhen FC - Zhejiang Professional
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6981a5e9f6e21c19b23&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",19h00 24/09: Real Sociedad - Getafe
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6a11a5e9f6e21c19b2c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165191_small.png",19h00 24/09: Persija Jakarta - Bali United FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6a81a5e9f6e21c19b31&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",19h30 24/09: Ajax - Feyenoord
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6b81a5e9f6e21c19b36&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",20h00 24/09: Arsenal - Tottenham
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6cc1a5e9f6e21c19b3b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",20h00 24/09: Brighton - Bournemouth
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6cd1a5e9f6e21c19b3c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",20h00 24/09: Chelsea - Aston Villa
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6cf1a5e9f6e21c19b3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",20h00 24/09: Liverpool - West Ham
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6d01a5e9f6e21c19b42&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",20h00 24/09: Atalanta - Cagliari
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6d21a5e9f6e21c19b47&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",20h00 24/09: Udinese - Fiorentina
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6d31a5e9f6e21c19b4c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",20h00 24/09: Le Havre - Clermont Foot
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6d51a5e9f6e21c19b51&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",20h00 24/09: Lens - Toulouse
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6d61a5e9f6e21c19b56&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",20h30 24/09: Leverkusen - FC Heidenheim
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6f21a5e9f6e21c19b63&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8698_small.png",20h30 24/09: Zenit - Lokomotiv
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd6f31a5e9f6e21c19b64&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",21h00 24/09: Sunderland - Cardiff
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7011a5e9f6e21c19b6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",21h00 24/09: Beşiktaş - Kayserispor
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7231a5e9f6e21c19b7c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",21h15 24/09: Rayo Vallecano - Villarreal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd72c1a5e9f6e21c19b81&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10167_small.png",21h15 24/09: Parma - Sampdoria
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7331a5e9f6e21c19b8b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8670_small.png",21h15 24/09: Real Oviedo - Real Valladolid
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7391a5e9f6e21c19b90&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9774_small.png",21h30 24/09: Chaves - Estrela da Amadora
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7431a5e9f6e21c19b95&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10192_small.png",21h30 24/09: Young Boys - Lugano
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd74d1a5e9f6e21c19b9a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6413_small.png",21h45 24/09: PEC Zwolle - AZ Alkmaar
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7551a5e9f6e21c19b9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10219_small.png",21h45 24/09: RKC Waalwijk - FC Twente
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd75e1a5e9f6e21c19ba4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",22h00 24/09: Bodø/Glimt - Vålerenga
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd79b1a5e9f6e21c19ba9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",22h05 24/09: Montpellier - Rennes
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7ad1a5e9f6e21c19bae&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",22h30 24/09: Sheff Utd - Newcastle
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7b61a5e9f6e21c19bb3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",22h30 24/09: Frankfurt - Freiburg
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7b81a5e9f6e21c19bb4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8673_small.png",22h30 24/09: Legia Warszawa - Gornik Zabrze
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7c01a5e9f6e21c19bbd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",23h00 24/09: Bologna - Napoli
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7c51a5e9f6e21c19bc2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",23h00 24/09: Midtjylland - Odense
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7cb1a5e9f6e21c19bc7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/168719_small.png",23h00 24/09: Krasnodar - Ural
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7d11a5e9f6e21c19bcc&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8705_small.png",23h00 24/09: Rostov - CSKA
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7d31a5e9f6e21c19bcd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",23h30 24/09: Las Palmas - Granada
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7db1a5e9f6e21c19bd6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",23h30 24/09: Real Betis - Cadiz
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7dd1a5e9f6e21c19bd7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4032_small.png",23h30 24/09: CD Mirandes - Leganes
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650cd7eb1a5e9f6e21c19be0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9765_small.png",00h00 25/09: Portimonense - Benfica
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1913fc74553eaf1b2eae&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/rHUHwkeM-pK1A6pED.png",00h00 25/09: Al Markhiya - Al-Wakrah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1ac1fc74553eaf1b2ee2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4f77bc21788965bb27aa8e0fdcf808ac.png!w60",00h00 25/09: Muaither SC - Al-Shamal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1ac2fc74553eaf1b2ee3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4678_small.png",00h00 25/09: Alanyaspor - Fenerbahçe
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1ac8fc74553eaf1b2eec&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4685_small.png",00h00 25/09: Kasımpaşa - Demirspor
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1b1dfc74553eaf1b2f21&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8468_small.png",00h15 25/09: Brann - Tromsø
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1acffc74553eaf1b2ef7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583706_xsmall.png",01h00 25/09: Sepsi OSK - FC FCSB
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1af2fc74553eaf1b2f02&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",01h45 25/09: PSG - Marseille
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1afefc74553eaf1b2f08&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",01h45 25/09: Torino - Roma
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1afdfc74553eaf1b2f07&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",02h00 25/09: Atletico Madrid - Real Madrid
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1b03fc74553eaf1b2f11&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png",02h00 25/09: Sao Paulo - Flamengo
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1b08fc74553eaf1b2f16&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",02h30 25/09: Braga - Boavista
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f1b0dfc74553eaf1b2f1b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/267810_small.png",06h30 25/09: Orlando - Inter Miami
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650f4b53fc74553eaf1b331e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/jilBtfFG-84NeSVkG.png",15h00 25/09: Việt Nam (W) - Bangladesh (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b18071a5e9f6e21c1855f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/dhRW2IeM-06bRHNVt.png",15h00 25/09: Myanmar (W) - Hong Kong (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b18231a5e9f6e21c18564&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/613636_small.png",15h00 25/09: Uzbekistan U23 - Syria U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650ce8201a5e9f6e21c19bf8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95971_small.png",18h30 25/09: Mongolia (W) - Uzbekistan (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b18ad1a5e9f6e21c1856e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/187797/image",18h30 25/09: Nepal (W) - Japan (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b18cb1a5e9f6e21c18573&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/C8epNzg5-vgTfmhXT.png",18h30 25/09: Philippines (W) - South Korea (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b18e31a5e9f6e21c18578&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",18h30 25/09: Palestine U23 - Japan U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650ce8211a5e9f6e21c19bf9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165244_small.png",18h30 25/09: Police Tero FC - Buriram United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650ce82a1a5e9f6e21c19c02&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/YJN4hmHG-0QOPlj5C.png",15h00 27/09: Singapore (W) - Triều Tiên (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b193f1a5e9f6e21c1857d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/4hgifXYg-CWQqVX5c.png",18h30 27/09: Thái Lan (W) - Chinese Taipei (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b195c1a5e9f6e21c18582&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/jilBtfFG-84NeSVkG.png",15h00 28/09: Việt Nam (W) - Japan (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c5d1a5e9f6e21c185a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/187797/image",15h00 28/09: Nepal (W) - Bangladesh (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c741a5e9f6e21c185ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c901a5e9f6e21c185b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",18h30 28/09: South Korea (W) - Hong Kong (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1caf1a5e9f6e21c185b7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/C8epNzg5-vgTfmhXT.png",18h30 28/09: Philippines (W) - Myanmar (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=650b1cc21a5e9f6e21c185bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
