@@ -25,6 +25,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650dd921c34d546724880d3b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",08h00 26/09: Honduras - Nicaragua
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6510806017f2e2124b801013&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",08h00 26/09: Costa Rica - St. Kitts and Nevis
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651218de5473d8731fdf0703&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/800px-Flag_of_Belize.svg.png",08h30 26/09:  Belize - Bonaire
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651219125473d8731fdf0706&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h35 26/09: Independiente Medellin - Bucaramanga
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf88c34d546724880b18&.m3u8|Referer=https://sk.mediastation.live/
@@ -157,6 +163,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db073c34d546724880b35&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",06h00 27/09: Canada (W) - Jamaica (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db075c34d546724880b39&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",06h00 27/09: Canada - Jamaica
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6512197d5473d8731fdf0709&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4408_small.png",06h15 27/09: Union Magdalena - Deportivo Cali
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db07ac34d546724880b3d&.m3u8|Referer=https://sk.mediastation.live/
@@ -1082,6 +1091,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65119df5eb1b9d2a1248d857&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/peru/logos/sporting-cristal.png",08h00 26/09: Sporting Cristal - CD UT Cajamarca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65106886eb1b9d2a1248d0c0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",08h00 26/09: Costa Rica (W) - St. Kitts and Nevis (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6512199feb1b9d2a1248e212&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h35 26/09: Independiente Medellin - Bucaramanga
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65106887eb1b9d2a1248d0c1&.m3u8|Referer=https://pl-rk.livefb.xyz/
