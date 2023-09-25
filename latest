@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Najran_SC_Logo.png",22h00 25/09: Najran SC - Al-Raed
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65107e7317f2e2124b800ff7&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/68028.png?lm=1538857568",22h00 25/09: Al Jabalain - Al Hilal
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65107e9617f2e2124b800ffa&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png",23h00 25/09: Zamalek SC - Al Mokawloon Al Arab
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650da8efc34d546724880a62&.m3u8|Referer=https://sk.mediastation.live/
@@ -452,15 +446,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c66&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db502c34d546724880c67&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8076_small.png",22h00 25/09: FK Qabala - Qarabag FK
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6510341eeb1b9d2a1248cd47&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624924_small.png",22h00 25/09: Riga FC - FK Liepaja
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65103574eb1b9d2a1248cd9e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w60",22h00 25/09: Al-Jabalain - Al Hilal
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6510658deb1b9d2a1248d01f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1692_small.png",23h00 25/09: Fakel - Rubin
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651062ebeb1b9d2a1248d010&.m3u8|Referer=https://pl-rk.livefb.xyz/
