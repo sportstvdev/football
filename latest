@@ -1064,9 +1064,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/16ccfd6042d1f791302c69eec646e081.png!w60",17h00 26/09: Zhenis - Yelimay Semey
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65119f3aeb1b9d2a1248d87a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47535_small.png",17h00 26/09: Mafra U23 - Benfica U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65119f9ceb1b9d2a1248d885&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256658_small.png",17h30 26/09: Dalian Professional FC - Shandong Taishan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6510688beb1b9d2a1248d0ca&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1091,6 +1088,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651068a5eb1b9d2a1248d0e1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1675_small.png",20h00 26/09: FK Radnicki 1923 - FK Radnik Surdulica
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651068abeb1b9d2a1248d0eb&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47535_small.png",20h00 26/09: Mafra U23 - Benfica U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65119f9ceb1b9d2a1248d885&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/37427/image",20h15 26/09: FC Zalau - Otelul Galati
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651068aceb1b9d2a1248d0ec&.m3u8|Referer=https://pl-rk.livefb.xyz/
