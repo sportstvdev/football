@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",17h00 26/09: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650dd921c34d546724880d3b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46474_small.png",18h15 26/09: Dunav Ruse - Marek Dupnitsa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6512bc86800c002d8317af88&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",18h30 26/09: Trung Quốc - Iran
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511adec5473d8731fdf034c&.m3u8|Referer=https://sk.mediastation.live/
@@ -1064,9 +1061,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511eda75473d8731fdf0677&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46474_small.png",18h15 26/09: Dunav Ruse - Marek Dupnitsa
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65106892eb1b9d2a1248d0d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298065_small.png",19h00 26/09: Armenia (W) - Kazakhstan (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65106895eb1b9d2a1248d0d2&.m3u8|Referer=https://pl-rk.livefb.xyz/
