@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://png.pngtree.com/png-clipart/20200220/ourlarge/pngtree-billiard-balls-isolated-on-a-transparent-background-3d-illustration-png-image_2151191.jpg",05h00 26/09: Billiards US Open  - Pool Championship 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511efb25473d8731fdf06c3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png",06h00 26/09: America MG - Vasco da Gama
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650daf7bc34d546724880b09&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193029_small.png",06h25 26/09: Alianza Petrolera - Once Caldas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf84c34d546724880b16&.m3u8|Referer=https://sk.mediastation.live/
@@ -1088,9 +1085,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511eda75473d8731fdf0677&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png",06h00 26/09: America MG - Vasco da Gama
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6510687deb1b9d2a1248d0a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193029_xsmall.png",06h25 26/09: Alianza Petrolera - Once Caldas
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6510687eeb1b9d2a1248d0a9&.m3u8|Referer=https://pl-rk.livefb.xyz/
