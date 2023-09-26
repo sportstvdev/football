@@ -1172,6 +1172,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651068b7eb1b9d2a1248d10a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1175395_small.png",21h00 26/09: Veres Rivne - Shakhtar Donetsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651068b9eb1b9d2a1248d10d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",22h00 26/09: Al Ain - Al Ahli
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6511a8beeb1b9d2a1248db3c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10180_small.png",22h00 26/09: Mlada Boleslav - SK Prostejov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651068beeb1b9d2a1248d124&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1193,9 +1196,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651068cdeb1b9d2a1248d141&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394234_small.png",22h00 26/09: Bulgaria (W) - Kosovo (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651068ceeb1b9d2a1248d146&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",22h00 26/09: Al Ain - Al Ahli
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6511a8beeb1b9d2a1248db3c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582739_small.png",22h00 26/09: Al Riyadh - Al-Fayha
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a8bfeb1b9d2a1248db3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1268,7 +1268,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a5b9eb1b9d2a1248d929&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10271_small.png",01h00 27/09: Dinamo Bucuresti - U Craiova 1948
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a5c2eb1b9d2a1248d932&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1523706_small.png",01h00 27/09: Al Kholood - Al Ittihad
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/269199/image",01h00 27/09: Al Kholood - Al Ittihad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a5ceeb1b9d2a1248d942&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101665_small.png",01h00 27/09: Al-Faisaly - Al Taee
