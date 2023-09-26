@@ -10,9 +10,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650daf84c34d546724880b17&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",18h30 26/09: Trung Quốc - Iran
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511adec5473d8731fdf034c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256658_small.png",18h30 26/09: Dalian Professional FC - Shandong Taishan
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6511c8105473d8731fdf03b9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1078408_small.png",19h00 26/09: West Armenia - FC Noah
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf88c34d546724880b21&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,6 +22,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650daf88c34d546724880b22&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391933_small.png",21h00 26/09: Bosnia and Herzegovina (W) - Slovenia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf65c34d546724880aef&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/yiKJ1X28NoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCx4Ho9rsxWTRMs2j9xLBnfKDUVeA",21h00 26/09: Giải billiards pool - Billiards US Open 
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6512bb9a800c002d8317af82&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391939_small.png",22h00 26/09: Czech Republic (W) - Belarus (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf45c34d546724880ac2&.m3u8|Referer=https://sk.mediastation.live/
@@ -1070,9 +1070,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6512ae1eeb1b9d2a1248e3f6&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256658_small.png",17h30 26/09: Dalian Professional FC - Shandong Taishan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6510688beb1b9d2a1248d0ca&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/422063/image",18h00 26/09: Musspor - Agri 1970 Spor
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/489524_small.png",18h00 26/09: Edirnespor - Corluspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6511a02deb1b9d2a1248d89a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6512b9a047bb0a4d744a1060&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46474_small.png",18h15 26/09: Dunav Ruse - Marek Dupnitsa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65106892eb1b9d2a1248d0d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
