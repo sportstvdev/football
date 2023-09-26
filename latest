@@ -31,6 +31,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650daf4dc34d546724880ace&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",22h00 26/09: Al Ain - Al-Ahli
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511c98c5473d8731fdf03d0&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7976c402923fe9674bc194177d1af93d.png!w60",22h00 26/09: Al-Riyadh - Al-Fayha
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6512f0e86a4e344f49173c1a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",22h45 26/09: Italy (W) - Sweden (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650daf50c34d546724880ad3&.m3u8|Referer=https://sk.mediastation.live/
@@ -1289,7 +1292,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a6deeb1b9d2a1248da15&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/FC_Amkar_Perm.png",20h30 27/09: Amkar Perm - PFC Kuban
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6512ef5e47bb0a4d744a125b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/FC_Amkar_Perm.png",20h30 27/09: Amkar Perm - Zagłębie Sosnowiec
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/52486/image",20h30 27/09: Gryf Wejherowo - Zaglebie Sosnowiec
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6512ef8247bb0a4d744a1262&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2127_small.png",21h00 27/09: Ordabasy Shymkent - Maktaaral FC
