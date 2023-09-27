@@ -1001,6 +1001,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513316747bb0a4d744a1801&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/12d3ada8c914f467445ec7b6a1cec82b.png!w60",17h00 28/09:  Arguvan - Elazigspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6514228547bb0a4d744a1d83&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298067_small.png",18h30 28/09: Japan U23 - Myanmar U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6513316e47bb0a4d744a180e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c901a5e9f6e21c185b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1010,9 +1013,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=650b1caf1a5e9f6e21c185b7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/C8epNzg5-vgTfmhXT.png",18h30 28/09: Philippines (W) - Myanmar (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=650b1cc21a5e9f6e21c185bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298067_small.png",18h30 28/09: Japan U23 - Myanmar U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6513316e47bb0a4d744a180e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",18h30 28/09: India U23 - Saudi Arabia U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513316f47bb0a4d744a180f&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1223,9 +1223,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513346847bb0a4d744a1954&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101901_small.png",22h00 29/09: Al-Wakrah - Al-Rayyan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513346947bb0a4d744a1955&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6022_small.png",22h30 29/09: Zilina - Skalica
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6513348047bb0a4d744a195e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/458623_small.png",23h00 29/09: Stal Mielec - Korona Kielce
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513348247bb0a4d744a195f&.m3u8|Referer=https://pl-rk.livefb.xyz/
