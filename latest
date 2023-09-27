@@ -1265,9 +1265,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513344147bb0a4d744a191a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165229_small.png",20h00 29/09: Terengganu - Selangor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513344347bb0a4d744a191f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168094/image",20h00 29/09: Al-Fayha - Al Ittihad
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6513344447bb0a4d744a1924&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/united-arab-emirates/logos/ajman.png",20h20 29/09: Ajman - Al Ittihad Kalba
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513344e47bb0a4d744a1931&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1277,6 +1274,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513344f47bb0a4d744a1932&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578656_small.png",21h30 29/09: Northeast United FC - Chennaiyin FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513345147bb0a4d744a1933&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168094/image",22h00 29/09: Al-Fayha - Al Ittihad
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6513344447bb0a4d744a1924&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w60",22h00 29/09: VPS - FC Inter Turku
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513345947bb0a4d744a1940&.m3u8|Referer=https://pl-rk.livefb.xyz/
