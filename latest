@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 27/09: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650dd921c34d546724880d3b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",09h00 27/09: Giải Tennis - Pan Pacific Open (Tokyo)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65131a10a09a216289d2c9bd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",15h30 27/09: Giải Tennis - Astana Open 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65131b2aa09a216289d2c9c3&.m3u8|Referer=https://sk.mediastation.live/
@@ -142,6 +139,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db3e2c34d546724880beb&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49761_small.png",09h00 28/09: Comunicaciones FC - Club Sport Herediano
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65121bdd5473d8731fdf070e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",09h10 28/09: Giải Tennis - Pan Pacific Open (Tokyo)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65131a10a09a216289d2c9bd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/867280_small.png",10h00 28/09: LAFC - Tigres
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3e2c34d546724880bec&.m3u8|Referer=https://sk.mediastation.live/
@@ -304,7 +304,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511e8a05473d8731fdf0484&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6358_small.png",10h00 30/09: San Luis - Cruz Azul
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511e8a35473d8731fdf0487&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162418_small.png",10h00 30/09: Tijuana - Juárez
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162418_small.png",10h10 30/09: Tijuana - Juárez
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511e8a55473d8731fdf048c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png",11h00 30/09: Hokkaido Consadole Sapporo - Kashiwa Reysol
@@ -466,7 +466,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea545473d8731fdf051b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10080_small.png",05h00 01/10: Racing Club - Independiente
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea505473d8731fdf0517&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7848_small.png",06h05 01/10: Pachuca - Necaxa
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7848_small.png",06h00 01/10: Pachuca - Necaxa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea585473d8731fdf051f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/56453_small.png",06h30 01/10: Toronto - Cincinnati
