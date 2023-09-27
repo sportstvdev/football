@@ -16,6 +16,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db08bc34d546724880b56&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Al-Oruba_FC.png",22h00 27/09: Al-Orubah - Al-Wehda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6513371fa09a216289d2ca50&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",22h00 27/09: Al Fateh FC - Al-Okhdood
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651430d0b269d5152d7d2d11&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178268_small.png",23h00 27/09: El Gouna FC - ZED FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db09ac34d546724880b63&.m3u8|Referer=https://sk.mediastation.live/
@@ -926,6 +929,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a6deeb1b9d2a1248da15&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49701_small.png",20h30 27/09: SKA Rostov - Neftekhimik
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6512ef5e47bb0a4d744a125b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",21h00 27/09: Al Ahly - El Alia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65132fca47bb0a4d744a17b8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2127_small.png",21h00 27/09: Ordabasy Shymkent - Maktaaral FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a685eb1b9d2a1248d9c8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -938,9 +944,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a6faeb1b9d2a1248da1f&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/138564/image",21h00 27/09: Obolon-Brovar - Dynamo Kyiv
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a710eb1b9d2a1248da24&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",21h00 27/09: Al Ahly - El Alia
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65132fca47bb0a4d744a17b8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png",22h00 27/09: HJK - Honka
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a72ceb1b9d2a1248da34&.m3u8|Referer=https://pl-rk.livefb.xyz/
