@@ -896,12 +896,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511eda75473d8731fdf0677&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png",22h00 27/09: HJK - Honka
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6511a72ceb1b9d2a1248da34&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/22386/image",22h00 27/09: Ilves - IFK Mariehamn
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6511a72deb1b9d2a1248da35&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",22h00 27/09: Al Fateh FC - Al Akhdoud
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a741eb1b9d2a1248da45&.m3u8|Referer=https://pl-rk.livefb.xyz/
