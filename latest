@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",00h00 28/09: Athletic Club - Getafe
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650db3b2c34d546724880bae&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",01h00 28/09: FC Twente - Vitesse
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3bac34d546724880bb8&.m3u8|Referer=https://sk.mediastation.live/
@@ -100,6 +97,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65147459dce4411e935cf12d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",15h00 28/09: Japan (W) - Việt Nam (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65147424dce4411e935cf12a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95797_small.png",15h00 28/09: Bangladesh - Nepal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65147e6fdce4411e935cf192&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/613636_small.png",15h30 28/09: Uzbekistan U23 - Indonesia U23
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6514738fdce4411e935cf124&.m3u8|Referer=https://sk.mediastation.live/
@@ -109,6 +109,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65147389dce4411e935cf121&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1029624_small.png",18h30 28/09: India U23 - Saudi Arabia U23
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6514738fdce4411e935cf125&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",18h30 28/09: Philippines (W) - Myanmar (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65147e8fdce4411e935cf195&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65147ea7dce4411e935cf198&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",18h30 28/09: South Korea (W) - Hong Kong
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65147ebfdce4411e935cf19b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",20h00 28/09: Al Masry - Pharco FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bff&.m3u8|Referer=https://sk.mediastation.live/
@@ -908,9 +917,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a818eb1b9d2a1248dacf&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/switzerland/logos/st-gallen.png",01h30 28/09: St. Gallen - Young Boys
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a82aeb1b9d2a1248dad8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",01h45 28/09: Brentford - Arsenal
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6511a84deb1b9d2a1248daf6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",01h45 28/09: Inter - Sassuolo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a831eb1b9d2a1248dae2&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -923,6 +929,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6511a833eb1b9d2a1248dae4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",01h45 28/09: Aston Villa - Everton
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a847eb1b9d2a1248daf1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",01h45 28/09: Brentford - Arsenal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6511a84deb1b9d2a1248daf6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",01h45 28/09: Chelsea - Brighton
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6511a84feb1b9d2a1248daf7&.m3u8|Referer=https://pl-rk.livefb.xyz/
