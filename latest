@@ -25,9 +25,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651581a98a47f44b942eded5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578653_small.png",21h30 28/09: Odisha FC - Mumbai City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bfd&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6374_small.png",21h30 28/09: Cukaricki - Mladost Lucani
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/104814_small.png",21h30 28/09: Panserraikos FC - PAS Giannina
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650db3f7c34d546724880c0e&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65158e378a47f44b942edf0a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101895_small.png",22h00 28/09: Al-Sadd - Al-Gharafa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bfc&.m3u8|Referer=https://sk.mediastation.live/
@@ -929,6 +929,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513330d47bb0a4d744a18f2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",18h00 29/09: BG Pathum United - Lamphun Warrior
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513343547bb0a4d744a18ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3062df8edd1481dcc7744fa259724754.png!w60",18h00 29/09: Nakhon Si United FC - Chainat
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65158ff847bb0a4d744a2da1&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a48aaf0ef5955014f722ff3215d62afe.png!w60",18h35 29/09: Nantong Zhiyun FC - Shanghai Port
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513343747bb0a4d744a1900&.m3u8|Referer=https://pl-rk.livefb.xyz/
