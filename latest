@@ -16,6 +16,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651536f78a47f44b942ede23&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/uzbekistan/logos/pakhtakor.png",21h00 28/09: Pakhtakor - AGMK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65147d39dce4411e935cf17b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://png.pngtree.com/png-clipart/20200220/ourlarge/pngtree-billiard-balls-isolated-on-a-transparent-background-3d-illustration-png-image_2151191.jpg",21h00 28/09: Billiards US Open  - Pool Championship 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651580548a47f44b942edec9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/uzbekistan/logos/navbahor.png",21h00 28/09: Navbahor - FC Turan
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651581a98a47f44b942eded5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578653_small.png",21h30 28/09: Odisha FC - Mumbai City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bfd&.m3u8|Referer=https://sk.mediastation.live/
@@ -794,9 +800,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513318047bb0a4d744a1825&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102113_small.png",20h20 28/09: Hatta - Al Nasr
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6514242547bb0a4d744a1da8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/420650/image",20h30 28/09: 2drots - Khimki
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651423b647bb0a4d744a1da2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d246e8b5da797f0c098fe42830aee0ae.png!w60",21h00 28/09: FC Telavi - Dila Gori
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513318c47bb0a4d744a1833&.m3u8|Referer=https://pl-rk.livefb.xyz/
