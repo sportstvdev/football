@@ -1,21 +1,6 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",15h00 28/09: ASIAD 2023 - ASIAD 2023
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Nha_Trang_Dolphins.png",19h30 28/09: Nha Trang Dolphins - Saigon Heat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651536f78a47f44b942ede23&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298067_small.png",18h30 28/09: Japan U23 - Myanmar U23
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65147389dce4411e935cf121&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1029624_small.png",18h30 28/09: India U23 - Saudi Arabia U23
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6514738fdce4411e935cf125&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",18h30 28/09: Philippines (W) - Myanmar (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65147e8fdce4411e935cf195&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65147ea7dce4411e935cf198&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",18h30 28/09: South Korea (W) - Hong Kong
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65147ebfdce4411e935cf19b&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65157fa98a47f44b942edec0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",20h00 28/09: Al Masry - Pharco FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bff&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,6 +10,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6515782b8a47f44b942ede91&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102113_small.png",20h20 28/09: Hatta - Al-Nasr SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880c01&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",20h25 28/09: ASIAD 2023 - ASIAD 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651536f78a47f44b942ede23&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/uzbekistan/logos/pakhtakor.png",21h00 28/09: Pakhtakor - AGMK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65147d39dce4411e935cf17b&.m3u8|Referer=https://sk.mediastation.live/
@@ -794,24 +782,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511eda75473d8731fdf0677&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298067_small.png",18h30 28/09: Japan U23 - Myanmar U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6513316e47bb0a4d744a180e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",18h30 28/09: Uzbekistan (W) - China (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b1c901a5e9f6e21c185b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",18h30 28/09: South Korea (W) - Hong Kong (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b1caf1a5e9f6e21c185b7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/C8epNzg5-vgTfmhXT.png",18h30 28/09: Philippines (W) - Myanmar (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=650b1cc21a5e9f6e21c185bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",18h30 28/09: India U23 - Saudi Arabia U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6513316f47bb0a4d744a180f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/11e61091676171884930749183c08846.png!w60",18h30 28/09: Shanghai SIPG U21 - Changchun Yatai U21
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6515663f47bb0a4d744a2a5f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w60",19h30 28/09: Etar - Pirin Blagoevgrad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513317747bb0a4d744a181a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -821,12 +791,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513317f47bb0a4d744a1824&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1277917_small.png",20h15 28/09: Steaua Bucuresti - Universitatea Cluj
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513318047bb0a4d744a1825&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102113_small.png",20h20 28/09: Hatta - Al Nasr
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6514242547bb0a4d744a1da8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/420650/image",20h30 28/09: 2drots - Khimki
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651423b647bb0a4d744a1da2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102113_small.png",20h30 28/09: Hatta - Al Nasr
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6514242547bb0a4d744a1da8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d246e8b5da797f0c098fe42830aee0ae.png!w60",21h00 28/09: FC Telavi - Dila Gori
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513318c47bb0a4d744a1833&.m3u8|Referer=https://pl-rk.livefb.xyz/
