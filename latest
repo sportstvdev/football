@@ -49,6 +49,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65158b5c8a47f44b942edefc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",11h30 29/09: Giải Tennis - China Open
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65158b8d8a47f44b942edeff&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fc/Ph%E1%BB%91_Hi%E1%BA%BFn_FC.svg/1200px-Ph%E1%BB%91_Hi%E1%BA%BFn_FC.svg.png",14h30 29/09:  Pho Hien - Đà Nẵng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6515c38e8a47f44b942edfd5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/418661_small.png",15h00 29/09: Barito Putera - RANS Nusantara
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4e6c34d546724880c33&.m3u8|Referer=https://sk.mediastation.live/
@@ -64,6 +67,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db4e6c34d546724880c37&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6304_small.png",17h00 29/09: Kawasaki Frontale - Albirex Niigata
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4e6c34d546724880c39&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/HN_FC_Logo.svg/1200px-HN_FC_Logo.svg.png",17h00 29/09: Hà Nội - Song Lam Nghe An
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6515c3b38a47f44b942edfd8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 29/09: Urawa Red Diamonds - Yokohama FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4e6c34d546724880c36&.m3u8|Referer=https://sk.mediastation.live/
@@ -767,12 +773,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101746_small.png",23h00 28/09: Ismaily SC - Al Ittihad Alexandria
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651331a747bb0a4d744a185c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h00 28/09: Sharjah Cultural Club - Al-Ain
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651331ae47bb0a4d744a1866&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",23h30 28/09: Frosinone - Fiorentina
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651331b347bb0a4d744a186b&.m3u8|Referer=https://pl-rk.livefb.xyz/
