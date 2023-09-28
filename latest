@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Nha_Trang_Dolphins.png",19h30 28/09: Nha Trang Dolphins - Saigon Heat
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65157fa98a47f44b942edec0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",20h00 28/09: Al Masry - Pharco FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db3edc34d546724880bff&.m3u8|Referer=https://sk.mediastation.live/
@@ -962,6 +959,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6513344e47bb0a4d744a1931&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/58689/image",20h20 29/09: Baniyas - Emirates Club
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513344f47bb0a4d744a1932&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101753_small.png",20h30 29/09: Dhofar - Al-Shabab
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651590d047bb0a4d744a2df2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f0f800c92d191d736c4411f3b3f8ef4a.jpg!w60",21h00 29/09: Shabab Al Ordon - Der Abi Saeed
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6515910447bb0a4d744a2df7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578656_small.png",21h30 29/09: Northeast United FC - Chennaiyin FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513345147bb0a4d744a1933&.m3u8|Referer=https://pl-rk.livefb.xyz/
