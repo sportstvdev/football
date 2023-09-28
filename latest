@@ -779,12 +779,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511eda75473d8731fdf0677&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/134185_small.png",21h00 28/09: Al-Salt - Al-Arabi
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6514245847bb0a4d744a1dad&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d246e8b5da797f0c098fe42830aee0ae.png!w60",21h00 28/09: FC Telavi - Dila Gori
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6515892b47bb0a4d744a2d17&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/104814_small.png",21h30 28/09: Panserraikos FC - PAS Giannina
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6513318e47bb0a4d744a1834&.m3u8|Referer=https://pl-rk.livefb.xyz/
