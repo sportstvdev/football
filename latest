@@ -701,9 +701,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511edac5473d8731fdf067d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101753_small.png",20h30 29/09: Dhofar - Al-Shabab
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651590d047bb0a4d744a2df2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f0f800c92d191d736c4411f3b3f8ef4a.jpg!w60",21h00 29/09: Shabab Al Ordon - Der Abi Saeed
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6515910447bb0a4d744a2df7&.m3u8|Referer=https://pl-rk.livefb.xyz/
