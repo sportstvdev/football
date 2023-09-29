@@ -1,15 +1,6 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10077_small.png",07h30 29/09: Boca Juniors - Palmeiras
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=650db4dbc34d546724880c2b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298660_small.png",07h30 29/09: Londrina EC - Sampaio Correa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6516167d8a47f44b942ee04f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 29/09: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651536f78a47f44b942ede23&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://png.pngtree.com/png-clipart/20200220/ourlarge/pngtree-billiard-balls-isolated-on-a-transparent-background-3d-illustration-png-image_2151191.jpg",08h00 29/09: Billiards US Open  - Pool Championship 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651580548a47f44b942edec9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",09h00 29/09: C.S. Cartagines - LD Alajuelense
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4dbc34d546724880c2d&.m3u8|Referer=https://sk.mediastation.live/
@@ -67,6 +58,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=650db4f4c34d546724880c4f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102231_small.png",19h00 29/09: Bangkok United - Buriram United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4f4c34d546724880c52&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://png.pngtree.com/png-clipart/20200220/ourlarge/pngtree-billiard-balls-isolated-on-a-transparent-background-3d-illustration-png-image_2151191.jpg",19h00 29/09: Billiards US Open  - Pool Championship 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651580548a47f44b942edec9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165225_small.png",20h00 29/09: Kelantan - Sabah FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=650db4f4c34d546724880c51&.m3u8|Referer=https://sk.mediastation.live/
