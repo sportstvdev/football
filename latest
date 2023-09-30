@@ -4,6 +4,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511e89a5473d8731fdf047c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89396_small.png",06h00 30/09: Tigre - Velez Sarsfield
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511e89d5473d8731fdf0480&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/yiKJ1X28NoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCx4Ho9rsxWTRMs2j9xLBnfKDUVeA",07h00 30/09: Giải billiards pool - Billiards US Open 
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65176c05f6b18c34378e9e6d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",08h00 30/09: Queretaro - León
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511e8a05473d8731fdf0483&.m3u8|Referer=https://sk.mediastation.live/
@@ -400,7 +403,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebbe5473d8731fdf05ac&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",21h00 02/10: ATK Mohun Bagan FC - Maziya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb95473d8731fdf05ab&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",21h00 02/10: Sharjah Cultural Club - Al-Faisaly
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h00 02/10: Sharjah Cultural Club - Al-Faisaly
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebbe5473d8731fdf05ae&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",23h00 02/10: Sepahan - Al Ittihad
@@ -1217,9 +1220,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6517279a4f0e304712e103b2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068364_small.png",20h30 02/10: Akron Togliatti - Khimki
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651727a04f0e304712e103b7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",21h00 02/10: Sharjah Cultural Club - Al-Faisaly
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65165b4047bb0a4d744a367f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1118572_small.png",21h00 02/10: Bashundhara Kings - Odisha FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65165b4147bb0a4d744a3680&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1244,6 +1244,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651727ad4f0e304712e103c1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/279290_small.png",22h00 02/10: CSM Politehnica Iasi - Petrolul Ploiesti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651727b24f0e304712e103c6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h00 02/10: Sharjah Cultural Club - Al-Faisaly
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65165b4047bb0a4d744a367f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102153_small.png",23h00 02/10: Nasaf Qarshi - Al-Sadd
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65165bcf47bb0a4d744a369d&.m3u8|Referer=https://pl-rk.livefb.xyz/
