@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 01/10: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6517d24adbe8d95dc0ac73fc&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4404_small.png",08h20 01/10: Deportivo Pereira - America de Cali
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6518c075dbe8d95dc0ac7a3d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8314_small.png",08h30 01/10: Colorado - Austin FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea725473d8731fdf0548&.m3u8|Referer=https://sk.mediastation.live/
@@ -1049,9 +1046,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6518590cdbe8d95dc0ac78a4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/colombia/logos/deportivo-pereira.png",08h20 01/10: Deportivo Pereira - America de Cali
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6518cd02e81b173189ca8acf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8314_small.png",08h30 01/10: Colorado - Austin FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65183ed2e81b173189ca84cb&.m3u8|Referer=https://pl-rk.livefb.xyz/
