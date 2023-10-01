@@ -1,3 +1,12 @@
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 01/10: ASIAD 2023 - ASIAD 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6519407cdbe8d95dc0ac7b19&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",11h30 01/10: Giải Tennis - China Open
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6519412fdbe8d95dc0ac7b23&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",13h10 01/10: Giải Tennis - Astana Open 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6519417ddbe8d95dc0ac7b2a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165199_small.png",15h00 01/10: Madura United - Pusamania Borneo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea7d5473d8731fdf055c&.m3u8|Referer=https://sk.mediastation.live/
@@ -7,9 +16,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65190211dbe8d95dc0ac7add&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2019/01/PVF-CAND-150x150.png",16h00 01/10: PVF-CAND - Song Lam Nghe An
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6518fc13dbe8d95dc0ac7ad8&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",16h00 01/10: ASIAD 2023 - ASIAD 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6519407cdbe8d95dc0ac7b19&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8464_small.png",17h15 01/10: NEC Nijmegen - Vitesse
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511eab65473d8731fdf056a&.m3u8|Referer=https://sk.mediastation.live/
@@ -1001,9 +1007,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6518590cdbe8d95dc0ac78a4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165199_small.png",15h00 01/10: Madura United - Borneo Samarinda
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651490a847bb0a4d744a25cf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",15h30 01/10: Viktoria Plzen B - FK Kraluv Dvur
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65184137e81b173189ca8538&.m3u8|Referer=https://pl-rk.livefb.xyz/
