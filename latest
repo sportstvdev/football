@@ -1,12 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 01/10: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6517d24adbe8d95dc0ac73fc&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003208_small.png",08h00 01/10: New Mexico United - Louisville City FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6518c077dbe8d95dc0ac7a3f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",08h06 01/10: Mazatlan FC - Tigres
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea6b5473d8731fdf0540&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4404_small.png",08h20 01/10: Deportivo Pereira - America de Cali
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6518c075dbe8d95dc0ac7a3d&.m3u8|Referer=https://sk.mediastation.live/
@@ -37,9 +31,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6518343fdbe8d95dc0ac7601&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",09h35 01/10: Hàn Quốc - Việt Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651756a1f6b18c34378e9e58&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",10h00 01/10: Giải Tennis - China Open
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651871abdbe8d95dc0ac79a4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",10h00 01/10: Giải Tennis - Pan Pacific Open (Tokyo)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651871c8dbe8d95dc0ac79a7&.m3u8|Referer=https://sk.mediastation.live/
@@ -49,6 +40,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6518718ddbe8d95dc0ac79a1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/833651_small.png",11h30 01/10: Cheongju FC - Bucheon FC 1995
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6518343edbe8d95dc0ac75ff&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",11h30 01/10: Giải Tennis - China Open
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651871abdbe8d95dc0ac79a4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164734_small.png",12h00 01/10: Gangwon FC - Daejeon Citizen
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea7d5473d8731fdf0559&.m3u8|Referer=https://sk.mediastation.live/
@@ -1055,9 +1049,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6518590cdbe8d95dc0ac78a4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003208_small.png",08h00 01/10: New Mexico United - Louisville City FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6518c1a5e81b173189ca8a78&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",08h06 01/10: Mazatlán - Tigres
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65148f0447bb0a4d744a2589&.m3u8|Referer=https://pl-rk.livefb.xyz/
