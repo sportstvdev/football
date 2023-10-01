@@ -70,9 +70,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea6b5473d8731fdf0540&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8314_small.png",08h30 01/10: Colorado - Austin FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea725473d8731fdf0548&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",09h00 01/10: Hàn Quốc - Việt Nam
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651756a1f6b18c34378e9e58&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1130413_small.png",09h00 01/10: Oakland Roots - San Antonio FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6518abfcdbe8d95dc0ac79ed&.m3u8|Referer=https://sk.mediastation.live/
@@ -88,6 +85,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea725473d8731fdf054a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/307691_small.png",09h30 01/10: Vancouver - DC United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ea725473d8731fdf0549&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",09h30 01/10: Hàn Quốc - Việt Nam
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651756a1f6b18c34378e9e58&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/424268_small.png",09h30 01/10: Phoenix Rising FC - Orange County SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6518343fdbe8d95dc0ac7601&.m3u8|Referer=https://sk.mediastation.live/
@@ -1169,6 +1169,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65148ef747bb0a4d744a257a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07h30 01/10: Banfield - Lanus
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65148efe47bb0a4d744a257f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png",07h30 01/10: Houston - Dallas
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6518bbb4e81b173189ca89f8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/207242_small.png",07h30 01/10: Minnesota - San Jose
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6518bbb6e81b173189ca89f9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1427963_small.png",07h30 01/10: St. Louis City - Sporting KC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6518bbb8e81b173189ca89fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6576_small.png",07h45 01/10: América - Universidad Nacional
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65148eff47bb0a4d744a2580&.m3u8|Referer=https://pl-rk.livefb.xyz/
