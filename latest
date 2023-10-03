@@ -1,12 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/800px-2022_Asian_Games_logo.svg.png",08h00 03/10: ASIAD 2023 - ASIAD 2023
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6519407cdbe8d95dc0ac7b19&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4400_small.png",08h10 03/10: Atletico Huila - La Equidad
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6511ec5e5473d8731fdf05f9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",09h00 03/10: Argentina - Bulgaria
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651b11beb0a027062351d2c3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",11h00 03/10: Serbia - Egypt
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651b125ab0a027062351d2c6&.m3u8|Referer=https://sk.mediastation.live/
@@ -1007,9 +1001,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651854a4dbe8d95dc0ac76df&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e69f9c600667cf3584b01dac474c1de9.png!w60",08h10 03/10: Atletico Huila - La Equidad
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6517284c4f0e304712e1043b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980709_small.png",10h10 03/10: Santos Laguna (W) - Toluca (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651728674f0e304712e1044a&.m3u8|Referer=https://pl-rk.livefb.xyz/
