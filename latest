@@ -1007,12 +1007,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651854a4dbe8d95dc0ac76df&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066915_small.png",08h00 03/10: Atletico de San Luis (W) - Club Tijuana (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651728484f0e304712e10434&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980704_small.png",08h06 03/10: Atlas (W) - Puebla (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6517284b4f0e304712e10436&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e69f9c600667cf3584b01dac474c1de9.png!w60",08h10 03/10: Atletico Huila - La Equidad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6517284c4f0e304712e1043b&.m3u8|Referer=https://pl-rk.livefb.xyz/
