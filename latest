@@ -34,6 +34,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511edc65473d8731fdf06a2&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2034_small.png",10h05 04/10: Dorados - Tlaxcala F.C.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511edca5473d8731fdf06ae&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",10h30 04/10: Ongbamrungphan B - Nguyễn Thùy Linh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651cc05a7c1cba1addaf54ad&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",11h00 04/10: Serbia - Finland
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651b143bb0a027062351d2e4&.m3u8|Referer=https://sk.mediastation.live/
