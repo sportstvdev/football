@@ -28,7 +28,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ed755473d8731fdf064c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675794_small.png",17h00 04/10: Antwerp U19 - Shakhtar Donetsk U19
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ed755473d8731fdf064d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/951610_small.png",17h00 04/10: Hong Kong U23 - Japan U23
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6322_small.png",17h00 04/10: Hong Kong U23 - Japan U23
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6519b227dbe8d95dc0ac7db9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",17h25 04/10: Japan - Turkey
@@ -908,6 +908,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6519ce9ee81b173189ca94c7&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/485935_small.png",21h30 04/10: Bengaluru FC - East Bengal FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6519ce9fe81b173189ca94cc&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168078/image",22h00 04/10:  Al Safa(KSA) - Al Adalh
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651d334af7731733cf5cfeec&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",23h45 04/10: Atletico Madrid - Feyenoord
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6519cebbe81b173189ca94de&.m3u8|Referer=https://pl-rk.livefb.xyz/
