@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d4f0b7c1cba1addaf5617&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",11h30 05/10: Giải Tennis - China Open
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d50b37c1cba1addaf5657&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624265_small.png",13h30 05/10: Triều Tiên - Hàn Quốc
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651c69697661b14803d975d7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1530908_small.png",15h00 05/10: FC Ulaanbaatar - Taichung Futuro
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65185585dbe8d95dc0ac7717&.m3u8|Referer=https://sk.mediastation.live/
@@ -815,6 +812,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651dbff814568861f70c6ea0&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/436087_small.png",17h00 05/10: Maktaaral FC - Tobol Kostanay
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651dc22914568861f70c6ea5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/464035/image",17h00 05/10: Kremen-2 - Niva Vinica
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651e837714568861f70c737f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5fb78a654b88ad97c6b2256d8138b899.png!w60",17h00 05/10: Makhtaaral - Tobol Kostanai
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651e83f214568861f70c738e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67383_small.png",19h00 05/10: Hougang United FC - Hai Phong
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651c7360e81b173189caa951&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1127,7 +1130,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651da9e714568861f70c6c30&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4144_small.png",07h00 07/10: Deportivo Cuenca - Universidad Catolica
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651da9f114568861f70c6c3a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161732_small.png",07h10 07/10: All Boys - Estudiantes de Rio Cuarto
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161732_small.png",07h30 07/10: All Boys - Estudiantes de Rio Cuarto
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651da9f214568861f70c6c3b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165545_small.png",07h30 07/10: Atletico GO - Ituano FC
