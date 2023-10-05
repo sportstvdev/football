@@ -487,6 +487,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651eac33dfb9903fe6b2ec9c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png",09h30 08/10: Seattle Sounders - Vancouver
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651eac34dfb9903fe6b2ec9e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",10h10 08/10: Cruz Azul - Pumas
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=651eac3cdfb9903fe6b2eca9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",11h00 08/10: Turkey - Tunisia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651b1920b0a027062351d369&.m3u8|Referer=https://sk.mediastation.live/
@@ -944,6 +947,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651c7508e81b173189caaa3c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193029_xsmall.png",08h30 06/10: Alianza Petrolera - Millonarios
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651c750ae81b173189caaa41&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6335_small.png",09h00 06/10: LD Alajuelense - C.S. Cartagines
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651eae6214568861f70c74f1&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/659098_small.png",10h05 06/10: Tepatitlan FC - Atletico La Paz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651c750be81b173189caaa46&.m3u8|Referer=https://pl-rk.livefb.xyz/
