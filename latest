@@ -776,9 +776,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d8399dfb9903fe6b2e9ea&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9cc25407f209e031babdac7d3c520ccb.png!w60",16h00 05/10: Czech Republic U16 - Slovakia U16
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651d772014568861f70c69b5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png!w60",16h00 05/10: Yerevan - Araz Saatli
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651e76a714568861f70c733f&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -818,6 +815,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651c7383e81b173189caa963&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585662_small.png",20h00 05/10: ZED FC - Baladiyat ElMahalla SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651c7395e81b173189caa968&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/11195709883b36ac5758a1fcca882fe1.png!w60",21h00 05/10: CSA Steaua Bucuresti - Argeş Piteşti
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651e8a7314568861f70c73d6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/166865_small.png",21h30 05/10: FC Astana - Viktoria Plzen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651c73aae81b173189caa96d&.m3u8|Referer=https://pl-rk.livefb.xyz/
