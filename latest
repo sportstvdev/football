@@ -97,6 +97,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651b1801b0a027062351d345&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95745_small.png",17h30 07/10: Pendikspor - Sivasspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65185890dbe8d95dc0ac7888&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",17h30 07/10: South Korea - Đài Bắc Trung Hoa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65209b04dfb9903fe6b2f2d1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/195601_small.png",18h00 07/10: Sochi - Zenit
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65185791dbe8d95dc0ac7808&.m3u8|Referer=https://sk.mediastation.live/
@@ -596,9 +599,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652097f214568861f70c87a6&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4144_small.png",07h00 07/10: Deportivo Cuenca - Universidad Catolica
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651da9f114568861f70c6c3a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49740_small.png",07h00 07/10: Alianza FC - Fuerte San Francisco
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6520981514568861f70c87b3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/433031_small.png",07h00 07/10: OL Reign (W) - Washington Spirit (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6520981714568861f70c87b4&.m3u8|Referer=https://pl-rk.livefb.xyz/
