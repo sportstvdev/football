@@ -16,9 +16,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d50b37c1cba1addaf5657&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",18h00 06/10: Thái Lan - Trung Quốc
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651f1a5edfb9903fe6b2efb5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624265_small.png",18h00 06/10: Triều Tiên - Đài Bắc Trung Hoa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651f1a77dfb9903fe6b2efb8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",18h30 06/10: Trung Quốc - Netherlands
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651b16e1b0a027062351d327&.m3u8|Referer=https://sk.mediastation.live/
@@ -623,6 +620,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651fdd9a14568861f70c7f12&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/611f90d54eb4d3a4692a0c0809e1620a.png!w60",17h45 06/10: Metalurh Zaporizhya 2 - Kudrivka
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651fde0314568861f70c7f1d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/599924_small.png",18h00 06/10: FC Kolos Kovalivka U19 - Vorskla U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=651fe9ce14568861f70c7f40&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",19h00 06/10: Japan (W) - Triều Tiên (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f13af14568861f70c78fc&.m3u8|Referer=https://pl-rk.livefb.xyz/
