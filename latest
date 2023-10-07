@@ -10,9 +10,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651857b0dbe8d95dc0ac7836&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",20h30 07/10: Augsburg - Darmstadt
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651857b0dbe8d95dc0ac7837&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",20h30 07/10: RB Leipzig - Bochum
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651857b1dbe8d95dc0ac7838&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",20h30 07/10: VfB Stuttgart - Wolfsburg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651857bddbe8d95dc0ac7841&.m3u8|Referer=https://sk.mediastation.live/
@@ -719,6 +716,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651f190714568861f70c7a9d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47535_small.png",17h00 08/10: Mafra - Uniao de Leiria
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f190814568861f70c7a9e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a45fcbb226031590b88f7751ed755e0c.png!w60",17h00 08/10: Hong Kong Rangers - North District
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6521776128de0462f737600d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6413_small.png",17h15 08/10: PEC Zwolle - Feyenoord
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f191714568861f70c7aa7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -932,6 +932,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651f1b4314568861f70c7c01&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",02h30 09/10: Sporting CP - Arouca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f1b4914568861f70c7c06&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10273_small.png",04h30 09/10: Athletico Paranaense - Red Bull Bragantino
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6521780928de0462f7376031&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",17h00 10/10: China - Vietnam
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f1de714568861f70c7c12&.m3u8|Referer=https://pl-rk.livefb.xyz/
