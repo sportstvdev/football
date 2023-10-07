@@ -4,15 +4,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d4fd77c1cba1addaf5630&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",11h30 07/10: Giải Tennis - Shanghai Rolex Masters
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d4f0b7c1cba1addaf5617&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/930525_small.png",15h00 07/10: Persebaya Surabaya - Persib Bandung
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6518587adbe8d95dc0ac786c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",15h00 07/10: Poland - Netherlands
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=651b17f4b0a027062351d342&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/613636_small.png",15h00 07/10: Uzbekistan U23 - Hong Kong U23
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65206146dfb9903fe6b2f245&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10164_small.png",15h45 07/10: Sydney FC - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652120b2dfb9903fe6b2f35f&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,9 +16,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651b1801b0a027062351d345&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95745_small.png",17h30 07/10: Pendikspor - Sivasspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65185890dbe8d95dc0ac7888&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",17h30 07/10: South Korea - Đài Bắc Trung Hoa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65209b04dfb9903fe6b2f2d1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/195601_small.png",18h00 07/10: Sochi - Zenit
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65185791dbe8d95dc0ac7808&.m3u8|Referer=https://sk.mediastation.live/
@@ -548,6 +536,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=651daa8c14568861f70c6cb5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95745_small.png",17h30 07/10: Pendikspor - Sivasspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651daa8d14568861f70c6cb6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/323552/image",17h30 07/10: Epitsentr - Khust
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6521340b14568861f70c8e9c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8357_small.png",18h00 07/10: Greuther Fürth - Hansa Rostock
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651daa9814568861f70c6cbf&.m3u8|Referer=https://pl-rk.livefb.xyz/
