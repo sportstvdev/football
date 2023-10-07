@@ -545,9 +545,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d8399dfb9903fe6b2e9ea&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",10h00 07/10: Mazatlán - América
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651daa1614568861f70c6c5e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/JCM_FC.png",11h00 07/10: Seoul Jungnang - Jinju Citizen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6520d7fa14568861f70c8ca1&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -578,6 +575,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6520dfd614568861f70c8cdd&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6223_small.png",13h00 07/10: Tokyo Verdy - Oita Trinita
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651daa2a14568861f70c6c70&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.sofascore.com/static/images/placeholders/team.svg",13h00 07/10: Pyeongtaek Citizen - Chungju Citizen
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6520edbd14568861f70c8d3f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109377_small.png",14h00 07/10: Jeonnam Dragons - Ansan Greeners
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651daa3814568861f70c6c7d&.m3u8|Referer=https://pl-rk.livefb.xyz/
