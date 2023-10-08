@@ -52,6 +52,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6522fae8e2441e03380eed62&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/92646_small.png",18h30 09/10: Guangzhou FC - Wuxi Wugou
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6522fc6ae2441e03380eed6b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.resfu.com/img_data/equipos/143080.png?size=300x&v=2&lossy=1",18h30 09/10: Qingdao Youth Island - Jinan Xingzhou
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65233476e2441e03380eedc5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585797_small.png",18h30 09/10: Suzhou Dongwu - Dongguan Guanlian
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6523348ee2441e03380eedc8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/488158_small.png",19h00 09/10: Kampaniakos Chalastras - Asteras Tripolis
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521f90edfb9903fe6b2f773&.m3u8|Referer=https://sk.mediastation.live/
@@ -590,9 +596,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65220035dfb9903fe6b2f8ec&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/941d154df4d52cab518d2deae12dc83b.png!w60",04h00 09/10: La Equidad - Deportivo Pasto
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6521b9d328de0462f73763a6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10273_small.png",04h30 09/10: Athletico Paranaense - Red Bull Bragantino
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6521780928de0462f7376031&.m3u8|Referer=https://pl-rk.livefb.xyz/
