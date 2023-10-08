@@ -590,9 +590,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65220035dfb9903fe6b2f8ec&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",23h30 08/10: Celta Vigo - Getafe
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=651f1adb14568861f70c7bb6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",00h00 09/10: FC Porto - Portimonense
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=651f1af914568861f70c7bcf&.m3u8|Referer=https://pl-rk.livefb.xyz/
