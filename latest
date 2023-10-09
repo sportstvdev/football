@@ -22,9 +22,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6523348ee2441e03380eedc8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/488158_small.png",19h00 09/10: Kampaniakos Chalastras - Asteras Tripolis
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521f90edfb9903fe6b2f773&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/612482_small.png",19h00 09/10: Moldova (W) - Estonia (W)
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w60",19h00 09/10: Semen Padang -  PSMS Medan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6522fc9ee2441e03380eed6e&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6523c6d9e2441e03380eee3d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/405161_small.png",20h00 09/10: CS Tunari - Corvinul Hunedoara
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d825bdfb9903fe6b2e97d&.m3u8|Referer=https://sk.mediastation.live/
@@ -37,9 +37,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6522fccbe2441e03380eed71&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/488110_small.png",21h00 09/10: PAE Chania - OFI Crete
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d8257dfb9903fe6b2e97a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",21h00 09/10: Italy (W) - Slovenia (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6522fcf5e2441e03380eed74&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8711_small.png",23h00 09/10: Khimki - FC Alania Vladikavkaz
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d825bdfb9903fe6b2e97e&.m3u8|Referer=https://sk.mediastation.live/
@@ -644,6 +641,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6521ba9328de0462f737641c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8353_small.png",23h30 09/10: Alta - Brann 2
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6521ba9428de0462f737641d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-6/387767865_1726406871191751_7970303013480503353_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=49d041&_nc_ohc=ORklIGCVPqQAX_LcgH5&_nc_ht=scontent.fsgn5-3.fna&oh=00_AfDiYPFmxYssaXvjw5rnYTsuNKko2C5pPZ-_75kQMgR0Vg&oe=65284D70",00h00 10/10: Giàng A Phò - Ngọc Hoàng
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6523c52a83eb84369544c5fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",00h00 10/10: Elche - FC Andorra
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6521bac728de0462f7376426&.m3u8|Referer=https://pl-rk.livefb.xyz/
