@@ -575,9 +575,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65220035dfb9903fe6b2f8ec&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4dd8e2beb08686abe111cfd8b2370c39.png!w60",14h00 09/10: Shenyang - Shanghai Jiading
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/35c79507258a7aae99b9fb7ee463d448.png!w60",14h00 09/10: Wuhan JiangCheng - Shaoxing Shangyu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6522a6b483eb84369544bc15&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5f49ad888792255ee869a923a5d4c110.png!w60",14h00 09/10: Zibo Qisheng - Hunan Billows
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6523a6c183eb84369544c514&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8f2e73c455e75d7ea45f1baa5201ae24.png!w60",15h00 09/10: Putra Delta Sidoarjo FC - Nusantara United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6522a49528de0462f7376c63&.m3u8|Referer=https://pl-rk.livefb.xyz/
