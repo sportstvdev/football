@@ -536,12 +536,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65220035dfb9903fe6b2f8ec&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6871a4afc428812bb9ff337c236e14ce.png!w60",14h30 10/10: Dandong hangtong - Nanjing City
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6523f9de83eb84369544c700&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1477043_small.png",14h30 10/10: Dalian Zhixing - Yunnan Yukun
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6523f77383eb84369544c6eb&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cedefb834d84c29f26ebdf2384b381a4.png!w60",15h00 10/10: Hal FC - Student Union
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652485d983eb84369544cba2&.m3u8|Referer=https://pl-rk.livefb.xyz/
