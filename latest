@@ -500,9 +500,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65220035dfb9903fe6b2f8ec&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1567_small.png",21h00 10/10: Santa Clara - Mafra U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6524005783eb84369544c76d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/Ug76MTAr-vaxZbxYc.png",22h40 10/10: Al-Shabab (oman) - Al-Wahda (oman)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6524008883eb84369544c772&.m3u8|Referer=https://pl-rk.livefb.xyz/
