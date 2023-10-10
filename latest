@@ -31,6 +31,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d8384dfb9903fe6b2e9d8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",17h00 11/10: Yokohama F.Marinos - Urawa Red Diamonds
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d8389dfb9903fe6b2e9df&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/551688_small.png",17h00 11/10: Zonguldak Komurspor - Tokat Belediye Plevnespor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525a839b9bb6146fccea680&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/468173_small.png",19h00 11/10: Diyarbekir Spor AS - Buyukcekmece Tepecikspor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525a83db9bb6146fccea682&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584402_small.png",19h30 11/10: Roma (W) - Zhytlobud-2 (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d8389dfb9903fe6b2e9e0&.m3u8|Referer=https://sk.mediastation.live/
@@ -40,6 +46,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=651d8389dfb9903fe6b2e9e1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394229_small.png",20h00 11/10: ZFK Spartak Subotica (W) - FC Rosengård (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d838adfb9903fe6b2e9e3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4455_small.png",21h30 11/10: Denizlispor - Burhaniye Belediyespor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525a83db9bb6146fccea683&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/574093_small.png",23h00 11/10: Slavia Prague (W) - Olimpia UT Cluj-Napoca (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=651d8399dfb9903fe6b2e9e9&.m3u8|Referer=https://sk.mediastation.live/
@@ -82,9 +91,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65238146e2441e03380eee00&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",16h30 12/10: Myanmar - Macao
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa27dfb9903fe6b2f792&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",17h00 12/10: Egypt - Zambia
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa29dfb9903fe6b2f794&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5896_small.png",18h00 12/10: Chinese Taipei - Timor-Leste
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa2bdfb9903fe6b2f799&.m3u8|Referer=https://sk.mediastation.live/
@@ -127,6 +133,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa4bdfb9903fe6b2f7be&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8713_small.png",23h00 12/10: Russia - Cameroon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa16dfb9903fe6b2f77d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",23h00 12/10: Egypt - Zambia
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa29dfb9903fe6b2f794&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",23h00 12/10: Latvia - Armenia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa4bdfb9903fe6b2f7bf&.m3u8|Referer=https://sk.mediastation.live/
