@@ -872,9 +872,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525aad4b9bb6146fccea7d9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/3203/image",06h00 11/10: Belgrano - Boca Juniors
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6522fff883eb84369544c0a5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/263bf9f7f54ed4508af5ef035b168d40.png!w60",07h00 11/10: SC Imbabura - CD Vargas Torres
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6525e6ac83eb84369544d586&.m3u8|Referer=https://pl-rk.livefb.xyz/
