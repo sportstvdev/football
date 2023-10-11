@@ -851,9 +851,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525aad4b9bb6146fccea7d9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",16h00 11/10: Portugal U19 - Faroe Islands U19
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6525dccb83eb84369544d565&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/54133/image",16h30 11/10: Skala Stryi - Real Pharma
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65266d3c83eb84369544d744&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -875,15 +872,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6526703d83eb84369544d770&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/905c5b29d6a97ee6c2170b48d010e01f.png!w60",17h30 11/10: Jammu Kashmir - Chhattisgarh
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652663af83eb84369544d730&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/316055/image",17h30 11/10: Kudrivka - Zvyahel
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6526787e83eb84369544d7c7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d69f01fa1a34e50cdbb85b4b3db37bb0.png!w60",17h30 11/10: Al-Safa - Goygol
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65267b8783eb84369544d7f8&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7964714d7cf5ad70efea384758320a39.png!w60",18h00 11/10: UCSA - VAST
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6526769983eb84369544d7c2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/474f5818911cc1ac9a54a26ae27a926e.png!w60",18h30 11/10: Trostianets - Kremen-2
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65267a2483eb84369544d7e0&.m3u8|Referer=https://pl-rk.livefb.xyz/
