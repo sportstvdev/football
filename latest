@@ -794,9 +794,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525aad4b9bb6146fccea7d9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9854_small.png",02h00 12/10: Chateauroux - Sochaux
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6526ddb383eb84369544dc58&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161733_small.png",06h00 12/10: Ferro Carril Oeste - Bella Vista
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6526aef883eb84369544d98a&.m3u8|Referer=https://pl-rk.livefb.xyz/
