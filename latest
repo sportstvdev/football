@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",03h30 13/10: Colombia - Uruguay
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521faf5dfb9903fe6b2f7fe&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287980_small.png",04h00 13/10: Dominica - British Virgin Islands
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521faf2dfb9903fe6b2f7fa&.m3u8|Referer=https://sk.mediastation.live/
@@ -43,6 +40,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65280c64af72cf7dce624829&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",10h10 13/10: Pachuca (W) - Club Tijuana (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65280c64af72cf7dce624828&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d6da9d5e85c0cead12a2479f4f85e84c.jpg!w60",15h00 13/10: Persikab Bandung - Malut United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6528770559676853ebc1a764&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",17h35 13/10: Nhật Bản - Canada
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb2edfb9903fe6b2f81c&.m3u8|Referer=https://sk.mediastation.live/
