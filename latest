@@ -10,6 +10,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa27dfb9903fe6b2f792&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/c66bf663ed13a8a01fef6e1ec452f786.png!w60",17h30 12/10: Ben Shelton - Sebastian Korda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65273636af72cf7dce62474e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",17h50 12/10: Nguyễn Thùy Linh - Zhang Yiman
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525eb3cb9bb6146fccea821&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5896_small.png",18h00 12/10: Chinese Taipei - Timor-Leste
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa2bdfb9903fe6b2f799&.m3u8|Referer=https://sk.mediastation.live/
@@ -40,9 +43,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa44dfb9903fe6b2f7b5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",19h30 12/10: Karlsruher SC - Strasbourg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa41dfb9903fe6b2f7b1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",20h10 12/10: Nguyễn Thùy Linh - Zhang Yiman
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6525eb3cb9bb6146fccea821&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95796_small.png",21h00 12/10: Afghanistan - Mongolia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa46dfb9903fe6b2f7b7&.m3u8|Referer=https://sk.mediastation.live/
@@ -571,6 +571,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9e7b9bb6146fccea71c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95801_small.png",18h00 17/10: Timor-Leste - Chinese Taipei
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9e7b9bb6146fccea71b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",18h00 17/10: Hàn Quốc - Việt Nam
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac8b9bb6146fccea7be&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4175_small.png",18h30 17/10: Macao - Myanmar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9eab9bb6146fccea71f&.m3u8|Referer=https://sk.mediastation.live/
@@ -733,9 +736,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac4b9bb6146fccea7bc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1276053_small.png",16h00 18/10: Dinamo Vladivostok - FC Rotor Volgograd
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac4b9bb6146fccea7bd&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",18h00 18/10: Hàn Quốc - Việt Nam
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac8b9bb6146fccea7be&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/644741_small.png",19h30 18/10: Zhytlobud-2 (W) - Roma (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac8b9bb6146fccea7bf&.m3u8|Referer=https://sk.mediastation.live/
