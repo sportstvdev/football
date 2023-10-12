@@ -40,9 +40,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521faeadfb9903fe6b2f7ec&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",01h45 13/10: Belarus - Romania
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521faeddfb9903fe6b2f7f0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",01h45 13/10: Israel - Switzerland
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521faeddfb9903fe6b2f7f3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",01h45 13/10: England U21 - Serbia U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521faf0dfb9903fe6b2f7f5&.m3u8|Referer=https://sk.mediastation.live/
@@ -779,9 +776,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6523020d83eb84369544c203&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",01h45 13/10: Belarus - Romania
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6523020e83eb84369544c208&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",01h45 13/10: Israel - Switzerland
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6523021083eb84369544c20d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",01h45 13/10: England U21 - Serbia U21
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6523021283eb84369544c212&.m3u8|Referer=https://pl-rk.livefb.xyz/
