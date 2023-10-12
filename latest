@@ -1,12 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b7ec1d5189a0b49daf0f65288fe80f96.png!w60",13h00 12/10: Persewar Waropen - Persipura Jayapura
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6526cfaeaf72cf7dce6246aa&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",14h00 12/10: Nguyễn Thùy Linh - Zhang Yiman
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6525eb3cb9bb6146fccea821&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/57fe5458097be02566b6571ae4615d16.png!w60",14h00 12/10: Persipal Palu -  Kalteng Putra FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6526ce8b0c74da479fed6111&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/4017b25281b3804a6871ddac5c6223be.png!w60",14h00 12/10: Fabian Marozsan - Hubert Hurkacz
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65273613af72cf7dce62474b&.m3u8|Referer=https://sk.mediastation.live/
@@ -46,6 +40,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa44dfb9903fe6b2f7b5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",19h30 12/10: Karlsruher SC - Strasbourg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa41dfb9903fe6b2f7b1&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",20h10 12/10: Nguyễn Thùy Linh - Zhang Yiman
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6525eb3cb9bb6146fccea821&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95796_small.png",21h00 12/10: Afghanistan - Mongolia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fa46dfb9903fe6b2f7b7&.m3u8|Referer=https://sk.mediastation.live/
