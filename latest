@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d6da9d5e85c0cead12a2479f4f85e84c.jpg!w60",15h00 13/10: Persikab Bandung - Malut United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6528770559676853ebc1a764&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/6236f55584b7db7229371318b148959a.png!w60",15h30 13/10: Grigor Dimitrov - Nicolás Jarry
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65290a9959676853ebc1a7ca&.m3u8|Referer=https://sk.mediastation.live/
@@ -665,12 +662,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9d3b9bb6146fccea6fd&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d6da9d5e85c0cead12a2479f4f85e84c.jpg!w60",15h00 13/10: Persikab Bandung - Malut United
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65287f5da52aa270189037ed&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bc575d043f92657a6dd97751cd326cce.png!w60",15h00 13/10: Bengaluru Roots FC - Kickstart Karnataka FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6528f8f3a52aa27018903a8d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1202714_small.png",17h00 13/10: Zambia (W) - Zimbabwe (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6527d8daa52aa27018903328&.m3u8|Referer=https://pl-rk.livefb.xyz/
