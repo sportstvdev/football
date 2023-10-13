@@ -668,12 +668,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6525991c83eb84369544d2cd&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",18h00 13/10: SV Darmstadt - Elversberg
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6525993a83eb84369544d2e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",18h35 13/10: Việt Nam - Uzbekistan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652844a1a52aa270189036d7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5839_small.png",19h00 13/10: Latvia U21 - Ireland U21
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6525994183eb84369544d2e9&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",19h35 13/10: Việt Nam - Uzbekistan
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652844a1a52aa270189036d7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8350_small.png",20h00 13/10: 1.FC Kaiserslautern - Metz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6525994b83eb84369544d2ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -917,6 +917,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65259e2283eb84369544d4a8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1173331_small.png",21h30 14/10: PFC Kuban - Torpedo Moscow
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259e2883eb84369544d4ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/202971/image",21h30 14/10: Granada Feminino (W) - Real Madrid Femenino (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65259ecd83eb84369544d4d5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8711_small.png",22h00 14/10: Khimki - FC Yenisey Krasnoyarsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259e2f83eb84369544d4b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -938,9 +941,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65259eb683eb84369544d4cb&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9869_small.png",23h30 14/10: Sporting Gijon - Real Zaragoza
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259eb783eb84369544d4cc&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/202971/image",23h30 14/10: Granada Feminino (W) - Real Madrid Femenino (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259ecd83eb84369544d4d5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",00h00 15/10: Ivory Coast - Morocco
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259ee183eb84369544d4da&.m3u8|Referer=https://pl-rk.livefb.xyz/
