@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127411_small.png",05h00 13/10: Suriname - Haiti
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb1edfb9903fe6b2f806&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5797_small.png",06h00 13/10: Bolivia - Ecuador
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb22dfb9903fe6b2f808&.m3u8|Referer=https://sk.mediastation.live/
@@ -88,6 +85,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb5ddfb9903fe6b2f848&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5829_small.png",23h00 13/10: Malta U21 - Belgium U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb61dfb9903fe6b2f849&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/5004024dca60859b96feae5cb198f6c7.png!w60",23h00 13/10: Pusarla Venkata Sindhu - Nguyễn Thùy Linh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652893b159676853ebc1a791&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5849_small.png",23h15 13/10: Bulgaria U21 - Germany U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521fb50dfb9903fe6b2f83b&.m3u8|Referer=https://sk.mediastation.live/
