@@ -824,6 +824,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65259b5783eb84369544d3f5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1281394_small.png",17h00 14/10: Villarreal (W) - Athletic Bilbao (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b7d83eb84369544d3fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10140_small.png",17h30 14/10: Dobrudzha Dobrich - Lokomotiv Plovdiv
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65294b18a52aa27018903ff0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675730_small.png",18h00 14/10: Perth Glory (W) - Western United FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259baa83eb84369544d403&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -863,7 +866,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65259c7083eb84369544d436&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583070_small.png",20h00 14/10: Al Fujairah - Dibba Al Fujairah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259c8483eb84369544d441&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583065_small.png",20h00 14/10: Masafi SC - Al Jazirah Al Hamra
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/283738/image",20h00 14/10: Masafi SC - Al Jazirah Al Hamra
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259c8683eb84369544d442&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102118_small.png",20h10 14/10: Al-Dhafra - Al Orooba
