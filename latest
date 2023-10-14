@@ -1,15 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/305776_small.png",15h00 14/10: Fujieda MYFC - Thespakusatsu Gunma
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff5edfb9903fe6b2f8b2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1420329_small.png",15h00 14/10: Jinan Xingzhou - Suzhou Dongwu
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652a201b59676853ebc1aaa4&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d0c31b1b1c7585e54d27f55adef891c7.jpg!w60",15h00 14/10: Persekat Tegal - PSCS Cilacap
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652a20ad59676853ebc1aaa9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Gresik_United_logo.png",15h00 14/10: Gresik United - Persijap Jepara
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652a20c559676853ebc1aaac&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",15h30 14/10: Hubert Hurkacz - Sebastian Korda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65290b1a59676853ebc1a7d2&.m3u8|Referer=https://sk.mediastation.live/
@@ -536,12 +524,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9d3b9bb6146fccea6fd&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/305776_small.png",15h00 14/10: Fujieda MYFC - Thespakusatsu Gunma
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259b3383eb84369544d3e7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/af9b1470ccb3037bb440599b8cad8bf5.png!w60",15h15 14/10: SK Ujezd Praha 4 - FK Olympie Brezova
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652a50844b21a53138281ce6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",15h30 14/10: SKA-Khabarovsk - Arsenal Tula
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b5483eb84369544d3f4&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -554,9 +536,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652a53dc4b21a53138281d0e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/581c6010a5b090c3b1f987f05dd9eeff.png!w60",17h00 14/10: SCU Torreense (w) - Famalicao (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652a5ef14b21a53138281d27&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1281394_small.png",17h00 14/10: Villarreal (W) - Athletic Bilbao (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259b7d83eb84369544d3fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/35315/image",17h00 14/10: Niva Ternopol - Nyva Buzova
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652a5e394b21a53138281d1f&.m3u8|Referer=https://pl-rk.livefb.xyz/
