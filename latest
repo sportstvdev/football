@@ -16,9 +16,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff4bdfb9903fe6b2f896&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127409_small.png",09h00 14/10: Belize - Bermuda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff4bdfb9903fe6b2f894&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",09h00 14/10: Hubert Hurkacz - Sebastian Korda
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65290b1a59676853ebc1a7d2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584851_small.png",10h05 14/10: Cimarrones - Correcaminos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff4bdfb9903fe6b2f897&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,6 +31,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff5edfb9903fe6b2f8b2&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",15h30 14/10: SKA-Khabarovsk - Arsenal
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff61dfb9903fe6b2f8b4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",15h30 14/10: Hubert Hurkacz - Sebastian Korda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65290b1a59676853ebc1a7d2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675731_small.png",15h45 14/10: Sydney FC (W) - Western Sydney Wanderers FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff64dfb9903fe6b2f8b5&.m3u8|Referer=https://sk.mediastation.live/
@@ -52,6 +52,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6529aea559676853ebc1aa2e&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",18h15 14/10: Poland - Kazakhstan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6529ad5859676853ebc1aa26&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/6236f55584b7db7229371318b148959a.png!w60",19h00 14/10: Grigor Dimitrov - Andrey Rublev
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6529eb8459676853ebc1aa74&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",20h00 14/10: Ukraine - North Macedonia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff65dfb9903fe6b2f8b6&.m3u8|Referer=https://sk.mediastation.live/
@@ -554,15 +557,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9d3b9bb6146fccea6fd&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png",06h00 14/10: Deportivo Pasto - Union Magdalena
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259a1583eb84369544d390&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1003206_small.png",06h00 14/10: Hartford Athletic - FC Tulsa
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259a3583eb84369544d39a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584866_small.png",06h05 14/10: Tlaxcala FC - Tepatitlan FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259a3983eb84369544d39f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/db2def851dc6d8228cc74eb7f08b3ceb.png!w60",07h00 14/10: Barbados - Dominican Republic
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259a3f83eb84369544d3a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
