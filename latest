@@ -19,9 +19,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652a20ad59676853ebc1aaa9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Gresik_United_logo.png",15h00 14/10: Gresik United - Persijap Jepara
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652a20c559676853ebc1aaac&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",15h30 14/10: SKA-Khabarovsk - Arsenal
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff61dfb9903fe6b2f8b4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",15h30 14/10: Hubert Hurkacz - Sebastian Korda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65290b1a59676853ebc1a7d2&.m3u8|Referer=https://sk.mediastation.live/
@@ -548,9 +545,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9d3b9bb6146fccea6fd&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1531330_small.png",13h00 14/10: Central Coast Mariners (W) - Newcastle Jets (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65259b3083eb84369544d3e5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429442_small.png",14h00 14/10: Chungnam Asan FC - Cheongju FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b3183eb84369544d3e6&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -563,6 +557,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652a431f4b21a53138281c61&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/305776_small.png",15h00 14/10: Fujieda MYFC - Thespakusatsu Gunma
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b3383eb84369544d3e7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/292c8ba6d28c6edf84cf54da9e897210.png!w60",15h00 14/10: Jinan XingZhou - Suzhou Dongwu
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652a4b524b21a53138281c8b&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/435950269a7fe889f252692f144d9f7a.png!w60",15h00 14/10: SKF Zilina (w) - Slovan Bratislava (w)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652a4c334b21a53138281c9c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/70d95838023058e91d6b78f9fb9e2f74.png!w60",15h00 14/10: Nusantara United - PSIM Yogyakarta
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652a4c8a4b21a53138281caa&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",15h30 14/10: SKA-Khabarovsk - Arsenal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b5483eb84369544d3f4&.m3u8|Referer=https://pl-rk.livefb.xyz/
