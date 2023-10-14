@@ -22,6 +22,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652a20c559676853ebc1aaac&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",15h30 14/10: Hubert Hurkacz - Sebastian Korda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65290b1a59676853ebc1a7d2&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1275970_small.png",15h30 14/10: SKA-Khabarovsk II - Arsenal Tula
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652a52c259676853ebc1aad0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675731_small.png",15h45 14/10: Sydney FC (W) - Western Sydney Wanderers FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff64dfb9903fe6b2f8b5&.m3u8|Referer=https://sk.mediastation.live/
@@ -623,6 +626,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65259c8483eb84369544d441&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/283738/image",20h00 14/10: Masafi SC - Al Jazirah Al Hamra
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259c8683eb84369544d442&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5962_small.png",20h00 14/10: England U19 - Wales U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652a53884b21a53138281d09&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102118_small.png",20h10 14/10: Al-Dhafra - Al Orooba
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259c9083eb84369544d44b&.m3u8|Referer=https://pl-rk.livefb.xyz/
