@@ -477,9 +477,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525aaacb9bb6146fccea796&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aaacb9bb6146fccea797&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5943_small.png",05h30 18/10: Bermuda - Belize
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6525aaafb9bb6146fccea79c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5943_small.png",05h30 18/10: Bermuda - Belize
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aaafb9bb6146fccea79e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",06h30 18/10: Ecuador - Colombia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -569,6 +566,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652a4c8a4b21a53138281caa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.vsstats.com/img/sports/soccer/team/DinamoBarnaul11727.png",15h00 14/10: Dinamo Barnaul - Rubin Kazan B
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652a4cee4b21a53138281cb3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/af9b1470ccb3037bb440599b8cad8bf5.png!w60",15h15 14/10: SK Ujezd Praha 4 - FK Olympie Brezova
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652a50844b21a53138281ce6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49700_small.png",15h30 14/10: SKA-Khabarovsk - Arsenal Tula
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65259b5483eb84369544d3f4&.m3u8|Referer=https://pl-rk.livefb.xyz/
