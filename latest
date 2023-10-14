@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",00h00 15/10: Ivory Coast - Morocco
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6521ff53dfb9903fe6b2f8a1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582508_small.png",00h00 15/10: Al Markhiya - Al-Rayyan
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652ac5d159676853ebc1ac53&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6414_small.png",01h00 15/10: Telstar - MVV Maastricht
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6522003edfb9903fe6b2f8fc&.m3u8|Referer=https://sk.mediastation.live/
@@ -91,6 +85,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65298bac59676853ebc1a979&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8006_small.png",13h00 15/10: Nagoya Grampus - Avispa Fukuoka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65220059dfb9903fe6b2f922&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e72b210e83a1275b2341d388d505b40d.png!w60",14h00 15/10: Wuxi Wugou - Shenyang Urban FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652ae6bf59676853ebc1ad02&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1282988_small.png",14h00 15/10: Yanbian Hailanjiang - Guangxi Baoyun FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652ae6e759676853ebc1ad05&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",15h00 15/10: Urawa Red Diamonds - Yokohama F.Marinos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65220054dfb9903fe6b2f91f&.m3u8|Referer=https://sk.mediastation.live/
@@ -103,6 +103,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652ae32059676853ebc1acea&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/954396_small.png",18h00 15/10: Manchester United Women (W) - Leicester City WFC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65220059dfb9903fe6b2f923&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/41626.png?lm=1522272318",18h30 15/10: Shanghai Jiading Huilong - HeBei KungFu
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652ae71c59676853ebc1ad08&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/54134.png?lm=1618563779",18h30 15/10: Dongguan Guanlian - Sichuan Jiuniu
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652ae73859676853ebc1ad0b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/231488_small.png",19h00 15/10: Man City Women (W) - Bristol City WFC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65220023dfb9903fe6b2f8db&.m3u8|Referer=https://sk.mediastation.live/
