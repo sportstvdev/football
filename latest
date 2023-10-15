@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8006_small.png",13h00 15/10: Nagoya Grampus - Avispa Fukuoka
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65220059dfb9903fe6b2f922&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e72b210e83a1275b2341d388d505b40d.png!w60",14h00 15/10: Wuxi Wugou - Shenyang Urban FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652ae6bf59676853ebc1ad02&.m3u8|Referer=https://sk.mediastation.live/
@@ -419,15 +416,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6511ebb25473d8731fdf05a0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a9d3b9bb6146fccea6fd&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8006_small.png",13h00 15/10: Nagoya Grampus - Avispa Fukuoka
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6529225ca52aa27018903b6b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/378a938353790e3893faacc4f6b7553c.png!w60",13h00 15/10: Pondicherry - DNH & DD FA
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652b80164b21a53138282700&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1c64f8f105f20350862c3f8a10d65d05.png!w60",13h00 15/10: Telangana - Andhra Pradesh
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652b80684b21a5313828270f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",15h00 15/10: Urawa Red Diamonds - Yokohoma FM
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6529225da52aa27018903b6c&.m3u8|Referer=https://pl-rk.livefb.xyz/
