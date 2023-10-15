@@ -7,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6525a933b9bb6146fccea6cc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7733_small.png",04h00 16/10: Vitoria - Guarani
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a93ab9bb6146fccea6cf&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298660_small.png",04h30 16/10: Londrina EC - Avai FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652c537059676853ebc1b30e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5924_small.png",06h00 16/10: St. Kitts and Nevis - Sint Maarten
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525a930b9bb6146fccea6c7&.m3u8|Referer=https://sk.mediastation.live/
@@ -1124,9 +1127,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652c17964b21a53138282cd2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",02h00 17/10: Levante - Racing de Ferrol
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652c17a14b21a53138282ce0&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",02h00 17/10: Levante - Racing de Ferrol
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652c17a54b21a53138282ce5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/929189_small.png",03h00 17/10: Saint Martin - Anguilla
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652c17ab4b21a53138282cea&.m3u8|Referer=https://pl-rk.livefb.xyz/
