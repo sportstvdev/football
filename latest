@@ -449,6 +449,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=652922f9a52aa27018903bb1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/oman/logos/al-nasr.png",22h30 15/10: Al Nasr - Dhufar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652b961f4b21a53138282885&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/99993/image",22h30 15/10: Sohar - Al-Seeb
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=652bda2e4b21a53138282a3a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",23h00 15/10: Czechia - Faroe Islands
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65292300a52aa27018903bb6&.m3u8|Referer=https://pl-rk.livefb.xyz/
