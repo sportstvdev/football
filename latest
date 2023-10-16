@@ -1007,9 +1007,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ecbe95bf5d35c0212fa09835475efd28.png!w60",06h30 16/10: Internacional (w) - Colo Colo (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652c6f874b21a53138283176&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5934_small.png",07h00 16/10: Haiti - Jamaica
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6529265ba52aa27018903c16&.m3u8|Referer=https://pl-rk.livefb.xyz/
