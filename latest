@@ -755,12 +755,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6101_small.png",02h30 18/10: Antigua and Barbuda - Bahamas
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652c18a74b21a53138282e20&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6222_small.png",03h00 18/10: Guyana - Puerto Rico
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652c18a84b21a53138282e25&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287982_small.png",03h30 18/10: Cayman Islands - U.S. Virgin Islands
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652c18aa4b21a53138282e2a&.m3u8|Referer=https://pl-rk.livefb.xyz/
