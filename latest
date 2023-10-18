@@ -1,10 +1,7 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",07h00 18/10: Uruguay - Brazil
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6525aab3b9bb6146fccea7a3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",07h15 18/10: Mexico - Germany
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aab7b9bb6146fccea7ac&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",07h30 18/10: USA - Ghana
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",07h35 18/10: USA - Ghana
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aab7b9bb6146fccea7ad&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287981_small.png",08h00 18/10: Curacao -  Trinidad and Tobago
@@ -106,6 +103,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c3bf059676853ebc1b050&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2193_small.png",01h45 19/10: Connah's Quay Nomads - Bala Town
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3bf559676853ebc1b058&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/07b871e2edd7707fbf42b5ec149682e6.png!w60",02h00 19/10: Hsu Wen-chi - Nguyễn Thùy Linh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652f3e33e9d26a0be468ad7d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10089_small.png",05h00 19/10: Club Atletico Platense - Estudiantes
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3bf159676853ebc1b053&.m3u8|Referer=https://sk.mediastation.live/
