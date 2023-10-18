@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652f1a2ce9d26a0be468ad25&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.resfu.com/img_data/equipos/143080.png?size=300x&v=2&lossy=1",14h30 18/10: Qingdao Youth Island - Suzhou Dongwu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652f1a56e9d26a0be468ad28&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/930027_small.png",14h30 18/10: Sichuan Jiuniu - Wuxi Wugou
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652f1a6ee9d26a0be468ad2b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1276053_small.png",16h00 18/10: Dinamo Vladivostok - FC Rotor Volgograd
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6525aac4b9bb6146fccea7bd&.m3u8|Referer=https://sk.mediastation.live/
@@ -749,15 +746,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/72879.png?lm=1618563318",14h30 18/10: Nanjing City - Jinan XingZhou
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652dc4504b21a53138283b6e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5b1479508982e6a69ebe42a091dc43db.png!w60",14h30 18/10: Qingdao Youth Island FC - Suzhou Dongwu
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652dc4684b21a53138283b73&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/281331/image",14h30 18/10: Sichuan Jiuniu - Wuxi Wugou
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652dc4894b21a53138283b7d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1276053_small.png",16h00 18/10: Dinamo Vladivostok - FC Rotor Volgograd
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652c37354b21a53138282f8d&.m3u8|Referer=https://pl-rk.livefb.xyz/
