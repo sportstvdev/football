@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65303b46e9d26a0be468ae9f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068364_small.png",20h30 19/10: Akron Togliatti - Shinnik Yaroslavl
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3c1359676853ebc1b07d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/ac934aa33084ea0c2d2a60a39ad33411.png!w60",21h00 19/10: Kalle Koljonen - Lê Đức Phát 
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65311910e9d26a0be468af3d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img.bwfbadminton.com/image/upload/t_96_player_profile/v1604895840/assets/players/thumbnail/92967.png",22h00 19/10: Han Yue - Nguyễn Thùy Linh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653118a8e9d26a0be468af38&.m3u8|Referer=https://sk.mediastation.live/
@@ -641,9 +638,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/215186/image",18h35 19/10: Meizhou Hakka - Zhejiang Professional
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652ec0314b21a531382841ce&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/34060/image",19h45 19/10:  Al Sharjah - Al Ittihad Kalba
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652fb87a4b21a53138284a29&.m3u8|Referer=https://pl-rk.livefb.xyz/
