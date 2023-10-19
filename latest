@@ -1,12 +1,9 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068364_small.png",20h30 19/10: Akron Togliatti - Shinnik Yaroslavl
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652c3c1359676853ebc1b07d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img.bwfbadminton.com/image/upload/t_96_player_profile/v1604895840/assets/players/thumbnail/92967.png",22h20 19/10: Han Yue - Nguyễn Thùy Linh
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653118a8e9d26a0be468af38&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2011473c10a119e01f2085bb836b62b2.png!w60",22h30 19/10: Al Nasr Dubai - Al Ain
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65303d67e9d26a0be468aea5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img.bwfbadminton.com/image/upload/t_96_player_profile/v1604895840/assets/players/thumbnail/92967.png",22h40 19/10: Han Yue - Nguyễn Thùy Linh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653118a8e9d26a0be468af38&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/FC_Arsenal_Tula_logo.svg/220px-FC_Arsenal_Tula_logo.svg.png",23h00 19/10: Arsenal - Rodina
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3c1359676853ebc1b07c&.m3u8|Referer=https://sk.mediastation.live/
@@ -632,12 +629,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",20h00 19/10: Da Nang - Navbahor Namangan
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d48550c01b97a17227ed6a392ecd8330.png!w60",20h00 19/10: OTMK Olmaliq - Navbahor Namangan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65314b764b21a531382852bd&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068364_small.png",20h30 19/10: Akron Togliatti - Shinnik Yaroslavl
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652ec0b04b21a5313828426a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0fa3f23d63fb8a8820675be83848cd3f.png!w60",21h15 19/10: Al-Nahda Muscat - Sur
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652fb9214b21a53138284a42&.m3u8|Referer=https://pl-rk.livefb.xyz/
