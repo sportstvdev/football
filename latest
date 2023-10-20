@@ -620,6 +620,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675725_small.png",13h00 20/10: Adelaide United (W) - Central Coast Mariners (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652eee4a4b21a5313828458f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1018e336c3899463ddd28046009e8331.png!w60",13h30 20/10: Western Springs (W) - Eastern Suburbs (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65321fb24b21a53138285c4f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6401_small.png",14h30 20/10: Changchun Yatai - Shandong Taishan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652eee4b4b21a53138284594&.m3u8|Referer=https://pl-rk.livefb.xyz/
