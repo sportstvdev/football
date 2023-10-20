@@ -25,6 +25,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f3459676853ebc1b1b1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47240_small.png",08h20 21/10: La Equidad - Rionegro Aguilas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f3859676853ebc1b1bb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",08h45 21/10: Giải Tennis - ATP Tokyo 2023
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=652ce49959676853ebc1b3d0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7847_small.png",10h10 21/10: Puebla - Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f3059676853ebc1b1ad&.m3u8|Referer=https://sk.mediastation.live/
@@ -97,9 +100,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f1359676853ebc1b183&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",16h00 21/10: Orenburg - Fakel
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f0f59676853ebc1b180&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.vhv.rs/dpng/d/600-6007939_matches-clipart-tenis-tennis-club-hd-png-download.png",16h00 21/10: Giải Tennis - ATP Tokyo 2023
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=652ce49959676853ebc1b3d0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67383_small.png",17h00 21/10: Hougang United FC - Balestier Khalsa FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3f0959676853ebc1b177&.m3u8|Referer=https://sk.mediastation.live/
@@ -1070,9 +1070,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303d68791bb560d20fe04&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303d58791bb560d20fe01&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4402_xsmall.png",04h00 21/10: Envigado - Deportivo Cali
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652eefda4b21a5313828469a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162176_small.png",05h00 21/10: Sampaio Correa - Vitoria
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6531bb524b21a53138285600&.m3u8|Referer=https://pl-rk.livefb.xyz/
