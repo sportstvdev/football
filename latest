@@ -37,6 +37,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cb759676853ebc1b0c8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",19h00 20/10: BG Pathum United - Trat FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cba59676853ebc1b0cf&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",19h45 20/10: Al Ahli Dubai - Al-Wasl
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65324fcfe9d26a0be468b110&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",20h00 20/10: Al Masry - El Geish
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cbd59676853ebc1b0d2&.m3u8|Referer=https://sk.mediastation.live/
@@ -58,6 +61,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cc759676853ebc1b0df&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/807349_small.png",22h30 20/10: SC Lusitania - Benfica
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cca59676853ebc1b0e4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102101_small.png",22h30 20/10: Al-Jazira - Al-Wahda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65324ff3e9d26a0be468b113&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101897_small.png",23h30 20/10: Al-Gharafa - Muaither SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c3cbf59676853ebc1b0d6&.m3u8|Referer=https://sk.mediastation.live/
@@ -605,12 +611,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=652c423e59676853ebc1b2e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=652c424059676853ebc1b2e5&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",15h00 20/10: Bali United FC - Persebaya Surabaya
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652eee584b21a531382845a6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/746830_small.png",15h00 20/10: Persikabo 1973 - PSIS
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=652eee594b21a531382845a7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15h45 20/10: Adelaide United - Central Coast Mariners
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652eee5b4b21a531382845a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -632,6 +632,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65324a2c4b21a53138285d88&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",17h00 20/10: Shakhtar Donetsk U19 - LNZ U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65324b334b21a53138285d91&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1c64f8f105f20350862c3f8a10d65d05.png!w60",17h00 20/10: Telangana - Andaman Nicobar FA
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6532509c4b21a53138285da6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",17h30 20/10: Urawa Red Diamonds - Kashiwa Reysol
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=652eee5e4b21a531382845b2&.m3u8|Referer=https://pl-rk.livefb.xyz/
