@@ -998,12 +998,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303d68791bb560d20fe04&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303d58791bb560d20fe01&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6224_small.png",14h00 21/10: Sanfrecce - Cerezo Osaka
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6531fd094b21a53138285766&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429441_small.png",14h00 21/10: Bucheon FC 1995 - FC Anyang
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65328bbf9941ef1724d6a347&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/51442_small.png",14h30 21/10: Henan FC - Cangzhou Mighty Lions F.C
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6531fd0e4b21a53138285773&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1031,6 +1025,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6531fd1f4b21a53138285787&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/132286_small.png",16h00 21/10: Orenburg - Fakel
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6531fd214b21a53138285788&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/859316_small.png",16h00 21/10: Rukh Lviv II - Druzhba Myrivka
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653390c9bc53b14deb741bf4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2373_small.png",16h00 21/10: Vorskla U19 - Polesia U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6533912abc53b14deb741bfd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/429442_small.png",16h30 21/10: Chungnam Asan FC - Busan I'Park
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6531fd264b21a53138285791&.m3u8|Referer=https://pl-rk.livefb.xyz/
