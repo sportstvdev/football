@@ -815,9 +815,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e64305de69c2ab02af&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3f834034d3c9188a59d75fc74c76ee4e.png!w60",16h00 22/10: Phú Thọ - Ba Ria Vung Tau
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6533e987a0d76b6fcdd0bce1&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/253057/image",16h00 22/10: Phù Đổng - Long An
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65340dab144597057425e6f7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/821875_small.png",16h30 22/10: Ansan Greeners - Gimcheon Sangmu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6532012b4b21a531382859fb&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -878,6 +875,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653201644b21a53138285a2f&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165244_small.png",18h00 22/10: Police Tero FC - Muang Thong United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653201754b21a53138285a38&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8643_small.png",18h00 22/10: Spartak - Nizhny Novgorod
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653500d4144597057425f166&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8294_small.png",18h30 22/10: Hansa Rostock - Holstein Kiel
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6532017b4b21a53138285a3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
