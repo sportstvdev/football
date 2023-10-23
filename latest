@@ -19,6 +19,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6532ff468791bb560d20fc58&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161750_small.png",02h00 24/10: Alcorcon - Cartagena
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6532ffa18791bb560d20fc79&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/395613_small.png",03h00 24/10: Torque - Liverpool FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6536cacdb198ea5456a1da34&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193031_small.png",03h30 24/10: Atletico FC - Cucuta
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6536cad1b198ea5456a1da37&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",04h00 24/10: Brazil - USA
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6535568c4a582903f538ced1&.m3u8|Referer=https://sk.mediastation.live/
@@ -731,6 +737,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653560fc144597057425f685&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1537857_small.png",20h00 24/10: Union Berlin U19 - SSC Napoli U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653560fd144597057425f686&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9764_small.png",20h00 24/10: Gil Vicente U23 - Leixoes U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6536cc13144597057426009f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102141_small.png",21h00 24/10: Pakhtakor Tashkent - Ahal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653560ff144597057425f687&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -746,6 +755,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65356107144597057425f697&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8d37df65ec99136141521145783ba119.png!w60",22h00 24/10: Dila Gori - Saburtalo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6536b02e144597057425ffa1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/608b8974ad512df1293585825bef3cee.png!w60",22h00 24/10: Al Bukayriyah - Al Qaisoma
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6536caf7144597057426008f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3d8dd7d2d4eb22caf9cf721087d2236f.png!w60",22h05 24/10: Al-Arabi (KSA) - Al-Jndal
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6536cb301445970574260095&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102117_small.png",23h00 24/10: Al-Ain - Al-Fayha
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6535610e144597057425f6a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
