@@ -767,9 +767,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653561b3144597057425f72b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",09h00 25/10: C.S. Cartagines - Comunicaciones FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653561b9144597057425f73d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/13354.png?lm=1624969354",10h05 25/10: Correcaminos - Atletico La Paz
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653561ba144597057425f73e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",17h00 25/10: Jeonbuk FC - Lion City Sailors FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653561c4144597057425f747&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -899,3 +896,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65356335144597057425f821&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10194_small.png",02h00 26/10: Stoke - Leeds
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6535633b144597057425f82a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/13354.png?lm=1624969354",10h05 27/10: Correcaminos - Atletico La Paz
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653561ba144597057425f73e&.m3u8|Referer=https://pl-rk.livefb.xyz/
