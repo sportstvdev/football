@@ -133,9 +133,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653300cd8791bb560d20fcea&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",09h00 25/10: C.S. Cartagines - Comunicaciones FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653300d08791bb560d20fcee&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162407_small.png",10h05 25/10: Correcaminos - Atletico La Paz
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653300d08791bb560d20fcef&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/51443_small.png",17h00 25/10: Zhejiang Professional - Ventforet Kofu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653300048791bb560d20fcad&.m3u8|Referer=https://sk.mediastation.live/
@@ -442,6 +439,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653304028791bb560d20fe3b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165477_small.png",09h00 27/10: Real Esteli FC - Independiente de La Chorrera
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653304058791bb560d20fe3f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162407_small.png",10h05 27/10: Correcaminos - Atletico La Paz
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653300d08791bb560d20fcef&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165197_small.png",15h00 27/10: Persik - Persebaya Surabaya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653304028791bb560d20fe3a&.m3u8|Referer=https://sk.mediastation.live/
@@ -611,9 +611,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e64305de69c2ab02af&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bc575d043f92657a6dd97751cd326cce.png!w60",15h00 24/10: Bengaluru Roots FC - Bengaluru FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65370e641445970574260265&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w60",16h00 24/10: Iceland (w) U19 - Scotland (w) U19
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537853714459705742602bf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/939871c3f44aa6c879e3a1432967f327.png!w60",16h00 24/10: Akzhayik Oral - Aktobe II
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653788ce14459705742602db&.m3u8|Referer=https://pl-rk.livefb.xyz/
