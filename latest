@@ -305,9 +305,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653abfa4b198ea5456a1e391&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abfd0b198ea5456a1e3a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png",04h00 27/10: Deportivo Pasto - Independiente Medellin
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653917441445970574261128&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10083_small.png",04h30 27/10: San Lorenzo - Club Atletico Platense
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65391749144597057426112d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -326,6 +323,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb801445970574260970&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10201_small.png",07h00 27/10: Newell's Old Boys - Godoy Cruz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb821445970574260973&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/929188_small.png",07h00 27/10: Bonaire (W) - Aruba (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653af6f0e5b95d2a8bfab56c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8514_small.png",07h30 27/10: Santos FC - Coritiba
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb8b144597057426098d&.m3u8|Referer=https://pl-rk.livefb.xyz/
