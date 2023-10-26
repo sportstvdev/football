@@ -290,9 +290,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e54305de69c2ab02aa&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e64305de69c2ab02af&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1146974_small.png",23h00 26/10: Merw - Altyn Asyr
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6539171b1445970574261123&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",23h45 26/10: Olympiacos - West Ham
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fad514459705742607c9&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -323,9 +320,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6537fae114459705742607f8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",23h45 26/10: Lille - Slovan Bratislava
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fae214459705742607ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9991_small.png",23h45 26/10: Gent - Breidablik
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537fae41445970574260806&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/952668_small.png",23h45 26/10: Ballkani - FC Astana
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fae5144597057426080d&.m3u8|Referer=https://pl-rk.livefb.xyz/
