@@ -94,9 +94,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653304028791bb560d20fe3a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8118_small.png",15h45 27/10: Brisbane Roar FC - Sydney FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653304028791bb560d20fe39&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/R5GJ6-Ve0BAB7WqS6qm0Ug_96x96.png",16h00 27/10: Đồng Tháp - Đà Nẵng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653abc1fb198ea5456a1e32a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8006_small.png",17h00 27/10: Nagoya Grampus - Sagan Tosu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303fa8791bb560d20fe2e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f3/B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg/1200px-B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg.png",17h00 27/10: Bình Phước - Phu Tho
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653abc75b198ea5456a1e32f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z3lEakgJqbp0RdJYUrguSA_96x96.png",17h00 27/10: Dong Tam Long An - Đồng Nai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653abcafb198ea5456a1e332&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10134_small.png",18h00 27/10: Slavia Sofia - Krumovgrad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303fa8791bb560d20fe2c&.m3u8|Referer=https://sk.mediastation.live/
@@ -130,6 +139,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303ef8791bb560d20fe1b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244170_small.png",20h00 27/10: Faroe Islands (W) - Azerbaijan (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303eb8791bb560d20fe16&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Sukhothai_FC_2020.png",20h00 27/10: Sukhothai - Thai Port
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653abd7cb198ea5456a1e33b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10144_small.png",20h30 27/10: CSKA Sofia - Arda Kardzhali
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303e08791bb560d20fe0b&.m3u8|Referer=https://sk.mediastation.live/
@@ -154,9 +166,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303df8791bb560d20fe09&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298065_small.png",22h30 27/10: Armenia (W) - Estonia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303c18791bb560d20fddf&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",22h45 27/10: Germany (W) - Wales (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653303c18791bb560d20fde0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",22h45 27/10: Germany (W) - Wales (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303c18791bb560d20fde1&.m3u8|Referer=https://sk.mediastation.live/
