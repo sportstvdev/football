@@ -359,9 +359,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653abfa4b198ea5456a1e391&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abfd0b198ea5456a1e3a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102050_small.png",01h00 27/10: Wydad Casablanca - Enyimba
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653562de144597057425f7e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8577_small.png",01h00 27/10: Al Ittihad - Al Hazem
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb3a14459705742608b7&.m3u8|Referer=https://pl-rk.livefb.xyz/
