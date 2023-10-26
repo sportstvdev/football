@@ -302,9 +302,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e54305de69c2ab02aa&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6534e6e64305de69c2ab02af&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/14e3bca60085d96f7f9f32b479b2d4d6.png!w60",20h15 26/10: Turon Nukus - Sogdiana Jizak
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653915b314459705742610f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/557213_small.png",21h00 26/10: Ravshan Kulob - Abdish-Ata
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653916db144597057426110a&.m3u8|Referer=https://pl-rk.livefb.xyz/
