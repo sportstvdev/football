@@ -296,9 +296,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653abfa4b198ea5456a1e391&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abfd0b198ea5456a1e3a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_xsmall.png",06h10 27/10: Once Caldas - America de Cali
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb7f144597057426096e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10082_small.png",07h00 27/10: Lanus - Tigre
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fb801445970574260970&.m3u8|Referer=https://pl-rk.livefb.xyz/
