@@ -248,12 +248,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653abfa4b198ea5456a1e391&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abfd0b198ea5456a1e3a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165244_small.png",19h00 27/10: Police Tero FC - Khonkaen United FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbc01445970574260a01&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/43556c16a64ceb93affe2d35594c998f.png!w60",19h00 27/10: Barito Putera - Persikabo 1973
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653a5a6de5b95d2a8bfab0d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",19h15 27/10: Viettel - Thanh Hoa FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbc61445970574260a0b&.m3u8|Referer=https://pl-rk.livefb.xyz/
