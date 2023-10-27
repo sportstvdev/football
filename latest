@@ -31,9 +31,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303c58791bb560d20fde7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394231_small.png",23h00 27/10: Austria (W) - Portugal (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303ca8791bb560d20fdf0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394251_small.png",23h00 27/10: Romania (W) - Slovakia (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653303ca8791bb560d20fdf1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394240_small.png",23h15 27/10: Hungary (W) - Northern Ireland (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303d08791bb560d20fdfa&.m3u8|Referer=https://sk.mediastation.live/
@@ -347,12 +344,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653bc795b198ea5456a1e5af&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653bc799b198ea5456a1e5b3&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10144_small.png",20h30 27/10: PFC CSKA-Sofia - Arda Kardzhali
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbef1445970574260a2f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/268557_small.png",20h30 27/10: FC Alania Vladikavkaz - Arsenal Tula
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbf11445970574260a30&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/517894_small.png",21h00 27/10: Pyramids FC - Al Masry SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbf21445970574260a31&.m3u8|Referer=https://pl-rk.livefb.xyz/
