@@ -4,6 +4,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653b8666b198ea5456a1e47a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7724_small.png",06h00 28/10:  Trinidad and Tobago - Puerto Rico
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c3e59b198ea5456a1ea7c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5886_small.png",06h00 28/10: Barbados - Bermuda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653c3eb6b198ea5456a1ea7f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7817_small.png",07h30 28/10: Guarani - Botafogo SP
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653b8663b198ea5456a1e475&.m3u8|Referer=https://sk.mediastation.live/
@@ -941,6 +944,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6537fce81445970574260b1a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e69f9c600667cf3584b01dac474c1de9.png!w60",06h00 28/10: Atletico Huila - Santa Fe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653bb98f7c18e529f9cb4746&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/232871/image",06h00 28/10: Managua - ART Jalapa
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c3f687c18e529f9cb4e72&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1074622_small.png",06h00 28/10: Real Tomayapo - Libertad Gran Mamore FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c40597c18e529f9cb4e79&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/654710_small.png",06h00 28/10: Trinidad and Tobago (W) - Mexico (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c40957c18e529f9cb4e82&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/768a73b709b3d575de1e866486fbc360.png!w60",07h00 28/10: Libertad - Gualaceo SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653bb9a17c18e529f9cb474b&.m3u8|Referer=https://pl-rk.livefb.xyz/
