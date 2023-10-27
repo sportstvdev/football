@@ -13,9 +13,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653303eb8791bb560d20fe18&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",19h15 27/10: Viettel - Đông Á Thanh Hoá
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303f08791bb560d20fe21&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391933_small.png",19h30 27/10: Bosnia and Herzegovina (W) - Czech Republic (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653303f08791bb560d20fe20&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102113_small.png",19h45 27/10: Hatta - Al-Wasl
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653303ef8791bb560d20fe1a&.m3u8|Referer=https://sk.mediastation.live/
@@ -260,9 +257,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653abfa4b198ea5456a1e391&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abfd0b198ea5456a1e3a0&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/522c9a9ca1d3e6801bde6e57ec18eed7.png!w60",17h30 27/10: Podolye - Agrobiznes
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653b8c177c18e529f9cb4620&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.bongda24h.vn/Medias/original/2022/1/25/slavia-sofia.png",18h00 27/10: Slavia Sofia - Krumovgrad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6537fbad14459705742609e1&.m3u8|Referer=https://pl-rk.livefb.xyz/
