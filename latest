@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png",18h00 28/10: Khánh Hòa FC - Nam Định
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653bf097b198ea5456a1e6c6&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",18h00 28/10: Hồng Lĩnh Hà Tĩnh - Sông Lam Nghệ An
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653bf0a3b198ea5456a1e6c9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2019/01/PVF-CAND-150x150.png",18h00 28/10: PVF-CAND - Hoà Bình FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653cd5b1b198ea5456a1eb6a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",18h30 28/10: Chelsea - Brentford
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653abf9db198ea5456a1e389&.m3u8|Referer=https://sk.mediastation.live/
