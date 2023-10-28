@@ -929,9 +929,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c12beb198ea5456a1ea49&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c12bfb198ea5456a1ea4d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",10h00 28/10: Mazatlán - Querétaro
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653bba187c18e529f9cb476e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png",11h00 28/10: Consadole Sapporo - Yokohama FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653bba257c18e529f9cb4773&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -983,6 +980,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c93017c18e529f9cb5578&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4692_small.png",12h00 28/10: Cerezo Osaka - Gamba Osaka
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c94767c18e529f9cb559e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8542_small.png",12h00 28/10: Kyoto Sanga FC - Albirex Niigata
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c956f7c18e529f9cb55b0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",12h00 28/10: Pocheon Citizen - Yangpyeong
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c95c37c18e529f9cb55b9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4399_small.png",13h00 28/10: FC Tokyo - Sanfrecce
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653bba7b7c18e529f9cb4793&.m3u8|Referer=https://pl-rk.livefb.xyz/
