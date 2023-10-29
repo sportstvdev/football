@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",19h00 29/10: Brest - PSG
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653d4753b198ea5456a1edd5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179219_small.png",19h15 29/10: Hà Nội FC - Hải Phòng FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653bf0a8b198ea5456a1e6ce&.m3u8|Referer=https://sk.mediastation.live/
@@ -668,9 +665,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c12beb198ea5456a1ea49&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c12bfb198ea5456a1ea4d&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1243552_small.png",19h00 29/10: Uzbekistan (W) - Japan (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653825931445970574260c7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",19h00 29/10: Brest - PSG
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c112c7c18e529f9cb4c66&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -875,18 +869,42 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a627c18e529f9cb544b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1427963_small.png",09h00 30/10: St. Louis City - Sporting KC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a637c18e529f9cb544c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w60",09h00 30/10: Nicaragua (W) - Martinique (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e657700b33622063b1895&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/1200px-Club_Tijuana_logo.svg.png",10h06 30/10: Tijuana - Atlas
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a667c18e529f9cb5451&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/230976/image",15h00 30/10: RANS Nusantara - PSM Makassar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a6a7c18e529f9cb5456&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6b405ecc6f6e3bc63a6bac0b36724231.png!w60",15h30 30/10: Delhi FC - TRAU
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e65bd00b33622063b18a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w60",16h00 30/10: Shan United - Dagon Star UTD
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e65ed00b33622063b18a9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 30/10: Bali United FC - Persita
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a6f7c18e529f9cb545f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cf2cbc64b23da5252afc6492d776da98.png!w60",19h10 30/10: Al Batin - Al Bukayriyah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e663700b33622063b18b3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.thesportsdb.com/images/media/team/badge/8870h81589802072.png",19h15 30/10: Al Najma - Al-Faisaly
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653e06ac00b33622063b15a5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/276143/image",20h00 30/10: Viktoriya Sumy - Shakhtar Donetsk
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e669f00b33622063b18c2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/767370_small.png",20h00 30/10: FK Tuzla City - GOŠK Gabela
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e66ea00b33622063b18c7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/uzbekistan/logos/navbahor.png",20h15 30/10: Navbahor - Nasaf
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e674a00b33622063b18d4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/279308_small.png",20h30 30/10: CSM Slatina - FC Unirea Slobozia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e678900b33622063b18e8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/289696_small.png",21h00 30/10: El Dakhleya - Ismaily SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a7f7c18e529f9cb5464&.m3u8|Referer=https://pl-rk.livefb.xyz/
