@@ -785,6 +785,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c868f7c18e529f9cb51cc&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2120_small.png",16h00 29/10: FC Kyzylzhar Petropavlovsk - Kaisar Kyzylorda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c86917c18e529f9cb51cd&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/297875/image",16h00 29/10: Aksu - Tobol Kostanay
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e192400b33622063b1611&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133901_small.png",16h30 29/10: Gimcheon Sangmu - Gimpo FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c86987c18e529f9cb51d6&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -905,9 +908,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c13427c18e529f9cb4ccc&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",21h00 29/10: Monza - Udinese
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c14457c18e529f9cb4d39&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101747_small.png",21h00 29/10: Tala'ea El Gaish - Ceramica Cleopatra
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653c878e7c18e529f9cb52bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",21h30 29/10: Frankfurt - Dortmund
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c11a17c18e529f9cb4cac&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -971,6 +971,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c882f7c18e529f9cb5333&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/25914/image",23h30 29/10: Qatar SC - Al Markhiya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c88357c18e529f9cb5338&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101747_small.png",00h00 30/10: Tala'ea El Gaish - Ceramica Cleopatra
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653c878e7c18e529f9cb52bc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",00h00 30/10: Inter - Roma
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c883a7c18e529f9cb533d&.m3u8|Referer=https://pl-rk.livefb.xyz/
