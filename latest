@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",22h45 29/10: AZ Alkmaar - NEC Nijmegen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0b39b198ea5456a1e7a9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",23h05 29/10: Rennes - Strasbourg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0b37b198ea5456a1e7a6&.m3u8|Referer=https://sk.mediastation.live/
@@ -31,9 +28,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c50b198ea5456a1e7fd&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4531_small.png",03h30 30/10: Vizela - FC Porto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c59b198ea5456a1e806&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8287_small.png",04h00 30/10: Fortaleza - Cruzeiro
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png",04h00 30/10: Flamengo - Red Bull Bragantino
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c53b198ea5456a1e800&.m3u8|Referer=https://sk.mediastation.live/
@@ -613,6 +607,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c12beb198ea5456a1ea49&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101897_small.png",23h30 03/11: Al-Gharafa - Al-Arabi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c12bfb198ea5456a1ea4d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8287_small.png",04h30 19/11: Fortaleza - Cruzeiro
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",22h45 29/10: AZ Alkmaar - NEC Nijmegen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
