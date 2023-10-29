@@ -614,15 +614,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",22h45 29/10: AZ Alkmaar - NEC Nijmegen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c13927c18e529f9cb4d05&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8609_small.png",23h00 29/10: Sandefjord - Brann
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653c88057c18e529f9cb5310&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95745_small.png",23h00 29/10: Pendikspor - Fenerbahçe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c88117c18e529f9cb5315&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",23h00 29/10: Antalyaspor - Başakşehir
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653c88127c18e529f9cb5316&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",23h05 29/10: Rennes - Strasbourg
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c11347c18e529f9cb4c7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -800,6 +794,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c8ac07c18e529f9cb5497&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",00h30 31/10: Bodø/Glimt - Lillestrøm
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8ac57c18e529f9cb549c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://i.imgur.com/B3WPeHU.png",01h00 31/10: Quả Bóng Vàng - Quả Bóng Vàng
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=653e9ba100b33622063b1b6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a0da10be11be5910b71c5ca79af53350.png!w60",01h00 31/10: AGF Aarhus - Randers FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8ac67c18e529f9cb549d&.m3u8|Referer=https://pl-rk.livefb.xyz/
