@@ -55,9 +55,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0da5b198ea5456a1e86c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1562127_small.png",15h30 31/10: Namdhari FC - Churchill Brothers
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0da5b198ea5456a1e86d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/1200px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",16h00 31/10: Phu Tho - Dong Tam Long An
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653fecc110983b48aa3a7c9a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4685_small.png",17h00 31/10: Kasımpaşa - 68 Aksaray Belediyespor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0da5b198ea5456a1e86f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-yqyrUifrgtR0Vf7PlPCOA_96x96.png",17h00 31/10: Đà Nẵng - Bình Phước
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653fed0510983b48aa3a7c9d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622502_small.png",19h00 31/10: Azerbaijan (W) - Montenegro (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0da8b198ea5456a1e871&.m3u8|Referer=https://sk.mediastation.live/
@@ -76,6 +82,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0daeb198ea5456a1e87c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",21h00 31/10: Cremonese - Cittadella
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0db5b198ea5456a1e880&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",21h45 31/10: Al Nasar FC - Al-Ettifaq
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653fed6610983b48aa3a7ca4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582749_small.png",21h45 31/10: Al Feiha - Al Ittihad
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653fed6a10983b48aa3a7ca6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131398_small.png",22h00 31/10: Ukraine (W) - Greece (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0db5b198ea5456a1e882&.m3u8|Referer=https://sk.mediastation.live/
@@ -181,6 +193,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0f06b198ea5456a1e8ee&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/357239_small.png",03h00 01/11: CF Talavera de la Reina - Almeria
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0f06b198ea5456a1e8f0&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",03h00 01/11: France (W) - Norway (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=653feed710983b48aa3a7cb8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/158085_small.png",03h15 01/11: Arouca - Benfica
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0f06b198ea5456a1e8ef&.m3u8|Referer=https://sk.mediastation.live/
