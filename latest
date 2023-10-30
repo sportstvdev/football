@@ -539,9 +539,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c12bfb198ea5456a1ea4d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w60",16h00 30/10: Shan United - Dagon Star UTD
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653e65ed00b33622063b18a9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/490457/image",17h00 30/10: Kur-Araz - Shafa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653f7fb000b33622063b1f27&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -614,7 +611,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653c8ac07c18e529f9cb5497&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",00h30 31/10: Bodø/Glimt - Lillestrøm
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653c8ac57c18e529f9cb549c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://i.imgur.com/B3WPeHU.png",01h00 31/10: Quả Bóng Vàng - Quả Bóng Vàng
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://i.imgur.com/B3WPeHU.png",01h00 31/10: Quả Bóng Vàng - FIFA Ballon d'Or 2023
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653e9ba100b33622063b1b6d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a0da10be11be5910b71c5ca79af53350.png!w60",01h00 31/10: AGF Aarhus - Randers FC
