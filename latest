@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1103033_small.png",15h00 30/10: RANS Nusantara - PSM Makassar
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c8eb198ea5456a1e82a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 30/10: Bali United Pusam - Persita
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c81b198ea5456a1e826&.m3u8|Referer=https://sk.mediastation.live/
@@ -539,9 +536,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c12bfb198ea5456a1ea4d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/230976/image",15h00 30/10: RANS Nusantara - PSM Makassar
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653c8a6a7c18e529f9cb5456&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6b405ecc6f6e3bc63a6bac0b36724231.png!w60",15h30 30/10: Delhi FC - TRAU
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653e65bd00b33622063b18a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
