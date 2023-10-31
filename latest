@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0dabb198ea5456a1e878&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",19h15 31/10: Al-Taawoun - Al-Wehda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0dabb198ea5456a1e879&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394239_small.png",20h00 31/10: Georgia (W) - Lithuania (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0daeb198ea5456a1e87c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1515102_small.png",20h00 31/10: Corvinul Hunedoara - Sepsi OSK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0db5b198ea5456a1e881&.m3u8|Referer=https://sk.mediastation.live/
@@ -476,9 +473,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585596_small.png",18h00 31/10: Legia Warszawa II - Korona Kielce
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e0600b33622063b0d84&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f529ef530687fa527658bf93035bddd0.png!w60",18h00 31/10: Famalicao U23 - Gil Vicente U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65403f5500b33622063b288a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/64ef2aaa0f5656bf1d7604cf4ecc33c4.png!w60",18h30 31/10: Shandong Taishan U21 - Dalian Professional FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6540c8da00b33622063b2a71&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -503,9 +497,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e9500b33622063b0db9&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1515102_small.png",20h00 31/10: Corvinul Hunedoara - Sepsi OSK
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e8c00b33622063b0db3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582376_small.png",20h00 31/10: Jadran LP - Hajduk Split
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653d5ea600b33622063b0dc3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9ae229e8442ff8cacac077b40f499022.png!w60",20h00 31/10: Sporting CP U23 - Benfica U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6540425c00b33622063b28ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
