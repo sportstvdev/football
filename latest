@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10082_small.png",04h30 31/10: Lanus - Belgrano
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0d9ab198ea5456a1e85e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/202757_small.png",05h00 31/10: Sarmiento - San Lorenzo
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c0d9ab198ea5456a1e85d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/267810_small.png",06h00 31/10: Orlando - Nashville SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0d9db198ea5456a1e861&.m3u8|Referer=https://sk.mediastation.live/
@@ -584,6 +578,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e2b00b33622063b0da4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622502_small.png",19h00 31/10: Azerbaijan (W) - Montenegro (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e2d00b33622063b0da5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9a4f97d9eae98683f7438f59cd22b1c1.png!w60",19h00 31/10: Al Qaisoma - Al Kholood
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654041c900b33622063b289c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",19h15 31/10: Al Fateh FC - Al Shabab
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e9300b33622063b0db8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -596,6 +593,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e8c00b33622063b0db3&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582376_small.png",20h00 31/10: Jadran LP - Hajduk Split
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5ea600b33622063b0dc3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9ae229e8442ff8cacac077b40f499022.png!w60",20h00 31/10: Sporting CP U23 - Benfica U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6540425c00b33622063b28ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",21h00 31/10: Cremonese - Cittadella
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e7f00b33622063b0dae&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -608,6 +608,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5eb900b33622063b0dc8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131401_small.png",21h30 31/10: Slovakia (W) - Romania (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5f1100b33622063b0dd2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95749_small.png",21h30 31/10: Hatayspor - Sariyer
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654042d100b33622063b28ba&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",21h45 31/10: Al Nassr FC - Al-Ettifaq
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5f1800b33622063b0dd7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -617,6 +620,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5f1900b33622063b0dd8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131398_small.png",22h00 31/10: Ukraine (W) - Greece (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5f3f00b33622063b0de1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3vmwTga0WrnIZC02Kdep3P4avTaZELuoU_giNVAms9jjVuhKooHURMJ_XRWIwj-q8bI&usqp=CAU",22h30 31/10: Lovech - Cherno More
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6540436a00b33622063b28c6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/279309_small.png",23h00 31/10: Chindia Targoviste - Petrolul Ploiesti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5f4c00b33622063b0de6&.m3u8|Referer=https://pl-rk.livefb.xyz/
