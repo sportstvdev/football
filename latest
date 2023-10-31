@@ -998,9 +998,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65410a2b10983b48aa3a804e&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/612482_small.png",23h00 31/10: Moldova (W) - Latvia (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653d5fed00b33622063b0dfa&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8698_small.png",23h30 31/10: Zenit - Krylya Sovetov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5ff900b33622063b0e0e&.m3u8|Referer=https://pl-rk.livefb.xyz/
