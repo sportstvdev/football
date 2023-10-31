@@ -560,9 +560,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e1b00b33622063b0d8d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f529ef530687fa527658bf93035bddd0.png!w60",18h00 31/10: Famalicao U23 - Gil Vicente U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65403f5500b33622063b288a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/320005/image",18h00 31/10: Al Karrkh - Al Mina'a
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654040cd00b33622063b2892&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1525974_small.png",19h00 31/10: Carina Gubin - Stal Stalowa Wola
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e1d00b33622063b0d92&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -575,6 +572,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e2b00b33622063b0da4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/622502_small.png",19h00 31/10: Azerbaijan (W) - Montenegro (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653d5e2d00b33622063b0da5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/320005/image",19h00 31/10: Al Karrkh - Al Mina'a
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654040cd00b33622063b2892&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9a4f97d9eae98683f7438f59cd22b1c1.png!w60",19h00 31/10: Al Qaisoma - Al Kholood
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654041c900b33622063b289c&.m3u8|Referer=https://pl-rk.livefb.xyz/
