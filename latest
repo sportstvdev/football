@@ -914,12 +914,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65410a2b10983b48aa3a804e&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/39397b298f6cb63553ecf46b6a59f7c1.png!w60",06h00 01/11: Dominican Republic (W) - St. Vincent Grenadines (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654185a400b33622063b36a3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/21818/image",06h00 01/11: Puerto Rico ( W) - Trinidad and Tobago (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654185c000b33622063b36a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/452823_small.png",06h05 01/11: Alebrijes - Atlante
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653fda9400b33622063b2152&.m3u8|Referer=https://pl-rk.livefb.xyz/
