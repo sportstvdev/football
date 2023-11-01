@@ -16,7 +16,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0f32b198ea5456a1e92f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/873038_small.png",21h30 01/11: Jamshedpur - ATK Mohun Bagan FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6541904510983b48aa3a838b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/tSfwGCdM-0rY6MEPI.png",21h30 01/11: Novak Djokovic - Tomas Etcheverry
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/tSfwGCdM-0rY6MEPI.png",22h00 01/11: Novak Djokovic - Tomas Etcheverry
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6541c76810983b48aa3a83c6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8710_small.png",22h30 01/11: Lokomotiv - Rubin
@@ -983,9 +983,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/370885/image",19h00 01/11: Pattaya United - BG Pathum United
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654115e200b33622063b2c51&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8711_small.png",20h00 01/11: Khimki - Dinamo Vladivostok
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653fdc6500b33622063b2203&.m3u8|Referer=https://pl-rk.livefb.xyz/
