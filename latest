@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c116fb198ea5456a1e989&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9835_small.png",03h00 02/11: FC Den Bosch - Excelsior
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65428e7b8aaa59624ba3362a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",03h15 02/11: Man United - Newcastle
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=653c116fb198ea5456a1e988&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03h15 02/11: Braga - Casa Pia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c1173b198ea5456a1e98e&.m3u8|Referer=https://sk.mediastation.live/
@@ -917,12 +914,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653fde9100b33622063b22f5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9835_small.png",03h00 02/11: FC Den Bosch - Excelsior
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653fdeac00b33622063b22fa&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",03h15 02/11: Man United - Newcastle
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653fdeb000b33622063b22fb&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03h15 02/11: Braga - Casa Pia AC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653fdeba00b33622063b2306&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/277407_small.png",03h30 02/11: UE Rubi - Athletic Club
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653fdeb800b33622063b2305&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1016,9 +1007,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=653fdf8100b33622063b2388&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068364_small.png",20h00 02/11: Akron Togliatti - FC Volgar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=653fdf8e00b33622063b238d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/258536/image",20h00 02/11: Polissya Zhytomyr - FC Olexandriya
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=653fdfa900b33622063b2392&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/258536/image",20h00 02/11: Polissya Zhytomyr - FC Olexandriya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6542614d00b33622063b3b0c&.m3u8|Referer=https://pl-rk.livefb.xyz/
