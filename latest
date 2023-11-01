@@ -1013,12 +1013,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/413687/image",15h00 01/11: Hòa Bình - Huế
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6541142400b33622063b2c19&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5e1e93f0c13d03a2d23bfa87ee39a9d2.png!w60",15h00 01/11: ASC Center - Hal FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6541151200b33622063b2c2e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/253057/image",16h00 01/11: Phù Đổng - Ba Ria Vung Tau
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6541153a00b33622063b2c33&.m3u8|Referer=https://pl-rk.livefb.xyz/
