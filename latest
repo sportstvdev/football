@@ -22,6 +22,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c119ab198ea5456a1e9be&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8622_small.png",21h30 02/11: Konyaspor - Erbaaspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6542fa218aaa59624ba337b3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9760_small.png",22h30 02/11: CSKA - Orenburg
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6543bab28aaa59624ba3384f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102111_small.png",22h30 02/11: Al-Wasl - Al-Ain
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6543babf8aaa59624ba33852&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203826_small.png",23h30 02/11: Al-Duhail SC - Al-Rayyan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c1190b198ea5456a1e9b3&.m3u8|Referer=https://sk.mediastation.live/
@@ -941,6 +947,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654165d200b33622063b32fa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8539_small.png",11h05 03/11: Ventforet Kofu - Roasso Kumamoto
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654165de00b33622063b3300&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/korea-republic/logos/daejeon-korail.png",13h00 03/11: Daejeon Korail - Mokpo City
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6543b9e400b33622063b432f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585847_small.png",15h00 03/11: PSS Sleman - Bali United FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654165e300b33622063b3306&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -950,6 +959,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654165e400b33622063b3307&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/malaysia/logos/kelantan.png",16h30 03/11: Kelantan - Sabah FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654165ec00b33622063b3310&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png!w60",16h30 03/11: Rakhine United - Shan United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6543ba1f00b33622063b433e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png",18h00 03/11: Binh Dinh - Hoang Anh Gia Lai
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6541660600b33622063b3315&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1007,6 +1019,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654166be00b33622063b3368&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",22h00 03/11: Dynamo Kyiv - Shakhtar Donetsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654166c300b33622063b3371&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cc6ff0248b27e09279c807ce35ff3488.png!w60",22h05 03/11: Changwon City - Hwaseong
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6543bae000b33622063b4348&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/209190_small.png",22h30 03/11: Al Ittihad Kalba - Shabab Al-Ahli Dubai FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654166cb00b33622063b3376&.m3u8|Referer=https://pl-rk.livefb.xyz/
