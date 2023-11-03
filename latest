@@ -514,9 +514,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654108ef10983b48aa3a7fca&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102153_small.png",21h00 06/11: Nasaf Qarshi - Sharjah Cultural Club
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654108ef10983b48aa3a7fcb&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",23h00 06/11: Sepahan - AGMK
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=654108f910983b48aa3a7fd3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101737_small.png",23h00 06/11: Al-Nejmeh - Al Zawraa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654108f910983b48aa3a7fd5&.m3u8|Referer=https://sk.mediastation.live/
@@ -535,6 +532,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654109e110983b48aa3a7fec&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",00h30 07/11: Frosinone - Empoli
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654109e110983b48aa3a7fed&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",01h00 07/11: Sepahan - AGMK
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=654108f910983b48aa3a7fd3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101665_small.png",01h00 07/11: Al-Faisaly - Al-Sadd
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654109e210983b48aa3a7fee&.m3u8|Referer=https://sk.mediastation.live/
@@ -719,6 +719,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6541662a00b33622063b3330&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165229_small.png",20h00 03/11: Terengganu - Kuala Lumpur City
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6543bbd000b33622063b435c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/54297/image",20h00 03/11: Sesvete - Croatia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6544e6be00b33622063b508a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165187_small.png",20h30 03/11: Mohammedan SC - Shillong Lajong FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6541663800b33622063b333a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1520,9 +1523,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6544815700b33622063b4ab5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49695_small.png",22h30 06/11: KamAZ - SKA-Khabarovsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544815800b33622063b4ab6&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",23h00 06/11: Sepahan - AGMK
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6544815e00b33622063b4abf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102074_small.png",23h00 06/11: Al-Futowa - Al-Nahda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544815f00b33622063b4ac0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1556,6 +1556,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654481a800b33622063b4af1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6050_small.png",00h30 07/11: Napredak - FK IMT Beograd
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654481b300b33622063b4af6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",01h00 07/11: Sepahan - AGMK
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6544815e00b33622063b4abf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101665_small.png",01h00 07/11: Al-Faisaly - Al-Sadd
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654481b800b33622063b4afb&.m3u8|Referer=https://pl-rk.livefb.xyz/
