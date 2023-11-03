@@ -611,9 +611,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101916_small.png",01h00 04/11: Al Shabab - Al Ittihad
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6541676b00b33622063b33c7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2550_small.png",01h30 04/11: FC Bihor Oradea - Dinamo Bucuresti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65453edb00b33622063b546f&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -637,7 +634,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6541679500b33622063b33d6&
 http://api.sportstvapp.tech/football/playcakhia.php?id=6541679a00b33622063b33dc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",03h00 04/11: PSG - Montpellier
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654167ad00b33622063b33e2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6545549f00b33622063b55db&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",03h00 04/11: Las Palmas - Atlético Madrid
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654167ac00b33622063b33e1&.m3u8|Referer=https://pl-rk.livefb.xyz/
