@@ -437,9 +437,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",02h45 05/11: Milan - Udinese
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65416a3d00b33622063b35c4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",03h00 05/11: Real Sociedad - Barcelona
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65416a4400b33622063b35c9&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -572,9 +569,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654478b000b33622063b48d6&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",19h00 05/11: Lyon - Metz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654478b600b33622063b48db&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8076_small.png",19h00 05/11: FK Qabala - FK Neftchi
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654478ce00b33622063b48e5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/56866_small.png",19h00 05/11: FC Smorgon - FC Minsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654478d400b33622063b48ea&.m3u8|Referer=https://pl-rk.livefb.xyz/
