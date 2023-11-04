@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1209973_small.png",13h30 04/11: Macarthur FC - Western United FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=654105c310983b48aa3a7f40&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6628_small.png",14h30 04/11: Shanghai Shenhua - Zhejiang Professional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654105c710983b48aa3a7f44&.m3u8|Referer=https://sk.mediastation.live/
@@ -632,6 +629,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6544f93500b33622063b5177&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/345946/image",15h00 04/11: Taichung Blue (W) - Kaohsiung (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6545ec6500b33622063b5960&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3bb9e93d60d66c70319d5cc96f436d34.png!w60",15h30 04/11: Fortis Limited - Mohammedan Dhaka
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6545feba00b33622063b5a5c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/595524_small.png",15h30 04/11: Abahani Limited - Sheikh Russel KC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6545fedd00b33622063b5a61&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/5970/image",15h45 04/11: Melbourne Victory - Adelaide United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6541682700b33622063b3489&.m3u8|Referer=https://pl-rk.livefb.xyz/
