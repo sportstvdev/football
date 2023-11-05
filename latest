@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/R5GJ6-Ve0BAB7WqS6qm0Ug_96x96.png",16h00 05/11: Đồng Tháp - Hoà Bình FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65469c0cbdeb355c49c4d3ed&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/kTQ_KSOgdWgX_Kq_WtVsuw_96x96.png",16h30 05/11: Than Quảng Ninh - HCĐG Tia Sáng
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654207bd10983b48aa3a844a&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,9 +13,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6541029210983b48aa3a7eba&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/17/BRVT_logo.svg/1200px-BRVT_logo.svg.png",18h00 05/11: Ba Ria Vung Tau - Đồng Nai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65469c26bdeb355c49c4d3f0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f3/B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg/1200px-B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg.png",18h00 05/11: Bình Phước - Phù Đổng
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65469c38bdeb355c49c4d3f3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2019/01/PVF-CAND-150x150.png",18h00 05/11: PVF-CAND - Đà Nẵng
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65469c4bbdeb355c49c4d3f6&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,6 +22,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6541029410983b48aa3a7ebf&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",18h30 05/11: Hellas Verona - Monza
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654101a510983b48aa3a7e42&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f3/B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg/1200px-B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_FC.svg.png",18h30 05/11: Bình Phước - Phù Đổng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65469c38bdeb355c49c4d3f3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",19h00 05/11: Lyon - Metz
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654101ad10983b48aa3a7e50&.m3u8|Referer=https://sk.mediastation.live/
