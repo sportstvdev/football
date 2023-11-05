@@ -404,6 +404,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65471bf693ad1039979a0306&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/82cddad4535a97f72cfe6d8d63ff8ed8.png!w60",12h00 05/11: Geoje Citizen - Jinju Citizen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65471c2a93ad1039979a030c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/346801/image",13h00 05/11: Yeoju Citizen - Chungju Citizen
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65472cda93ad1039979a035a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h45 05/11: Newcastle Jets (W) - Western Sydney Wanderers FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544781200b33622063b48a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
