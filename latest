@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",11h00 05/11: Newcastle Jets - Western Sydney Wanderers FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6541028410983b48aa3a7ea3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614556_small.png",11h05 05/11: Renofa Yamaguchi - Machida Zelvia
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6541028710983b48aa3a7ea6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6223_small.png",12h00 05/11: Tokyo Verdy - Tochigi SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6541028710983b48aa3a7ea5&.m3u8|Referer=https://sk.mediastation.live/
@@ -404,6 +398,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65471c2a93ad1039979a030c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/346801/image",13h00 05/11: Yeoju Citizen - Chungju Citizen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65472cda93ad1039979a035a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7a64430477fe731620bee7a50e239f81.png!w60",13h30 05/11: Dongguan United - Jinan XingZhou
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6547386393ad1039979a0371&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4823fe054490d62d8ea978267f24cf2d.png!w60",13h30 05/11: Guangxi Pingguo Haliao - Jiangxi Lushan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6547389b93ad1039979a037f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h45 05/11: Newcastle Jets (W) - Western Sydney Wanderers FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544781200b33622063b48a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
