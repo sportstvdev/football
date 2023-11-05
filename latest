@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207bd10983b48aa3a844a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",16h30 05/11: BLT Thông Tin - TTBP - Ninh Bình LVPB
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654207d110983b48aa3a8450&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165252_small.png",17h30 05/11: Nakhon Pathom - Sukhothai FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6541028e10983b48aa3a7eb4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h30 05/11: Sivasspor - Adana Demirspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6541029210983b48aa3a7eb9&.m3u8|Referer=https://sk.mediastation.live/
@@ -368,12 +365,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png!w60",15h30 05/11: Tyumen - Sokol Saratov
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6544781900b33622063b48ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a29e4afeeda8f4b6eec1e038d9555f93.png!w60",15h45 05/11: Angkor Tiger - ISI Dangkor Senchey
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654752b093ad1039979a04a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b6cae339576dad4050db7d092cdc52b6.png!w60",16h00 05/11: Đồng Tháp - Hòa Bình
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6546333500b33622063b5c80&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -395,21 +386,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654768ac93ad1039979a0516&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/dcebc6696f27e2afaad20f5d5eb16ae1.jpg!w60",17h00 05/11: Tallinna FC Ararat TTU - Tabasalu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6547692893ad1039979a051f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/255498/image",17h30 05/11: Nakhon Pathom - Sukhothai FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6544782800b33622063b48bd&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h30 05/11: Sivasspor - Demirspor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6544782a00b33622063b48be&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/fcd8dc280beafdd1681f5e0c6a8e038d.png!w60",17h30 05/11: JK Tallinna Kalev - FC Nomme
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6547672493ad1039979a0503&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/658811_small.png",17h30 05/11: Bodrumspor - Manisa Futbol Kulubu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65476c3893ad1039979a0544&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2e143e360a95fba04d68ab11215d834b.png!w60",18h00 05/11: Pho Hien - Da Nang
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654633f900b33622063b5ca4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/168719_small.png",18h00 05/11: Krasnodar - Krylya Sovetov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544785500b33622063b48c7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -422,6 +404,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6546335f00b33622063b5c85&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/APTObehl-6aVAaBNC.png",18h00 05/11: Ba Ria Vung Tau - Đồng Nai
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654633d500b33622063b5c9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2e143e360a95fba04d68ab11215d834b.png!w60",18h00 05/11: Pho Hien - Da Nang
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654633f900b33622063b5ca4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",18h15 05/11: FC Utrecht - FC Twente
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544786500b33622063b48cd&.m3u8|Referer=https://pl-rk.livefb.xyz/
