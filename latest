@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h45 05/11: Newcastle Jets (W) - Western Sydney Wanderers FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65469c78bdeb355c49c4d403&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/FC_Hu%E1%BA%BF.svg",15h00 05/11: CLB Hue - Phu Tho
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65469bedbdeb355c49c4d3ea&.m3u8|Referer=https://sk.mediastation.live/
@@ -377,9 +374,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/6aZL0kyB-M5YmU2XJ.png",14h00 05/11: Tainan City - Taipei Shihu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65473e2b93ad1039979a03fa&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bac6db59f4e1b555b0951657821bf45a.png!w60",14h00 05/11: Athletic Club Taipei - Hang Yuen
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65473e7493ad1039979a0409&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png",15h00 05/11: Huế - Phú Thọ
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6546330c00b33622063b5c76&.m3u8|Referer=https://pl-rk.livefb.xyz/
