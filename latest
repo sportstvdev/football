@@ -374,9 +374,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654207e810983b48aa3a8453&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/637156b78623bf5cec6d1a224b7c6382.png!w60",15h00 05/11: Student Union - SC Bengaluru
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6547506393ad1039979a048e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/648fd9c4461cd9c6c4dce410bb72d8f0.png!w60",15h30 05/11: Tyumen - Sokol Saratov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6544781900b33622063b48ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -413,6 +410,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6544782a00b33622063b48be&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/fcd8dc280beafdd1681f5e0c6a8e038d.png!w60",17h30 05/11: JK Tallinna Kalev - FC Nomme
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6547672493ad1039979a0503&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/658811_small.png",17h30 05/11: Bodrumspor - Manisa Futbol Kulubu
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65476c3893ad1039979a0544&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2e143e360a95fba04d68ab11215d834b.png!w60",18h00 05/11: Pho Hien - Da Nang
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654633f900b33622063b5ca4&.m3u8|Referer=https://pl-rk.livefb.xyz/
