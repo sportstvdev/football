@@ -731,12 +731,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65480c6dbdeb355c49c4da8f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png!w60",07h00 07/11: Jorge Wilstermann - Real Tomayapo
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65497fc7b72944618d1e180a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6458_small.png",07h00 07/11: Universidad Catolica - Libertad
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65497fcab72944618d1e180b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",09h00 07/11: Salt Lake - Houston
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6546adcd93ad10399799febc&.m3u8|Referer=https://pl-rk.livefb.xyz/
