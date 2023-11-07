@@ -884,6 +884,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6546af5d93ad10399799ffff&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/608449_small.png",21h00 08/11: Ceramica Cleopatra - Al Ahly SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6546af6893ad1039979a000c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1495104644774a0b9f2b87400c28e6bb.png!w60",21h30 08/11: Al Qadisiya - Al-Arabi (KSA)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654a4be5b72944618d1e1ae3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/269199/image",21h30 08/11: Al Kholood - Al-Faisaly
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654a4c1fb72944618d1e1aed&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/555292_small.png",22h00 08/11: Skalica - Komarno
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6546afa293ad1039979a0011&.m3u8|Referer=https://pl-rk.livefb.xyz/
