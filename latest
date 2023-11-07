@@ -22,9 +22,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65410a2a10983b48aa3a8048&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101662_small.png",23h00 07/11: Al Kahrabaa - Al-Wehdat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65410a2b10983b48aa3a804d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582749_small.png",23h00 07/11: Al Feiha - Al-Ain
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65410a2b10983b48aa3a804e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",00h45 08/11: Dortmund - Newcastle
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654804e9bdeb355c49c4d801&.m3u8|Referer=https://sk.mediastation.live/
@@ -433,9 +430,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65480937bdeb355c49c4d98b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png",10h00 11/11: Seattle Sounders - Dallas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480939bdeb355c49c4d991&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675734_small.png",11h00 11/11: Melbourne Victory (W) - Newcastle Jets (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65480937bdeb355c49c4d98c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1079464_small.png",11h30 11/11: Western United FC - Newcastle Jets
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6548093cbdeb355c49c4d992&.m3u8|Referer=https://sk.mediastation.live/
@@ -604,6 +598,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65480acebdeb355c49c4da24&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",03h00 12/11: Le Havre - Monaco
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480af5bdeb355c49c4da57&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675734_small.png",11h00 12/11: Melbourne Victory (W) - Newcastle Jets (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65480937bdeb355c49c4d98c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",12h30 12/11: HCĐG Tia Sáng - VTV Bình Điền Long An
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6542075610983b48aa3a8438&.m3u8|Referer=https://sk.mediastation.live/
