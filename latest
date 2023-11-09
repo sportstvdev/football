@@ -470,9 +470,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65480c6dbdeb355c49c4da8f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/707572_small.png",21h00 09/11: Altyn Asyr - Merw
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654940efb72944618d1e1554&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/550433_small.png",22h00 09/11: Al Khaleej - Al Taee
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654940fbb72944618d1e155d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -650,6 +647,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654942b5b72944618d1e167f&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/37b34b7620d90b0ef53f5b7aa8715cd0.png!w60",20h15 10/11: Buxoro FK - Olympic FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654cfbfeb72944618d1e2e22&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a9ac0adbd1343fe262bbe1341379d4d8.png!w60",20h30 10/11: Zvezda Perm (W) - CSKA Moskva (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654d0482b72944618d1e2e9b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10068_small.png",21h00 10/11: Shakhtyor Soligorsk - Slavia Mozyr
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654942c5b72944618d1e1684&.m3u8|Referer=https://pl-rk.livefb.xyz/
