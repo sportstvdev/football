@@ -674,12 +674,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4685_small.png",17h30 11/11: Kasımpaşa - Kayserispor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654c75a2b72944618d1e28cb&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8387_small.png",17h30 11/11: Keçiörengücü - Bodrumspor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654f2a6cb72944618d1e3c45&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10143_small.png",17h45 11/11: Hebar - Cherno More Varna
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654f56861276e058770017e1&.m3u8|Referer=https://pl-rk.livefb.xyz/
