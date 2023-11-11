@@ -752,6 +752,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654b9046b72944618d1e21aa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/616212_small.png",11h30 11/11: Seoul E-Land FC - Seongnam FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654b9047b72944618d1e21ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/28cfa007816ce65624b2ae520890dd2c.png!w60",12h00 11/11: Daejeon Citizen - Gangwon FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=654b904eb72944618d1e21c0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4425_small.png",12h00 11/11: Albirex Niigata - FC Tokyo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654b9048b72944618d1e21ac&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -761,9 +764,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=654b904ab72944618d1e21b5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6180_small.png",12h00 11/11: Shonan Bellmare - Nagoya Grampus
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654b904cb72944618d1e21ba&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/28cfa007816ce65624b2ae520890dd2c.png!w60",12h00 11/11: Daejeon Citizen - Gangwon FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=654b904eb72944618d1e21c0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193858_small.png",12h00 11/11: Giravanz Kitakyushu - Grulla Morioka
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=654f060cb72944618d1e3b2b&.m3u8|Referer=https://pl-rk.livefb.xyz/
