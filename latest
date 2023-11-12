@@ -34,6 +34,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654e72a8bdeb355c49c4e787&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8357_small.png",19h30 12/11: Greuther Fürth - Düsseldorf
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e72a8bdeb355c49c4e789&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8196_small.png",19h30 12/11: Wehen Wiesbaden - 1.FC Kaiserslautern
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6550b977bdeb355c49c4ef2f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",20h00 12/11: XMLS Thanh Hóa - Than Quảng Ninh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654207cb10983b48aa3a844d&.m3u8|Referer=https://sk.mediastation.live/
