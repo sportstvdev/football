@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584663_small.png",01h30 14/11: UTA Arad - Otelul Galati
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=654e7426bdeb355c49c4e7cd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8670_small.png",03h00 14/11: Real Oviedo - Cartagena
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e7429bdeb355c49c4e7d1&.m3u8|Referer=https://sk.mediastation.live/
@@ -326,12 +323,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=653c0c52b198ea5456a1e7fe&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/204657/image",01h30 14/11: UTA Arad - Otelul Galati
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655052461276e0587700210f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/dec900e0813ce94ffb9bd85b28f4f681.png!w60",01h30 14/11: Koln (w) - TSG 1899 Hoffenheim (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655266f81276e0587700316e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/674807_small.png",02h30 14/11: AZ Picerno - Potenza
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65525d061276e05877003148&.m3u8|Referer=https://pl-rk.livefb.xyz/
