@@ -76,9 +76,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654e7534bdeb355c49c4e84f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4403_small.png",08h00 16/11: Millonarios - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e7547bdeb355c49c4e85d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/659098_small.png",08h05 16/11: CD Tepatitlan de Morelos - Mineros
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=654e7542bdeb355c49c4e858&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6575_small.png",08h05 16/11: Atletico Morelia - UDG
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e7543bdeb355c49c4e85b&.m3u8|Referer=https://sk.mediastation.live/
@@ -244,6 +241,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654e7955bdeb355c49c4e8fa&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9762_small.png",07h30 17/11: Chile  - Paraguay
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e7957bdeb355c49c4e8fb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/659098_small.png",08h05 17/11: CD Tepatitlan de Morelos - Mineros
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=654e7542bdeb355c49c4e858&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",09h00 17/11: USA -  Trinidad and Tobago
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e795cbdeb355c49c4e906&.m3u8|Referer=https://sk.mediastation.live/
@@ -352,7 +352,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65537271bdeb355c49c4f313&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5806_small.png",07h00 18/11: Jamaica - Canada
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65537277bdeb355c49c4f318&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127409_small.png",08h00 18/11: Belize - French Guiana
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127409_small.png",09h00 18/11: Belize - French Guiana
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6553727abdeb355c49c4f31b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09h00 18/11: Honduras - Mexico
