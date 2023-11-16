@@ -1,6 +1,9 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://secure.cache.images.core.optasports.com/soccer/teams/150x150/26780.png",14h30 16/11: GT Thai Nguyen - TKS Viet Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6554fa3ebdeb355c49c4f5e6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/Logo_CLB_n%E1%BB%AF_S%C6%A1n_La.png",14h30 16/11: Sơn La - PP Hà Nam
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6555c31fbdeb355c49c4f6e3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",16h00 16/11: Australia - Bangladesh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e7549bdeb355c49c4e860&.m3u8|Referer=https://sk.mediastation.live/
