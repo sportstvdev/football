@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584851_small.png",10h05 16/11: Cimarrones - Atlante
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=654e753ebdeb355c49c4e856&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://secure.cache.images.core.optasports.com/soccer/teams/150x150/26780.png",14h30 16/11: GT Thai Nguyen - TKS Viet Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6554fa3ebdeb355c49c4f5e6&.m3u8|Referer=https://sk.mediastation.live/
@@ -142,6 +139,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=654e794bbdeb355c49c4e8ec&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5797_small.png",03h00 17/11: Bolivia - Peru
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e794bbdeb355c49c4e8eb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.atptour.com/-/media/alias/player-headshot/S0AG",03h00 17/11:  Jannik Sinner - Holger Rune
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6555a2adbdeb355c49c4f6d6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5800_small.png",05h00 17/11: Venezuela - Ecuador
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=654e794bbdeb355c49c4e8ed&.m3u8|Referer=https://sk.mediastation.live/
@@ -653,9 +653,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=655374b3bdeb355c49c4f476&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584851_small.png",10h05 16/11: Cimarrones - Atlante
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6554b93f1276e05877003799&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cedefb834d84c29f26ebdf2384b381a4.png!w60",15h00 16/11: Hal FC - Megt Centre
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65553a791276e05877003d9a&.m3u8|Referer=https://pl-rk.livefb.xyz/
