@@ -476,9 +476,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65511d891276e05877002ae9&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/180616_small.png",19h00 17/11: Iran U17 - New Caledonia U17
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65511d8b1276e05877002aea&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/821847_small.png",19h00 17/11: Kosovo U21 - Bulgaria U21
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65511dbe1276e05877002b23&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/indonesia/logos/semen.png",19h00 17/11: Semen Padang - PSPS Riau
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655622891276e05877003f37&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -668,6 +665,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65576f3c1276e058770047bb&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47535_small.png",18h00 18/11: Mafra - Vilaverdense FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65576f7b1276e058770047c0&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2330/image",18h00 18/11: Shinnik Yaroslavl - KamAZ
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65576fca1276e058770047c5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187884_small.png",18h30 18/11: Bdin Vidin - Beroe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe8b1276e0587700398f&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -689,6 +689,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6554fea21276e058770039a5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10128_small.png",19h00 18/11: PFC Lokomotiv Sofia 1929 - Spartak Varna
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fea81276e058770039ae&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",19h00 18/11: Italy U19 - Switzerland U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655770791276e058770047cb&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4488_small.png",19h30 18/11: Pirin Blagoevgrad - Botev Vratsa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fecb1276e058770039b3&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -701,6 +704,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6554fef21276e058770039be&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1068353_small.png",20h00 18/11: Dynamo Makhachkala - Tyumen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fef41276e058770039bf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/flags/48/spain.png",20h00 18/11: Spain U19 - Cyprus U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655770e41276e058770047d1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",20h00 18/11: Belgium U19 - Albania U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655771c21276e058770047dc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/258661_small.png",20h30 18/11: Chelsea Women (W) - Liverpool Women (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fefd1276e058770039c8&.m3u8|Referer=https://pl-rk.livefb.xyz/
