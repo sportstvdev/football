@@ -112,6 +112,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65537289bdeb355c49c4f332&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6316_small.png",20h00 18/11: South Africa - Benin
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6553728bbdeb355c49c4f336&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/258661_small.png",20h30 18/11: Chelsea FC Women (W) - Liverpool Women (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6557a5f7bdeb355c49c4fcde&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",21h00 18/11: Armenia - Wales
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655371e8bdeb355c49c4f2f3&.m3u8|Referer=https://sk.mediastation.live/
