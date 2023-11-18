@@ -310,6 +310,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65537497bdeb355c49c4f44c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8700_small.png",20h00 21/11: Uzbekistan - Iran
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6553749abdeb355c49c4f450&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/121282_small.png",20h00 21/11: Ethiopia - Burkina Faso
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6557a7f2bdeb355c49c4fd06&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95799_small.png",20h15 21/11: Nepal - Yemen
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6553749bbdeb355c49c4f453&.m3u8|Referer=https://sk.mediastation.live/
@@ -361,9 +364,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557a7e6bdeb355c49c4fd00&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6658_small.png",01h00 22/11: Ukraine U21 - Azerbaijan U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a7efbdeb355c49c4fd05&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/121282_small.png",02h00 22/11: Ethiopia - Burkina Faso
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557a7f2bdeb355c49c4fd06&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/121281_small.png",02h00 22/11: Niger - Zambia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a7f3bdeb355c49c4fd08&.m3u8|Referer=https://sk.mediastation.live/
@@ -986,9 +986,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6554fea81276e058770039ae&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/613153_small.png",19h00 18/11: Slovan Galanta - Slovan Bratislava
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558ad4ce17fdc5d8898fcac&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4488_small.png",19h30 18/11: Pirin Blagoevgrad - Botev Vratsa
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6554fecb1276e058770039b3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5959_small.png",19h30 18/11: Serbia U19 - Bulgaria U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558294f1276e05877004cfd&.m3u8|Referer=https://pl-rk.livefb.xyz/
