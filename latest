@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5886_small.png",06h00 18/11: Barbados - Nicaragua
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65537271bdeb355c49c4f313&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5943_small.png",06h30 18/11: Bermuda - Saint Vincent and The Grenadines
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65537274bdeb355c49c4f315&.m3u8|Referer=https://sk.mediastation.live/
@@ -980,9 +977,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/db2def851dc6d8228cc74eb7f08b3ceb.png!w60",06h00 18/11: Barbados - Nicaragua
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe281276e05877003938&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5943_small.png",06h30 18/11: Bermuda - Saint Vincent and The Grenadines
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe0b1276e05877003932&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -992,9 +986,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe311276e05877003941&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298660_small.png",07h30 18/11: Londrina EC - Novorizontino
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe401276e05877003946&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980703_small.png",08h00 18/11: Monterrey (W) - Tigres (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe451276e0587700394b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09h00 18/11: Honduras - Mexico
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6554fe4b1276e05877003950&.m3u8|Referer=https://pl-rk.livefb.xyz/
