@@ -4,6 +4,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65537346bdeb355c49c4f38a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tksvietnam.com/wp-content/uploads/2022/01/logo-1024x337.png",17h00 19/11: TKS Viet Nam - Sơn La
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655906d7bdeb355c49c50220&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://volleybox.net/media/upload/teams/1697522000NYVg5.png",17h00 19/11: Da Nang - Ninh Bình LVPB
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6559dbecbdeb355c49c5034f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1111274_small.png",18h00 19/11: TRAU - Sreenidi Deccan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65537344bdeb355c49c4f383&.m3u8|Referer=https://sk.mediastation.live/
@@ -869,18 +872,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cf874342c7bd44f351c9d502674f94b8.png!w80",15h00 19/11: Gresik - Deltras
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6558c8d9e17fdc5d8898fdc7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/indonesia/logos/psim-yogyakarta.png",15h00 19/11: PSIM Yogyakarta - Perserang
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6559b90ae17fdc5d889905ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e18e0eb1e0b8c40384b37ce6b0f12275.png!w60",15h00 19/11: Real Chikkamagaluru FC - Kodagu FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6559bfafe17fdc5d8899063e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/eadab3df4d82bf40ce3fca92e02e52c7.png!w60",15h00 19/11: Kampong Thom - Kampong Cham FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6559c509e17fdc5d8899064f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/184549_small.png",15h30 19/11: Shillong Lajong FC - Gokulam FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655502041276e05877003b40&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -911,6 +905,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6559d89be17fdc5d889906fc&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/89b11766624d0bdaa785880b1bae8b9e.png!w60",17h00 19/11: Kremin - Livyi Bereh
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6559d96ae17fdc5d8899070a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6322_small.png",17h00 19/11: Hong Kong U23 - Wofoo Tai Po
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6559dc0ce17fdc5d88990731&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1111274_small.png",18h00 19/11: TRAU - Sreenidi Deccan FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6555020a1276e05877003b45&.m3u8|Referer=https://pl-rk.livefb.xyz/
