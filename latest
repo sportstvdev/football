@@ -758,9 +758,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5852_small.png",01h00 21/11: Wales U21 - Denmark U21
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65565e191276e05877004303&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ed23543042d1daef009700247cef33ce.png!w60",01h30 21/11: SC Freiburg (w) - Koln (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655b9ee8fe84f60aa7271a3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -803,6 +800,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65565e401276e0587700433c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",03h00 21/11: Levante - Racing Santander
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65565e481276e05877004349&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/298629_small.png",03h00 21/11: Deportivo Riestra - Almirante Brown
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655bba8afe84f60aa7271d9c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262133_small.png",04h00 21/11: Montserrat - Barbados
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65565e291276e0587700430f&.m3u8|Referer=https://pl-rk.livefb.xyz/
