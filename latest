@@ -662,9 +662,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/482938_small.png",19h00 21/11: Morocco U17 - Iran U17 
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655cbbadaf3b1c4f2c3ce589&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8700_small.png",20h00 21/11: Uzbekistan - Iran
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcdce17fdc5d889900e7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -674,6 +671,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcdee17fdc5d889900e8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5885_small.png",20h00 21/11: Rwanda - South Africa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcdfe17fdc5d889900e9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4433_small.png",20h00 21/11: Eswatini - Cape Verde
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6558fce1e17fdc5d889900ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5887_small.png",20h00 21/11: Botswana - Guinea
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fce2e17fdc5d889900f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -698,9 +698,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcf7e17fdc5d8899011b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5893_small.png",21h00 21/11: Kyrgyzstan - Oman
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcf6e17fdc5d8899011a&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4433_small.png",21h15 21/11: Eswatini - Cape Verde
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6558fce1e17fdc5d889900ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6320_small.png",21h45 21/11: Syria - Japan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fcfae17fdc5d88990125&.m3u8|Referer=https://pl-rk.livefb.xyz/
