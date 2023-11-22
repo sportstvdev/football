@@ -10,9 +10,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8d1bdeb355c49c4fdaf&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/258665_small.png",02h00 23/11: Liverpool Women (W) - Manchester United Women (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8abbdeb355c49c4fd74&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/231488_small.png",02h00 23/11: Manchester City Women (W) - Leicester City WFC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8acbdeb355c49c4fd76&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1198668_small.png",03h00 23/11: SL Benfica (W) - FC Rosengård (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8b3bdeb355c49c4fd7b&.m3u8|Referer=https://sk.mediastation.live/
@@ -521,9 +518,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10107_small.png",00h00 23/11: Zrinjski Mostar - Siroki Brijeg
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e25bcaf3b1c4f2c3ceccf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394119_small.png",00h45 23/11: Lyon (W) - SKN St. Poelten (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba067fe84f60aa7271a55&.m3u8|Referer=https://pl-rk.livefb.xyz/
