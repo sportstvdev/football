@@ -91,9 +91,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=655d7763bdeb355c49c50c71&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09h00 23/11: Club Sport Herediano - Santos de Guapiles
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655d770ebdeb355c49c50c6a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197474.png",11h00 23/11: Quần đảo Solomon - Samoa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=655ce99bbdeb355c49c50b72&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6319_small.png",11h00 23/11: Solomon Islands - Samoa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655d779fbdeb355c49c50c74&.m3u8|Referer=https://sk.mediastation.live/
@@ -557,6 +554,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6558fdc0e17fdc5d88990213&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/184549_small.png",15h30 22/11: Shillong Lajong FC - Delhi FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fdc4e17fdc5d88990218&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/aaa1753870ce0f683472254290f207d8.png!w100",16h00 22/11: Iravan FK - Difai Agsu FK 
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655dbbccaf3b1c4f2c3ceb1a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",18h00 22/11: Beşiktaş - Istanbulspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fdc8e17fdc5d88990219&.m3u8|Referer=https://pl-rk.livefb.xyz/
