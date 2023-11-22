@@ -530,9 +530,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74659_small.png",19h00 22/11: France U17 - Senegal U17
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6558fdcde17fdc5d88990222&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/37b34b7620d90b0ef53f5b7aa8715cd0.png!w60",20h15 22/11: Buxoro FK - FC AGMK
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655b9cbdfe84f60aa7271a27&.m3u8|Referer=https://pl-rk.livefb.xyz/
