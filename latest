@@ -548,12 +548,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3ab860899feae0776dadf1466129bd7f.jpg!w60",17h00 22/11: Sơn La (w) - TNG Thai Nguyen (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655dc630af3b1c4f2c3ceb2d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",17h00 22/11: Phong Phu Ha Nam (w) - Than KSVN (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655dc65aaf3b1c4f2c3ceb32&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ca9620ad9d2f172949bae30c95f144f3.png!w80",18h30 22/11: Balkan Botevgrad - Ludogorets Razgrad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655b9c00fe84f60aa72719fe&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -581,6 +575,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655b9e11fe84f60aa7271a36&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6050_small.png",22h00 22/11: Napredak - Cukaricki
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6558fde2e17fdc5d8899022c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6421_small.png",22h00 22/11: Leixoes U23 - Da Nang
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655deb7faf3b1c4f2c3ceb8b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46474_small.png",23h00 22/11: Dunav Ruse - Levski Sofia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655b9c78fe84f60aa7271a1d&.m3u8|Referer=https://pl-rk.livefb.xyz/
