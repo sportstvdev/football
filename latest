@@ -4,9 +4,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=655ce783bdeb355c49c50b4f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://dcar.com.vn/vnt_upload/partner/Phong_phu.jpg",17h00 22/11: PP Hà Nam - TKS Viet Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655d3719bdeb355c49c50c2d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",18h00 22/11: Beşiktaş - Istanbulspor
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557a82cbdeb355c49c4fd53&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1085163_small.png",18h30 22/11: Balkan Botevgrad - Ludogorets Razgrad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655dd982bdeb355c49c50cab&.m3u8|Referer=https://sk.mediastation.live/
@@ -563,7 +560,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655dc261af3b1c4f2c3ceb26&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3ab860899feae0776dadf1466129bd7f.jpg!w60",17h00 22/11: Sơn La (w) - TNG Thai Nguyen (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655dc630af3b1c4f2c3ceb2d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",17h00 22/11: Phong Phu Ha Nam (w) - TKS Viet Nam
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a60899e8cdf54bc29a058073fb11d176.png!w60",17h00 22/11: Phong Phu Ha Nam (w) - Than KSVN (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655dc65aaf3b1c4f2c3ceb32&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",18h00 22/11: Beşiktaş - Istanbulspor
