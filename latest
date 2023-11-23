@@ -7,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=655d779fbdeb355c49c50c74&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/12fa5891b2ab711af74d21d378cf51ff.png!w60",11h00 23/11: Line Hojmark Kjaersfeldt - Nguyễn Thùy Linh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655ebb53bdeb355c49c50ddc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4425_small.png",11h00 23/11: Albirex Niigata - Vegalta Sendai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=655eca82bdeb355c49c50de4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b7ec1d5189a0b49daf0f65288fe80f96.png!w60",13h00 23/11: Persewar Waropen - Sulut United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655e39cfbdeb355c49c50d3f&.m3u8|Referer=https://sk.mediastation.live/
@@ -491,6 +494,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655e0933af3b1c4f2c3cebfa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ce447e0e3ad2662871036938cbb0edbc.png!w100",12h00 23/11: Tokyo Verdy Beleza (W) - Urawa Reds (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e09a3af3b1c4f2c3cec01&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w100",12h00 23/11: Sanfrecce Hiroshima (W) - Saitama (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655ecb82af3b1c4f2c3cf2ff&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/318355/image",13h00 23/11: Persewar Waropen - Sulut United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e0a04af3b1c4f2c3cec06&.m3u8|Referer=https://pl-rk.livefb.xyz/
