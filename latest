@@ -461,9 +461,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8c69f7cb25bdd3ef7f56b95bd6cb5da4.png!w60",17h30 23/11: FK Mughan - Qaradag Lokbatan
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655f2370af3b1c4f2c3cf3f6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898338_small.png",18h00 23/11: Neroca FC - Real Kashmir FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba1edfe84f60aa7271ae0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -506,6 +503,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655ba2b1fe84f60aa7271b21&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a5446606d76c26fb0ad96c9903cd60d6.jfif!w60",21h00 23/11: Maan - Sahab
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e0bfaaf3b1c4f2c3cec47&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/176523_small.png",21h00 23/11: FK Metalac - Macva Sabac
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655f4b00af3b1c4f2c3cf4d0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/116312/image",22h00 23/11: Saburtalo - FC Samgurali Tskhaltubo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba2b7fe84f60aa7271b26&.m3u8|Referer=https://pl-rk.livefb.xyz/
