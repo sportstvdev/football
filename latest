@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4425_small.png",11h00 23/11: Albirex Niigata - Vegalta Sendai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655eca82bdeb355c49c50de4&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4692_small.png",12h00 23/11: Cerezo Osaka - Nagano Parceiro
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=655ed08dbdeb355c49c50df5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6223_small.png",12h00 23/11: Tokyo Verdy - Urawa Red Diamonds
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655ed0e7bdeb355c49c50df8&.m3u8|Referer=https://sk.mediastation.live/
@@ -488,7 +485,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png!w100",11h00 23/11: Albirex Niigata (W) - Vegalta Sendai (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e088eaf3b1c4f2c3cebf3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w100",12h00 23/11: Cerezo Osaka (W) - Parceiro Nagano (W)
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5568ced004ac6d705da33b97a1379069.png!w60",12h00 23/11: Nojima Stella Kanagawa Sagamihara (W) - JEF United Chiba (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e0933af3b1c4f2c3cebfa&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ce447e0e3ad2662871036938cbb0edbc.png!w100",12h00 23/11: Tokyo Verdy Beleza (W) - Urawa Reds (W)
