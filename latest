@@ -446,9 +446,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/294858_small.png",00h45 24/11: Paris Saint Germain (W) - Bayern München (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655ba2fbfe84f60aa7271b3f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8454_small.png",01h00 24/11: Fredericia - B 93
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba305fe84f60aa7271b49&.m3u8|Referer=https://pl-rk.livefb.xyz/
