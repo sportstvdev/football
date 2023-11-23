@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1134185_small.png",01h30 24/11: Southampton FC Women (W) - Arsenal Women (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557a994bdeb355c49c4fe00&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/gEQrwtVMoU4ckUnq1PWKzw_96x96.png",01h58 24/11: Quang Nam - Hoà Bình FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=655fa0d3bdeb355c49c50ee2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/258661_small.png",03h00 24/11: Chelsea Women (W) - Paris FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a94cbdeb355c49c4fdc1&.m3u8|Referer=https://sk.mediastation.live/
@@ -52,6 +46,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557a958bdeb355c49c4fdd1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6304_small.png",17h00 24/11: Kawasaki Frontale - Kashima Antlers
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a958bdeb355c49c4fdd0&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/gEQrwtVMoU4ckUnq1PWKzw_96x96.png",17h00 24/11: Quang Nam - Hoà Bình FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=655fa0d3bdeb355c49c50ee2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/26Hq2byolJiYEDL-SqUxHw_96x96.png",17h00 24/11: Đồng Nai - Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=655fa0fcbdeb355c49c50ee5&.m3u8|Referer=https://sk.mediastation.live/
