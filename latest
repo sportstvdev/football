@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898338_small.png",18h00 23/11: Neroca FC - Real Kashmir
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8c4bdeb355c49c4fd97&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165206_small.png",19h00 23/11: Persita - RANS Nusantara
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557a8c4bdeb355c49c4fd9b&.m3u8|Referer=https://sk.mediastation.live/
@@ -461,12 +458,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557ace1bdeb355c49c4fee4&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65480ad6bdeb355c49c4da2c&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898338_small.png",18h00 23/11: Neroca FC - Real Kashmir FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655ba1edfe84f60aa7271ae0&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/827ccb02b77bcecf10f1456f4d3505c4.png!w60",18h00 23/11: FC Bunyodkor - Metalourg
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e0abfaf3b1c4f2c3cec1a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/86576/image",19h00 23/11: Persita - RANS Nusantara
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba20dfe84f60aa7271aef&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -491,12 +482,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655f4314af3b1c4f2c3cf48b&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cpt-services-fastly.images.mcls.live/4d2d5a9a-6acd-47cb-a517-214dc8f9ae4e.png",20h00 23/11: SILVER STRIKERS - KAMUZU BARRACKS FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f489daf3b1c4f2c3cf4ae&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4617_small.png",20h15 23/11: FK Neftchi - Qizilqum
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e0b8baf3b1c4f2c3cec3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/34017/image",20h15 23/11: Nasaf - Sogdiana
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e0b62af3b1c4f2c3cec38&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4617_small.png",20h15 23/11: FK Neftchi - Qizilqum
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=655e0b8baf3b1c4f2c3cec3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1320490_small.png",20h30 23/11: Rajasthan United FC - Sreenidi Deccan FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba2b1fe84f60aa7271b21&.m3u8|Referer=https://pl-rk.livefb.xyz/
