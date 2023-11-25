@@ -890,12 +890,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512ee&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/75ad1f7da7666c69c4741411cfab3c08.png!w60",16h30 25/11: Selangor - Perak
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e801caf3b1c4f2c3cef79&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/e77e2df2daaad0be9c05b3d2ee4a805f.jfif!w60",16h30 25/11: Ispe FC - Yadanarbon
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6560b2c0af3b1c4f2c3cffa4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",17h00 25/11: Đà Nẵng - Huế
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6560b2f8af3b1c4f2c3cffa9&.m3u8|Referer=https://pl-rk.livefb.xyz/
