@@ -989,6 +989,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655e7f4caf3b1c4f2c3ceef5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133898_small.png",12h00 25/11: Jeju United - Daejeon Citizen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e7f4daf3b1c4f2c3ceef6&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168128/image",12h00 25/11: Incheon Red Angels (W) - Suwon UDC (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65617c51af3b1c4f2c3d04a3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1300347_small.png",13h15 25/11: Wellington Phoenix (W) - Perth Glory (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e7f54af3b1c4f2c3ceeff&.m3u8|Referer=https://pl-rk.livefb.xyz/
