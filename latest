@@ -911,9 +911,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512ee&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2934/image",13h30 25/11: Newcastle Jets - Central Coast Mariners
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6560b1e1af3b1c4f2c3cff7c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/44f2247548b906b650095f7382be363d.png!w60",14h00 25/11: Kaohsiung Sunny Bank (w) - Hualien (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656198a9af3b1c4f2c3d051b&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -929,9 +926,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65619bffaf3b1c4f2c3d058a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f40adf63f71440720f662f4098b8e946.png!w60",14h00 25/11: Sichuan (w) - Changchun Dazhongzhuoyue (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65619c22af3b1c4f2c3d0594&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",14h00 25/11: Shandong Ticai (w) - Shaanxi (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65619c9aaf3b1c4f2c3d05a7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1dcf5e7cb12d15b546c2b4eab096e227.png!w60",14h00 25/11: Jiangsu Wuxi (w) -  Wuhan Jianghan (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65619cfaaf3b1c4f2c3d05b0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -965,6 +959,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655e8017af3b1c4f2c3cef6f&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/408363_small.png",16h00 25/11: CSM Resita - CSM Alexandria
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e8018af3b1c4f2c3cef70&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w60",16h00 25/11: Shan United - Sagaing
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6561b01eaf3b1c4f2c3d061e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/75ad1f7da7666c69c4741411cfab3c08.png!w60",16h30 25/11: Selangor - Perak
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e801caf3b1c4f2c3cef79&.m3u8|Referer=https://pl-rk.livefb.xyz/
