@@ -953,9 +953,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512ee&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/192435_small.png",06h30 25/11: Union La Calera - Union Espanola
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655ba640fe84f60aa7271cbf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9808_small.png",07h00 25/11: Corinthians - Bahia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655ba748fe84f60aa7271cff&.m3u8|Referer=https://pl-rk.livefb.xyz/
