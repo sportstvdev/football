@@ -28,9 +28,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6557aa1abdeb355c49c4fe22&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8232_small.png",19h00 25/11: Elversberg - Paderborn
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557aa1cbdeb355c49c4fe27&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584943_small.png",19h00 25/11: Sukhothai FC - Prachuap FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557ac15bdeb355c49c4fe61&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/685307_small.png",19h00 25/11: Mali U17 - Morocco U17
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65610016bdeb355c49c51451&.m3u8|Referer=https://sk.mediastation.live/
@@ -896,12 +893,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512ee&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/australia/logos/sydney-fc.png",15h45 25/11: Sydney FC - Western Sydney
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e7ff9af3b1c4f2c3cef5b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w60",16h00 25/11: Shan United - Sagaing
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6561b01eaf3b1c4f2c3d061e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/75ad1f7da7666c69c4741411cfab3c08.png!w60",16h30 25/11: Selangor - Perak
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e801caf3b1c4f2c3cef79&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -968,10 +959,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655e8053af3b1c4f2c3cefa1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",18h00 25/11: Benfica U23 - Santa Clara U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655e8055af3b1c4f2c3cefa2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109378_small.png",18h00 25/11: Chonburi FC - BG Pathum United
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655e805caf3b1c4f2c3cefb0&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/768a4ead9ed7624bd155fd176e46b8a4.png!w60",18h00 25/11: FC Baranovichi - BC Maxline
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/882293_small.png",18h00 25/11: Canelas 2010 - Maritimo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6560b36daf3b1c4f2c3cffb3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/257247.png",18h45 25/11: FK Slutsk - Shakhtyor Soligorsk
