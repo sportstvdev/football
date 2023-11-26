@@ -1,18 +1,15 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",17h00 26/11: Sông Lam Nghệ An - Đồng Tháp
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png",17h00 26/11: Albirex Niigata FC - Tampines Rovers FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65623e2fbdeb355c49c51844&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6557ada9bdeb355c49c4ff55&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67380_small.png",17h00 26/11: Geylang International FC - Young Lions
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6557ada9bdeb355c49c4ff54&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/561565_small.png",17h30 26/11: Uthai Thani FC - Police Tero FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557adb2bdeb355c49c4ff59&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10182_small.png",17h30 26/11: Kayserispor - Adana Demirspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557adb2bdeb355c49c4ff5a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png",17h50 26/11: Albirex Niigata FC - Tampines Rovers FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557ada9bdeb355c49c4ff55&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67380_small.png",17h50 26/11: Geylang International FC - Young Lions
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6557ada9bdeb355c49c4ff54&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49706_small.png",18h00 26/11: Ural - Krasnodar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6557adb2bdeb355c49c4ff5b&.m3u8|Referer=https://sk.mediastation.live/
@@ -704,9 +701,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512ee&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10064_small.png",17h00 26/11: Belshina Bobruisk - Dinamo Minsk
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655f7ccdaf3b1c4f2c3cf7af&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png",17h00 26/11: Albirex Niigata FC - Tampines Rovers FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f7cd6af3b1c4f2c3cf7b8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -716,9 +710,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655f7cd7af3b1c4f2c3cf7b9&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",17h00 26/11: Song Lam Nghe An - Dong Thap
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6562578eaf3b1c4f2c3d0de4&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/883952_small.png",17h00 26/11: SC Dnipro-1 U19 - Chernomorets U19
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656315abaf3b1c4f2c3d15e2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10182_small.png",17h30 26/11: Kayserispor - Demirspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f7cdfaf3b1c4f2c3cf7c2&.m3u8|Referer=https://pl-rk.livefb.xyz/
