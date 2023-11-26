@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",01h00 27/11: Sporting CP - Dumiense/CJP II
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6560bffabdeb355c49c5108c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",02h00 27/11: Botafogo - Santos FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560bffebdeb355c49c51092&.m3u8|Referer=https://sk.mediastation.live/
@@ -644,6 +641,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655f7f91af3b1c4f2c3cf929&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w60",04h00 27/11: Millonarios - Independiente Medellin
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f7f98af3b1c4f2c3cf932&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8756d40bee714f22b3b14f069dd77f9f.png!w60",04h00 27/11: Audax Italiano - Colo Colo
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6563a1a762781e69025cad9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8287_small.png",04h30 27/11: Fortaleza - Palmeiras
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f7fabaf3b1c4f2c3cf938&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -653,9 +653,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=655f7fa9af3b1c4f2c3cf937&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png",04h30 27/11: America MG - Flamengo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=655f7fadaf3b1c4f2c3cf93d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png",04h30 27/11: Sao Paulo - Cuiaba
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=655f7fafaf3b1c4f2c3cf93e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10214_small.png",05h30 27/11: Nacional - Montevideo Wanderers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6561ee2baf3b1c4f2c3d0990&.m3u8|Referer=https://pl-rk.livefb.xyz/
