@@ -509,9 +509,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb01bdeb355c49c512e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/210173_small.png",20h20 27/11: Ludogorets Razgrad - Slavia Sofia
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6563a9ce62781e69025caddf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102153_small.png",21h00 27/11: Nasaf Qarshi - Al-Faisaly
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65625b4eaf3b1c4f2c3d0ebe&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -683,6 +680,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656268c2af3b1c4f2c3d10a3&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/517894_small.png",21h00 28/11: Pyramids FC - Ismaily SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656268cdaf3b1c4f2c3d10ac&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w100",21h00 28/11: Academico Viseu U23 - Vizela U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6564b45062781e69025cb607&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7755_small.png",22h00 28/11: Dinamo Tbilisi - Dinamo Batumi
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656268d6af3b1c4f2c3d10b1&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -701,6 +701,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65626916af3b1c4f2c3d10c6&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49694_small.png",22h15 28/11: Baltika - Lokomotiv
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65626921af3b1c4f2c3d10cf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49694_small.png",22h15 28/11: Baltika - Lokomotiv
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6564b51c62781e69025cb61b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102155_small.png",23h00 28/11: Navbahor Namangan - Al Hilal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6562692daf3b1c4f2c3d10d5&.m3u8|Referer=https://pl-rk.livefb.xyz/
