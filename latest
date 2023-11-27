@@ -527,12 +527,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb01bdeb355c49c512e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/bRmCDecM-dMgdEhEd.png",13h30 27/11: test 1 - test 1
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/bRmCDecM-dMgdEhEd.png",13h50 27/11: test 1 - test 1
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6564367b62781e69025cb119&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/xvxvZWDa-COxht5b5.png",13h30 27/11: test 2 - test 2
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6564369362781e69025cb11e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65643b4a62781e69025cb143&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165200_small.png",15h00 27/11: Arema - Persik
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65625b1eaf3b1c4f2c3d0e9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
