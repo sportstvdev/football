@@ -371,9 +371,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb01bdeb355c49c512e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",03h00 29/11: PSG - Newcastle
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656269d9af3b1c4f2c3d1132&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213534_small.png",05h00 29/11: Barracas Central - Argentinos Juniors
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656269eeaf3b1c4f2c3d1153&.m3u8|Referer=https://pl-rk.livefb.xyz/
