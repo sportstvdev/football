@@ -338,9 +338,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb01bdeb355c49c512e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w60",19h20 29/11: Al-Jabalain - Al-Jndal
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65658b6462781e69025cbd12&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/4zGUVdjl-lY1cmtZI.png",19h30 29/11: Tantan - Gomhoryet Shebin
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567304f62781e69025cc514&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -389,9 +386,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65626b7aaf3b1c4f2c3d1215&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8705_small.png",22h15 29/11: Rostov - CSKA
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65626b7baf3b1c4f2c3d1216&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585211_small.png",23h00 29/11: SKRA Czestochowa - Hutnik Krakow
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65658dd162781e69025cbd4e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/797212_small.png",00h00 30/11: Future FC - Zamalek SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65626ba0af3b1c4f2c3d121f&.m3u8|Referer=https://pl-rk.livefb.xyz/
