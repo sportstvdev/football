@@ -311,9 +311,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb01bdeb355c49c512e1&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f1&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/797212_small.png",00h00 30/11: Future FC - Zamalek SC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65626ba0af3b1c4f2c3d121f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",00h45 30/11: Galatasaray - Man United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65626bc8af3b1c4f2c3d1224&.m3u8|Referer=https://pl-rk.livefb.xyz/
