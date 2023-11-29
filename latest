@@ -301,6 +301,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560caecbdeb355c49c512c0&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/561565_small.png",19h00 01/12: Uthai Thani FC - Sukhothai FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560caecbdeb355c49c512c1&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/421346_small.png",19h00 01/12: Ratchaburi FC - Chiangrai United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6560caf1bdeb355c49c512c7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/821372_small.png",19h00 01/12: Kosovo (W) - Bulgaria (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560cb0dbdeb355c49c512f6&.m3u8|Referer=https://sk.mediastation.live/
@@ -313,9 +316,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6560caf1bdeb355c49c512c5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1124836_small.png",20h00 01/12: Kelantan United - Negeri Sembilan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560caf1bdeb355c49c512c6&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/421346_small.png",20h00 01/12: Ratchaburi FC - Chiangrai United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6560caf1bdeb355c49c512c7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394239_small.png",20h00 01/12: Georgia (W) - Luxembourg (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6560caf2bdeb355c49c512c9&.m3u8|Referer=https://sk.mediastation.live/
@@ -386,6 +386,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65626a66af3b1c4f2c3d1195&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 29/11: Bali United FC - Stallion Laguna FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65626a85af3b1c4f2c3d11a4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/malaysia/logos/pdrm.png",19h15 29/11: PDRM - Kuching FA 
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656722dd62781e69025cc473&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w60",19h20 29/11: Al-Jabalain - Al-Jndal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65658b6462781e69025cbd12&.m3u8|Referer=https://pl-rk.livefb.xyz/
