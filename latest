@@ -43,7 +43,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567ba28bdeb355c49c52439&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131398_small.png",00h00 02/12: Ukraine (W) - Poland (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6568e22dbdeb355c49c52966&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png",00h00 02/12: Lễ bốc thăm chia bảng  - Europa League 2022/23
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png",00h00 02/12: Lễ bốc thăm chia bảng  - EURO 2024
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6569f50ebdeb355c49c52b0b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8152_small.png",00h30 02/12: St. Pauli - Hamburger SV
@@ -803,12 +803,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c113bdeb355c49c526e7&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567c103bdeb355c49c526d6&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/47466/image",19h45 01/12: Emirates Club - Al Ittihad Kalba
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6564898262781e69025cb3d1&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/944173_small.png",20h00 01/12: Arda Kardzhali - Botev Plovdiv
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6564898662781e69025cb3da&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898338_small.png",20h30 01/12: Neroca FC - Inter Kashi
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656489ff62781e69025cb3fd&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -830,9 +824,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65648a2e62781e69025cb42a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/168094/image",22h00 01/12: Al-Fayha - Damac FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65648a3062781e69025cb42b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394245_small.png",22h00 01/12: Lithuania (W) - Türkiye (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65648a3662781e69025cb435&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4665_small.png",22h00 01/12: Atletico - Sporting Covilha
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6569eea862781e69025cd7cc&.m3u8|Referer=https://pl-rk.livefb.xyz/
