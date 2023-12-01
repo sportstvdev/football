@@ -839,9 +839,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c113bdeb355c49c526e9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567c113bdeb355c49c526e7&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7807_small.png",10h05 01/12: Chivas - Universidad Nacional
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65626a32af3b1c4f2c3d1163&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/230976/image",15h00 01/12: RANS Nusantara - Persebaya Surabaya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6564896762781e69025cb3ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
