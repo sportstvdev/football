@@ -67,9 +67,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567b969bdeb355c49c52428&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",21h30 02/12: Bochum - Wolfsburg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567b96dbdeb355c49c5242d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",21h30 02/12: Bayern München - Union Berlin
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6567b96dbdeb355c49c5242e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",22h00 02/12: Arsenal - Wolves
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567b946bdeb355c49c523f7&.m3u8|Referer=https://sk.mediastation.live/
@@ -767,6 +764,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656b097962781e69025ce058&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10068_small.png",18h00 02/12: Shakhtyor Soligorsk - BATE Borisov
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656b097b62781e69025ce05d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1785_small.png",18h00 02/12: Oliveirense - FC Porto B
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656b0d2f62781e69025ce0a9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/458623_small.png",18h30 02/12: Stal Mielec - ŁKS Łódź
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567a43662781e69025cc980&.m3u8|Referer=https://pl-rk.livefb.xyz/
