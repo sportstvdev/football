@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",10h30 02/12: Canada (W) - Australia (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6568e33bbdeb355c49c52978&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133900_small.png",12h00 02/12: Daejeon Citizen - FC Seoul
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567ba4fbdeb355c49c52469&.m3u8|Referer=https://sk.mediastation.live/
@@ -728,9 +725,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c113bdeb355c49c526e7&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567c103bdeb355c49c526d6&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",10h30 02/12: Canada (W) - Australia (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6569dc1f62781e69025cd6ba&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/88517_small.png",12h00 02/12: Suwon Bluewings - Gangwon FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567a38062781e69025cc90e&.m3u8|Referer=https://pl-rk.livefb.xyz/
