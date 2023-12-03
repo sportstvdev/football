@@ -58,7 +58,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567bdaabdeb355c49c52562&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/746830_small.png",15h00 03/12: Persikabo 1973 - Bhayangkara FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567bdaabdeb355c49c52565&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/1200px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",15h00 03/12: Phu Tho - Đà Nẵng
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/1200px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",16h00 03/12: Phu Tho - Đà Nẵng
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656a4a93bdeb355c49c52d71&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",17h00 03/12: Hồng Lĩnh Hà Tĩnh - Nam Định
@@ -545,12 +545,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c113bdeb355c49c526e7&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567c103bdeb355c49c526d6&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10081_small.png",04h30 03/12: Huracan - Club Atletico Platense
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6567a60662781e69025ccae9&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8450_small.png",05h00 03/12: Peñarol - Racing
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656b178362781e69025ce0e3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722265_small.png",06h00 03/12: Cincinnati - Columbus
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567a60862781e69025ccaea&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -566,6 +560,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6567a60f62781e69025ccaf8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10227_small.png",07h30 03/12: Godoy Cruz - Banfield
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567a61162781e69025ccaf9&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1833_small.png",07h30 03/12: Deportivo Maldonado - Liverpool FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656bcd0862781e69025ce88f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6576_small.png",08h00 03/12: América - León
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567a77862781e69025ccb02&.m3u8|Referer=https://pl-rk.livefb.xyz/
