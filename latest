@@ -10,9 +10,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567beabbdeb355c49c525ad&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10076_small.png",04h30 04/12: River Plate - Belgrano
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656cd8a850017914c5696387&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1175679_small.png",05h00 04/12: Cancun FC - Atlante
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6567beb3bdeb355c49c525b4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",07h00 04/12: Pumas - Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567beb3bdeb355c49c525b9&.m3u8|Referer=https://sk.mediastation.live/
@@ -341,9 +338,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c0c4bdeb355c49c5268f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656c0a8e50017914c569603f&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",03h00 04/12: Barcelona - Atletico Madrid
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6567aefe62781e69025ccca2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",03h15 04/12: Mount Pleasant - Waterhouse
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656cdeab62781e69025cf267&.m3u8|Referer=https://pl-rk.livefb.xyz/
