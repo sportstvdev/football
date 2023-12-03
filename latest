@@ -500,15 +500,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c0c4bdeb355c49c5268f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656c0a8e50017914c569603f&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165202_small.png",15h00 03/12: PSIS - PSS Sleman
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6567a94b62781e69025ccb5e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/746830_small.png",15h00 03/12: Persikabo 1973 - Bhayangkara Presisi Indonesia FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6567a94962781e69025ccb5d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3f834034d3c9188a59d75fc74c76ee4e.png!w60",15h00 03/12: Phú Thọ - Đà Nẵng
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656b1a0962781e69025ce159&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/38762/image",16h30 03/12: GFA - Dagon Star UTD
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656b1a3b62781e69025ce163&.m3u8|Referer=https://pl-rk.livefb.xyz/
