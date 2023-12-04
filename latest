@@ -281,15 +281,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c0c4bdeb355c49c5268f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656c0a8e50017914c569603f&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101895_small.png",23h00 04/12: Al-Sadd - Nasaf Qarshi
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6567b0ee62781e69025ccd2b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",23h00 04/12: Al Hilal - Nassaji
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567b0e862781e69025ccd25&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578655_small.png",23h00 04/12: Mumbai City FC - Navbahor Namangan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567b0eb62781e69025ccd26&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101895_small.png",23h00 04/12: Al-Sadd - Nasaf Qarshi
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6567b0ee62781e69025ccd2b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101665_small.png",23h00 04/12: Al-Faisaly - Sharjah Cultural Club
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6567b0ef62781e69025ccd30&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -317,9 +317,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a5e62781e69025cf4bf&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583706_xsmall.png",01h00 05/12: Sepsi OSK - Dinamo Bucuresti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a5f62781e69025cf4c4&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102018_small.png",01h00 05/12: Asante Kotoko SC - Berekum Chelsea
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6362781e69025cf4d9&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10009_small.png",01h00 05/12: SK Austria Klagenfurt - Hartberg
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6462781e69025cf4da&.m3u8|Referer=https://pl-rk.livefb.xyz/
