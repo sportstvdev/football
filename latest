@@ -485,9 +485,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d24e462781e69025cf470&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1849_small.png",05h00 05/12: Santiago Wanderers - Deportes Iquique
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a7e62781e69025cf53c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/bolivia/logos/real-tomayapo.png",07h00 05/12: Real Tomayapo - CA Palmaflor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8362781e69025cf558&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1562127_small.png",15h30 05/12: Namdhari FC - Delhi FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a7f62781e69025cf541&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -584,3 +581,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2aa262781e69025cf5e0&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/slovenia/logos/radomlje.png",23h30 05/12: Radomlje - NK Celje
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2aa362781e69025cf5e5&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/bolivia/logos/real-tomayapo.png",07h00 07/12: Real Tomayapo - CA Palmaflor
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8362781e69025cf558&.m3u8|Referer=https://pl-rk.livefb.xyz/
