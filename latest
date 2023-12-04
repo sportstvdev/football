@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1078402_small.png",21h00 04/12: BKMA - Urartu FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6567bed0bdeb355c49c525d6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165184_small.png",21h30 04/12: SC East Bengal - Northeast United FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567bed0bdeb355c49c525d7&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,9 +13,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567bed8bdeb355c49c525dd&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578655_small.png",23h00 04/12: Mumbai City FC - Navbahor Namangan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567beddbdeb355c49c525e2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/121284_small.png",23h00 04/12: Burundi - Algeria
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656cdf1850017914c56963ac&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9763_small.png",23h30 04/12: Dinamo - Rubin
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6567beddbdeb355c49c525e3&.m3u8|Referer=https://sk.mediastation.live/
@@ -458,6 +452,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8962781e69025cf56d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/944173_small.png",19h00 05/12: Arda Kardzhali - Lovech
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656df5a262781e69025cf81e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/tt/images/teams/serbia/logos/indjija.png?q=65&w=100",19h00 05/12: Inđija - Novi Pazar
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656df90e62781e69025cf830&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102105_small.png",20h00 05/12: Avenir de La Marsa - Esperance
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8c62781e69025cf57c&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -470,9 +467,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8b62781e69025cf577&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2211_small.png",21h00 05/12: Shirak - West Armenia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8d62781e69025cf57d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101764_small.png",21h00 05/12: Baladiyat ElMahalla SC - Tala'ea El Gaish
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8e62781e69025cf582&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",21h00 05/12: Antalyaspor - Kepez Belediye Antalya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a8f62781e69025cf587&.m3u8|Referer=https://pl-rk.livefb.xyz/
