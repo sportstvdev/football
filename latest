@@ -7,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656ce02850017914c56963b9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287981_small.png",07h00 05/12: Curacao - Cayman Islands
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e574f50017914c56968db&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1074622_small.png",07h00 05/12: Real Tomayapo - CA Palmaflor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=656e5d4a50017914c56968f2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",14h30 05/12: Hồ Chí Minh City FC - Sơn La
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e28c850017914c56965ed&.m3u8|Referer=https://sk.mediastation.live/
@@ -923,7 +926,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656deba662781e69025cf7a4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/U5pz9fEa-OpFfB9jq.png",07h30 05/12: Tivoli Gardens - Treasure Beach
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656ded1062781e69025cf7aa&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.flashscore.com/?r=3:W47HE9PE",15h00 05/12: Persepar Kalteng Putra - Persipal BU
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/dO7oK0Ar-t8p5jzve.png",15h00 05/12: Persepar Kalteng Putra - Persipal BU
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656df49062781e69025cf80f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1562127_small.png",15h30 05/12: Namdhari FC - Delhi FC
