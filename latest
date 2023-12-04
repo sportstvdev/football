@@ -269,9 +269,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6567c0c4bdeb355c49c5268f&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656c0a8e50017914c569603f&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9763_small.png",23h30 04/12: Dinamo - Rubin
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656e178a62781e69025cfa90&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205189_small.png",00h00 05/12: Smouha SC - Pharco FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d23f962781e69025cf466&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -293,21 +290,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a5f62781e69025cf4c4&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10009_small.png",01h00 05/12: SK Austria Klagenfurt - Hartberg
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6462781e69025cf4da&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773680_small.png",02h00 05/12: Derby County Academy - Reading Academy
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6562781e69025cf4db&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773653_small.png",02h00 05/12: Everton Academy - Southampton Academy
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6862781e69025cf4e0&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773642_small.png",02h00 05/12: Leicester City Academy - Wolverhampton Wanderers Academy
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6b62781e69025cf4e9&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/860798_small.png",02h00 05/12: Newcastle United Academy - Leeds United Academy
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6d62781e69025cf4ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773650_small.png",02h00 05/12: Stoke City Academy - Norwich City Academy
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6e62781e69025cf4ef&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8563_small.png",02h00 05/12: AEK Athens - Aris Thessaloniki FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a6f62781e69025cf4f0&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -359,6 +341,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a7c62781e69025cf532&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03h00 05/12: Celta Vigo - Cadiz
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656de35d62781e69025cf78c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262137_small.png",03h00 05/12: Turks and Caicos Islands (W) - Bonaire (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=656e1c6d62781e69025cface&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h15 05/12: Sporting CP - Gil Vicente
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2bc562781e69025cf60f&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -371,7 +356,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656d24e462781e69025cf470&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1849_small.png",05h00 05/12: Santiago Wanderers - Deportes Iquique
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656d2a7e62781e69025cf53c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5924_small.png",06h00 05/12: St. Kitts and Nevis (W) - Costa Rica Women
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5924_small.png",06h00 05/12: St. Kitts and Nevis (W) - Costa Rica (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656de9f662781e69025cf798&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8304_small.png",06h30 05/12: Nacional - Defensor Sporting
