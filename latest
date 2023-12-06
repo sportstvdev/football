@@ -680,9 +680,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8120_small.png",20h30 06/12: AE Larissa - Atromitos
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f55db62781e69025d015b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95749_small.png",21h00 06/12: Hatayspor - Duzcespor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f565262781e69025d0160&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -701,7 +698,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656f93b462781e69025d0549&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/73876.png?lm=1570550016",22h00 06/12: CE Andratx - Real Sociedad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f93c662781e69025d0553&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/kuwait/logos/al-fahaheel.png",22h45 06/12: Al Fahaheel - Al Fahaheel
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/55161/image",22h45 06/12: Al Salmiyah - Al Fahaheel
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f596f62781e69025d0186&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10182_small.png",23h00 06/12: Kayserispor - Van Spor Kulubu
@@ -821,9 +818,18 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656fe0d162781e69025d07da&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h15 07/12: Independiente Medellin - America de Cali
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656fe0d662781e69025d07df&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w60",08h15 07/12: Atletico Junior Barranquilla - Deportes Tolima
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6570962962781e69025d0b4a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6358_small.png",10h00 07/12: San Luis - América
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656fe0da62781e69025d07e4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/india/logos/real-kashmir.png",15h00 07/12: Real Kashmir - Sreenidi Deccan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6570975562781e69025d0b69&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Dagon_FC_logo.png/100px-Dagon_FC_logo.png",16h30 07/12: Dagon Star UTD - Hantharwady
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657097cc62781e69025d0b6e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h00 07/12: Sivasspor - Arnavutkoy Belediyespor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656fe0e562781e69025d07e9&.m3u8|Referer=https://pl-rk.livefb.xyz/
