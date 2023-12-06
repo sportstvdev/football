@@ -731,9 +731,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/184549_small.png",15h30 06/12: Shillong Lajong FC - Churchill Brothers
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f557162781e69025d013e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/310094_small.png",17h00 06/12: Alashkert FC - Pyunik
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656efed962781e69025cfe8b&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -770,12 +767,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656efee662781e69025cfeb5&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://t.resfu.com/img_data/equipos/119960.png",19h00 06/12: Wuhan Three Towns - Pohang Steelers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656efeed62781e69025cfed7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/37427/image",19h00 06/12: FC Zalau - FC Bihor Oradea
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6187_small.png",19h00 06/12: FK Sileks - FK Vardar Skopje
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f53c262781e69025d010c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/338810/image",19h00 06/12: Uthai Thani FC - Pattaya Discovery United FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f54c762781e69025d011d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6570544662781e69025d0971&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10143_small.png",19h30 06/12: Hebar - Levski Sofia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f533462781e69025d0107&.m3u8|Referer=https://pl-rk.livefb.xyz/
