@@ -707,12 +707,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=656f941762781e69025d0563&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8271_small.png",00h00 07/12: Saarbrücken - Frankfurt
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f940662781e69025d055e&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/154798_small.png",00h00 07/12: Omonia Aradippou - Ethnikos Achnas
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f941e62781e69025d0568&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1712_small.png",00h00 07/12: Hradec Kralove - Slavia Prague
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f942062781e69025d0569&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10202_small.png",00h00 07/12: Nordsjælland - AB
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f942262781e69025d056a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -842,6 +836,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65709cf662781e69025d0b8e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/00129e8735dd8739c51b58f2f81367a1.png!w60",19h00 07/12: Al Jubail - Bisha FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65709e0362781e69025d0b96&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/S8svB3yS-EDpxYA0g.png",19h00 07/12: Al Jeel - A Suqoor
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6570a02262781e69025d0bc6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",20h00 07/12: Dynamo Kyiv - Metalist 1925
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656fe0f162781e69025d07ee&.m3u8|Referer=https://pl-rk.livefb.xyz/
