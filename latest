@@ -680,9 +680,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/432c13e823ffcc46ee9255384e525629.png!w60",20h00 06/12: Spaeri FC - FC Telavi
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6570693d62781e69025d0a51&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8120_small.png",20h30 06/12: AE Larissa - Atromitos
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f55db62781e69025d015b&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -701,9 +698,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6570632a62781e69025d0a17&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7822_small.png",22h00 06/12: Terrassa - Deportivo Alaves
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f93b462781e69025d0549&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0fa3f23d63fb8a8820675be83848cd3f.png!w60",22h00 06/12: Al Nahda - Dhufar
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=656f58c662781e69025d0176&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/big/73876.png?lm=1570550016",22h00 06/12: CE Andratx - Real Sociedad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=656f93c662781e69025d0553&.m3u8|Referer=https://pl-rk.livefb.xyz/
