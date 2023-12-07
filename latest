@@ -13,9 +13,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e34c650017914c5696694&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4081_small.png",19h00 07/12: Gaziantep FK - Etimesgut Belediyespor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e34c850017914c5696697&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/944215_small.png",19h30 07/12: CSKA 1948 - Beroe
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656e34cc50017914c569669d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",20h00 07/12: Dynamo Kyiv - Metalist 1925
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e322150017914c5696647&.m3u8|Referer=https://sk.mediastation.live/
@@ -575,9 +572,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b9&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Dagon_FC_logo.png/100px-Dagon_FC_logo.png",16h30 07/12: Dagon Star UTD - Hantharwady
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657097cc62781e69025d0b6e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h00 07/12: Sivasspor - Arnavutkoy Belediyespor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6570996f62781e69025d0b73&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -590,6 +584,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65709cf662781e69025d0b8e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4081_small.png",19h00 07/12: Gaziantep - Etimesgut Belediyespor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65719d0362781e69025d11f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6330_small.png",19h00 07/12: North Korea - Chinese Taipei (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6571ae5e62781e69025d122b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1266314_small.png",19h30 07/12: CSKA 1948 II - Beroe
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6570a1c662781e69025d0bf4&.m3u8|Referer=https://pl-rk.livefb.xyz/
