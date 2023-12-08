@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",02h00 09/12: FC Twente - Excelsior
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656e36f350017914c5696736&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",02h30 09/12: Hoffenheim - Bochum
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65722e0c5357c5440daf4cb4&.m3u8|Referer=https://sk.mediastation.live/
@@ -397,9 +394,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b3&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584943_small.png",18h30 12/12: Sukhothai FC - Muang Thong United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/289696_small.png",21h00 12/12: El Dakhleya - Smouha SC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968c2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578650_small.png",21h30 12/12: FC Goa - Mumbai City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968bf&.m3u8|Referer=https://sk.mediastation.live/
@@ -412,6 +406,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bf350017914c56968b9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101737_small.png",23h00 12/12: Al-Nejmeh - Al-Arabi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/289696_small.png",21h00 15/12: El Dakhleya - Smouha SC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968c2&.m3u8|Referer=https://sk.mediastation.live/
 
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",02h00 09/12: FC Twente - Excelsior
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
@@ -452,6 +449,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65726ec562781e69025d1834&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7843_small.png",04h00 09/12: Union Espanola - Cobresal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572149062781e69025d1616&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/33595/image",04h00 09/12: Curicó Unido - Colo Colo
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6573844862781e69025d244b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9756_small.png",11h00 09/12: JEF United Chiba (W) - Sanfrecce Hiroshima (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657336f662781e69025d206b&.m3u8|Referer=https://pl-rk.livefb.xyz/
