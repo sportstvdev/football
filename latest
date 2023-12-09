@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tksvietnam.com/wp-content/uploads/2022/01/logo-1024x337.png",14h30 09/12: TKS Viet Nam - GT Thai Nguyen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657405865357c5440daf4fcf&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/930525_small.png",15h00 09/12: Persebaya Surabaya - Persija Jakarta
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656e370950017914c569674f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/1200px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",15h00 09/12: Phú Thọ - PVF-CAND
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65734da25357c5440daf4e59&.m3u8|Referer=https://sk.mediastation.live/
@@ -13,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e371050017914c569675a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/R5GJ6-Ve0BAB7WqS6qm0Ug_96x96.png",16h00 09/12: Đồng Tháp - Phù Đổng
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65734db75357c5440daf4e5c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",17h00 09/12: Hồ Chí Minh City FC - Hà Nội I
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657439a95357c5440daf4ffe&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",17h30 09/12: Antalyaspor - Fatih Karagümrük
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e371650017914c5696760&.m3u8|Referer=https://sk.mediastation.live/
@@ -383,9 +380,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/930525_small.png",15h00 09/12: Persebaya Surabaya - Persija Jakarta
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6572708662781e69025d187b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3f834034d3c9188a59d75fc74c76ee4e.png!w60",15h00 09/12: Phú Thọ - Pho Hien
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657339a162781e69025d20ae&.m3u8|Referer=https://pl-rk.livefb.xyz/
