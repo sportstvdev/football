@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e9/Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg/1200px-Ph%C3%BA_Th%E1%BB%8D_FC_logo.svg.png",15h00 09/12: Phú Thọ - PVF-CAND
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65734da25357c5440daf4e59&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10164_small.png",15h45 09/12: Sydney FC - Macarthur FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e371050017914c569675a&.m3u8|Referer=https://sk.mediastation.live/
@@ -380,9 +377,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3f834034d3c9188a59d75fc74c76ee4e.png!w60",15h00 09/12: Phú Thọ - Pho Hien
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657339a162781e69025d20ae&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/australia/logos/sydney-fc.png",15h45 09/12: Sydney FC - Macarthur FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572708762781e69025d187c&.m3u8|Referer=https://pl-rk.livefb.xyz/
