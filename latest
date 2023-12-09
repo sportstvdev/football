@@ -404,9 +404,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968be&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bfe50017914c56968c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187951_small.png",12h00 09/12: Suwon FC - Busan I'Park
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6572705d62781e69025d185e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675725_small.png",12h00 09/12: Adelaide United (W) - Western United FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65726ed762781e69025d183e&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -419,6 +416,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65726edc62781e69025d1848&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164734_small.png",12h00 09/12: Gangwon FC - Gimpo FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572705c62781e69025d185d&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/187951_small.png",12h00 09/12: Suwon FC - Busan I'Park
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6572705d62781e69025d185e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",13h30 09/12: Wellington Phoenix - Newcastle Jets
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572705f62781e69025d185f&.m3u8|Referer=https://pl-rk.livefb.xyz/
