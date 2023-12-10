@@ -620,9 +620,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ad&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1300347_small.png",10h00 10/12: Wellington Phoenix (W) - Melbourne Victory (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65727bf162781e69025d1b0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",11h00 10/12: Adelaide United - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727bf262781e69025d1b0e&.m3u8|Referer=https://pl-rk.livefb.xyz/
