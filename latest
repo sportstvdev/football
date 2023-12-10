@@ -548,9 +548,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ad&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7896_small.png",20h15 10/12: Lugano - Winterthur
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65727e8e62781e69025d1c26&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6422_small.png",20h30 10/12: Fortuna Sittard - RKC Waalwijk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727e7c62781e69025d1c21&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -599,6 +596,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65727f0962781e69025d1c80&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",22h30 10/12: FC Zürich - Luzern
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727f0e62781e69025d1c85&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6447_small.png",22h30 10/12: Yverdon - FC Stade Lausanne-Ouchy
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6575d5093a471165bcaf3b07&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8277_small.png",22h45 10/12: Vitesse - Heracles
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727f3662781e69025d1c9e&.m3u8|Referer=https://pl-rk.livefb.xyz/
