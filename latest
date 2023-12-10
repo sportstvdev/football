@@ -460,21 +460,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d0f25357c5440daf5273&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",17h00 16/12: Hồng Lĩnh Hà Tĩnh - Quy Nhơn Bình Định
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d4125357c5440daf53a4&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png",17h00 16/12: Hồng Lĩnh Hà Tĩnh - Quy Nhơn Bình Định
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6574d49b5357c5440daf53a8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",18h00 16/12: Bình Dương - Nam Định
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d4105357c5440daf53a2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",18h00 16/12: Bình Dương - Nam Định
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6574d49b5357c5440daf53a9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",22h00 16/12: Chelsea - Sheff Utd
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",22h00 16/12: Chelsea - Sheff Utd
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ad&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101754_small.png",00h00 17/12: ENPPI - Ismaily SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.m3u8|Referer=https://sk.mediastation.live/
@@ -494,6 +485,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65727fd962781e69025d1d26&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6335_small.png",06h00 11/12: LD Alajuelense - Club Sport Herediano
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572805762781e69025d1d40&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",06h00 11/12: Waterhouse - Portmore United
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657640063a471165bcaf3ecf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/232871/image",08h00 11/12: Managua - Real Esteli
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575de323a471165bcaf3b79&.m3u8|Referer=https://pl-rk.livefb.xyz/
