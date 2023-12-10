@@ -524,12 +524,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1074320_small.png",22h30 10/12: Estrela da Amadora - Boavista
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727f0562781e69025d1c7b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10212_small.png",22h30 10/12: Maritimo - Vilaverdense FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65727f0962781e69025d1c80&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",22h30 10/12: FC Zürich - Luzern
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65727f0e62781e69025d1c85&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6447_small.png",22h30 10/12: Yverdon - FC Stade Lausanne-Ouchy
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575d5093a471165bcaf3b07&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -767,9 +761,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6574dffc62781e69025d2d30&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581345_small.png",00h00 13/12: Pharco FC - ZED FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574e03462781e69025d2d3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101747_small.png",00h00 13/12: Tala'ea El Gaish - Al Mokawloon Al Arab
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6574e03662781e69025d2d3e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/320835_small.png",00h00 13/12: Union Touarga Sport - Wydad Casablanca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574e04962781e69025d2d47&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -926,3 +917,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bd82f9f153416f4657&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/319340/image",15h00 14/12: Taichung Futuro - FC Ulaanbaatar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bf82f9f153416f4658&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101747_small.png",23h00 15/12: Tala'ea El Gaish - Al Mokawloon Al Arab
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6574e03662781e69025d2d3e&.m3u8|Referer=https://pl-rk.livefb.xyz/
