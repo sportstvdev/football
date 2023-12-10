@@ -599,15 +599,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ad&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png",15h00 10/12: Huế - Ba Ria Vung Tau
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6574d1fa62781e69025d2ca7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165199_small.png",15h00 10/12: Madura United - Barito Putera
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727c4e62781e69025d1b3f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/413687/image",15h00 10/12: Hòa Bình - Dong Nai
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6574d21062781e69025d2cac&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/184549_small.png",15h30 10/12: Shillong Lajong FC - Aizawl FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727c8462781e69025d1b49&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -641,7 +635,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65727cf762781e69025d1b68&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1692_small.png",18h00 10/12: Fakel - Dinamo
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65727d1462781e69025d1b76&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/8KiHfxjl-tEenIQtm.png",18h00 10/12: Binh Phuoc - Long An
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/bBy2dJxS-W4eJW2n0.png",18h00 10/12: Binh Phuoc - Long An
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574d1e362781e69025d2ca2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6433_small.png",18h15 10/12: Go Ahead Eagles - FC Utrecht
