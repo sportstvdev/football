@@ -455,9 +455,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/970686_small.png",15h30 11/12: Real Kashmir FC - Gokulam FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657686623a471165bcaf3f5a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/557224_small.png",17h00 11/12: Maziya - Mohun Bagan SG
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6572806962781e69025d1d4a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -800,6 +797,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bd82f9f153416f4657&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/319340/image",15h00 14/12: Taichung Futuro - FC Ulaanbaatar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bf82f9f153416f4658&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/307625/image",17h00 14/12: Abdish-Ata - Merw
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6576950e3a471165bcaf3fe8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4150_small.png",18h30 14/12: FC Kapaz - Sumqayit
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657694dc3a471165bcaf3fcc&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -818,9 +818,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6576950b3a471165bcaf3fde&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1118573_small.png",19h00 14/12: Chao Pak Kei - Tainan City
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6576950d3a471165bcaf3fe3&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/307625/image",21h00 14/12: Abdish-Ata - Merw
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6576950e3a471165bcaf3fe8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/557213_small.png",21h00 14/12: Ravshan Kulob - Altyn Asyr
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657695113a471165bcaf3ff1&.m3u8|Referer=https://pl-rk.livefb.xyz/
