@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/580286_small.png",17h15 11/12: Yantra - Spartak Varna
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6576417e5357c5440daf5640&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/150414_small.png",19h30 11/12: Abha - Al Khaleej
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e39f150017914c569686d&.m3u8|Referer=https://sk.mediastation.live/
@@ -470,7 +467,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657280b962781e69025d1d5e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/606555cf42a6719782a952aa33cfa2cb.png!w60",19h40 11/12: Dubba Al Husun - Al Fujairah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65757e9e82f9f153416f432b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/da5a07224920e4856d3b14e7e1a86741.png!w60",19h45 11/12: Al-Wahda FC - Al-Wahda (oman)
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/da5a07224920e4856d3b14e7e1a86741.png!w60",19h45 11/12: Al-Wahda FC -  Al Jazira
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65757fd382f9f153416f4330&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10129_small.png",20h00 11/12: Lokomotiv Plovdiv - Pirin Blagoevgrad
