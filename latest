@@ -19,9 +19,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bdd50017914c5696899&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",00h30 12/12: Empoli - Lecce
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3bdd50017914c5696898&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6406_small.png",00h30 12/12: Vojvodina - Napredak
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=656e3be350017914c569689e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101916_small.png",01h00 12/12: Al Shabab - Al Nasar FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e3be950017914c56968a2&.m3u8|Referer=https://sk.mediastation.live/
@@ -440,12 +437,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10126_small.png",22h30 11/12: Beroe - Etar
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657281c562781e69025d1d95&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179097_small.png",22h30 11/12: Al-Ahli - Al-Wasl
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4ed82f9f153416f467d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101662_small.png",23h00 11/12: Al Kahrabaa - Al-Ittihad
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657281d662781e69025d1d9a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -476,6 +467,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657282a362781e69025d1dce&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101916_small.png",01h00 12/12: Al Shabab - Al Nassr FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657282a562781e69025d1dcf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/671935_small.png",01h30 12/12: Bayern München (W) - Bayer Leverkusen (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657748673a471165bcaf4388&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10271_small.png",01h45 12/12: Dinamo Bucuresti - Universitatea Cluj
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657742ec3a471165bcaf4363&.m3u8|Referer=https://pl-rk.livefb.xyz/
