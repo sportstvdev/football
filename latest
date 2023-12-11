@@ -1,6 +1,9 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/970686_small.png",12h30 11/12: Real Kashmir - Gokulam FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e39e250017914c5696865&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f10e03ea681b2c262f5dc6520d53830a.png!w60",15h00 11/12: PSCS Cilacap - Persekat Tegal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657694ab5357c5440daf5672&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/557224_small.png",17h00 11/12: Maziya - ATK Mohun Bagan FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=656e39e250017914c5696864&.m3u8|Referer=https://sk.mediastation.live/
@@ -590,6 +593,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657689313a471165bcaf3f82&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w100",19h00 12/12: Academico Viseu U23 - Famalicao U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65768dc83a471165bcaf3f91&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4ff2ca5bab66d271a251c1da81101ee2.png!w60",19h00 12/12: Al-Yarmouk - El Alia
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657693ff3a471165bcaf3fc2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/jFNhaqLIbHIo4B1JA6u81g_96x96.png",19h35 12/12: Ohod - Al-Arabi (KSA)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657694443a471165bcaf3fc7&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394208_small.png",20h00 12/12: PSV Eindhoven U19 - Arsenal U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfc262781e69025d2d03&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -698,6 +707,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a22d82f9f153416f447d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",19h00 13/12: RB Leipzig U19 - Young Boys U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575a22f82f9f153416f4482&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/jordan/logos/al-sareeh.png",19h00 13/12: Al Sareeh -  Al-Arabi (JOR)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6576933c3a471165bcaf3fb2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b2718e84e04244406833ef56977bd8e4.png!w60",19h00 13/12: Al-Jazeera - Shabab Al Ordon
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657693a63a471165bcaf3fbd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",19h30 13/12: Al Ain - Al Faisaly Harmah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657691223a471165bcaf3fa2&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -785,6 +800,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bd82f9f153416f4657&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/319340/image",15h00 14/12: Taichung Futuro - FC Ulaanbaatar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bf82f9f153416f4658&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4150_small.png",18h30 14/12: FC Kapaz - Sumqayit
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657694dc3a471165bcaf3fcc&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101747_small.png",23h00 15/12: Tala'ea El Gaish - Al Mokawloon Al Arab
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574e03662781e69025d2d3e&.m3u8|Referer=https://pl-rk.livefb.xyz/
