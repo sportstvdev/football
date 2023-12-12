@@ -7,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65770fed5357c5440daf56b5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1537857_small.png",19h00 12/12: Union Berlin U19 - Real Madrid U19
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65770fee5357c5440daf56b7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394208_small.png",20h00 12/12: PSV Eindhoven U19 - Arsenal U19
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65785c2e5357c5440daf584d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675920_small.png",20h30 12/12: Salzburg U19 - Benfica U19
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657858935357c5440daf5844&.m3u8|Referer=https://sk.mediastation.live/
@@ -440,6 +443,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657838fa3a471165bcaf4926&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.thesportsdb.com/images/media/team/badge/8870h81589802072.png",19h20 12/12: Al Najma - Al Batin
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65784ca13a471165bcaf4a53&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394208_small.png",20h00 12/12: PSV Eindhoven U19 - Arsenal U19
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65785c5d3a471165bcaf4aa0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675920_small.png",20h30 12/12: Salzburg U19 - Benfica U19
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfc462781e69025d2d08&.m3u8|Referer=https://pl-rk.livefb.xyz/
