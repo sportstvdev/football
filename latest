@@ -413,9 +413,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584943_small.png",18h30 12/12: Sukhothai FC - Muang Thong United
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfbe62781e69025d2cf8&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/269199/image",18h50 12/12: Al Kholood - Al Taraji
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6576eeec3a471165bcaf4141&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -428,9 +425,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfc162781e69025d2cfe&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6004_small.png",19h00 12/12: Farense U23 - Santa Clara U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657689313a471165bcaf3f82&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png!w100",19h00 12/12: Academico Viseu U23 - Famalicao U23
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65768dc83a471165bcaf3f91&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4ff2ca5bab66d271a251c1da81101ee2.png!w60",19h00 12/12: Al-Yarmouk - El Alia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657693ff3a471165bcaf3fc2&.m3u8|Referer=https://pl-rk.livefb.xyz/
