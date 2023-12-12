@@ -401,9 +401,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d50b5357c5440daf53ac&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d1ea5357c5440daf52db&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/357204_small.png",21h00 12/12: Manchester United U19 - Bayern München U19
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfc562781e69025d2d09&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578650_small.png",21h30 12/12: FC Goa - Mumbai City FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6574dfc662781e69025d2d0a&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -818,6 +815,3 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6574e03662781e69025d2d3e&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/555292_small.png",23h30 15/12: Skalica - Zeleziarne Podbrezova
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6577745c3a471165bcaf47e7&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",22h49 21/02: Da Nang - Da Nang
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578811f3a471165bcaf4b72&.m3u8|Referer=https://pl-rk.livefb.xyz/
