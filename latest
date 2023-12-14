@@ -118,6 +118,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d2ba5357c5440daf5369&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7896_small.png",03h00 15/12: Lugano - Beşiktaş
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d2bd5357c5440daf536b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09h00 15/12: Club Sport Herediano - Deportivo Saprissa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657b12f35357c5440daf5d11&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png",10h00 15/12: Tigres - América
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657b12f85357c5440daf5d13&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1079464_small.png",14h00 15/12: Western United FC - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d31b5357c5440daf5378&.m3u8|Referer=https://sk.mediastation.live/
@@ -635,9 +641,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657695113a471165bcaf3ff1&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/687954_small.png",21h00 14/12: National Bank - El Gouna FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657695a43a471165bcaf3ffc&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/09140a6d0ad3ffa058136df9fa0d957d.png!w60",21h25 14/12: Khaitan - Al Qadisiya
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6579d7e03a471165bcaf5592&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/589749_small.png",21h30 14/12: Punjab FC - Kerala Blasters FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657695c83a471165bcaf4009&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -791,6 +794,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657773993a471165bcaf478d&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1079464_small.png",14h00 15/12: Western United FC - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6576965f3a471165bcaf4040&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503794_small.png",14h45 15/12: Mohammedan - Rahmatgonj MFS
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657b121d3a471165bcaf5f5f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1531330_small.png",15h00 15/12: Central Coast Mariners (W) - Melbourne City FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6576966e3a471165bcaf404a&.m3u8|Referer=https://pl-rk.livefb.xyz/
