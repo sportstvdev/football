@@ -665,6 +665,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bd82f9f153416f4657&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/dbccc70ba67eb85b53045c711878e1e7.png!w60",08h00 14/12: CS Herediano (w) - Sporting FC (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657a49eb3a471165bcaf5b1e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c2de2973d03bcdadb30fb4cc395fc3b3.jpg!w60",09h00 14/12: Saprissa (w) - Alajuelense (w)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657a4a993a471165bcaf5b25&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/319340/image",15h00 14/12: Taichung Futuro - FC Ulaanbaatar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bf82f9f153416f4658&.m3u8|Referer=https://pl-rk.livefb.xyz/
