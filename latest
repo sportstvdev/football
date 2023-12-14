@@ -659,6 +659,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6575a4bf82f9f153416f4658&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/38762/image",16h00 14/12: GFA - Sagaing
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657996303a471165bcaf5377&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2f708e7217b3b424208814e781d9e9fa.png!w60",16h00 14/12: Qaradag Lokbatan - Irəvan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657aad1a3a471165bcaf5b94&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/307625/image",17h00 14/12: Abdish-Ata - Merw
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6576950e3a471165bcaf3fe8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -926,9 +929,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7933a471165bcaf4e80&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",01h00 16/12: Petrolul Ploiesti - Rapid Bucuresti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a79d3a471165bcaf4e89&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1786_small.png",01h00 16/12: Academico Viseu - Torreense
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a79f3a471165bcaf4e8a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",01h00 16/12: Al Hilal - Al-Wehda
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7a53a471165bcaf4e93&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1001,15 +1001,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8323a471165bcaf4f02&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95749_small.png",17h30 16/12: Hatayspor - Gaziantep
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8333a471165bcaf4f03&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1786_small.png",18h00 16/12: Academico Viseu - Torreense
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6578a79f3a471165bcaf4e8a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",18h00 16/12: Binh Duong - Nam Dinh
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8383a471165bcaf4f0c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179226_small.png",18h00 16/12: Thanh Hoa FC - Ho Chi Minh City FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a83a3a471165bcaf4f0d&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",18h00 16/12: Vilaverdense FC - Leixoes
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8613a471165bcaf4f16&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/626802_small.png",18h00 16/12: Khonkaen United FC - BG Pathum United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8623a471165bcaf4f17&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -1199,6 +1199,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6579f26a3a471165bcaf57d3&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95745_small.png",17h30 17/12: Pendikspor - Antalyaspor
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f26b3a471165bcaf57d4&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",18h00 17/12: Vilaverdense FC - Leixoes
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8613a471165bcaf4f16&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1111274_small.png",18h00 17/12: TRAU - Namdhari FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f2723a471165bcaf57dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
