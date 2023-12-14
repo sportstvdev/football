@@ -650,9 +650,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1e&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/501976/image",13h00 14/12:  Nongrah - Imson FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657a566e3a471165bcaf5b4b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/378353/image",14h15 14/12:  HOPS FC (W) - Gokulam Kerala FC (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657a575a3a471165bcaf5b53&.m3u8|Referer=https://pl-rk.livefb.xyz/
