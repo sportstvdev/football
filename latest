@@ -16,9 +16,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6574d32d5357c5440daf5392&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/150413_small.png",22h00 15/12: Al-Raed - Damac FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6574d3295357c5440daf538c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/405332_small.png",22h00 15/12: FC Voluntari - U Craiova 1948
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6574d3375357c5440daf539c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",22h00 15/12: Al Hilal - Al-Wehda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657b53805357c5440daf5e43&.m3u8|Referer=https://sk.mediastation.live/
@@ -653,6 +650,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657c63da3a471165bcaf6621&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/16c2d7a61e2b6829ac8d3912b4e5357d.png!w60",14h00 16/12: New Taipei (W) - Taoyuan (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657c64f73a471165bcaf662f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/82724.png?lm=1594844293",14h00 16/12: Kaohsiung (W) - Taichung Blue (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657c656d3a471165bcaf6638&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165202_small.png",15h00 16/12: PSIS - Madura United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7e83a471165bcaf4ee3&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -668,6 +668,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7f23a471165bcaf4ee9&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/5970/image",15h45 16/12: Melbourne Victory - Sydney FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8213a471165bcaf4ef2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a29e4afeeda8f4b6eec1e038d9555f93.png!w60",15h45 16/12: Angkor Tiger (W) - Vikingur Reykjavik (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657c66a93a471165bcaf6654&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165228_small.png",16h30 16/12: Johor Darul Ta'zim - Penang
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a82b3a471165bcaf4ef8&.m3u8|Referer=https://pl-rk.livefb.xyz/
