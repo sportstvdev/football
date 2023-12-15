@@ -533,9 +533,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1e&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/byc36sCa-6a9OBdUu.png",16h15 15/12: Sports Odisha (W) -  Odisha FC (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657b0faa3a471165bcaf5f44&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d659af726f5fa75d16d3e08c6470e844.png!w60",17h00 15/12: TKS Viet Nam (W) - Phong Phu Ha Nam (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657b0e013a471165bcaf5f38&.m3u8|Referer=https://pl-rk.livefb.xyz/
