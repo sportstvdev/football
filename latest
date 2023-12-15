@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/323834_small.png",15h45 15/12: Western Sydney Wanderers FC - Adelaide United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6574d3235357c5440daf5380&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6fcaab610a987b2cabcbbc43d70a795f.png!w60",16h00 15/12: Dagon Star FC - Kachin United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657b9ef15357c5440daf5ed7&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Rakhine_United_Football_Club.jpg",16h00 15/12: Rakhine United - Ayeyawady United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657b9f045357c5440daf5eda&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tksvietnam.com/wp-content/uploads/2022/01/logo-1024x337.png",17h00 15/12: TKS Viet Nam - PP Hà Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657b52e25357c5440daf5e33&.m3u8|Referer=https://sk.mediastation.live/
@@ -640,7 +631,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7933a471165bcaf4e80&
 http://api.sportstvapp.tech/football/playcakhia.php?id=657b68603a471165bcaf622f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",01h00 16/12: Petrolul Ploiesti - Rapid Bucuresti
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a79d3a471165bcaf4e89&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657c34303a471165bcaf648f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8464_small.png",02h00 16/12: NEC Nijmegen - Fortuna Sittard
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a7b03a471165bcaf4e9d&.m3u8|Referer=https://pl-rk.livefb.xyz/
