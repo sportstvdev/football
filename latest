@@ -431,12 +431,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1e&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",22h15 16/12: Athletic Club - Atletico Madrid
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a9473a471165bcaf4fad&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/494050_small.png",22h15 16/12: FC Andorra - Espanyol
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a94f3a471165bcaf4fb2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",22h30 16/12: FC Utrecht - RKC Waalwijk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a9533a471165bcaf4fb7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -572,6 +566,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6579f27a3a471165bcaf57e2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.scoreboard.com/res/image/data/APTObehl-6aVAaBNC.png",18h00 17/12: Ba Ria Vung Tau - Hòa Bình
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657d40dc3a471165bcaf6bcf&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/628715_small.png",18h00 17/12: UDG Tenerife (W) - Barcelona (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657ddd6ab34a8b119be93372&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4116_small.png",18h15 17/12: Almere City FC - Vitesse
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f27b3a471165bcaf57e3&.m3u8|Referer=https://pl-rk.livefb.xyz/
