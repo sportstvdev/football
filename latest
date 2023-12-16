@@ -13,9 +13,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657c8fb05357c5440daf5fea&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6230_small.png",15h45 16/12: Melbourne Victory - Sydney FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6577b5bf5357c5440daf57c2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165228_small.png",16h30 16/12: Johor Darul Ta'zim II - Penang FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657b53f05357c5440daf5e5e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624350_small.png",16h30 16/12: Aizawl - Gokulam FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657d54f35357c5440daf60d8&.m3u8|Referer=https://sk.mediastation.live/
@@ -527,7 +524,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657c58d03a471165bcaf65ad&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/5970/image",15h45 16/12: Melbourne Victory - Sydney FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6578a8213a471165bcaf4ef2&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a29e4afeeda8f4b6eec1e038d9555f93.png!w60",15h45 16/12: Angkor Tiger (W) - Vikingur Reykjavik (W)
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a29e4afeeda8f4b6eec1e038d9555f93.png!w60",15h45 16/12: Angkor Tiger - Vikingur Reykjavik
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657c66a93a471165bcaf6654&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165228_small.png",16h30 16/12: Johor Darul Ta'zim - Penang
