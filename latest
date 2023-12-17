@@ -1,12 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03h30 18/12: Braga - Benfica
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea6a5357c5440daf5b1c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49785_small.png",06h00 18/12: CD Motagua - CD Olimpia
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea755357c5440daf5b2e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",06h00 18/12: Deportivo Saprissa - Club Sport Herediano
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea785357c5440daf5b32&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6576_small.png",08h30 18/12: América - Tigres
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea6d5357c5440daf5b21&.m3u8|Referer=https://sk.mediastation.live/
@@ -596,9 +590,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03h30 18/12: Braga - Benfica
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6579f3a43a471165bcaf5905&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6721_small.png",04h30 18/12: LDU de Quito - Independiente del Valle
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f3c33a471165bcaf5921&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -607,7 +598,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6579f3c33a471165bcaf5921&
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f3d43a471165bcaf592c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49785_small.png",06h00 18/12: CD Motagua - Olimpia
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657ecbcfb34a8b119be93711&.m3u8|Referer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657f7ce24bda484da2f75d3d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/248234/image",07h00 18/12: Diriangén - Real Esteli
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657ecc27b34a8b119be93716&.m3u8|Referer=https://pl-rk.livefb.xyz/
