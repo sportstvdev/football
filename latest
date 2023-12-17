@@ -1,6 +1,9 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h00 17/12: Newcastle Jets (W) - Western United FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579e9c15357c5440daf5ae8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h00 17/12: Melbourne City FC - Central Coast Mariners
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657e59035357c5440daf631d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675726_small.png",14h00 17/12: Brisbane Roar FC (W) - Western Sydney Wanderers FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579e9c15357c5440daf5aea&.m3u8|Referer=https://sk.mediastation.live/
@@ -368,12 +371,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1e&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",07h00 17/12: Mexico - Colombia
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6578a9c23a471165bcaf501b&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10084_small.png",07h00 17/12: Rosario Central - Club Atletico Platense
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6579f20c3a471165bcaf57ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2af4307890e1d9b3ff59e88e8980bad8.png!w60",09h00 17/12: AC Nagano Parceiro Ladies (W) - Albirex Niigata (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657e516cb34a8b119be9352d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -383,6 +380,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657e56dab34a8b119be93534&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9756_small.png",11h00 17/12: JEF United Chiba (W) - Nojima Stella Kanagawa Sagamihara (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657e5843b34a8b119be93540&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/dvatHYBr-ziTED9h8.png",11h00 17/12:  Omiya Ardija Ventus(W) - Saitama (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657e5895b34a8b119be9354a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8fca1fffae59337b22952101b1c22dd1.png!w60",12h00 17/12: INAC Kobe Leonessa (W) - AS Harima ALBION (w)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657e58d1b34a8b119be9354f&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f38e283583f3883238713bf91ae1d175.png!w100",12h00 17/12: NTV Beleza (w) - Setagaya Sfida (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657e58ffb34a8b119be93554&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h00 17/12: Melbourne City FC - Central Coast
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f2583a471165bcaf57b5&.m3u8|Referer=https://pl-rk.livefb.xyz/
