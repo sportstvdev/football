@@ -386,15 +386,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1d&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f33d5357c5440daf5c1e&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9756_small.png",11h00 17/12: JEF United Chiba (W) - Nojima Stella Kanagawa Sagamihara (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657e5843b34a8b119be93540&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8fca1fffae59337b22952101b1c22dd1.png!w60",12h00 17/12: INAC Kobe Leonessa (W) - AS Harima ALBION (w)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657e58d1b34a8b119be9354f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f38e283583f3883238713bf91ae1d175.png!w100",12h00 17/12: NTV Beleza (w) - Setagaya Sfida (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657e58ffb34a8b119be93554&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h00 17/12: Melbourne City FC - Central Coast
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6579f2583a471165bcaf57b5&.m3u8|Referer=https://pl-rk.livefb.xyz/
