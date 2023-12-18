@@ -13,9 +13,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0035357c5440daf5b54&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h15 19/12: Sporting CP - FC Porto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0035357c5440daf5b55&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",14h30 19/12: Hồ Chí Minh City FC - Sơn La
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6580ab545357c5440daf6881&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/HN_FC_Logo.svg/1200px-HN_FC_Logo.svg.png",15h00 19/12: Hà Nội - GT Thai Nguyen
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6580ab1c5357c5440daf687e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1320491_small.png",16h30 19/12: Sreenidi Deccan - Gokulam FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0075357c5440daf5b5b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/Logo_CLB_n%E1%BB%AF_S%C6%A1n_La.png",17h00 19/12: Sơn La - Ho Chi Minh City II
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6580ab7c5357c5440daf6884&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/128879_small.png",20h00 19/12: TP Mazembe - FC Nouadhibou
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0075357c5440daf5b5a&.m3u8|Referer=https://sk.mediastation.live/
@@ -548,9 +557,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394121_small.png",01h30 19/12: VfL Wolfsburg (W) - Werder Bremen (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6580862d5764c77c9fad6b13&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161771_small.png",02h30 19/12: Villarreal B - Real Valladolid
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657d32383a471165bcaf6a5b&.m3u8|Referer=https://pl-rk.livefb.xyz/
