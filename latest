@@ -10,9 +10,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f43ac5357c5440daf65b0&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179222_small.png",18h00 18/12: Hải Phòng FC - Khánh Hòa FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea725357c5440daf5b29&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png",18h00 18/12: Lễ Bốc Thăm UEFA Champions League - Lễ Bốc Thăm UEFA Champions League
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657ffa0c5357c5440daf6771&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 18/12: Bali United Pusam - Persib Bandung
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea755357c5440daf5b2d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/0/03/Europa_League.svg/310px-Europa_League.svg.png",19h00 18/12: Lễ Bốc Thăm UEFA Europa League - Lễ Bốc Thăm UEFA Europa League
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657ffa295357c5440daf6774&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/059572aa0a9c6304f72cb3c87818754f.jfif!w60",19h20 18/12: Al Kholood - Hajer
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f43f35357c5440daf65b5&.m3u8|Referer=https://sk.mediastation.live/
@@ -587,15 +593,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6b405ecc6f6e3bc63a6bac0b36724231.png!w60",13h00 18/12: Delhi FC - Royal Rangers FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657ed2f9b34a8b119be9377c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503794_small.png",14h55 18/12: Mohammedan - Bashundhara Kings
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=657fce424bda484da2f75da0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1209973_small.png",15h00 18/12: Macarthur FC - Wellington Phoenix
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657b6a403a471165bcaf626b&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165197_small.png",15h00 18/12: Persik - PSM Makassar
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657b6a413a471165bcaf626c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503794_small.png",15h45 18/12: Mohammedan - Bashundhara Kings
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657fce424bda484da2f75da0&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/450236/image",16h00 18/12: Vatika FC -  Rangers SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657ed34db34a8b119be93783&.m3u8|Referer=https://pl-rk.livefb.xyz/
