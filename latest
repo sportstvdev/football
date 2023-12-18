@@ -4,12 +4,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea725357c5440daf5b29&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 18/12: Bali United Pusam - Persib Bandung
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea755357c5440daf5b2d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/0/03/Europa_League.svg/310px-Europa_League.svg.png",19h00 18/12: Lễ Bốc Thăm UEFA Europa League - Lễ Bốc Thăm UEFA Europa League
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657ffa295357c5440daf6774&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/059572aa0a9c6304f72cb3c87818754f.jfif!w60",19h20 18/12: Al Kholood - Hajer
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f43f35357c5440daf65b5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/30/UEFA_Europa_Conference_League.svg/140px-UEFA_Europa_Conference_League.svg.png",20h00 18/12: LỄ BỐC THĂM VÒNG PLAY-OFF UEFA CONFERENCE LEAGUE - LỄ BỐC THĂM VÒNG PLAY-OFF UEFA CONFERENCE LEAGUE
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657ffa295357c5440daf6774&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/589749_small.png",21h30 18/12: Punjab FC - Chennaiyin FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea785357c5440daf5b31&.m3u8|Referer=https://sk.mediastation.live/
@@ -593,12 +593,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657e5f51b34a8b119be93591&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/269199/image",19h20 18/12: Al Kholood - Hajer
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657e5f93b34a8b119be93596&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/8ae657d992b70843447d0e50108cbf37.png!w60",19h30 18/12: Asyut Petroleum - CLB Abo Qair Semads
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657ed3d6b34a8b119be93794&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9ad7e93fbfdfd25f883821567e8a02bf.png!w60",19h30 18/12: CLB Olympic El Qanal - Raviena
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657ed417b34a8b119be9379a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2349/image",20h00 18/12: LỄ BỐC THĂM - BỐC THĂM C3
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657f504c4bda484da2f75c95&.m3u8|Referer=https://pl-rk.livefb.xyz/
