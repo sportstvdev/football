@@ -4,6 +4,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea6d5357c5440daf5b23&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165197_small.png",15h00 18/12: Persik - PSM Makassar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea705357c5440daf5b25&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/911532_small.png",16h30 18/12: Shan United - Yangon United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658013395357c5440daf677c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",17h00 18/12: Shakhtar Donetsk - Avispa Fukuoka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f43ac5357c5440daf65b0&.m3u8|Referer=https://sk.mediastation.live/
@@ -611,6 +614,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657e5eaeb34a8b119be93587&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8270_small.png",17h00 18/12: Avispa Fukuoka - Shakhtar Donetsk
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657fda5a5764c77c9fad6376&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",17h00 18/12: Kapaz - Sabah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658012915764c77c9fad63e5&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2349/image",18h00 18/12: LỄ BỐC THĂM - BỐC THĂM C1
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657f504c4bda484da2f75c95&.m3u8|Referer=https://pl-rk.livefb.xyz/
