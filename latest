@@ -10,7 +10,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0005357c5440daf5b50&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",03h00 19/12: Girona - Deportivo Alaves
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0035357c5440daf5b54&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h15 19/12: Sporting CP - FC Porto
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h20 19/12: Sporting CP - FC Porto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579f0035357c5440daf5b55&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179228_small.png",14h30 19/12: Hồ Chí Minh City FC - Sơn La
@@ -584,9 +584,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=657d329a3a471165bcaf6a6c&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8658_small.png",03h00 19/12: Birmingham - Leicester
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657d329e3a471165bcaf6a71&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h15 19/12: Sporting CP - FC Porto
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h20 19/12: Sporting CP - FC Porto
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657d32b73a471165bcaf6a76&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1268307_small.png",04h00 19/12: Paraguay U23 - Panama U23
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6580ac105764c77c9fad6c5e&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/014a669524880c6cb516f04a773b25c3.png!w60",05h00 19/12: Harbour View - Lime Hall Academy
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657e6183b34a8b119be935c8&.m3u8|Referer=https://pl-rk.livefb.xyz/
