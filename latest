@@ -1,12 +1,6 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 18/12: Bali United Pusam - Persib Bandung
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea755357c5440daf5b2d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/059572aa0a9c6304f72cb3c87818754f.jfif!w60",19h20 18/12: Al Kholood - Hajer
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f43f35357c5440daf65b5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/30/UEFA_Europa_Conference_League.svg/140px-UEFA_Europa_Conference_League.svg.png",20h00 18/12: LỄ BỐC THĂM VÒNG PLAY-OFF UEFA CONFERENCE LEAGUE - LỄ BỐC THĂM VÒNG PLAY-OFF UEFA CONFERENCE LEAGUE
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657ffa295357c5440daf6774&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/589749_small.png",21h30 18/12: Punjab FC - Chennaiyin FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6579ea785357c5440daf5b31&.m3u8|Referer=https://sk.mediastation.live/
@@ -575,9 +569,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 18/12: Bali United FC - Persib Bandung
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=657b6a4d3a471165bcaf627a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cf2cbc64b23da5252afc6492d776da98.png!w60",19h10 18/12: Al Batin - Al Qaisumah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=657e5f51b34a8b119be93591&.m3u8|Referer=https://pl-rk.livefb.xyz/
