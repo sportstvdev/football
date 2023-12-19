@@ -548,6 +548,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/014a669524880c6cb516f04a773b25c3.png!w60",05h00 19/12: Harbour View - Lime Hall Academy
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6580c5335764c77c9fad6cb1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5983_small.png",07h00 19/12: Bolivar - Jorge Wilstermann
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6580dbd45764c77c9fad6ccf&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/Mqg6fjgl-zXAtX2AU.png",07h30 19/12: Waterhouse - Treasure Beach
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658047a15764c77c9fad67f6&.m3u8|Referer=https://pl-rk.livefb.xyz/
