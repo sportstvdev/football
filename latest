@@ -488,12 +488,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/281467_small.png",18h00 20/12: Erzurumspor FK - Ümraniyespor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658021d95764c77c9fad6457&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8387_small.png",18h00 20/12: Keçiörengücü - Bandirmaspor
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658021da5764c77c9fad6458&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584943_small.png",18h00 20/12: Sukhothai FC - Muang Thong United
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658182395764c77c9fad6df2&.m3u8|Referer=https://pl-rk.livefb.xyz/
