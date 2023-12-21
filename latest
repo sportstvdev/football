@@ -362,12 +362,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/r9xNB3yB-4UL29Rir.png",16h45 21/12:  Kickstart FC (W)  - Sports Odisha (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658398669abeab50711ba41f&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/0dc1dabdded79ffd1373a5574cf9e49d.png!w60",17h00 21/12: Qarabag - MOIK
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6582eb9b9abeab50711b9e09&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4675_small.png",18h00 21/12: Boluspor - Manisa Futbol Kulubu
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658023e55764c77c9fad6602&.m3u8|Referer=https://pl-rk.livefb.xyz/
