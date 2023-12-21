@@ -250,9 +250,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f58535357c5440daf66d9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8577_small.png",01h00 24/12: Al Ittihad - Al-Raed
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f58535357c5440daf66da&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",01h00 24/12: Al-Wehda - Al Riyadh
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657f58725357c5440daf66e0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",02h45 24/12: Roma - Napoli
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f58765357c5440daf66e1&.m3u8|Referer=https://sk.mediastation.live/
@@ -301,6 +298,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f588f5357c5440daf6708&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/316652_small.png",00h00 25/12: RSB Berkane - Raja Casablanca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59355357c5440daf672e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",01h00 25/12: Al-Wehda - Al Riyadh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=657f58725357c5440daf66e0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7929_small.png",01h00 25/12: Maccabi Petach Tikva - Maccabi Tel Aviv
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59395357c5440daf6731&.m3u8|Referer=https://sk.mediastation.live/
