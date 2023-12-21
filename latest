@@ -362,12 +362,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a5446606d76c26fb0ad96c9903cd60d6.jfif!w60",20h00 21/12: Maan - Al Ahly
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6582ec569abeab50711b9e2f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1620_small.png",20h00 21/12: PAS Giannina - Panetolikos
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658023f15764c77c9fad6607&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a5446606d76c26fb0ad96c9903cd60d6.jfif!w60",20h00 21/12: Maan - Al Ahly
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6582ec569abeab50711b9e2f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624350_small.png",20h30 21/12: Aizawl FC - Inter Kashi
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658023fc5764c77c9fad660c&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -386,12 +386,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658024185764c77c9fad6620&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2d9ea2234c3ada82b3d0355791c45669.png!w60",21h00 21/12: FC Neftci Baku -  CLB Qaradag Lokbatan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6582f0f39abeab50711b9e75&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1086744_small.png",21h30 21/12: Hyderabad FC - Jamshedpur FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658024195764c77c9fad6621&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203826_small.png",21h30 21/12: Al-Duhail SC - Al-Ahli
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6580241b5764c77c9fad6622&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1086744_small.png",21h30 21/12: Hyderabad FC - Jamshedpur FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658024195764c77c9fad6621&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/104814_small.png",22h00 21/12: Panserraikos FC - AEK Athens
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6580241c5764c77c9fad6627&.m3u8|Referer=https://pl-rk.livefb.xyz/
