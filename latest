@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",15h45 23/12: Melbourne City FC - Melbourne Victory
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657f57925357c5440daf66a1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/508691_small.png",17h00 23/12: QNK Quảng Nam - Hải Phòng FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f56f25357c5440daf6678&.m3u8|Referer=https://sk.mediastation.live/
@@ -10,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f56ed5357c5440daf6673&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png",18h00 23/12: Quy Nhơn Bình Định - Viettel
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f56f05357c5440daf6675&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109378_small.png",18h00 23/12: Chonburi FC - Muang Thong United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657f57955357c5440daf66a6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7961_small.png",18h30 23/12: Perth Glory - Macarthur FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f57955357c5440daf66a7&.m3u8|Referer=https://sk.mediastation.live/
@@ -167,12 +161,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6723&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f59125357c5440daf6724&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/284dca1363eac673234d7c09387d8057.png!w60",15h30 23/12: Sheikh Russel KC - Sheikh Jamal
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6585adb89abeab50711baec4&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",15h45 23/12: Melbourne City FC - Melbourne Victory
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6581ff049abeab50711b99f4&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/508691_small.png",17h00 23/12: QNK Quang Nam - Hai Phong
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6581ff069abeab50711b99f5&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -317,6 +305,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658688f59abeab50711bb5ed&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/acc91add74b2c86a68722836835bcf3c.png!w100",12h00 24/12: Urawa Reds (W) - AC Nagano Parceiro Ladies (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6586893d9abeab50711bb5f2&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/19d5993ba3bf6f5871986eda093ab56d.png!w60",13h00 24/12: CISF - Royal Rangers FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6586bfa59abeab50711bb800&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/3dfcbcbf625a18d91d58ab82b9899bc4.png!w60",14h00 24/12: Sham Shui Po - HK U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658689b09abeab50711bb5f7&.m3u8|Referer=https://pl-rk.livefb.xyz/
