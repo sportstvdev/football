@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49761_small.png",07h00 24/12: Comunicaciones FC - Guastatoya
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=657f587a5357c5440daf66e7&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49739_small.png",07h00 24/12: CD Aguila - Jocoro FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=658661285d07b821246bedf9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1513627_small.png",15h30 24/12: Delhi FC - Real Kashmir FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=657f587b5357c5440daf66eb&.m3u8|Referer=https://sk.mediastation.live/
@@ -386,6 +380,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6586bfa59abeab50711bb800&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/303921/image",14h00 24/12: North District - Southern District
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658689b09abeab50711bb5f7&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4674_small.png",15h00 24/12: Turan Tovuz - Araz-Naxcivan
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658773196b4a656c6639ff69&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6b405ecc6f6e3bc63a6bac0b36724231.png!w60",15h30 24/12: Delhi FC - Real Kashmir FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658200a79abeab50711b9ad0&.m3u8|Referer=https://pl-rk.livefb.xyz/
