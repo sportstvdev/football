@@ -461,6 +461,12 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65866d0a9abeab50711bb3fa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/kuwait/logos/al-arabi.png",21h30 25/12: Al Arabi - Al Shabab
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6587cc8c6b4a656c663a0094&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/cd395fd8e7ba7036a13ac241a0e090a5.png!w100",21h30 25/12: Hajer - Al Faisaly Harmah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658831e2794ddc2d6fb59696&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d2a156c31d8f74f9a5f8e64873cd12ee.png!w60",22h25 25/12: AL Rabeea Jeddah - Al Kholood
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=65883155794ddc2d6fb59691&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/40659/image",23h00 25/12: Al Riffa - Busaiteen
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6587ccd76b4a656c663a0099&.m3u8|Referer=https://pl-rk.livefb.xyz/
