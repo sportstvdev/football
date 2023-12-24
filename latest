@@ -377,12 +377,6 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=6586893d9abeab50711bb5f2&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5bc257a079ad949e814f93eb9f1c9ecf.png!w60",12h00 24/12: Kibi International University (w) - Tezukayama Gakuin University (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658793356b4a656c6639ff8c&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/19d5993ba3bf6f5871986eda093ab56d.png!w60",13h00 24/12: CISF - Royal Rangers FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6586bfa59abeab50711bb800&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/db1842657b558796023d81001ecd597c.png!w60",13h00 24/12: Ahbab FC - Sudeva FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6587a4516b4a656c6639ff94&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/303921/image",14h00 24/12: North District - Southern District
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658689b09abeab50711bb5f7&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -581,6 +575,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65866d759abeab50711bb431&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",00h00 26/12: Al Ahly SC - Ceramica Cleopatra
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65866d7a9abeab50711bb43a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/kuwait/logos/al-nasar.png",00h00 26/12: Al Nasar - Al Salmiyah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=6587cf456b4a656c663a00c6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png",18h00 26/12: Khanh Hoa FC - Song Lam Nghe An
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65866e2a9abeab50711bb458&.m3u8|Referer=https://pl-rk.livefb.xyz/
