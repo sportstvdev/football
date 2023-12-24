@@ -365,12 +365,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/54ffd9342d725e6ee1b57e6821bb66cf.png!w60",15h45 24/12: Kirivong Sok Sen Chey - NagaWorld
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65868ade9abeab50711bb607&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/b6cae339576dad4050db7d092cdc52b6.png!w60",16h00 24/12: Đồng Tháp - Binh Phuoc
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65868b259abeab50711bb60c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/normquad/87042.png?lm=1655064855",16h45 24/12: KLASA FC  - SC Bengaluru
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6587f1856b4a656c663a014b&.m3u8|Referer=https://pl-rk.livefb.xyz/
