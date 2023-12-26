@@ -37,7 +37,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6587211ee3651f670e5d24cd&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179227_small.png",17h00 27/12: LPBank Hoàng Anh Gia Lai - Hà Nội FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872120e3651f670e5d24cf&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/508691_small.png",17h00 27/12: QNK Quảng Nam - Thanh Hoa FC
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/508691_small.png",17h00 27/12: QNK Quảng Nam - Thanh Hóa FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872122e3651f670e5d24d3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109375_small.png",18h00 27/12: Nam Định - Viettel
@@ -46,6 +46,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872125e3651f670e5d24d7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179222_small.png",19h15 27/12: Hải Phòng FC - Quy Nhơn Bình Định
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872124e3651f670e5d24d4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582814.png",19h45 27/12: Ohod - Al Qaisoma
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658af4f2ffcf095c330590e7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585662_small.png",21h00 27/12: ZED FC - El Dakhleya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872128e3651f670e5d24dd&.m3u8|Referer=https://sk.mediastation.live/
@@ -61,6 +64,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872130e3651f670e5d24e5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",21h30 27/12: ATK Mohun Bagan FC - Kerala Blasters FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872127e3651f670e5d24da&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101903_small.png",21h30 27/12: Umm Salal - Al-Shamal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658af51cffcf095c330590ea&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179097_small.png",23h30 27/12: Al-Ahli - Al Markhiya
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658af55cffcf095c330590ed&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9985_small.png",00h30 28/12: Standard Liege - St.Truiden
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658af575ffcf095c330590f0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7929_small.png",00h45 28/12: Maccabi Petach Tikva - Hapoel Petah Tikva
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6587235ae3651f670e5d24fa&.m3u8|Referer=https://sk.mediastation.live/
@@ -437,7 +449,7 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=65887740794ddc2d6fb598fa&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/32490/image",21h30 27/12: Umm Salal SC - Al Shamal SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658adc28326ed7387f7c93bd&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2530_small.png",23h30 27/12: Al Ahli - Al Markhiya
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/48feed47ac02cae502daed358319eec0.png!w60",23h30 27/12: Al-Ahli Doha - Al Markhiya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658adc64326ed7387f7c93c2&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205189_small.png",00h00 28/12: Smouha SC - Tala'ea El Gaish
