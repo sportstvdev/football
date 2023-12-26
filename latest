@@ -263,12 +263,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",00h30 27/12: Burnley - Liverpool
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65887657794ddc2d6fb59870&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10001_small.png",00h30 27/12: Westerlo - RWD Molenbeek
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65887659794ddc2d6fb59875&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/459591_small.png",00h45 27/12: Hapoel Jerusalem FC - Hapoel Tel Aviv
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658876a5794ddc2d6fb598a0&.m3u8|Referer=https://pl-rk.livefb.xyz/
