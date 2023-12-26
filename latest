@@ -284,9 +284,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/229347/image",19h00 26/12: Al-Adalah - Al Ain
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=6588fff4794ddc2d6fb59a81&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png",19h15 26/12: Cong An Ha Noi - Binh Duong
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65866e3c9abeab50711bb462&.m3u8|Referer=https://pl-rk.livefb.xyz/
