@@ -290,12 +290,21 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/88547bf8838189ebb71e74178268b45e.png!w60",09h00 26/12: Nihon University (W) - Nagoya University (W)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658a3608794ddc2d6fb59f8e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1c2dba07fa8e875b57d624fd7b8f4033.png!w60",09h00 26/12: Teikyo Heisei University (w) -  Kwassui University (w)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658a365c794ddc2d6fb59f94&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/20181110015009.jpg",10h30 26/12: phoenix sun - Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658a2ccd794ddc2d6fb59f6f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5bc257a079ad949e814f93eb9f1c9ecf.png!w60",12h00 26/12: Kibi International University (w) - Nittaidai (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658a26c8794ddc2d6fb59f58&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/fd61f5fe2d6ad0ba27bc6dd1f3a277aa.png!w60",12h00 26/12: Osaka University HSS (w) - Waseda University AFC (w)
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658a3722794ddc2d6fb59f9f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/317240_small.png",13h00 26/12: China U23 - Malaysia U23
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=6589236a794ddc2d6fb59ad8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -305,6 +314,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658a3494794ddc2d6fb59f75&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/6420c0973ce8f96f7923a191e354bac3.png!w60",15h00 26/12: PS BRT Subang - Persipu FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658a3504794ddc2d6fb59f7c&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/aa17548d702a5a60c194aacd0f0aa7df.jpg!w60",15h15 26/12: Persiku Kudusa - PSIK Klaten
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658a37cd794ddc2d6fb59fa6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/bangladesh/logos/rahmatgonj-mfs.png",15h30 26/12: Rahmatgonj MFS - Bangladesh Police
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658923b1794ddc2d6fb59add&.m3u8|Referer=https://pl-rk.livefb.xyz/
