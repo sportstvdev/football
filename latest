@@ -257,9 +257,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w60",10h30 27/12: Los Angeles Clippers - Charlotte Hornets
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658b45ee326ed7387f7c9648&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/2e3110451785ff0729c8fac88eb415b1.png!w60",12h00 27/12: Fukuoka University (w) - Meiji University (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658ba51a326ed7387f7c970f&.m3u8|Referer=https://pl-rk.livefb.xyz/
