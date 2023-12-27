@@ -73,6 +73,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=6587236de3651f670e5d2511&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109378_small.png",19h00 28/12: Chonburi FC - Bangkok United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6587236fe3651f670e5d2512&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/608449_small.png",20h00 28/12: Ceramica Cleopatra - Pyramids FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658ba0a3aa3bdf7fe7814252&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578655_small.png",21h30 28/12: Mumbai City FC - Chennaiyin FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872370e3651f670e5d2514&.m3u8|Referer=https://sk.mediastation.live/
@@ -254,9 +257,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/20130419172910.jpg",08h30 27/12:  new orleans pelicans -  memphis grizzlies
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658b7b27326ed7387f7c9695&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/55c16b24b7b6af4e5f66479230af1490.png!w60",09h00 27/12: Toyo University (w) - Shizuoka Sangyo University (w)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658b701a326ed7387f7c9670&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -269,6 +269,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658b45ee326ed7387f7c9648&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a254c18d3ea00f8d290f351f1689d7f7.png!w60",13h00 27/12: Friends United -  Rangers SC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658b7118326ed7387f7c967a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/c75565c7f803ab2f3c9815c2014fea32.png!w60",13h00 27/12: Chengdu Rongcheng U17 - Shandong Luneng U17
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658ba0bc326ed7387f7c96f3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/basketball/team/0c26a540ff8bf7d6bde4b78176ab46d6.png!w60",15h30 27/12: Brisbane Bullets - New Zealand Breakers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658ada23326ed7387f7c938b&.m3u8|Referer=https://pl-rk.livefb.xyz/
