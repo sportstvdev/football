@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101903_small.png",21h30 27/12: Umm Salal - Al-Shamal
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=658af51cffcf095c330590ea&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179097_small.png",23h30 27/12: Al-Ahli - Al Markhiya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658af55cffcf095c330590ed&.m3u8|Referer=https://sk.mediastation.live/
@@ -227,12 +224,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872542e3651f670e5d25c0&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872545e3651f670e5d25c2&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578651_small.png",21h30 27/12: Mohun Bagan SG - Kerala Blasters FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=65887740794ddc2d6fb598fa&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/32490/image",21h30 27/12: Umm Salal SC - Al Shamal SC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658adc28326ed7387f7c93bd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101662_small.png",23h00 27/12: Al Kahrabaa - Al Quwa Al Jawiya
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658bda8d3fe07e03f219e446&.m3u8|Referer=https://pl-rk.livefb.xyz/
