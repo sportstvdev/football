@@ -7,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65872370e3651f670e5d2514&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101898_small.png",21h30 28/12: Al-Rayyan - Chiangrai United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658c7778d36ee2327b4b11bd&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582739_small.png",22h00 28/12: Al Riyadh - Damac FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65872353e3651f670e5d24f5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",22h00 28/12: Al-Ettifaq - Al Hazem
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872355e3651f670e5d24f7&.m3u8|Referer=https://sk.mediastation.live/
@@ -311,12 +308,21 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658d8007618dd50dd17c207a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1eabcf4f6eb3d6c739699f06a3033217.png!w60",22h30 29/12: Manama - Al Riffa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d80bd618dd50dd17c2096&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w60",22h45 29/12: CLB Al Ahli -  Al Sharjah
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658d81ce618dd50dd17c20a1&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/55161/image",22h50 29/12: Al Salmiyah - Al Kuwait
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658d8212618dd50dd17c20a6&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102037_small.png",00h00 30/12: Hassania Agadir - MAS Fes
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658c0dfb618dd50dd17c1a8f&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102047_small.png",00h00 30/12: Olympic Club de Safi - Wydad Casablanca
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658c0dfc618dd50dd17c1a90&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102037_small.png",00h00 30/12: Hassania Agadir - Maghreb Fes
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658d82a3618dd50dd17c20ab&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",00h30 30/12: Fiorentina - Torino
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658c0dfe618dd50dd17c1a91&.m3u8|Referer=https://pl-rk.livefb.xyz/
