@@ -323,12 +323,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.livesport.com/res/image/data/xA03aUzB-IwakAbPm.png",10h00 29/12: Warriors - Heat
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658d6ab4618dd50dd17c1fe5&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/20180117155150.jpg",10h00 29/12: Portland Trail Blazers -  San antonio spurs
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658e337d618dd50dd17c249c&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4ndR-n-gall7_h3f7NYcpQ_96x96.png",10h30 29/12: Lakers - Charlotte Hornets
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d6959618dd50dd17c1fd8&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -350,6 +344,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658e5702618dd50dd17c2501&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/australia/logos/sydney-fc.png",15h45 29/12: Sydney FC - Wellington Phoenix
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658c0bbd618dd50dd17c1a4a&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/a254c18d3ea00f8d290f351f1689d7f7.png!w60",16h00 29/12: Friends United - Vatika FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658e5db5618dd50dd17c2525&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/389880_small.png",18h30 29/12: Gol Gohar - Sepahan
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d6d30618dd50dd17c1ffe&.m3u8|Referer=https://pl-rk.livefb.xyz/
