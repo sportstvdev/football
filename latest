@@ -314,9 +314,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/israel/logos/bnei-yehuda.png",20h00 29/12: Bnei Yehuda - Ihud Bnei Shefaram
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658ec61c618dd50dd17c28dd&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/23480/image",20h10 29/12: Al-Qadsia - Al Fahaheel
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d7e23618dd50dd17c204d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -347,6 +344,15 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658d8007618dd50dd17c207a&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1eabcf4f6eb3d6c739699f06a3033217.png!w60",22h30 29/12: Manama - Al Riffa
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d80bd618dd50dd17c2096&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1eabcf4f6eb3d6c739699f06a3033217.png!w60",22h30 29/12: Manama - Al-Hidd
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658ee063618dd50dd17c29a3&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/35890/image",22h30 29/12: Busaiteen - Al-Shabbab
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658ee06e618dd50dd17c29a8&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/images/teams/bahrain/logos/sitra.png",22h30 29/12: Sitra - Muharraq
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658ee078618dd50dd17c29ad&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w60",22h45 29/12: CLB Al Ahli -  Al Sharjah
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658d81ce618dd50dd17c20a1&.m3u8|Referer=https://pl-rk.livefb.xyz/
