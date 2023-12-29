@@ -293,9 +293,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2530_small.png",01h00 30/12: Al Ahli - Al Khaleej
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658c0e30618dd50dd17c1ab3&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",01h45 30/12: Benfica - Famalicao
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658c0e55618dd50dd17c1abc&.m3u8|Referer=https://pl-rk.livefb.xyz/
