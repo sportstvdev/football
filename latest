@@ -272,9 +272,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/20180117155150.jpg",10h00 30/12: Portland Trail Blazers -  San antonio spurs
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658f5ae0618dd50dd17c2c99&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w60",10h30 30/12: Los Angeles Clippers -  memphis grizzlies
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658ea34b618dd50dd17c2823&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -311,6 +308,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658f75ea618dd50dd17c2cc8&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d9871eddeba5e0acc3b10d79ce715b34.png!w60",17h30 30/12: Chittagong Abahani - Bashundhara Kings
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b9618dd50dd17c224e&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898335_small.png",17h30 30/12: Gokulam FC - Kerala FC
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658fadc0618dd50dd17c2e92&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/338304_small.png",18h00 30/12: FC Porto B - Nacional
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3bc618dd50dd17c225d&.m3u8|Referer=https://pl-rk.livefb.xyz/
