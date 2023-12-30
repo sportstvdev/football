@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4692_small.png",12h00 30/12: Cerezo Osaka - Albirex Niigata
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658f71a8d36ee2327b4b1532&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/9b1119aadf6f76ffbd2a59945a0aab73.png!w100",12h00 30/12: Saitama - Nagano Parceiro
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=658f71cfd36ee2327b4b1535&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675727_small.png",13h00 30/12: Canberra United FC (W) - Western United FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6587245ce3651f670e5d2580&.m3u8|Referer=https://sk.mediastation.live/
