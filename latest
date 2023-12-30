@@ -197,9 +197,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",01h00 31/12: Al-Taawoun - Al Nassr FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3e9618dd50dd17c2338&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",02h45 31/12: Juventus - Roma
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658e7fe5618dd50dd17c2619&.m3u8|Referer=https://pl-rk.livefb.xyz/
