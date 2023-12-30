@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675727_small.png",13h00 30/12: Canberra United FC (W) - Western United FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6587245ce3651f670e5d2580&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",13h30 30/12: Newcastle Jets - Western United FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6587245de3651f670e5d2582&.m3u8|Referer=https://sk.mediastation.live/
@@ -266,9 +263,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675727_small.png",13h00 30/12: Canberra United FC (W) - Western United FC (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b3618dd50dd17c2246&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2934/image",13h30 30/12: Newcastle Jets - Western United FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b5618dd50dd17c2247&.m3u8|Referer=https://pl-rk.livefb.xyz/
