@@ -272,9 +272,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w60",10h30 30/12: Los Angeles Clippers -  memphis grizzlies
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658ea34b618dd50dd17c2823&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w100",12h00 30/12: Cerezo Osaka (W) - Albirex Niigata (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658ea3c1618dd50dd17c2828&.m3u8|Referer=https://pl-rk.livefb.xyz/
