@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675732_small.png",14h00 30/12: Western Sydney Wanderers FC (W) - Melbourne Victory (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65872460e3651f670e5d2583&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6230_small.png",15h45 30/12: Melbourne Victory - Adelaide United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65872462e3651f670e5d2586&.m3u8|Referer=https://sk.mediastation.live/
@@ -260,12 +257,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2934/image",13h30 30/12: Newcastle Jets - Western United FC
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b5618dd50dd17c2247&.m3u8|Referer=https://pl-rk.livefb.xyz/
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675732_small.png",14h00 30/12: Western Sydney Wanderers FC (W) - Melbourne Victory (W)
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b6618dd50dd17c2248&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503792_small.png",15h30 30/12: Bangladesh Police - Sheikh Jamal FC
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658dd3b7618dd50dd17c224d&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -428,6 +419,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658e7ff3618dd50dd17c2623&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h00 31/12: Newcastle Jets (W) - Adelaide United (W)
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658e7ff4618dd50dd17c2624&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/303921/image",14h00 31/12: North District - Wofoo Tai Po
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658fda14618dd50dd17c2f49&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8164_small.png",15h00 31/12: Central Coast - Perth Glory
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658e7ff5618dd50dd17c2625&.m3u8|Referer=https://pl-rk.livefb.xyz/
@@ -440,6 +434,9 @@ http://api.sportstvapp.tech/football/playcakhia.php?id=658e7fff618dd50dd17c2637&
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/955322_small.png",18h30 31/12: Havadar SC - Esteghlal Kh
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658e8000618dd50dd17c2638&.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",18h30 31/12: Zakho - Al Kahrabaa
+#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
+http://api.sportstvapp.tech/football/playcakhia.php?id=658fdb84618dd50dd17c2f5d&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",21h00 31/12: Fulham - Arsenal
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=658e8009618dd50dd17c2641&.m3u8|Referer=https://pl-rk.livefb.xyz/
