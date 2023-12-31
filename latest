@@ -191,9 +191,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ad36ee2327b4b13c8&.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de64ed36ee2327b4b13cc&.m3u8|Referer=https://sk.mediastation.live/
 
-#EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/1hcvy42qwy2d.png",07h00 31/12: indiana pacers - Knicks
-#EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
-http://api.sportstvapp.tech/football/playcakhia.php?id=658fd55c618dd50dd17c2f1a&.m3u8|Referer=https://pl-rk.livefb.xyz/
 #EXTINF:-1 group-title="CAKHIATV - Giải khác" tvg-logo="https://sta.xuean.xyz/file/imgs/team/basketball/20120112161112.jpg",08h00 31/12:  Chicago Bulls - 76ers
 #EXTVLCOPT:http-referrer=https://pl-rk.livefb.xyz/
 http://api.sportstvapp.tech/football/playcakhia.php?id=65909e35618dd50dd17c3358&.m3u8|Referer=https://pl-rk.livefb.xyz/
