@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/10f3699ced0f551b3c2e3de2255ff800.png!w60",19h45 01/01: Al Ain - AL Rabeea Jeddah
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6592b25b3dc0f623380004b2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",22h00 01/01: Leicester - Huddersfield
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de40bd36ee2327b4b1336&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,6 +25,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de418d36ee2327b4b1349&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",22h00 01/01: Blackburn - Rotherham
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de41ad36ee2327b4b134c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10003_small.png",22h00 01/01: Swansea - West Brom
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6592d2053dc0f623380004f5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",00h00 02/01: Al Masry - Ismaily SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de457d36ee2327b4b1353&.m3u8|Referer=https://sk.mediastation.live/
