@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/fd5aee9ffe07250e37324ffc26a296a3.png!w60",19h35 03/01: Al-Jandal - Al Bukayriyah
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6594556e1a3c2825c8a0af68&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80654_small.png",21h00 03/01: Asteras Tripolis - Aris Thessaloniki FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de595d36ee2327b4b1383&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,6 +31,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=658de612d36ee2327b4b13a2&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/357262_small.png",17h30 04/01: Granada B - Melilla
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de617d36ee2327b4b13a9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5898_small.png",19h00 04/01: Tajikistan - Hong Kong
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=659570341a3c2825c8a0b03a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",20h30 04/01: Saudi Arabia - Lebanon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=658de616d36ee2327b4b13a7&.m3u8|Referer=https://sk.mediastation.live/
