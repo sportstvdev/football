@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675729_small.png",13h00 06/01: Newcastle Jets (W) - Canberra United FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6595a7491a3c2825c8a0b0d5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/323834_small.png",13h30 06/01: Western Sydney Wanderers FC - Central Coast Mariners
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6595a74b1a3c2825c8a0b0d9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675725_small.png",13h30 06/01: Adelaide United (W) - Melbourne City FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6595a74d1a3c2825c8a0b0dc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675734_small.png",14h00 06/01: Melbourne Victory (W) - Western United FC (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6595a74f1a3c2825c8a0b0df&.m3u8|Referer=https://sk.mediastation.live/
@@ -169,7 +160,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65971fc91a3c2825c8a0b29b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109708_small.png",05h00 07/01: ABC - Sousa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65971fcb1a3c2825c8a0b29c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980702_small.png",08h06 07/01: CD Guadalajara Chivas - Club Tijuana (W)
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980702_small.png",08h00 07/01: CD Guadalajara Chivas - Club Tijuana (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65971fab1a3c2825c8a0b296&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980701_small.png",10h00 07/01: Tigres (W) - Atletico de San Luis (W)
