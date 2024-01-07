@@ -1,15 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675726_small.png",14h00 07/01: Brisbane Roar FC (W) - Wellington Phoenix (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65971fcc1a3c2825c8a0b29f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1531330_small.png",14h00 07/01: Central Coast Mariners (W) - Sydney FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65971fcf1a3c2825c8a0b2a1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070.png",15h00 07/01: U19 Viettel - U19 Nam Định
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65999c3d8a9c1b6047c5f6c2&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Hoang_Anh_Gia_Lai_FC_logo.svg/800px-Hoang_Anh_Gia_Lai_FC_logo.svg.png",15h00 07/01: U19 HAGL - Gama Vĩnh Phúc
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=659a5c2e8a9c1b6047c5f78f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10182_small.png",17h30 07/01: Kayserispor - Sivasspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65971fd01a3c2825c8a0b2a5&.m3u8|Referer=https://sk.mediastation.live/
@@ -133,9 +121,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659720871a3c2825c8a0b2f8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6320_small.png",18h00 08/01: Syria - Malaysia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659720871a3c2825c8a0b2f9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5887_small.png",18h00 08/01: Botswana - Mozambique
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6597208a1a3c2825c8a0b2fc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6601_small.png",19h00 08/01: FC Volendam - Winterthur
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659720911a3c2825c8a0b305&.m3u8|Referer=https://sk.mediastation.live/
@@ -145,6 +130,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659720941a3c2825c8a0b308&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4493_small.png",20h00 08/01: Levadiakos - Niki Volou
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659720961a3c2825c8a0b30b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5887_small.png",21h00 08/01: Botswana - Mozambique
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=6597208a1a3c2825c8a0b2fc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",21h00 08/01: Paderborn - FC Heidenheim
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6597208e1a3c2825c8a0b303&.m3u8|Referer=https://sk.mediastation.live/
