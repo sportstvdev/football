@@ -7,12 +7,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659721781a3c2825c8a0b36b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578654_small.png",15h30 10/01: Kerala Blasters FC - Shillong Lajong FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=6597217f1a3c2825c8a0b372&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6316_small.png",18h00 10/01: South Africa - Lesotho
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/35c38c874c2301556cd561acb581dc39.png!w100",19h10 10/01: Al Safa -  Al Qadisiya
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=6597217f1a3c2825c8a0b373&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6321_small.png",19h00 10/01: DR Congo - Burkina Faso
+http://api.sportstvapp.tech/football/playsaoke.php?id=659de35a8d3c59276291771c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Al_Bukiryah_Logo.png",19h30 10/01: Al Bukayriyah - Al-Arabi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=659721821a3c2825c8a0b374&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=659de37a8d3c59276291771f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Al-Oruba_FC.png",19h40 10/01: Al-Orubah - Al Faisaly FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=659de3918d3c592762917722&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",20h00 10/01: Nürnberg - Club Brugge
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659721821a3c2825c8a0b376&.m3u8|Referer=https://sk.mediastation.live/
@@ -526,9 +529,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9608d3c5927629176ec&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161803_small.png",02h45 17/01: Eastleigh - Newport
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9668d3c5927629176f1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8483_small.png",02h45 17/01: Blackpool - Nottm Forest
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9668d3c5927629176f2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161803_small.png",02h45 17/01: Eastleigh - Newport
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc96a8d3c5927629176f4&.m3u8|Referer=https://sk.mediastation.live/
@@ -607,3 +607,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659dc94e8d3c5927629176d4&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1926_small.png",23h00 17/01: Demirspor - 24 Erzincanspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9528d3c5927629176d7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8483_small.png",02h45 18/01: Blackpool - Nottm Forest
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9668d3c5927629176f2&.m3u8|Referer=https://sk.mediastation.live/
