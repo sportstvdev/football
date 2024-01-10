@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",00h00 11/01: Lazio - Roma
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=659721c41a3c2825c8a0b390&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8563_small.png",00h30 11/01: AEK Athens - Aris Thessaloniki FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659721c61a3c2825c8a0b392&.m3u8|Referer=https://sk.mediastation.live/
@@ -10,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659721c91a3c2825c8a0b396&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",02h00 11/01: Real Madrid - Atletico Madrid
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659721cd1a3c2825c8a0b398&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9764_small.png",02h15 11/01: Gil Vicente - Amarante FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=659eeb348d3c5927629177f9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",03h00 11/01: Liverpool - Fulham
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659721d01a3c2825c8a0b39d&.m3u8|Referer=https://sk.mediastation.live/
