@@ -109,6 +109,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659dc6cc8d3c592762917625&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8700_small.png",00h30 14/01: Uzbekistan - Syria
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc6d08d3c592762917629&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",00h30 14/01: Newcastle - Man City
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a19ecd8d3c592762917a9f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8611_small.png",00h45 14/01: FC Twente - AZ Alkmaar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc65e8d3c5927629175a0&.m3u8|Referer=https://sk.mediastation.live/
