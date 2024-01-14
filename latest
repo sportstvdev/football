@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",09h00 14/01: Deportivo Saprissa - Puntarenas FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a1e29a8d3c592762917adf&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Tokyo_Verdy_logo.svg/1200px-Tokyo_Verdy_logo.svg.png",09h00 14/01: Beleza  - Saitama
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a2ab2a8d3c592762917c1a&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,7 +13,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a2ab558d3c592762917c1d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162192_small.png",11h00 14/01: Vegalta Sendai - Sanfrecce Hiroshima
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a3531d8d3c592762917da3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",11h00 14/01: Urawa Red Diamonds - JEF United Chiba
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",12h00 14/01: Urawa Red Diamonds - JEF United Chiba
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a3532a8d3c592762917da6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675732_small.png",13h00 14/01: Western Sydney Wanderers FC (W) - Melbourne City FC (W)
