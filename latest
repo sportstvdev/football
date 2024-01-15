@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",07h00 15/01: TRỰC TIẾP TENNIS - Australia Open 2024
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/5f9b361517725871a9c2f0a7f70812bb.png!w60",14h30 15/01: Nanning Juding - Qingdao Zhongqing Yinglian
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a4d36d8d3c5927629181c6&.m3u8|Referer=https://sk.mediastation.live/
@@ -10,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a4d39e8d3c5927629181c9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/212fd5b57c57ad997e2730182cacbfb9.png!w60",14h30 15/01: Xiamen Lujiantiancheng Football Club - Shanghai Saigenda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a4d3cb8d3c5927629181cc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",15h00 15/01: TRỰC TIẾP TENNIS - Australia Open 2024
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578656_small.png",15h30 15/01: Northeast United FC - Shillong Lajong FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc83a8d3c59276291765a&.m3u8|Referer=https://sk.mediastation.live/
