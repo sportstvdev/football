@@ -55,6 +55,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9418d3c5927629176bf&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/687954_small.png",20h00 17/01: National Bank - Al Masry
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9448d3c5927629176c4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",20h30 17/01: Italy - Spain
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a6f5cc8d3c592762918515&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4678_small.png",21h00 17/01: Alanyaspor - Samsunspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9488d3c5927629176c8&.m3u8|Referer=https://sk.mediastation.live/
