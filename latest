@@ -1,6 +1,12 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980694_small.png",06h00 18/01: Toluca (W) - Pumas UNAM (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a449b08d3c59276291804a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/77a0a0f65ee2a2b6ff224e6d31f64dcb.png!w60",06h00 18/01: Andraus Brasil - Athletico Paranaense
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a859f98d3c5927629187c3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d99224d8141858b8e278d3d4b6c43c63.png!w60",06h00 18/01: Esporte Clube Sao Jose - Noroeste
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a85b688d3c5927629187d0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",07h00 18/01: TRỰC TIẾP TENNIS - Australia Open 2024
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
@@ -10,6 +16,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a449b08d3c59276291804b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7877_small.png",07h30 18/01: Bahia - Jequie
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a859618d3c5927629187b9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10214_small.png",07h45 18/01: Nacional - Peñarol
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a859a28d3c5927629187bd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9935_small.png",08h00 18/01: Puntarenas FC - LD Alajuelense
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=659dc9298d3c5927629176a9&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,6 +43,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a449ba8d3c59276291805a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980704_small.png",10h06 18/01: Atlas (W) - Club Leon (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a449b88d3c592762918057&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/1b38c515ff693255655fb6a252edbc65.png!w60",13h00 18/01: Royal Rangers - Delhi FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a85a3b8d3c5927629187c7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/78930.png?lm=1654224944",15h00 18/01: Bekasi City - Malut United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a83ce08d3c592762918769&.m3u8|Referer=https://sk.mediastation.live/
