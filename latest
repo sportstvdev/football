@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",19h00 17/01: TRỰC TIẾP TENNIS - Australia Open 2024
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4081_small.png",19h00 17/01: Gaziantep FK - Belediyesi Bodrumspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a7bdc98d3c59276291864c&.m3u8|Referer=https://sk.mediastation.live/
@@ -70,6 +67,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a449ad8d3c592762918047&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980694_small.png",06h00 18/01: Toluca (W) - Pumas UNAM (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a449b08d3c59276291804a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",07h00 18/01: TRỰC TIẾP TENNIS - Australia Open 2024
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png",07h30 18/01: Flamengo - Audax Rio EC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a449b08d3c59276291804b&.m3u8|Referer=https://sk.mediastation.live/
