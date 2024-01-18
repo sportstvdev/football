@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",15h00 18/01: TRỰC TIẾP TENNIS - Australia Open 2024
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8118_small.png",15h45 18/01: Brisbane Roar FC - Macarthur FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a449be8d3c592762918061&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/520acdd9ab70572e68e47482efd9d1da.png!w60",16h00 18/01: Indian Air Force - Garhwal FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a8608c8d3c5927629187e4&.m3u8|Referer=https://sk.mediastation.live/
@@ -115,9 +112,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a6e8d3c5927629180b8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10164_small.png",15h45 19/01: Sydney FC - Newcastle Jets
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a718d3c5927629180ba&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5821_small.png",18h00 19/01: Kuwait - Uganda
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a758d3c5927629180bf&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5819_small.png",18h30 19/01: Iraq - Nhật Bản
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a768d3c5927629180c0&.m3u8|Referer=https://sk.mediastation.live/
@@ -133,6 +127,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a7e8d3c5927629180ca&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583706_small.png",22h00 19/01: Sepsi OSK - CSM Politehnica Iasi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a7e8d3c5927629180c9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5821_small.png",23h00 19/01: Kuwait - Uganda
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a758d3c5927629180bf&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",00h00 20/01: Senegal - Cameroon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44b408d3c5927629180d3&.m3u8|Referer=https://sk.mediastation.live/
