@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",01h00 19/01: Galatasaray - Ümraniyespor
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a408d3c592762918086&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/780591_small.png",01h30 19/01: Unionistas de Salamanca - Barcelona
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a478d3c592762918089&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1634_small.png",01h45 19/01: Famalicao - Braga
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a4b8d3c59276291808b&.m3u8|Referer=https://sk.mediastation.live/
@@ -13,9 +7,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a4e8d3c59276291808e&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",03h00 19/01: Egypt - Ghana
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a4f8d3c592762918091&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/559614_small.png",03h00 19/01: USV Hercules - Cambuur
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a558d3c592762918097&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",03h30 19/01: Atletico Madrid - Real Madrid
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a548d3c592762918095&.m3u8|Referer=https://sk.mediastation.live/
@@ -70,6 +61,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a6a8d3c5927629180b3&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",13h00 19/01: Wellington Phoenix - Melbourne Victory
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a6c8d3c5927629180b4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/YMK9FcmY6I3zp_6i1NmxVQ_96x96.png",15h00 19/01: U19 Nam Định - U19 Viettel
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a989f88d3c592762918a4f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1086744_small.png",15h30 19/01: Hyderabad FC - Sreenidi Deccan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44a6e8d3c5927629180b8&.m3u8|Referer=https://sk.mediastation.live/
@@ -217,6 +211,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44c1c8d3c592762918141&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1815_small.png",23h30 20/01: Trelissac - Brest
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44caa8d3c59276291814e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/238915_small.png",23h30 20/01: Feignies Aulnoye - Montpellier
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/238915_small.png",00h30 25/01: Feignies Aulnoye - Montpellier
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44cad8d3c59276291814f&.m3u8|Referer=https://sk.mediastation.live/
