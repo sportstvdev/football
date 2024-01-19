@@ -100,6 +100,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a44ba68d3c592762918121&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",20h00 20/01: Rayo Vallecano - Las Palmas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44bed8d3c59276291812a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6317_small.png",21h00 20/01: Algeria - Burkina Faso
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65aaa2c68d3c592762918e50&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5901_small.png",21h30 20/01: Bahrain - Malaysia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44bf08d3c59276291812b&.m3u8|Referer=https://sk.mediastation.live/
@@ -424,9 +427,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a98faf8d3c592762918b63&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",22h00 23/01: Iran - UAE
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98fc08d3c592762918b67&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8619_small.png",22h00 23/01: PAOK Thessaloniki FC - Panserraikos FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a98fc48d3c592762918b6b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5979_small.png",00h00 24/01: Gambia - Cameroon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a991758d3c592762918b73&.m3u8|Referer=https://sk.mediastation.live/
@@ -679,3 +679,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a994e28d3c592762918c2f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10165_small.png",23h00 26/01: NK Varazdin - Slaven
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a995078d3c592762918c34&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8619_small.png",02h00 01/02: PAOK Thessaloniki FC - Panserraikos FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a98fc48d3c592762918b6b&.m3u8|Referer=https://sk.mediastation.live/
