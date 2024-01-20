@@ -166,6 +166,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a98eb38d3c592762918afd&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",03h00 22/01: Girona - Sevilla
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98eb38d3c592762918aff&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6316_small.png",03h00 22/01: South Africa - Namibia
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65ac1b938d3c5927629191e9&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",03h05 22/01: Rennes - Marseille
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98eb68d3c592762918b03&.m3u8|Referer=https://sk.mediastation.live/
