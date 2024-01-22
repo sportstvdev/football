@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f3606d5c43855f0a2f5ae2c32f207b0d.png!w60",14h00 22/01:  PSMS Medan - Semen Padang
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/57fe5458097be02566b6571ae4615d16.png!w60",14h00 22/01: Persipal Palu -  PSBS Biak Numfor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ada2bc8d3c59276291953b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/CAND_FC.svg/800px-CAND_FC.svg.png",14h30 22/01: U19 Công An Hà Nội - Luxury Hạ Long
@@ -7,9 +7,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ada2608d3c592762919535&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",15h00 22/01: TRỰC TIẾP TENNIS - Australia Open 2024
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Hoang_Anh_Gia_Lai_FC_logo.svg/800px-Hoang_Anh_Gia_Lai_FC_logo.svg.png",15h00 22/01: U19 HAGL - U19 Bình Định
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f3606d5c43855f0a2f5ae2c32f207b0d.png!w60",15h00 22/01:  PSMS Medan - Semen Padang
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ad66da8d3c592762919497&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Hoang_Anh_Gia_Lai_FC_logo.svg/800px-Hoang_Anh_Gia_Lai_FC_logo.svg.png",15h00 22/01: U19 HAGL - U19 Bình Định
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65ae267d8d3c5927629195ee&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/485935_small.png",15h30 22/01: Bengaluru FC - Inter Kashi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98ec78d3c592762918b1c&.m3u8|Referer=https://sk.mediastation.live/
