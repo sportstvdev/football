@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",15h00 22/01: TRỰC TIẾP TENNIS - Australia Open 2024
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/787209_small.png",18h00 22/01: Sabail - Zira
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98eca8d3c592762918b1e&.m3u8|Referer=https://sk.mediastation.live/
@@ -79,6 +76,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65adc3cd8d3c59276291958b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47240_small.png",06h10 23/01: La Equidad - Envigado
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98f9d8d3c592762918b52&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Australian_Open_Logo_2017.svg/180px-Australian_Open_Logo_2017.svg.png",07h00 23/01: TRỰC TIẾP TENNIS - Australia Open 2024
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a3a2688d3c592762917e0f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ac96fe7fc9b7f370a318b00c980eb323.png!w60",07h30 23/01: Montego Bay - Waterhouse FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65adc4128d3c59276291958e&.m3u8|Referer=https://sk.mediastation.live/
@@ -280,9 +280,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a9927c8d3c592762918bf3&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8428_small.png",17h30 25/01: Häcken - Midtjylland
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a992818d3c592762918bfb&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10015_small.png",18h00 25/01: Rapid Wien - Legia Warszawa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a992818d3c592762918bfc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5816_small.png",18h30 25/01: Jordan - Bahrain
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a9927c8d3c592762918bf4&.m3u8|Referer=https://sk.mediastation.live/
@@ -295,6 +292,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a9928f8d3c592762918c0d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10237_small.png",20h00 25/01: Malmö FF - Silkeborg
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a9928f8d3c592762918c0e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10015_small.png",21h00 25/01: Rapid Wien - Legia Warszawa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65a992818d3c592762918bfc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9750_small.png",21h00 25/01: Samsunspor - Kayserispor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a992878d3c592762918c02&.m3u8|Referer=https://sk.mediastation.live/
