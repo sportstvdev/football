@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581903_small.png",06h30 22/01: Sampaio Correa RJ - Vasco da Gama
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65aa45178d3c592762918d69&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/14a0b7568605cea2dacdf6086ebc8065.png!w60",06h30 22/01: Gualeguaychu - Colon de San Justo
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65adada98d3c592762919558&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/7a6dc6a25d3ddf7102901df31c5f6156.png!w60",06h40 22/01: Sarmiento de La Banda - Villa Cubas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65adadbc8d3c59276291955b&.m3u8|Referer=https://sk.mediastation.live/
@@ -121,9 +118,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a98f9d8d3c592762918b53&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980708_small.png",06h00 23/01: Necaxa (W) - Pachuca (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65aa452e8d3c592762918d75&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2219_small.png",06h00 23/01: Liverpool FC - Colo Colo
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65adc3cd8d3c59276291958b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47240_small.png",06h10 23/01: La Equidad - Envigado
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a98f9d8d3c592762918b52&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/ac96fe7fc9b7f370a318b00c980eb323.png!w60",07h30 23/01: Montego Bay - Waterhouse FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65adc4128d3c59276291958e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980709_small.png",08h00 23/01: Santos Laguna (W) - CF America (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65aa45288d3c592762918d70&.m3u8|Referer=https://sk.mediastation.live/
