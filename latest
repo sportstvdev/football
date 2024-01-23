@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197883_small.png",06h00 24/01: Novo Hamburgo - Santa Cruz RS
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c308d3c59276291963c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",06h00 24/01: Ecuador - Venezuela U23
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",06h00 24/01: Ecuador U23 - Venezuela U23
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65afd20f8d3c5927629198d2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197714_small.png",06h15 24/01: Itabuna - Bahia de Feira
@@ -13,6 +13,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65afd2858d3c5927629198d5&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581842_small.png",07h30 24/01: Agua Santa - Botafogo SP
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c348d3c592762919640&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8450_small.png",07h30 24/01: Peñarol - Nacional
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b042af8d3c5927629199e5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/fwvcybtTuBc/maxresdefault.jpg",08h00 24/01: Trực Tiếp Giải Cầu Lông - Indonesia Masters
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65af21158d3c5927629197e8&.m3u8|Referer=https://sk.mediastation.live/
