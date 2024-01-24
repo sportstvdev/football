@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/fwvcybtTuBc/maxresdefault.jpg",14h00 24/01: Trực Tiếp Giải Cầu Lông - Indonesia Masters
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65af21158d3c5927629197e8&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/a4f6bc3f904478f415c4e88d1bd951f1.png!w60",15h45 24/01: Anna Kalinskaya - Zheng Qinwen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65b0d1f88d3c592762919a5a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/35e3ed0121d3befb13a006cb7e8f6045.png!w60",16h00 24/01: Tarun Sangha FC - Vatika FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b045c18d3c5927629199ed&.m3u8|Referer=https://sk.mediastation.live/
@@ -241,9 +238,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a995328d3c592762918c59&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980696_small.png",06h00 26/01: Puebla (W) - CD Guadalajara Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c098d3c592762919619&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10276_small.png",06h00 26/01: Vasco da Gama - Madureira RJ
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c0c8d3c59276291961b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244167_small.png",06h10 26/01: Fortaleza FC - Patriotas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a995328d3c592762918c57&.m3u8|Referer=https://sk.mediastation.live/
@@ -259,6 +253,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a995378d3c592762918c5f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213596_small.png",07h15 26/01: Central Cordoba de Santiago - Newell's Old Boys
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a995378d3c592762918c60&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10276_small.png",07h30 26/01: Vasco da Gama - Madureira RJ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c0c8d3c59276291961b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/410824_small.png",07h30 26/01: EC Jacuipense - Atletico Alagoinhas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c108d3c592762919621&.m3u8|Referer=https://sk.mediastation.live/
