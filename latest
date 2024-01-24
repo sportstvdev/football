@@ -19,9 +19,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c378d3c592762919644&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",09h30 24/01: Hubert Hurkacz - Daniil Medvedev
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65af7d658d3c592762919843&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/92f32499af5619ee46cc8466ccf6153e.png!w60",10h00 24/01: Gao Fangjie - Nguyễn Thùy Linh
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65af20878d3c5927629197e3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1374638_small.png",10h05 24/01: Atletico La Paz - CD Tepatitlan de Morelos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a9918d8d3c592762918b8b&.m3u8|Referer=https://sk.mediastation.live/
@@ -64,6 +61,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a9919b8d3c592762918ba1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/797212_small.png",22h00 24/01: Future FC - Baladiyat ElMahalla SC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a9919c8d3c592762918ba4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/92f32499af5619ee46cc8466ccf6153e.png!w60",23h00 24/01: Gao Fangjie - Nguyễn Thùy Linh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65af20878d3c5927629197e3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/238915_small.png",00h00 25/01: Feignies Aulnoye - Montpellier
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a44cad8d3c59276291814f&.m3u8|Referer=https://sk.mediastation.live/
