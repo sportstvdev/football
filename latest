@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581842_small.png",07h30 24/01: Agua Santa - Botafogo SP
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c348d3c592762919640&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8450_small.png",07h30 24/01: Peñarol - Nacional
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65b042af8d3c5927629199e5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/fwvcybtTuBc/maxresdefault.jpg",08h00 24/01: Trực Tiếp Giải Cầu Lông - Indonesia Masters
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65af21158d3c5927629197e8&.m3u8|Referer=https://sk.mediastation.live/
@@ -13,7 +7,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65a9918d8d3c592762918b8c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49732_small.png",09h00 24/01: C.S. Cartagines - Municipal Grecia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c378d3c592762919644&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",09h30 24/01: Hubert Hurkacz - Daniil Medvedev
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://www.flashscore.com/res/image/data/xGuYHTGG-tYTwmwQu.png",09h40 24/01: Hubert Hurkacz - Daniil Medvedev
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65af7d658d3c592762919843&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1374638_small.png",10h05 24/01: Atletico La Paz - CD Tepatitlan de Morelos
