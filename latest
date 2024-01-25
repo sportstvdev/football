@@ -1,18 +1,9 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/fwvcybtTuBc/maxresdefault.jpg",11h00 25/01: Trực Tiếp Giải Cầu Lông - Indonesia Masters
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65af21158d3c5927629197e8&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675728_small.png",13h00 25/01: Melbourne City FC (W) - Western United FC (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65afd2d68d3c5927629198ed&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/19d5993ba3bf6f5871986eda093ab56d.png!w60",13h00 25/01:  CISF - Ahbab FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65b1f2f98d3c592762919d40&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9760_small.png",14h05 25/01: CSKA - Torpedo Moscow
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b209778d3c592762919d53&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10015_small.png",15h00 25/01: Rapid Wien - Szeged-Csanad Grosics Akademia
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://i.ytimg.com/vi/fwvcybtTuBc/maxresdefault.jpg",15h00 25/01: Trực Tiếp Giải Cầu Lông - Indonesia Masters
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65afd2d88d3c5927629198f0&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65af21158d3c5927629197e8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png!w60",15h30 25/01: Coco Gauff - Aryna Sabalenka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b1dbc28d3c592762919d29&.m3u8|Referer=https://sk.mediastation.live/
