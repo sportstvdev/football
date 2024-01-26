@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10090_small.png",05h00 26/01: Instituto - Deportivo Riestra
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a9952d8d3c592762918c52&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89396_small.png",05h00 26/01: Tigre - Sarmiento
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65a9952d8d3c592762918c53&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980696_small.png",06h00 26/01: Puebla (W) - CD Guadalajara Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ae3c098d3c592762919619&.m3u8|Referer=https://sk.mediastation.live/
@@ -73,6 +67,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b2a0598d3c59276291a0a2&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/team/d4f05c8edf79b17f1fc9d3f369cd08b0.png!w60",15h30 26/01: Daniil Medvedev -  Alexander Zverev
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b1db708d3c592762919d26&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/15582bb6a99d64e18cd9b6ae68e065e1.png!w60",15h30 26/01: PSPS Riau - Persikab Bandung
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b2f6358d3c59276291a186&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6230_small.png",15h45 26/01: Melbourne Victory - Sydney FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a995418d3c592762918c6f&.m3u8|Referer=https://sk.mediastation.live/
@@ -85,6 +82,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b1ae9e8d3c592762919c97&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/595524_small.png",15h45 26/01: Abahani Limited - Bashundhara Kings
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b1ae9e8d3c592762919c9a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/88e381551e35e7367293e86348723537.png!w60",16h00 26/01: Rangers SC - Royal Rangers
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b2f67d8d3c59276291a189&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9907_small.png",18h00 26/01: Lyngby - IFK Norrköping
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65a994c68d3c592762918c1d&.m3u8|Referer=https://sk.mediastation.live/
