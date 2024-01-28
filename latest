@@ -205,6 +205,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b27ef68d3c592762919f12&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1943_small.png",10h00 29/01: Queretaro - Tigres
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b27ef98d3c592762919f17&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.ketnoibongda.vn/upload/images/team/luxuryhalong-2019-05-31.png",14h30 29/01: Luxury Hạ Long - U19 Thanh Hoá
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b5b2a28d3c59276291a772&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/CAND_FC.svg/800px-CAND_FC.svg.png",14h30 29/01: U19 Công An Hà Nội - U19 PVF
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b5b2c18d3c59276291a775&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vcdn.tikicdn.com/ts/seller/4c/21/8a/60bae8e5339708591f4315136844e164.png",15h00 29/01: U19 Sanatech Khánh Hoà - U19 HAGL
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b5b27c8d3c59276291a76f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5819_small.png",18h30 29/01: Iraq - Jordan
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b2fe5c8d3c59276291a1a0&.m3u8|Referer=https://sk.mediastation.live/
