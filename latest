@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583129_small.png",15h30 30/01: Obolon-Brovar - MFK Zemplín
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65b8aa338d3c59276291ac7e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/d9871eddeba5e0acc3b10d79ce715b34.png!w60",15h45 30/01: Abahani Chittagong - Abahani Limited
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b85e928d3c59276291ac51&.m3u8|Referer=https://sk.mediastation.live/
@@ -10,6 +7,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b8a7cd8d3c59276291ac67&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/35e3ed0121d3befb13a006cb7e8f6045.png!w60",16h00 30/01: Tarun Sangha FC - Royal Rangers
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b85eb48d3c59276291ac54&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/856680_small.png",17h30 30/01: NK Bravo - Rukh Lviv
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65b8d1708d3c59276291aca8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8410_small.png",18h00 30/01: Randers FC - Vendsyssel FF
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b27fbc8d3c592762919f51&.m3u8|Referer=https://sk.mediastation.live/
