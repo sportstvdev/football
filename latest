@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101762_small.png",00h30 02/02: Al Masry - Pyramids FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbce86430e9933a937d09e&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",01h00 02/02: Al Nassr FC - Inter Miami CF
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",01h05 02/02: Al Nassr FC - Inter Miami CF
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282b58d3c59276291a034&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/111117_small.png",01h30 02/02: Madureira RJ - Boavista
@@ -61,6 +61,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b282dc8d3c59276291a052&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10h06 02/02: Club Tijuana (W) - Puebla (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b2fef78d3c59276291a1d7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sriwijaya_FC_logo.svg/1200px-Sriwijaya_FC_logo.svg.png",15h00 02/02: Sriwijaya - Perserang Serang
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bbee21430e9933a937d0ce&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1513627_small.png",15h30 02/02: Delhi FC - Gokulam FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282e38d3c59276291a05c&.m3u8|Referer=https://sk.mediastation.live/
@@ -73,9 +76,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b2fef78d3c59276291a1d8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/557891_small.png",16h00 02/02: Sheikh Russel KC - Rahmatgonj MFS
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b2fef78d3c59276291a1d9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8414_small.png",17h00 02/02: Odense - Pardubice
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65b281b08d3c59276291a018&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7961_small.png",17h45 02/02: Perth Glory - Melbourne City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282ef8d3c59276291a066&.m3u8|Referer=https://sk.mediastation.live/
@@ -88,6 +88,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65b282fc8d3c59276291a069&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578653_small.png",21h00 02/02: Odisha FC - Kerala Blasters FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282fc8d3c59276291a06b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png",21h00 02/02: Ankaragücü - Sivasspor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bbee81430e9933a937d0d7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95749_small.png",21h00 02/02: Hatayspor - Fatih Karagümrük
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bbee97430e9933a937d0da&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9917_small.png",21h30 02/02: Molde - Midtjylland
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282fc8d3c59276291a06c&.m3u8|Referer=https://sk.mediastation.live/
