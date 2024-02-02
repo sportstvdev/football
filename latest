@@ -1,6 +1,12 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sriwijaya_FC_logo.svg/1200px-Sriwijaya_FC_logo.svg.png",15h00 02/02: Sriwijaya - Perserang Serang
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbee21430e9933a937d0ce&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/101b7825505d6bcbf22cf086baafab5c.png!w60",15h00 02/02: CLB Michalovce - LNZ Lebedyn
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bc9df0430e9933a937d19f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/06d7fd561b546252488c2e6f74ebab63.png!w60",15h00 02/02: CLB Alania -  Krasnodar 2
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bc9e12430e9933a937d1a2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8118_small.png",15h45 02/02: Brisbane Roar FC - Wellington Phoenix
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b282e98d3c59276291a063&.m3u8|Referer=https://sk.mediastation.live/
