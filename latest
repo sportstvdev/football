@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5888_small.png",03h00 04/02: Cape Verde - South Africa
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb52f430e9933a937ce86&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581842_small.png",04h00 04/02: Agua Santa - Mirassol
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb5bc430e9933a937ceb4&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10078_small.png",05h00 04/02: Independiente - Gimnasia LP
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb5b9430e9933a937ceb3&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,6 +10,15 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb5c0430e9933a937ceb7&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/4b15809cca6fda3511bc0efb52122dd2.png!w60",06h00 04/02: Walter Ferretti - Jalapa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65be5085c2407c3941c3d51d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/146371_small.png",06h00 04/02: San Martin de Tucuman - Gimnasia Jujuy
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bec539c2407c3941c3d663&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197883_small.png",06h00 04/02: Novo Hamburgo - Sao Luiz
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bec53bc2407c3941c3d665&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/161728_small.png",06h00 04/02: Aldosivi - Atletico Rafaela
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bec562c2407c3941c3d672&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/649424_small.png",06h06 04/02: Juárez - Necaxa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb5bd430e9933a937ceb5&.m3u8|Referer=https://sk.mediastation.live/
