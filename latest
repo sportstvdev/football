@@ -19,6 +19,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bd7480c2407c3941c3d319&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4415_small.png",08h00 03/02: Universidad Cesar Vallejo - FBC Melgar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bd7482c2407c3941c3d31b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165477_small.png",08h00 03/02: Real Esteli FC - Deportivo Ocotal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bd8d8fc2407c3941c3d32b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",09h00 03/02: Costa Rica - El Salvador
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb1e2430e9933a937ce1d&.m3u8|Referer=https://sk.mediastation.live/
@@ -420,10 +423,10 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7b1430e9933a937cf67&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7b8430e9933a937cf6e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89396_small.png",05h15 06/02: Tigre - Boca Juniors
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7b5430e9933a937cf6b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89396_small.png",05h15 06/02: Tigre - Boca Juniors
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7b4430e9933a937cf6a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/89396_small.png",05h45 06/02: Tigre - Boca Juniors
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7b5430e9933a937cf6b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png",06h10 06/02: Deportivo Pasto - CD Jaguares
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7bc430e9933a937cf73&.m3u8|Referer=https://sk.mediastation.live/
