@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",08h00 06/02: Banfield - Instituto
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7bc430e9933a937cf74&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h20 06/02: Independiente Medellin - Deportivo Cali
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb7bf430e9933a937cf78&.m3u8|Referer=https://sk.mediastation.live/
@@ -85,6 +82,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb87b430e9933a937cfd1&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/657277_small.png",07h30 07/02: Academia Puerto Cabello - Defensor Sporting
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb87f430e9933a937cfd7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9769_small.png",07h30 07/02: Gremio - Novo Hamburgo
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a3da0b1cc777238fc03a&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49761_small.png",08h00 07/02: Comunicaciones FC - Monterrey
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb883430e9933a937cfdb&.m3u8|Referer=https://sk.mediastation.live/
@@ -199,6 +199,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb987430e9933a937d040&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7863_small.png",06h30 08/02: Montevideo Wanderers - CA River Plate
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb992430e9933a937d04a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197805_small.png",06h30 08/02: Democrata GV - Tombense FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a3ef0b1cc777238fc03d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/581838_small.png",07h00 08/02: Novorizontino - Red Bull Bragantino
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb98d430e9933a937d048&.m3u8|Referer=https://sk.mediastation.live/
@@ -208,6 +211,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb992430e9933a937d049&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",07h30 08/02: Aurora - FBC Melgar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb992430e9933a937d050&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png",07h30 08/02: Flamengo - Botafogo
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a3f40b1cc777238fc040&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7877_small.png",07h30 08/02: Bahia - Itabuna
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a3f40b1cc777238fc041&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png",07h35 08/02: São Paulo - Agua Santa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb992430e9933a937d04b&.m3u8|Referer=https://sk.mediastation.live/
@@ -292,6 +301,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e6b0b1cc777238fbd2b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10084_small.png",05h30 09/02: Rosario Central - Independiente Rivadavia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e6b0b1cc777238fbd2c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197809_small.png",06h00 09/02: Villa Nova AC - Ipatinga
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a43c0b1cc777238fc04b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980706_small.png",06h00 09/02: Queretaro (W) - CF America (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a43c0b1cc777238fc04c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2254_small.png",06h10 09/02: Junior FC - Deportivo Pasto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e710b1cc777238fbd33&.m3u8|Referer=https://sk.mediastation.live/
@@ -307,12 +322,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e460b1cc777238fbcfb&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6608_small.png",07h30 09/02: Aucas - Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e460b1cc777238fbcfc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980704_small.png",08h06 09/02: Atlas (W) - Club Tijuana (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4350b1cc777238fc046&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/193028_small.png",08h20 09/02: Patriotas - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e490b1cc777238fbd01&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6575_small.png",10h05 09/02: Atletico Morelia - Tlaxcala F.C.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e4c0b1cc777238fbd06&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066912_small.png",10h10 09/02: FC Juarez (W) - Mazatlan FC (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4370b1cc777238fc047&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675732_small.png",15h00 09/02: Western Sydney Wanderers FC (W) - Newcastle Jets (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00e4c0b1cc777238fbd07&.m3u8|Referer=https://sk.mediastation.live/
@@ -409,6 +430,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c00f950b1cc777238fbd8f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6305_small.png",05h00 10/02: Sport Recife - Treze
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00f950b1cc777238fbd90&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980694_small.png",06h00 10/02: Toluca (W) - Tigres (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4580b1cc777238fc057&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177535_small.png",06h05 10/02: UDG - Cancun FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00f990b1cc777238fbd95&.m3u8|Referer=https://sk.mediastation.live/
@@ -424,6 +448,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c00f9e0b1cc777238fbd9a&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",08h00 10/02: Mazatlan FC - Atlas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00fa10b1cc777238fbd9f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08h00 10/02: Pachuca (W) - Club Leon (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4520b1cc777238fc052&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980695_small.png",08h00 10/02: Pumas UNAM (W) - Monterrey (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4530b1cc777238fc054&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6387_small.png",08h20 10/02: Deportivo Cali - Chico FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00fa10b1cc777238fbda0&.m3u8|Referer=https://sk.mediastation.live/
@@ -604,6 +634,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c0125a0b1cc777238fbe5b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h20 11/02: Independiente Medellin - Santa Fe
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c012600b1cc777238fbe5d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/210220_small.png",09h00 11/02: AD Municipal Liberia - Deportivo Saprissa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4690b1cc777238fc05b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7849_small.png",10h00 11/02: Monterrey - Pachuca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c012650b1cc777238fbe61&.m3u8|Referer=https://sk.mediastation.live/
