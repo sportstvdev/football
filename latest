@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/IsOwrMdM-bTzLAEkQ.png",16h15 08/02: South Melbourne - Melbourne Knights
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c3d22a0b1cc777238fc240&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/acc7b83bbf063da5cc63f0610bda262d.png!w60",16h30 08/02:  Sporting Bengaluru - Sudeva Delhi
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c434580b1cc777238fc2fc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w60",17h30 08/02: Dempo - Kenkre
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c434820b1cc777238fc2ff&.m3u8|Referer=https://sk.mediastation.live/
