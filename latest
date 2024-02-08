@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w60",17h30 08/02: Dempo - Kenkre
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c434820b1cc777238fc2ff&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/f0097a41dd58666e40d77ab2e8f8b6c3.png!w60",17h30 08/02: Sporting Clube de Goa - Maharashtra Oranje
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c434910b1cc777238fc302&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7870_small.png",19h45 08/02: Haka - SJK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65bbb9ab430e9933a937d06f&.m3u8|Referer=https://sk.mediastation.live/
@@ -238,7 +232,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c1a4530b1cc777238fc054&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6387_small.png",08h20 10/02: Deportivo Cali - Chico FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00fa10b1cc777238fbda0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162418_small.png",10h00 10/02: Tijuana - Queretaro
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162418_small.png",10h10 10/02: Tijuana - Queretaro
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c00fa50b1cc777238fbda5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",11h30 10/02: Wellington Phoenix - Western United FC
@@ -418,10 +412,10 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c0125a0b1cc777238fbe5b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2528_small.png",08h20 11/02: Independiente Medellin - Santa Fe
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c012600b1cc777238fbe5d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7849_small.png",10h00 11/02: Monterrey - Pachuca
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7849_small.png",10h10 11/02: Monterrey - Pachuca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c012650b1cc777238fbe61&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7857_small.png",10h00 11/02: Santos - Tigres
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7857_small.png",10h10 11/02: Santos - Tigres
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0126a0b1cc777238fbe63&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1406928_small.png",13h00 11/02: Western United FC (W) - Brisbane Roar FC (W)
