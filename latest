@@ -153,10 +153,10 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c0124c0b1cc777238fbe4b&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0124c0b1cc777238fbe4c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1841_small.png",08h00 11/02: León - América
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c012510b1cc777238fbe53&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1841_small.png",08h00 11/02: León - América
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0125a0b1cc777238fbe5b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6398_small.png",08h00 11/02: Alianza Lima - Universitario de Deportes
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c737880b1cc777238fc5da&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",08h05 11/02: Cruz Azul - San Luis
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0124d0b1cc777238fbe4d&.m3u8|Referer=https://sk.mediastation.live/
@@ -174,13 +174,7 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c0126a0b1cc777238fbe63&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0126a0b1cc777238fbe64&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/323834_small.png",13h00 11/02: Western Sydney Wanderers FC - Newcastle Jets
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c0126f0b1cc777238fbe67&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/323834_small.png",13h00 11/02: Western Sydney Wanderers FC - Newcastle Jets
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c0126f0b1cc777238fbe68&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h30 11/02: Sivasspor - Rizespor
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c012790b1cc777238fbe6c&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6265_small.png",17h30 11/02: Sivasspor - Rizespor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c012790b1cc777238fbe6d&.m3u8|Referer=https://sk.mediastation.live/
