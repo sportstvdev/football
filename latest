@@ -271,9 +271,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d6320b1cc777238fc8e0&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102155_small.png",21h00 15/02: Navbahor Namangan - Al Ittihad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d6370b1cc777238fc8e5&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101746_small.png",21h00 15/02: Ismaily SC - Ceramica Cleopatra
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d6370b1cc777238fc8e6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101764_small.png",21h00 15/02: Baladiyat ElMahalla SC - Future FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d63a0b1cc777238fc8e7&.m3u8|Referer=https://sk.mediastation.live/
@@ -298,6 +295,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d64f0b1cc777238fc8fc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101611_small.png",23h00 15/02: Sepahan - Al Hilal
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d6530b1cc777238fc8fe&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101746_small.png",00h00 16/02: Ismaily SC - Ceramica Cleopatra
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d6370b1cc777238fc8e6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png",00h00 16/02: Zamalek SC - Al Ahly
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d7370b1cc777238fc933&.m3u8|Referer=https://sk.mediastation.live/
