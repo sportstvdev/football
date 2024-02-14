@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102231_small.png",19h00 14/02: Bangkok United - Yokohama F.Marinos
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d3e10b1cc777238fc873&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165255_small.png",19h00 14/02: Port FC - Muang Thong United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d3f80b1cc777238fc877&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Al_Bukiryah_Logo.png",19h55 14/02: Al Bukayriyah - AL Rabeea Jeddah
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cc9ede0b1cc777238fcf3b&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,6 +22,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cc9e410b1cc777238fcf34&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/77a0a0f65ee2a2b6ff224e6d31f64dcb.png!w60",21h00 14/02: Andraus Brasil - Londrina EC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cc9f0e0b1cc777238fcf41&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/578650_small.png",21h00 14/02: FC Goa - ATK Mohun Bagan FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65ccc7fc0b1cc777238fcf6d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/101903_small.png",22h00 14/02: Umm Salal - Al-Arabi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65c7d4010b1cc777238fc87f&.m3u8|Referer=https://sk.mediastation.live/
