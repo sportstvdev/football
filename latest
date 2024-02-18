@@ -322,9 +322,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94760b1cc777238fd59d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197792_small.png",05h00 22/02: Botafogo PB - Altos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947a0b1cc777238fd5a0&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_small.png",06h10 22/02: Once Caldas - Deportivo Pereira
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947e0b1cc777238fd5a5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8304_small.png",07h30 22/02: Nacional - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947e0b1cc777238fd5a7&.m3u8|Referer=https://sk.mediastation.live/
@@ -337,6 +334,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94850b1cc777238fd5ae&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/967026_small.png",07h30 22/02: Panama (W) - Colombia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94850b1cc777238fd5af&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7818_small.png",07h45 22/02: Santa Fe - Junior FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94920b1cc777238fd5bb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49728_small.png",08h00 22/02: Deportiva San Carlos - C.S. Cartagines
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65b2fef08d3c59276291a1cf&.m3u8|Referer=https://sk.mediastation.live/
@@ -352,9 +352,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94920b1cc777238fd5bc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/584866_small.png",08h05 22/02: Tlaxcala F.C. - Venados
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94920b1cc777238fd5ba&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7818_small.png",08h20 22/02: Santa Fe - Junior FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94920b1cc777238fd5bb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09h00 22/02: Club Sport Herediano - Santos de Guapiles
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d14e8e0b1cc777238fda72&.m3u8|Referer=https://sk.mediastation.live/
@@ -466,6 +463,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf96330b1cc777238fd631&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177535_small.png",08h05 23/02: UDG - Tapatio
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf95d30b1cc777238fd629&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_small.png",08h20 23/02: Once Caldas - Deportivo Pereira
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947e0b1cc777238fd5a5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6368_small.png",08h20 23/02: Atletico Nacional - CD Jaguares
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf963e0b1cc777238fd63a&.m3u8|Referer=https://sk.mediastation.live/
