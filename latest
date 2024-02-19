@@ -10,6 +10,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf92ea0b1cc777238fd4fb&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10188_small.png",00h00 20/02: Beşiktaş - Konyaspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf92ed0b1cc777238fd4fc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1933_small.png",00h00 20/02: Istanbul Başakşehir - Kayserispor
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d381ed0b1cc777238fde4d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4023_small.png",00h00 20/02: GKS Katowice - Motor Lublin
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d382000b1cc777238fde52&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",01h00 20/02: Vilaverdense FC - Vilafranquense
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf92f50b1cc777238fd506&.m3u8|Referer=https://sk.mediastation.live/
@@ -184,9 +190,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94760b1cc777238fd59c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197781_small.png",05h00 22/02: Maranhao - Juazeirense
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf94760b1cc777238fd59d&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197792_small.png",05h00 22/02: Botafogo PB - Altos
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947a0b1cc777238fd5a0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49689_small.png",07h30 22/02: Nacional - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947e0b1cc777238fd5a7&.m3u8|Referer=https://sk.mediastation.live/
@@ -307,6 +310,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf953b0b1cc777238fd60b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1894_small.png",04h00 23/02: Tolima - Bucaramanga
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf95b90b1cc777238fd61c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197792_small.png",05h00 23/02: Botafogo PB - Altos
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65cf947a0b1cc777238fd5a0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/59844_small.png",05h00 23/02: Sportivo Trinidense - El Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf95bb0b1cc777238fd61e&.m3u8|Referer=https://sk.mediastation.live/
