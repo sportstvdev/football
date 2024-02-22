@@ -262,9 +262,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d712a40b1cc777238fe2fc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10164_small.png",13h30 24/02: Sydney FC - Melbourne City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d712a30b1cc777238fe2fa&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74872_small.png",14h05 24/02: North Korea (W) - Japan (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65d634590b1cc777238fe1c1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/583034_small.png",15h00 24/02: Persis Solo - Persik
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d6345b0b1cc777238fe1c3&.m3u8|Referer=https://sk.mediastation.live/
@@ -307,6 +304,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d6346f0b1cc777238fe1d8&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",20h00 24/02: Granada - Valencia
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d6339d0b1cc777238fe162&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74872_small.png",20h04 24/02: North Korea (W) - Japan (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d634590b1cc777238fe1c1&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",21h00 24/02: Sassuolo - Empoli
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d633a00b1cc777238fe166&.m3u8|Referer=https://sk.mediastation.live/
