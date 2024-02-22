@@ -142,6 +142,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d6332c0b1cc777238fe148&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394235_small.png",00h00 24/02: Croatia (W) - Norway (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d633310b1cc777238fe14b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",00h15 24/02: Italy (W) - Ireland (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d7b6090b1cc777238fe426&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8196_small.png",00h30 24/02: Wehen Wiesbaden - Paderborn
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d633340b1cc777238fe14d&.m3u8|Referer=https://sk.mediastation.live/
@@ -163,6 +166,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d634250b1cc777238fe18f&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",02h45 24/02: Coventry - Preston
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d634280b1cc777238fe191&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",02h45 24/02: England (W) - Austria (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d7b6460b1cc777238fe429&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",03h00 24/02: Metz - Lyon
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d633b30b1cc777238fe185&.m3u8|Referer=https://sk.mediastation.live/
