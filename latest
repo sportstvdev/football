@@ -108,9 +108,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d712830b1cc777238fe2f2&.
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf96760b1cc777238fd659&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165252_small.png",19h00 23/02: Nakhon Pathom - Muang Thong United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65cf96760b1cc777238fd65a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165252_small.png",19h00 23/02: Nakhon Pathom - Muang Thong United
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65cf967d0b1cc777238fd663&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",19h15 23/02: Viettel - Bình Dương
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -130,6 +127,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65cf96870b1cc777238fd668&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394244_small.png",21h30 23/02: Latvia (W) - Slovakia (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d712800b1cc777238fe2f1&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/394250_small.png",23h00 23/02: Poland (W) - Switzerland (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65d7b5c10b1cc777238fe421&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",00h00 24/02: Al Fateh FC - Damac FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d633250b1cc777238fe142&.m3u8|Referer=https://sk.mediastation.live/
