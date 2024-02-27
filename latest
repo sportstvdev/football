@@ -712,6 +712,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65de44f00637876823d03e08&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/657508_small.png",18h00 03/03: Nizhny Novgorod - Fakel
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65de460f0637876823d03e84&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165243_small.png",18h00 03/03: Buriram United - Bangkok United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65de46140637876823d03e8b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",18h15 03/03: Ajax - FC Utrecht
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65de45400637876823d03e1c&.m3u8|Referer=https://sk.mediastation.live/
@@ -784,3 +787,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65de45450637876823d03e25&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",23h05 03/03: Rennes - Lorient
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65de44b90637876823d03dba&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8071_small.png",00h00 04/03: AGF Aarhus - Odense
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65de486f0637876823d03e94&.m3u8|Referer=https://sk.mediastation.live/
