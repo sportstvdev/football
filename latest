@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7788_small.png",02h00 28/02: Cambuur - NEC Nijmegen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65d84bf60b1cc777238fe660&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9736_small.png",02h00 28/02: Otelul Galati - CFR Cluj
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84bf60b1cc777238fe661&.m3u8|Referer=https://sk.mediastation.live/
@@ -28,9 +25,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c0a0b1cc777238fe678&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4402_small.png",04h00 28/02: Envigado - Patriotas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c0e0b1cc777238fe67f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6455_small.png",05h00 28/02: Palestino - Portuguesa FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c0f0b1cc777238fe680&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",07h00 28/02: Colombia (W) - Puerto Rico (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c130b1cc777238fe687&.m3u8|Referer=https://sk.mediastation.live/
