@@ -76,6 +76,12 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dc80b1cc777238fe72b&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2034_small.png",10h05 29/02: Dorados - Tapatio
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dc80b1cc777238fe72c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2019/01/PVF-CAND-150x150.png",14h00 29/02: PVF-CAND - Sông Lam Nghệ An
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65df97e10637876823d0413a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/HN_FC_Logo.svg/1200px-HN_FC_Logo.svg.png",16h00 29/02: Hà Nội - Bình Dương
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65df980e0637876823d0413d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 29/02: Bali United FC - Persis Solo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dc80b1cc777238fe72d&.m3u8|Referer=https://sk.mediastation.live/
@@ -103,6 +109,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dd20b1cc777238fe739&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1567_small.png",22h00 29/02: Santa Clara - FC Porto
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dd20b1cc777238fe738&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1891_small.png",23h00 29/02: La Serena - La Serena
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65df98fe0637876823d04144&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",23h30 29/02: Petrolul Ploiesti - Universitatea Craiova
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dd10b1cc777238fe737&.m3u8|Referer=https://sk.mediastation.live/
