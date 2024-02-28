@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1221604_small.png",05h15 28/02: Athletic Club - Volta Redonda
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65de5e590637876823d03f1e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",07h00 28/02: Colombia (W) - Puerto Rico (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c130b1cc777238fe687&.m3u8|Referer=https://sk.mediastation.live/
@@ -46,9 +43,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c360b1cc777238fe6a2&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165197_small.png",15h00 28/02: Persik - Barito Putera
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c3b0b1cc777238fe6a4&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",16h00 28/02: Nguyễn Thùy Linh - Kaloyana Nalbantova
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/21086abfd23e5e34874921539d9169ba.png!w60",15h00 28/02: Udon United - Surin City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65ddb3510637876823d03abd&.m3u8|Referer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65de7c800637876823d03f4f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",16h10 28/02: Australia (W) - Uzbekistan (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84c3b0b1cc777238fe6a5&.m3u8|Referer=https://sk.mediastation.live/
@@ -148,6 +145,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65d84da70b1cc777238fe705&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/47387_small.png",05h00 29/02: America RN - Treze
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dab0b1cc777238fe70b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",05h00 29/02: Nguyễn Thùy Linh - Kaloyana Nalbantova
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65ddb3510637876823d03abd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",06h00 29/02: Canada (W) - Costa Rica (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65d84dac0b1cc777238fe70c&.m3u8|Referer=https://sk.mediastation.live/
