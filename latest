@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4404_small.png",06h10 03/03: Deportivo Pereira - America de Cali
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65de45da0637876823d03e39&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",07h00 03/03: Canada (W) - Costa Rica (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e22ad10637876823d044fb&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,6 +13,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65de45ef0637876823d03e4d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",08h05 03/03: Cruz Azul - Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65de45ef0637876823d03e4e&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1174027_small.png",08h06 03/03: Mazatlan FC (W) - Tigres (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65e3cf970637876823d04c26&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2254_small.png",08h20 03/03: Junior FC - Atletico Nacional
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65de45e50637876823d03e46&.m3u8|Referer=https://sk.mediastation.live/
