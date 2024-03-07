@@ -286,9 +286,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e170637876823d04aa9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6224_small.png",13h00 09/03: Sanfrecce Hiroshima - Sagan Tosu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e170637876823d04aab&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h30 09/03: Melbourne City FC - Wellington Phoenix
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e170637876823d04aac&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4692_small.png",14h00 09/03: Cerezo Osaka - Tokyo Verdy
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e170637876823d04aaa&.m3u8|Referer=https://sk.mediastation.live/
@@ -307,6 +304,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e220637876823d04abc&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133901_small.png",14h30 09/03: Gimcheon Sangmu - Ulsan Hyundai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e220637876823d04abb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",15h00 09/03: Melbourne City FC - Wellington Phoenix
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e170637876823d04aac&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165196_small.png",15h00 09/03: Persib Bandung - Persija Jakarta
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e230637876823d04abd&.m3u8|Referer=https://sk.mediastation.live/
