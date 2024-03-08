@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6628_small.png",19h00 08/03: Shanghai Shenhua - Qingdao West Coast
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ce10637876823d04a29&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png",19h00 08/03: Bali United Pusam - PSIS
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ce10637876823d04a2a&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585025_small.png",19h00 08/03: Prachuap FC - Police Tero FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ce60637876823d04a33&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179219_small.png",19h15 08/03: Hà Nội FC - QNK Quảng Nam
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ce60637876823d04a31&.m3u8|Referer=https://sk.mediastation.live/
@@ -175,6 +166,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65eb149e0637876823d05b4c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179227_small.png",17h00 09/03: LPBank Hoàng Anh Gia Lai - Hồ Chí Minh City FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ffd0637876823d04ae5&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/8/8b/Logo_H%C3%B2a_B%C3%ACnh_FC.svg/220px-Logo_H%C3%B2a_B%C3%ACnh_FC.svg.png",17h00 09/03: Hoà Bình FC - Đồng Tâm Long An
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65eb1d330637876823d05b85&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162975_small.png",17h30 09/03: Bandirmaspor - Belediyesi Bodrumspor
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ff70637876823d04adf&.m3u8|Referer=https://sk.mediastation.live/
@@ -196,6 +190,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e37ffd0637876823d04ae6&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/243243_small.png",18h00 09/03: Chiangrai United - Bangkok United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e380030637876823d04aec&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2018/10/LOGO-TRuong-Tuoi-Binh-Phuoc_update-60x58.png",18h00 09/03: Trường Tươi Bình Phước - Đồng Tháp
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65eb1d550637876823d05b88&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",18h30 09/03: BG Pathum United - Sukhothai FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e380030637876823d04aee&.m3u8|Referer=https://sk.mediastation.live/
