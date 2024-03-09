@@ -1,3 +1,6 @@
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980701_small.png",07h00 09/03: Tigres (W) - Queretaro (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65e8db750637876823d05691&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7847_small.png",08h00 09/03: Puebla - Atlas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e37e000637876823d04a96&.m3u8|Referer=https://sk.mediastation.live/
@@ -475,9 +478,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e8db800637876823d05698&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/192435_small.png",07h30 12/03: Union La Calera - Cobreloa
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8db800637876823d05696&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980701_small.png",08h00 12/03: Tigres (W) - Queretaro (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e8db750637876823d05691&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980709_small.png",10h00 12/03: Santos Laguna (W) - Necaxa (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8db6f0637876823d0568c&.m3u8|Referer=https://sk.mediastation.live/
