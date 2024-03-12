@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/601179_small.png",22h00 12/03: Bayern München U19 - Olympiacos U19
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dba90637876823d056bb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",23h00 12/03: Shakhtar Donetsk - FC Minaj
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dbaa0637876823d056bc&.m3u8|Referer=https://sk.mediastation.live/
@@ -106,6 +103,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcb00637876823d0570e&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://vpf.vn/wp-content/uploads/2018/10/Long-An-60x60.jpg",17h00 13/03: Đồng Tâm Long An - Bình Dương
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ef59e00637876823d0670a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162197_small.png",17h00 13/03: FC Gifu - Omiya Ardija
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08c560637876823d068dc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png",18h00 13/03: Quy Nhơn Bình Định - Nam Định
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ef59f50637876823d0670d&.m3u8|Referer=https://sk.mediastation.live/
@@ -121,6 +121,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ef5a1d0637876823d06713&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1680_small.png",19h30 13/03: FC Volgar - Akhmat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcb00637876823d0570f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1675_small.png",20h00 13/03: FK Radnicki 1923 - Zeleznicar Pancevo
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08c5a0637876823d068de&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/184549_small.png",20h30 13/03: Shillong Lajong FC - Real Kashmir FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcb00637876823d05710&.m3u8|Referer=https://sk.mediastation.live/
@@ -139,6 +142,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcbd0637876823d0571c&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1291621_small.png",22h00 13/03: AC Milan U19 - Real Madrid U19
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcbd0637876823d0571d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7998_small.png",22h55 13/03: Partizan Beograd - Napredak
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08c570637876823d068dd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/677004_small.png",00h00 14/03: Mainz 05 U19 - FC Porto U19
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2a340637876823d064b2&.m3u8|Referer=https://sk.mediastation.live/
@@ -334,9 +340,18 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2b3b0637876823d06517&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",15h45 15/03: Newcastle Jets - Adelaide United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2b3b0637876823d06516&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png",17h00 15/03: Lễ Bốc Thăm UEFA Champions League - Lễ Bốc Thăm UEFA Champions League
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08a0b0637876823d068c8&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1111274_small.png",18h00 15/03: TRAU - Rajasthan United
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2b3e0637876823d06518&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/0/03/Europa_League.svg/310px-Europa_League.svg.png",18h00 15/03: Lễ Bốc Thăm UEFA Europa League - Lễ Bốc Thăm UEFA Europa League
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08a7a0637876823d068cb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/30/UEFA_Europa_Conference_League.svg/140px-UEFA_Europa_Conference_League.svg.png",19h00 15/03: LỄ BỐC THĂM UEFA EUROPA CONFERENCE LEAGUE - LỄ BỐC THĂM UEFA EUROPA CONFERENCE LEAGUE
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f08acd0637876823d068d0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/354560_small.png",20h00 15/03: FC Victoria Bardar - CF Sparta Selemet
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2b420637876823d06521&.m3u8|Referer=https://sk.mediastation.live/
