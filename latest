@@ -145,6 +145,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ee2a310637876823d064af&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980696_small.png",06h00 14/03: Puebla (W) - Atlas (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee29f90637876823d06459&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7796_small.png",06h30 14/03: Defensor Sporting - Danubio
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f0f2090637876823d069ce&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10076_small.png",07h10 14/03: River Plate - Estudiantes
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ee29fb0637876823d0645b&.m3u8|Referer=https://sk.mediastation.live/
