@@ -34,9 +34,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ef59f50637876823d0670d&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",18h00 13/03: Sông Lam Nghệ An - Đà Nẵng
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65ef5a030637876823d06710&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",18h00 13/03: Nguyễn Thùy Linh - Yu Fei Chen
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65f04a240637876823d0685e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",18h00 13/03: Australia - Nhật Bản
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f0a1420637876823d06928&.m3u8|Referer=https://sk.mediastation.live/
@@ -46,6 +43,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65ef5a1d0637876823d06713&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1680_small.png",19h30 13/03: FC Volgar - Akhmat
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65e8dcb00637876823d0570f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/I9RVj1EG-WfzhqWyi.png",20h00 13/03: Nguyễn Thùy Linh - Yu Fei Chen
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f04a240637876823d0685e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1675_small.png",20h00 13/03: FK Radnicki 1923 - Zeleznicar Pancevo
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f08c5a0637876823d068de&.m3u8|Referer=https://sk.mediastation.live/
