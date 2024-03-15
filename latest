@@ -667,9 +667,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f3654da0997922269221a6&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",03h00 21/03: Brann (W) - Barcelona (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f3654da0997922269221a4&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262132_small.png",04h00 21/03: Anguilla - Turks and Caicos Islands
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65f3654da0997922269221a5&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10083_small.png",05h00 21/03: San Lorenzo - Godoy Cruz
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f36553a0997922269221ac&.m3u8|Referer=https://sk.mediastation.live/
@@ -910,3 +907,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f366cda09979222692228e&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5853_small.png",23h00 22/03: Albania U21 - Finland U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f366d1a099792226922292&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262132_small.png",02h00 23/03: Anguilla - Turks and Caicos Islands
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f3654da0997922269221a5&.m3u8|Referer=https://sk.mediastation.live/
