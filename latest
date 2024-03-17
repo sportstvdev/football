@@ -28,9 +28,6 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f360cfa0997922269220d9&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",03h00 18/03: Atletico Madrid - Barcelona
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f360caa0997922269220d3&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",03h00 18/03: Ghana - Senegal
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65f74594a099792226922c44&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",03h30 18/03: Sporting CP - Boavista
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f360cfa0997922269220da&.m3u8|Referer=https://sk.mediastation.live/
@@ -139,6 +136,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f36330a099792226922116&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8647_small.png",02h45 19/03: Crawley - Stockport County
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f36334a099792226922119&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",03h00 19/03: Ghana - Senegal
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f74594a099792226922c44&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/361054_small.png",03h15 19/03: Vilaverdense FC - CF Os Belenenses
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f36335a09979222692211c&.m3u8|Referer=https://sk.mediastation.live/
