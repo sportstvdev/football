@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/856500_small.png",00h45 20/03: Ajax (W) - Chelsea FC Women (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65f363f3a099792226922143&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/145007_small.png",01h30 20/03: LR Vicenza - Fiorenzuola
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f9c0d69ab68b2e31c48620&.m3u8|Referer=https://sk.mediastation.live/
@@ -196,6 +193,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f36566a0997922269221cb&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1617919_small.png",09h00 21/03: Folsom - Central Valley Fuego FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f9047b9ab68b2e31c4856f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6319_small.png",09h00 21/03: Solomon Islands - Fiji
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65f9ee129ab68b2e31c48695&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1358107_small.png",09h30 21/03: Ballard - Spokane Velocity
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f9047b9ab68b2e31c48570&.m3u8|Referer=https://sk.mediastation.live/
