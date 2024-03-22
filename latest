@@ -1,15 +1,12 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",17h00 22/03: XMLS Thanh Hóa - BCTT Trường Tươi Bình Phước
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65fcba389ab68b2e31c4901b&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://static.flashscore.com/res/image/data/IXkafbYA-06G99EC3.png",17h00 22/03: Vũ Thị Anh Thư - Dai Wang
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65fcbdb49ab68b2e31c49036&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/football/team/bf31c6148006e2af5acd1828d861d274.jfif!w60",17h00 22/03: Sethu FC - Hops FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65fd55009ab68b2e31c490c7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",17h20 22/03: Nhật Bản - Mali
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65fc8ce29ab68b2e31c48d4c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",18h15 22/03: XMLS Thanh Hóa - BCTT Trường Tươi Bình Phước
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65fcba389ab68b2e31c4901b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5835_small.png",18h30 22/03: Belarus U21 - Greece U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f366c0a099792226922284&.m3u8|Referer=https://sk.mediastation.live/
