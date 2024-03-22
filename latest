@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102045_small.png",05h00 22/03: MCO Oujda - Wydad Casablanca
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65fc97269ab68b2e31c48fc1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10083_small.png",05h00 22/03: San Lorenzo - Godoy Cruz
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65fc97269ab68b2e31c48fc3&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10080_small.png",06h00 22/03: Racing Club - San Martin Burzaco
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f366a3a099792226922254&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,6 +31,9 @@ http://api.sportstvapp.tech/football/playsaoke.php?id=65f904a99ab68b2e31c48598&.
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1850_small.png",07h00 22/03: Emelec - Delfin
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f904eb9ab68b2e31c485a8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Managua_FC_Logo.png",07h00 22/03: Managua FC - Jalapa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://api.sportstvapp.tech/football/playsaoke.php?id=65fcc9d99ab68b2e31c49048&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5858_small.png",07h30 22/03: Guatemala - Ecuador
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65f366a3a099792226922257&.m3u8|Referer=https://sk.mediastation.live/
