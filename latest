@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_CLB_Ninh_B%C3%ACnh_Lienvietpostbank.jpg",15h00 22/03: Ninh Bình LVPB - Geleximco Thái Bình
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65fcba259ab68b2e31c49018&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1562127_small.png",17h00 22/03: Namdhari FC - Rajasthan United FC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://api.sportstvapp.tech/football/playsaoke.php?id=65f366b1a099792226922269&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",17h00 22/03: XMLS Thanh Hóa - BCTT Trường Tươi Bình Phước
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://api.sportstvapp.tech/football/playsaoke.php?id=65fcba389ab68b2e31c4901b&.m3u8|Referer=https://sk.mediastation.live/
