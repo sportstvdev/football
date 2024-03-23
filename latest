@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/970686_small.png",15h30 23/03: Real Kashmir - Mohammedan SC
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=65f9050e9ab68b2e31c485ba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Chernihiv.png",17h00 23/03: Chernihiv - Podillya Khmelnytskyi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fea8319ab68b2e31c493d1&.m3u8|Referer=https://sk.mediastation.live/
@@ -25,6 +22,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feae5e9ab68b2e31c493f
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/626806_small.png",18h30 23/03: Nong Bua Pitchaya FC - Pattaya Dolphins
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb0759ab68b2e31c49407&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",18h30 23/03: Germany - Romania
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb20f9ab68b2e31c49413&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6277_small.png",19h00 23/03: Zambia - Zimbabwe
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fded089ab68b2e31c4925a&.m3u8|Referer=https://sk.mediastation.live/
@@ -34,18 +34,30 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fded389ab68b2e31c4926
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://cdn.livesoccertv.com/tt/images/teams/ukraine/logos/karpaty-lviv.png?q=65&w=100",19h00 23/03: Karpaty - SK Poltava
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feaf229ab68b2e31c493fe&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAKAMBIgACEQEDEQH/xAAbAAADAQEAAwAAAAAAAAAAAAAABgcEBQEDCP/EADMQAAICAQIDBQQKAwAAAAAAAAECAwQRAAUGEiETMUFRYRQVInEHFiMyQlKBkaHCJGRy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAD/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAyExEjJB/9oADAMBAAIRAxEAPwC03b1OhH2t61BWj/NNIEH86XbfHewNittu61rN6VhHCkeXBYnA6jp4+Y+Y1Jd0oNb3TcrRvbWlg37C5uzZlwJioADAgADr8tZJNrtsrJJxDtQUKCV9qHIep6dBjw8sa1jBjrbTOcr3oSqtbj98jbzYtQ2msCvHaa03azOFDu6wn4TGAMZ+IAk9MZ1t23j7YWiSDc91qV78f2dhGLKgkU4blZgMrkHHppDh4j3NaS8u4cNJbaPsDfLf5HXmzzEeeQc+B+eln3fcTPNxJtZXvJkuc2cnGcEEnrnJ9CdcuJT7GFnYeon0PSv078faUbcFlPzQyBx/GjUB2+i1Ldttse3bVJN7dXVXozgSFTKoYYXGQc9fTRqWXGEOjcdHLDYqc7dZLVLiTc56oVns3bcATk5ywMhUrjHec4GOumPe4+INgoV7G73q0Ny0S8NGGsjOzk+OBj8XXvwSAMk9Olwlt6Qcc7lctIGsHdLMVRH+7EAxeWY/JSqg+b/s0bzLJQ4nM8e1G5bsIWqzyzBI41RRlmP4QpdupH4hjJL6u7jyAAk1U1uTO1d4m22GGxZhjgmYkpWaiokVF5WLleXKrnl6nxHodatoh3/iXbzJtN2tPPUBZqfYrHIpKlcjwIYE4PnkdOhLaOIKu6TbfU2pNyedpAIrwy8JzJhhzyEuYyVZSencMDu14+jnb403zcmrBxDFZdlSQBZIgxJjdOnxRSx4yPNBjPQgF6Umtw+O+ycbZJau8SbfYthVlgvVo5AU5GB7RVwR4EYxjw0aduMtvjsccbbcqIFse8qqWkT7sqMwaKYforoT5p69TSZmBCkQoCCbno4he3tHFu7G2nKLvLBVJ7jXknDTH9hj9Rpl+kK7RnnWsYYbLmAEq7YaRO1VXjjODyk8w5icdMde/XT+kbhD6zbes1Y43CpG4gUnCyc2MqfmBgHwJ1NtjtT3a09a3PIm4G8swjmVezaRZUPK+TlGXD9PJj38umUBwGHzsBPiaP2O/wBV7tTheXbNtmiTeLMAaecKAERV5RGmAMEglQ2B3u3Tu1s4Ang7G9FLG0Eu0TPS+0YEiLIZVJ8Qp5lU+Q9TrzZ40p1it2Tb7jHsyrdmyBQobBJZmCFeYjDBifi7tIN3i6a3S3qzQTksbnuMCQxxgkiOMLgAY+JmOBjHn3aVUdwRUZmVdzbsz3N34z20VlLHb7E0Nh/9VLHNFn9yB/zo07/R3wkeG6L2bjltyuIntA5siPGcKD6A9T4kaNTysC2uRkBA3G/SbxnwJX35nvbe8dXcmXlcuuYrA8pB/YdR66NGkV2Q2sLKGFGT4cM70E9y/Vd+28Jeb7HlznPaZ5e/05v11QODOBINjdL+4vHa3NVwhRcRVwfCMf2PU+mjRqr52YVyTTCqm+xz0aNGoS0//9k=",19h00 23/03: Kanchanaburi -  Nakhon Si United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb1619ab68b2e31c4940f&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/231488_small.png",19h30 23/03: Manchester City Women (W) - Manchester United Women (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fded979ab68b2e31c49263&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49695_small.png",20h00 23/03: KamAZ - FC Yenisey Krasnoyarsk
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fdedc89ab68b2e31c49268&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",20h00 23/03: Ukraine - Latvia
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb2879ab68b2e31c4941b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",20h00 23/03: Switzerland - North Macedonia
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb2989ab68b2e31c4941e&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/898335_small.png",20h30 23/03: Gokulam FC - Delhi FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fdedc79ab68b2e31c49266&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198156_small.png",21h00 23/03: Tyumen - SKA-Khabarovsk
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fdedcc9ab68b2e31c4926b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",21h30 23/03: Turkey - Croatia
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65feb22a9ab68b2e31c49418&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",21h45 23/03: Liverpool Legend - Ajax Legends
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fdef1a9ab68b2e31c49276&.m3u8|Referer=https://sk.mediastation.live/
