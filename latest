@@ -40,9 +40,6 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc937d9ab68b2e31c48ed
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5829_small.png",01h00 26/03: Malta U21 - Slovakia U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93759ab68b2e31c48ec1&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/230692_small.png",01h00 26/03: Comoros - Angola
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93759ab68b2e31c48ec2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",01h00 26/03: Sweden - Albania
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93759ab68b2e31c48ec3&.m3u8|Referer=https://sk.mediastation.live/
@@ -52,9 +49,6 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93d89ab68b2e31c48ed
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5888_small.png",02h00 26/03: Cape Verde - Equatorial Guinea
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93719ab68b2e31c48ebb&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5926_small.png",02h00 26/03: Vanuatu - Brunei
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93719ab68b2e31c48eba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6289_small.png",02h00 26/03: Guinea - Bermuda
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93759ab68b2e31c48ebe&.m3u8|Referer=https://sk.mediastation.live/
@@ -73,6 +67,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc936c9ab68b2e31c48eb
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6024_small.png",04h00 26/03: Once Caldas - Alianza Petrolera
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93d89ab68b2e31c48edc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/230692_small.png",04h30 26/03: Comoros - Angola
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93759ab68b2e31c48ec2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/519457_small.png",04h30 26/03: Delfin - Libertad
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93d89ab68b2e31c48edd&.m3u8|Referer=https://sk.mediastation.live/
@@ -106,6 +103,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131099ab68b2e31c49c9
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8702_small.png",07h45 26/03: Internacional - Juventude
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93df9ab68b2e31c48ee6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10088_small.png",07h45 26/03: Colon - Gimnasia y Tiro
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601316b9ab68b2e31c49c9d&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08h00 26/03: Pachuca (W) - Santos Laguna (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93da9ab68b2e31c48ee1&.m3u8|Referer=https://sk.mediastation.live/
@@ -223,6 +223,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc94949ab68b2e31c48f4
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",01h00 27/03: Spain U21 - Belgium U21
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc949b9ab68b2e31c48f53&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5926_small.png",02h00 27/03: Vanuatu - Brunei
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc93719ab68b2e31c48eba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5821_small.png",02h00 27/03: Kuwait - Qatar
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=65fc949b9ab68b2e31c48f55&.m3u8|Referer=https://sk.mediastation.live/
@@ -334,9 +337,15 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b0f89ab68b2e31c4997
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8450_small.png",06h30 28/03: Peñarol - Torque
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b0f89ab68b2e31c4997b&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1348108_small.png",06h30 28/03: New York City FC II - Chattanooga FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131ab9ab68b2e31c49ca2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10082_small.png",07h30 28/03: Lanus - Union
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b0fa9ab68b2e31c4997f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614324_small.png",08h00 28/03: Real Monarchs SLC - Minnesota United 2
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131aa9ab68b2e31c49ca0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/177535_small.png",08h05 28/03: UDG - Atletico La Paz
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b0fc9ab68b2e31c49983&.m3u8|Referer=https://sk.mediastation.live/
@@ -385,24 +394,39 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1d19ab68b2e31c499d
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10084_small.png",06h00 29/03: Rosario Central - Barracas Central
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1d19ab68b2e31c499d7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1348118_small.png",06h00 29/03: Chicago Fire FC II - Philadelphia Union II
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131d99ab68b2e31c49cad&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",06h30 29/03: Athletic Club - Pouso Alegre
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1d49ab68b2e31c499da&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6381_small.png",06h30 29/03: CA River Plate - Defensor Sporting
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1d49ab68b2e31c499db&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1451868_small.png",06h30 29/03: Crown Legacy FC - Atlanta United 2
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131d29ab68b2e31c49ca9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614315_small.png",06h30 29/03: Charlotte Independence - Spokane Velocity
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131d99ab68b2e31c49cae&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10090_small.png",07h00 29/03: Instituto - Argentinos Juniors
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1d79ab68b2e31c499e2&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6721_small.png",07h00 29/03: LDU de Quito - Imbabura S.C.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1de9ab68b2e31c499ea&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1348104_small.png",07h00 29/03: Houston Dynamo 2 - Austin FC II
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131d19ab68b2e31c49ca7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10283_small.png",07h35 29/03: Palmeiras - Novorizontino
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1db9ab68b2e31c499e7&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6575_small.png",08h05 29/03: Atletico Morelia - Venados
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1e19ab68b2e31c499eb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980703_small.png",10h00 29/03: Monterrey (W) - Club Tijuana (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660131d99ab68b2e31c49cac&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2034_small.png",10h05 29/03: Dorados - Atlante
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1e19ab68b2e31c499ec&.m3u8|Referer=https://sk.mediastation.live/
@@ -556,6 +580,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2e09ab68b2e31c49a5
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162185_small.png",06h00 30/03: North Carolina FC - Hartford Athletic
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2e09ab68b2e31c49a5a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980706_small.png",06h00 30/03: Queretaro (W) - Necaxa (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320e9ab68b2e31c49cbb&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1839_small.png",06h05 30/03: Celaya - Tlaxcala F.C.
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2e59ab68b2e31c49a61&.m3u8|Referer=https://sk.mediastation.live/
@@ -571,12 +598,18 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2e59ab68b2e31c49a6
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7847_small.png",08h00 30/03: Puebla - Tigres
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2e99ab68b2e31c49a6a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980705_small.png",08h06 30/03: Club Leon (W) - Mazatlan FC (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320e9ab68b2e31c49cbd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6576_small.png",09h00 30/03: América - San Luis
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2f09ab68b2e31c49a70&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",10h00 30/03: Mazatlan FC - Tijuana
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2f09ab68b2e31c49a71&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1300347_small.png",10h00 30/03: Wellington Phoenix (W) - Western Sydney Wanderers FC (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320e9ab68b2e31c49cba&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6224_small.png",11h00 30/03: Sanfrecce Hiroshima - Gamba Osaka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2f19ab68b2e31c49a72&.m3u8|Referer=https://sk.mediastation.live/
@@ -595,6 +628,27 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b2fd9ab68b2e31c49a7
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",12h00 30/03: Jeonbuk FC - Ulsan Hyundai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b3059ab68b2e31c49a84&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/194015_small.png",12h00 30/03: Blaublitz Akita - Iwaki FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320e9ab68b2e31c49cbc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675726_small.png",12h00 30/03: Brisbane Roar FC (W) - Canberra United FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320e9ab68b2e31c49cb9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162195_small.png",12h00 30/03: Mito Hollyhock - Kagoshima United
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601320f9ab68b2e31c49cc3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164720_small.png",12h00 30/03: Montedio Yamagata - Shimizu S-Pulse
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132179ab68b2e31c49cca&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4427_small.png",12h00 30/03: Oita Trinita - Fagiano Okayama FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132189ab68b2e31c49ccb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162199_small.png",12h00 30/03: Tokushima Vortis - Thespakusatsu Gunma
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132189ab68b2e31c49ccc&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49615_small.png",12h00 30/03: Yokohama FC - Vegalta Sendai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132189ab68b2e31c49cce&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",13h00 30/03: Urawa Red Diamonds - Avispa Fukuoka
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b3059ab68b2e31c49a85&.m3u8|Referer=https://sk.mediastation.live/
@@ -604,6 +658,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b3099ab68b2e31c49a8
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/194011_small.png",13h00 30/03: Machida Zelvia - Sagan Tosu
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b3099ab68b2e31c49a8a&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4397_small.png",13h00 30/03: Kashima Antlers - Jubilo Iwata
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132059ab68b2e31c49cb6&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",13h30 30/03: Melbourne City FC - Newcastle Jets
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b30d9ab68b2e31c49a8f&.m3u8|Referer=https://sk.mediastation.live/
@@ -787,6 +844,15 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6419ab68b2e31c49b8
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213596_small.png",05h00 31/03: Central Cordoba de Santiago - Racing Club
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6479ab68b2e31c49b84&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/514649_small.png",06h00 31/03: Indy Eleven - Detroit City FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132749ab68b2e31c49cd7&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/721896_small.png",06h00 31/03: Miami FC - Charleston Battery
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132759ab68b2e31c49cd8&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1236950_small.png",06h00 31/03: Cumbaya - El Nacional
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327e9ab68b2e31c49cdd&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6255_small.png",06h20 31/03: Chico FC - CD Jaguares
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6479ab68b2e31c49b86&.m3u8|Referer=https://sk.mediastation.live/
@@ -805,6 +871,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6569ab68b2e31c49b9
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/56453_small.png",06h30 31/03: Toronto - Sporting KC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6569ab68b2e31c49b94&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197328_small.png",06h30 31/03: Tampa Bay Rowdies - Rhode Island
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49ce0&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",07h00 31/03: Wellington Phoenix - Brisbane Roar FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6569ab68b2e31c49b96&.m3u8|Referer=https://sk.mediastation.live/
@@ -823,6 +892,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6629ab68b2e31c49ba
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/915807_small.png",07h30 31/03: Nashville SC - Columbus
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6629ab68b2e31c49ba6&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722269_small.png",07h30 31/03: San Antonio FC - Monterey Bay FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49cde&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7849_small.png",08h00 31/03: Monterrey - Chivas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6689ab68b2e31c49baa&.m3u8|Referer=https://sk.mediastation.live/
@@ -832,6 +904,21 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6689ab68b2e31c49ba
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/244167_small.png",08h30 31/03: Fortaleza FC - Millonarios
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6689ab68b2e31c49bab&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6606_small.png",08h30 31/03: Salt Lake - St. Louis City
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49cdf&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1130413_small.png",09h00 31/03: Oakland Roots - Las Vegas Lights FC
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49ce1&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/267813_small.png",09h00 31/03: Orange County SC - FC Tulsa
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49ce2&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/521004_small.png",09h00 31/03: Sacramento Republic FC - Memphis 901
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49ce9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066912_small.png",09h10 31/03: FC Juarez (W) - Toluca (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49cea&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6637_small.png",09h30 31/03: LA Galaxy - Seattle Sounders
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6689ab68b2e31c49bac&.m3u8|Referer=https://sk.mediastation.live/
@@ -850,6 +937,12 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b67a9ab68b2e31c49bb
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/164734_small.png",12h00 31/03: Gangwon FC - FC Seoul
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b66e9ab68b2e31c49bb4&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675731_small.png",12h00 31/03: Sydney FC (W) - Melbourne Victory (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49ceb&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675730_small.png",14h00 31/03: Perth Glory (W) - Melbourne City FC (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49ced&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/245905_small.png",14h30 31/03: Gwangju FC - Daegu FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b67a9ab68b2e31c49bc0&.m3u8|Referer=https://sk.mediastation.live/
