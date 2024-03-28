@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/624350_small.png",21h30 28/03: Aizawl - Churchill Brothers
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b10a9ab68b2e31c49997&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/401657_small.png",00h45 29/03: Barcelona (W) - Brann (W)
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b1c69ab68b2e31c499c9&.m3u8|Referer=https://sk.mediastation.live/
@@ -544,9 +541,6 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6601327f9ab68b2e31c49ce
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/521004_small.png",09h00 31/03: Sacramento Republic FC - Memphis 901
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49ce9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066912_small.png",09h10 31/03: FC Juarez (W) - Toluca (W)
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49cea&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6637_small.png",09h30 31/03: LA Galaxy - Seattle Sounders
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b6689ab68b2e31c49bac&.m3u8|Referer=https://sk.mediastation.live/
@@ -559,6 +553,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b66e9ab68b2e31c49bb
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",10h05 31/03: Pumas - Cruz Azul
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b66e9ab68b2e31c49bb3&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066912_small.png",10h10 31/03: FC Juarez (W) - Toluca (W)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660132879ab68b2e31c49cea&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6230_small.png",11h00 31/03: Melbourne Victory - Perth Glory
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b67a9ab68b2e31c49bbf&.m3u8|Referer=https://sk.mediastation.live/
@@ -718,7 +715,7 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=660139b79ab68b2e31c49d0
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6387_small.png",08h30 01/04: Deportivo Cali - Rionegro Aguilas
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b77a9ab68b2e31c49c0c&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/649424_small.png",10h10 01/04: Juárez - Santos
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/649424_small.png",08h36 01/04: Juárez - Santos
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6600b77a9ab68b2e31c49c0b&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1209973_small.png",11h00 01/04: Macarthur FC - Western Sydney Wanderers FC
