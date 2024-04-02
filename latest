@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",15h00 02/04: Sông Lam Nghệ An - Hồng Lĩnh Hà Tĩnh
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660bddfb03b3a147e96fb07d&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179227_small.png",15h00 02/04: Hoang Anh Gia Lai - Đà Nẵng
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660bde1303b3a147e96fb080&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://pvf.com.vn/wp-content/uploads/2023/11/Logo-PVF-2.png",17h00 02/04: PVF - Bắc Ninh
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=660bdae903b3a147e96fb065&.m3u8|Referer=https://sk.mediastation.live/
@@ -16,6 +22,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=66087698744a3a6bba2f781
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8387_small.png",18h00 02/04: Keçiörengücü - Corum FK
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6608769c744a3a6bba2f781f&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",18h00 02/04: Trẻ TP. Hồ Chí Minh - Đại Học Văn Hiến
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=660bdcf003b3a147e96fb072&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165255_small.png",19h00 02/04: Port FC - Sukhothai FC
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=66087695744a3a6bba2f7818&.m3u8|Referer=https://sk.mediastation.live/
