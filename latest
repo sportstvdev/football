@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/eda4390bcbf22b0a514cdbda8ff6c59d.png",00h00 12/04: Giải TENNIS - ATP Monte Carlo Monaco
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=66172c30958b7a667ee47771&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",02h00 12/04: Leverkusen - West Ham
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6611a1ba03b3a147e96fc625&.m3u8|Referer=https://sk.mediastation.live/
@@ -61,6 +58,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6611a1de03b3a147e96fc65
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/78785_small.png",14h00 12/04: Wellington Phoenix - Melbourne Victory
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6611a1da03b3a147e96fc64c&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/eda4390bcbf22b0a514cdbda8ff6c59d.png",16h00 12/04: Giải TENNIS - ATP Monte Carlo Monaco
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=66172c30958b7a667ee47771&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="",16h30 12/04: HCĐG Lào Cai - VTV Bình Điền Long An
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=66179455958b7a667ee477e3&.m3u8|Referer=https://sk.mediastation.live/
