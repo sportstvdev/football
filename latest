@@ -1,15 +1,3 @@
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/71/%C4%90%E1%BA%AFk_L%E1%BA%AFk_FC.svg/220px-%C4%90%E1%BA%AFk_L%E1%BA%AFk_FC.svg.png",15h30 19/04: Dak Lak - Bắc Ninh
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=6621bef990405e553ad57ff6&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",16h00 19/04: Saudi Arabia - Australia
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=6620c5e590405e553ad579ea&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fb/Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg/800px-Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg.png",16h00 19/04: Trẻ SHB Đà Nẵng - PVF
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=6621bf1390405e553ad57ff9&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C%C3%A2u_l%E1%BA%A1c_b%E1%BB%99_b%C3%B3ng_%C4%91%C3%A1_Kon_Tum_logo.png",16h00 19/04: Kon Tum - Trẻ Hà Nội
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=6621bf2390405e553ad57ffc&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",16h45 19/04: Newcastle Jets - Wellington Phoenix
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=661da7e7d992573e2b4f65f0&.m3u8|Referer=https://sk.mediastation.live/
@@ -226,6 +214,9 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=6621806090405e553ad57de
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198156_small.png",15h30 20/04: Tyumen - Neftekhimik
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6621805c90405e553ad57de9&.m3u8|Referer=https://sk.mediastation.live/
+#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503795_small.png",16h00 20/04: Fortis - Bashundhara Kings
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+http://legacy.sportstvapp.tech/football/playsaoke.php?id=661f0468d992573e2b4f6892&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95796_small.png",16h00 20/04: Afghanistan - Kuwait
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=6620f9db90405e553ad57a03&.m3u8|Referer=https://sk.mediastation.live/
@@ -235,9 +226,6 @@ http://legacy.sportstvapp.tech/football/playsaoke.php?id=661f0463d992573e2b4f688
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503796_small.png",16h45 20/04: Chittagong Abahani - Rahmatgonj MFS
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=661f0467d992573e2b4f688f&.m3u8|Referer=https://sk.mediastation.live/
-#EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503795_small.png",16h45 20/04: Fortis - Bashundhara Kings
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-http://legacy.sportstvapp.tech/football/playsaoke.php?id=661f0468d992573e2b4f6892&.m3u8|Referer=https://sk.mediastation.live/
 #EXTINF:-1 group-title="SAOKETV - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1503794_small.png",16h45 20/04: Mohammedan - Brothers Union
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 http://legacy.sportstvapp.tech/football/playsaoke.php?id=661f046ad992573e2b4f6893&.m3u8|Referer=https://sk.mediastation.live/
